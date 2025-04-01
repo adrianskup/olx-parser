@@ -14,22 +14,14 @@ def get_olx_ads():
         print("Ошибка запроса:", response.status_code)
         return []
 
-    print("Запрос успешен, начинаем парсить страницу...")  # Добавляем отладочный вывод
-
     soup = BeautifulSoup(response.text, "html.parser")
     ads = []
-
-    # Проверим, что страница правильно распарсилась
-    print("Парсинг страницы...")  # Отладочный вывод
 
     for item in soup.select("div[data-cy='l-card']"):
         title = item.select_one("h6").text.strip() if item.select_one("h6") else "Нет заголовка"
         price_text = item.select_one("p[data-testid='ad-price']").text.strip() if item.select_one("p[data-testid='ad-price']") else "Цена не указана"
         link = item.find("a", href=True)["href"] if item.find("a", href=True) else "#"
         location = item.select_one("small[data-testid='ad-location']").text.strip() if item.select_one("small[data-testid='ad-location']") else ""
-
-        # Отладочный вывод
-        print(f"Заголовок: {title}, Цена: {price_text}, Локация: {location}")
 
         # Фильтрация по цене и городу (Варшава)
         if price_text != "Цена не указана" and "Warszawa" in location:
@@ -46,14 +38,13 @@ def get_olx_ads():
 # Путь к файлу JSON
 json_filename = "olx_ads.json"
 
-# Проверка, существует ли файл и не пуст ли он
-if os.path.exists(json_filename) and os.path.getsize(json_filename) > 0:
+# Если файл не существует или пуст, создаем новый объект данных
+if not os.path.exists(json_filename) or os.path.getsize(json_filename) == 0:
+    existing_data = {"updated": str(datetime.datetime.now()), "ads": []}
+else:
     # Если файл существует и не пуст, загружаем данные
     with open(json_filename, "r", encoding="utf-8") as f:
         existing_data = json.load(f)
-else:
-    # Если файл не существует или пуст, создаем новый файл с пустыми данными
-    existing_data = {"updated": str(datetime.datetime.now()), "ads": []}
 
 # Получаем новые объявления
 new_ads = get_olx_ads()
