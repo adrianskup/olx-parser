@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import datetime
-from tqdm import tqdm  # Для прогресс-бара
 
 # Обновленный URL с фильтрацией по цене до 10000 zł
 OLX_URL = "https://www.olx.pl/motoryzacja/samochody/warszawa/?search%5Bdist%5D=100&search%5Border%5D=created_at:desc&search%5Bfilter_float_price:to%5D=10000"
@@ -49,7 +48,7 @@ def get_olx_ads():
     ads = []
 
     ad_items = soup.select("div[data-cy='l-card']")
-    for item in tqdm(ad_items, desc="Обрабатываем объявления", unit="объявление"):
+    for item in ad_items:
         try:
             title = item.select_one("a > h4")
             title = title.text.strip() if title else "Нет заголовка"
