@@ -38,6 +38,7 @@ def get_olx_ads():
                 "link": f"https://www.olx.pl{link}" if link.startswith("/") else link
             })
 
+    print(f"Найдено {len(ads)} объявлений.")  # Отладочный вывод
     return ads
 
 # Путь к файлу JSON
@@ -54,6 +55,8 @@ else:
 
 # Получаем новые объявления
 new_ads = get_olx_ads()
+
+# Если объявления найдены
 if new_ads:
     # Добавляем новые объявления
     existing_ads_set = {ad["link"] for ad in existing_data["ads"]}  # Множество для проверки уникальности
