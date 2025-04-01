@@ -18,14 +18,24 @@ def get_olx_ads():
 
     for item in soup.select("div[data-cy='l-card']"):
         title = item.select_one("h6").text.strip() if item.select_one("h6") else "Нет заголовка"
-        price = item.select_one("p[data-testid='ad-price']").text.strip() if item.select_one("p[data-testid='ad-price']") else "Цена не указана"
+        price_text = item.select_one("p[data-testid='ad-price']").text.strip() if item.select_one("p[data-testid='ad-price']") else "Цена не указана"
         link = item.find("a", href=True)["href"] if item.find("a", href=True) else "#"
+        location = item.select_one("small[data-testid='ad-location']").text.strip() if item.select_one("small[data-testid='ad-location']") else ""
 
-        ads.append({
-            "title": title,
-            "price": price,
-            "link": f"https://www.olx.pl{link}" if link.startswith("/") else link
-        })
+        # Преобразуем цену в число (если это возможно)
+        try:
+            price = float(price_text.replace("zł", "").replace(" ", "").replace(",", "."))
+        except ValueError:
+            price = None  # Если цена невалидная, пропускаем это объявление
+
+        # Фильтрация по цене и городу (Варшава)
+        if price is not None and price <= 10000 and "Warszawa" in location:
+            ads.append({
+                "title": title,
+                "price": price,
+                "location": location,
+                "link": f"https://www.olx.pl{link}" if link.startswith("/") else link
+            })
 
     return ads
 
