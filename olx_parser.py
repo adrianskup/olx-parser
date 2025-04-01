@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import datetime
+import os
 
 OLX_URL = "https://www.olx.pl/motoryzacja/samochody/warszawa/"
 
@@ -39,16 +40,35 @@ def get_olx_ads():
 
     return ads
 
-ads = get_olx_ads()
-if ads:
-    data = {
-        "updated": str(datetime.datetime.now()),
-        "ads": ads
-    }
+# Путь к файлу JSON
+json_filename = "olx_ads.json"
 
-    with open("olx_ads.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+# Проверка, существует ли файл
+if os.path.exists(json_filename):
+    # Если файл существует, загружаем данные
+    with open(json_filename, "r", encoding="utf-8") as f:
+        existing_data = json.load(f)
+else:
+    # Если файла нет, создаем новый файл с пустыми данными
+    existing_data = {"updated": str(datetime.datetime.now()), "ads": []}
 
-    print(f"✅ Найдено {len(ads)} объявлений. Данные сохранены в olx_ads.json")
+# Получаем новые объявления
+new_ads = get_olx_ads()
+if new_ads:
+    # Добавляем новые объявления
+    existing_ads_set = {ad["link"] for ad in existing_data["ads"]}  # Множество для проверки уникальности
+    new_ads_filtered = [ad for ad in new_ads if ad["link"] not in existing_ads_set]
+
+    if new_ads_filtered:
+        existing_data["ads"].extend(new_ads_filtered)  # Добавляем только новые объявления
+        existing_data["updated"] = str(datetime.datetime.now())  # Обновляем дату
+
+        # Сохраняем обновленные данные в файл
+        with open(json_filename, "w", encoding="utf-8") as f:
+            json.dump(existing_data, f, indent=4, ensure_ascii=False)
+
+        print(f"✅ Найдено {len(new_ads_filtered)} новых объявлений. Данные обновлены в {json_filename}.")
+    else:
+        print("❌ Нет новых объявлений.")
 else:
     print("❌ Объявления не найдены.")
