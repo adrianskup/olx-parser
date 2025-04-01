@@ -14,14 +14,22 @@ def get_olx_ads():
         print("Ошибка запроса:", response.status_code)
         return []
 
+    print("Запрос успешен, начинаем парсить страницу...")  # Добавляем отладочный вывод
+
     soup = BeautifulSoup(response.text, "html.parser")
     ads = []
+
+    # Проверим, что страница правильно распарсилась
+    print("Парсинг страницы...")  # Отладочный вывод
 
     for item in soup.select("div[data-cy='l-card']"):
         title = item.select_one("h6").text.strip() if item.select_one("h6") else "Нет заголовка"
         price_text = item.select_one("p[data-testid='ad-price']").text.strip() if item.select_one("p[data-testid='ad-price']") else "Цена не указана"
         link = item.find("a", href=True)["href"] if item.find("a", href=True) else "#"
         location = item.select_one("small[data-testid='ad-location']").text.strip() if item.select_one("small[data-testid='ad-location']") else ""
+
+        # Отладочный вывод
+        print(f"Заголовок: {title}, Цена: {price_text}, Локация: {location}")
 
         # Преобразуем цену в число (если это возможно)
         try:
