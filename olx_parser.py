@@ -46,6 +46,7 @@ def load_existing_data(filename="olx_ads.json"):
         with open(filename, "r", encoding="utf-8") as f:
             return json.load(f)
     else:
+        # Если файл не существует, создаём новый с пустыми данными
         return {"updated": str(datetime.datetime.now()), "ads": []}
 
 def save_data(filename="olx_ads.json", data=None):
