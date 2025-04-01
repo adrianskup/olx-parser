@@ -31,17 +31,11 @@ def get_olx_ads():
         # Отладочный вывод
         print(f"Заголовок: {title}, Цена: {price_text}, Локация: {location}")
 
-        # Преобразуем цену в число (если это возможно)
-        try:
-            price = float(price_text.replace("zł", "").replace(" ", "").replace(",", "."))
-        except ValueError:
-            price = None  # Если цена невалидная, пропускаем это объявление
-
         # Фильтрация по цене и городу (Варшава)
-        if price is not None and price <= 10000 and "Warszawa" in location:
+        if price_text != "Цена не указана" and "Warszawa" in location:
             ads.append({
                 "title": title,
-                "price": price,
+                "price": price_text,  # Цена остается как текст
                 "location": location,
                 "link": f"https://www.olx.pl{link}" if link.startswith("/") else link
             })
