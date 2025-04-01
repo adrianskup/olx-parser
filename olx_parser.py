@@ -39,16 +39,20 @@ def get_olx_ads():
 
     return ads
 
-ads = get_olx_ads()
-if ads:
-    data = {
-        "updated": str(datetime.datetime.now()),
-        "ads": ads
-    }
+def update_ads():
+    ads = get_olx_ads()
+    if ads:
+        data = {
+            "updated": str(datetime.datetime.now()),
+            "ads": ads
+        }
 
-    with open("olx_ads.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+        with open("olx_ads.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Найдено {len(ads)} объявлений. Данные сохранены в olx_ads.json")
-else:
-    print("❌ Объявления не найдены.")
+        print(f"✅ Найдено {len(ads)} объявлений. Данные сохранены в olx_ads.json")
+    else:
+        print("❌ Объявления не найдены.")
+
+if __name__ == "__main__":
+    update_ads()  # Запуск обновления данных сразу
