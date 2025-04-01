@@ -46,13 +46,13 @@ def get_olx_ads():
 # Путь к файлу JSON
 json_filename = "olx_ads.json"
 
-# Проверка, существует ли файл
-if os.path.exists(json_filename):
-    # Если файл существует, загружаем данные
+# Проверка, существует ли файл и не пуст ли он
+if os.path.exists(json_filename) and os.path.getsize(json_filename) > 0:
+    # Если файл существует и не пуст, загружаем данные
     with open(json_filename, "r", encoding="utf-8") as f:
         existing_data = json.load(f)
 else:
-    # Если файла нет, создаем новый файл с пустыми данными
+    # Если файл не существует или пуст, создаем новый файл с пустыми данными
     existing_data = {"updated": str(datetime.datetime.now()), "ads": []}
 
 # Получаем новые объявления
