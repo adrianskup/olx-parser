@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import datetime
-import os
 
 OLX_URL = "https://www.olx.pl/motoryzacja/samochody/warszawa/"
 
@@ -40,41 +39,18 @@ def get_olx_ads():
 
     return ads
 
-def load_existing_data(filename="olx_ads.json"):
-    """Загружает существующие данные из файла, если он есть, иначе возвращает пустой список."""
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
-    else:
-        # Если файл не существует, создаём новый с пустыми данными
-        return {"updated": str(datetime.datetime.now()), "ads": []}
-
-def save_data(filename="olx_ads.json", data=None):
-    """Сохраняет данные в JSON файл."""
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
-
 def update_ads():
-    new_ads = get_olx_ads()
-    if new_ads:
-        # Загружаем существующие данные
-        existing_data = load_existing_data()
+    ads = get_olx_ads()
+    if ads:
+        data = {
+            "updated": str(datetime.datetime.now()),
+            "ads": ads
+        }
 
-        # Добавляем новые объявления
-        existing_ads = existing_data.get("ads", [])
-        existing_ads_set = {ad["link"] for ad in existing_ads}  # Множество для проверки уникальности
-        new_ads_filtered = [ad for ad in new_ads if ad["link"] not in existing_ads_set]
+        with open("olx_ads.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
 
-        if new_ads_filtered:
-            existing_data["ads"].extend(new_ads_filtered)  # Добавляем только новые объявления
-            existing_data["updated"] = str(datetime.datetime.now())  # Обновляем дату
-
-            # Сохраняем обновленные данные
-            save_data(data=existing_data)
-
-            print(f"✅ Найдено {len(new_ads_filtered)} новых объявлений. Данные обновлены в olx_ads.json.")
-        else:
-            print("❌ Нет новых объявлений.")
+        print(f"✅ Найдено {len(ads)} объявлений. Данные сохранены в olx_ads.json")
     else:
         print("❌ Объявления не найдены.")
 
