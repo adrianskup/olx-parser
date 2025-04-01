@@ -32,6 +32,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
+      - name: Проверка, существует ли olx_ads.json
+        run: |
+          if [ ! -f olx_ads.json ]; then
+            echo "❌ Файл olx_ads.json не найден, создаем его";
+            touch olx_ads.json;
+          fi
+
       - name: Коммит изменений
         run: |
           git add olx_ads.json
