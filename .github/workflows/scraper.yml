@@ -21,8 +21,13 @@ jobs:
       - name: Установка зависимостей
         run: pip install requests beautifulsoup4
 
-      - name: Запуск парсера
-        run: python olx_parser.py
+      - name: Запуск парсера с дебагом
+        run: |
+          echo "=== Запуск парсера ==="
+          python olx_parser.py 2>&1 | tee debug.log  # Записываем в debug.log
+
+      - name: Вывод содержимого логов
+        run: cat debug.log  # Показываем содержимое debug.log в логах GitHub
 
       - name: Настройка Git
         run: git config --global user.name "github-actions" && git config --global user.email "actions@github.com"
@@ -32,8 +37,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Коммит изменений
+      - name: Коммит логов и данных
         run: |
-          git add olx_ads.json
-          git commit -m "Автоматическое обновление объявлений" || echo "Нет изменений"
+          git add olx_ads.json debug.log
+          git commit -m "Автоматическое обновление объявлений + debug" || echo "Нет изменений"
           git push https://$GH_TOKEN@github.com/${{ github.repository }}.git HEAD:main
