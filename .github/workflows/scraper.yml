@@ -30,15 +30,15 @@ jobs:
         run: cat debug.log  # Показываем содержимое debug.log в логах GitHub
 
       - name: Настройка Git
-        run: git config --global user.name "github-actions" && git config --global user.email "actions@github.com"
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
       - name: Авторизация через токен
-        run: git remote set-url origin https://github.com/${{ github.repository }}.git
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN_OLX }}@github.com/${{ github.repository }}.git
 
       - name: Коммит логов и данных
         run: |
           git add olx_ads.json debug.log
           git commit -m "Автоматическое обновление объявлений + debug" || echo "Нет изменений"
-          git push https://$GH_TOKEN@github.com/${{ github.repository }}.git HEAD:main
+          git push origin main
