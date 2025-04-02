@@ -4,7 +4,6 @@ import datetime
 from bs4 import BeautifulSoup
 import re
 
-# Словарь для преобразования названий месяцев с польского
 MONTHS_PL = {
     "stycznia": "January", "lutego": "February", "marca": "March", "kwietnia": "April",
     "maja": "May", "czerwca": "June", "lipca": "July", "sierpnia": "August",
@@ -31,7 +30,7 @@ def parse_location_date(location_date):
         date = f"{day} {month_en} {year}"
         return location, date
 
-    return location_date, ""
+    return location_date, None  # Возвращаем None, если дата не найдена
 
 def get_car_details(link):
     if "otomoto.pl" in link:
@@ -73,6 +72,11 @@ def get_olx_ads():
             link = f"https://www.olx.pl{link}"
             location_date = item.select_one("p.css-vbz67q").text.strip()
             location, date = parse_location_date(location_date)
+
+            # Если дата не найдена, ставим минимальную дату
+            if not date:
+                date = "01 January 2000"  # Фиктивная дата для корректной сортировки
+            
             car_details = get_car_details(link)
             ad = {
                 "title": title,
@@ -83,9 +87,7 @@ def get_olx_ads():
                 "description": car_details.get("description", "Нет описания"),
                 "details": car_details.get("details", {})
             }
-            # Добавляем объявление только если есть дата
-            if date:
-                ads.append(ad)
+            ads.append(ad)
         except Exception:
             continue
     return ads
@@ -113,7 +115,7 @@ def convert_date_to_datetime(date_str):
             date_obj = datetime.datetime.strptime(date_str, "%d %B %Y")
         return date_obj
     except ValueError:
-        return None
+        return datetime.datetime.min  # Если дата некорректная, ставим минимальную
 
 def update_ads():
     existing_ads = load_existing_data()
@@ -121,7 +123,15 @@ def update_ads():
     all_ads = existing_ads + new_ads
     unique_ads = {ad["link"]: ad for ad in all_ads}
     all_ads = list(unique_ads.values())
-    all_ads.sort(key=lambda x: convert_date_to_datetime(x["date"]) or datetime.datetime.min, reverse=True)
+
+    # Проверяем, есть ли ключ "date", если нет — присваиваем минимальную дату
+    for ad in all_ads:
+        if "date" not in ad or not ad["date"]:
+            ad["date"] = "01 January 2000"  # Минимальная дата для сортировки
+
+    # Сортировка объявлений по дате (сначала новые)
+    all_ads.sort(key=lambda x: convert_date_to_datetime(x["date"]), reverse=True)
+
     save_data_to_json(all_ads)
 
 update_ads()
