@@ -2,7 +2,7 @@ name: OLX Parser
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Запуск каждые 5 минут
+    - cron: "*/6 * * * *"  # Запуск каждые 6 минут
   workflow_dispatch:  # Можно запустить вручную
 
 jobs:
