@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('https://raw.githubusercontent.com/adrianskup/olx-parser/main/olx_ads.json')
         .then(response => response.json())
         .then(data => {
+            console.log(data); // Печатаем данные в консоль, чтобы проверить их
+
             const ads = data.ads;
             adsList.innerHTML = '';
 
@@ -38,6 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         })
         .catch(error => {
+            console.error("Error loading JSON:", error); // Печатаем ошибку в консоль
             adsList.innerHTML = 'Произошла ошибка при загрузке данных. Попробуйте позже.';
         });
 });
