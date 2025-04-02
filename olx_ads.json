@@ -1,6 +1,30 @@
 {
-    "updated": "2025-04-02 13:52:21.019924",
+    "updated": "2025-04-02 13:58:12.729914",
     "ads": [
+        {
+            "title": "Peugeot 407 Oryginalny przebieg 169000",
+            "price": "9 900 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/peugeot-407-oryginalny-przebieg-169000-CID5-ID15eLvH.html",
+            "location": "Piotrków Trybunalski",
+            "date": "02 April 2025 o 13:50",
+            "description": "Sprzedam prywatnego peugeota 407, samochód ma oryginalny przebieg 169000 km. Sprowadzony z niemiec. Bezwypadkowy. Posiadam go od 4 lat. Nowe opony, akumulator, klimatyzacja działająca, zmieniarka płyt cd, roletki przeciw słoneczne tylnych szyb, regulowana kierownica w 2 płaszczyznach, 10 poduszek airbag. Auto caly czas w eksploatacji. Masz pytania dzwoń 60*******01",
+            "details": {
+                "Numer VIN": "VF36D6FZC21107925",
+                "Model": "407",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "169 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
         {
             "title": "Honda Civic 1.7 LPG automat 140tys",
             "price": "4 200 zł",
@@ -41,6 +65,48 @@
                 "Stan techniczny": "Uszkodzony",
                 "Skrzynia biegów": "Manualna",
                 "Kierownica": "po prawej"
+            }
+        },
+        {
+            "title": "Audi S4 b5 benzyna gaz",
+            "price": "5 700 zł",
+            "link": "https://www.olx.pl/oferta/audi-s4-b5-benzyna-gaz-CID5-ID15atdJ.html",
+            "location": "Lubartów",
+            "date": "02 April 2025 o 13:45",
+            "description": "Witam, posiadam na sprzedaż samochód Audi A4B5, z silnikiem o pojemności 1.6 z gazem.Auto w ciągłej eksploatacji,nigdy mnie nie zawiodlo.Auto wizualnie jak i technicznie jest w stanie dobrym, odpala na widok kluczyka. Zawieszenie ciche, nie puka, nie stuka. Podłoga cała.Samochód pracuje bardzo ładnie na benzynie jak i na gazie. Butla Gazowa do 2028 roku.Wnętrze samochodu zadbane i czyste.. Samochód posiada centralny zamek,elektryczne szyby i lusterka,wspomaganie, lpg, klimę (niesprawna).\nOC jeszcze jakoś pół roku i przegląd do października. Auto bardzo zadbane jak na swoje lata. Jak masz proponować głupoty to sobie daruj  i szanujmy swój czas. Numer kontaktowy 72*******58",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "1998",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "386 000 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "volkswagen polo IV",
+            "price": "1 250 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/volkswagen-polo-iv-CID5-ID15eLb9.html",
+            "location": "Łódź, Polesie",
+            "date": "02 April 2025 o 13:44",
+            "description": "sprzedam volkswagen polo IV z silnikiem 1.2\ntechnicznie samochód sprawny jedyny problem z kwestią korozji \npo więcej informacji proszę dzwonić na telefon",
+            "details": {
+                "Numer VIN": "WVWZZZ9NZ5D023374",
+                "Model": "Polo",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "207 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "54 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
             }
         },
         {
@@ -227,7 +293,7 @@
             "link": "https://www.olx.pl/oferta/sprzedam-mitsubishi-grandis-2-0-did-2006-CID5-ID15eKyw.html",
             "location": "Marki",
             "date": "02 April 2025 o 13:31",
-            "description": "Sprzedam Mitsubishi Grandis 2,0 DID 2006 Ubezpieczenie ważne do 30.06.2025\n7 mieść",
+            "description": "Sprzedam Mitsubishi Grandis 2,0 DID 2006 Ubezpieczenie ważne do 30.06.2025 przegląd do03. 10.2025\n7 mieść",
             "details": {
                 "Model": "Grandis",
                 "Rok produkcji": "2006",
@@ -7197,6 +7263,29 @@
             }
         },
         {
+            "title": "Toyota Matrix Automatic",
+            "price": "4 000 zł",
+            "link": "https://www.olx.pl/oferta/toyota-matrix-automatic-CID5-ID155clm.html",
+            "location": "Warszawa, Mokotów",
+            "date": "31 March 2025",
+            "description": "English Below - Reservation in Progress\n\nSprzedam Toyotę Matrix 2002 model 1.8l automatyka. Obecnie działa tylko bieg wsteczny. W związku z tym skrzynia biegów wymaga wymiany. Samochód znajduje się obecnie na Krakowskiej 157. Mówię po angielsku, ale można wysłać SMS-a po polsku lub w innym języku.\n\n 79*****18 - Proszę wysłać SMS-a przed połączeniem. Do niewielkiej negocjacji \n\nI am selling a Toyota Matrix 2002 model 1.8l Automatic. Only reverse gear is working. Hence, the gearbox needs replacement. The car is currently at Krakowska 157. I speak English but you can send text in Polish or other Language. I recently got a more spacious car. \n\n79*****18 - Please send text before call.\n\nSlightly negotiable",
+            "details": {
+                "Model": "Matrix",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "131 090 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 794 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "132 KM",
+                "Napęd": "4x4 (dołączany automatycznie)",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
             "title": "Na sprzedaż Hyundai Santa Fe 2.0 CRDI/4X4/idealny stan/nowe hamulce/",
             "price": "5 490 złdo negocjacji",
             "link": "https://www.olx.pl/oferta/na-sprzedaz-hyundai-santa-fe-2-0-crdi-4x4-idealny-stan-nowe-hamulce-CID5-ID15bw5t.html",
@@ -7870,6 +7959,29 @@
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
                 "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Renault Clio 3  1.2  75KM Authentique",
+            "price": "9 900 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/renault-clio-3-1-2-75km-authentique-CID5-ID14VbuN.html",
+            "location": "Warszawa, Białołęka",
+            "date": "29 March 2025",
+            "description": "Witam na sprzedaż Renault Clio 3 hatchback 5 drzwi, użytkowany na co dzień przez moją żonę. Auto  z 2008 kupione z polskiego salonu, silnik 1.2 75KM, przebieg 112000 tys. W naszym posiadaniu od 2,5 roku i przez nas garażowane, nie palone w środku. Po zakupie wymienione sprzęgło i linki zmiany biegów. W marcu tego roku uszczelniona miska olejowa i wymiana osłony przegubu. W poprzednim roku wymienione górne mocowanie amortyzatora i alternator. Lakier jest w bardzo dobrym stanie, choć nosi ślady użytkowania, z przedniego zderzaka zaczęła schodzić warstwa ochronna. Progi i podłoga bez rdzy.\n\nprzegląd techniczny do 21.02.2026r.\nOC    do 13.02.2026r. \n\nWyposażenie \n\nABS \nESP\nwspomaganie kierownicy \ncentralny zamek \nklimatyzacja \nelektryczne szyby przód \nksiążka serwisowa \n2 kluczyki \ndrugi komplet kół aluminiowych\n\nBok fotela kierowcy przetarty\nKlimatyzacja do sprawdzenia i nabicia\n\nSprzedaż na umowę kupna sprzedaży \nNa wszystkie pytania odpowiem pod numerem telefonu   5 0 2 4 3 1 9 3 1",
+            "details": {
+                "Numer VIN": "VF1BR1J0H39190484",
+                "Model": "Clio",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "112 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 149 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
                 "Kierownica": "po lewej"
             }
         },
@@ -8617,6 +8729,29 @@
             }
         },
         {
+            "title": "Opel Zafira, 2003 rok 1.8 LPG – Otokomis! Gwarancji!",
+            "price": "3 990 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/opel-zafira-2003-rok-1-8-lpg-otokomis-gwarancji-CID5-ID14hEE2.html",
+            "location": "Warszawa, Włochy",
+            "date": "20 March 2025",
+            "description": "Zapraszamy do OTOKOMIS-Oferujemy szeroki wybór starannie wyselekcjonowanych samochodów.\n\nSpecyfikacja pojazdu:\nMarka: Opel\nModel: Zafira\nRok produkcji: 2003\nSilnik: 1.8 benzyna z gazem\nMoc: 125\nUbezpieczenie OC: jest ważne \nPrzegląd techniczny: jest ważne \n\nDlaczego warto wybrać ten samochód?\n\nRodzinny 7 osobowy samochód .\nDzięki instalacji gazowej jest bardzo ekonomiczny. Wygodny i przestronny środek. Silnik suchy ma moc normalnie chodzi na gazie. Zawieszenie nie wybite.\n\nWyposażenie: podłokietnik, alufelgi, klimatyzacja, ABS, wspomaganie kierownicy, radio CD, wielofunkcyjna kierownica, elektryczne szyby i lusterka, czujniki parkowania \n\nGodziny otwarcia:\nPoniedziałek – Sobota: 10:00 – 20:00\nNiedziela: 11:00 – 16:00\nLokalizacja: Nasz plac znajduje się na parkingu centrum handlowego Lopuszańska 22.\n\nKontakt: Zadzwoń pod numer 518xx168xx153 i umów się na jazdę próbną!\n\nZapraszamy!",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "359 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
             "title": "Opel Corsa D lift 1.3CDTi",
             "price": "9 900 złdo negocjacji",
             "link": "https://www.olx.pl/oferta/opel-corsa-d-lift-1-3cdti-CID5-ID14tbYa.html",
@@ -9071,6 +9206,26 @@
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
                 "Moc silnika": "145 KM"
+            }
+        },
+        {
+            "title": "Renault Scenic 1.6B // LIFT //  LPG // 2003 // Klima // Hak // Zamiana",
+            "price": "3 990 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/renault-scenic-1-6b-lift-lpg-2003-klima-hak-zamiana-CID5-ID14KufH.html",
+            "location": "Warszawa, Ursynów",
+            "date": "04 March 2025",
+            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo fajnego i ekonomicznego Renault Scenic z silnikiem benzynowym o pojemności 1.6 i mocy 113 koni mechanicznych dodatkowo wspomagany instalacja gazowa co sprawia że jazda tym autem jest naprawdę ekonomiczna. Idealny rodzinny minivan dla wymagających i ceniących sobie komfortowe podróżowanie. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji.\n\nNa wyposażeniu samochodu :\n\n - klimatyzacja \n- centralny zamek \n- elektryczne lusterka \n- elektryczne szyby \n- radio\n- hak\n- ⁠wspomaganie kierownicy\n- regulowana kierownica \n- ⁠ABS  \n- ESP\n- ISOFIX\n\nSamochód posiada ważny przegląd techniczny oraz ubezpieczenie OC !!! \n\nChętnie zamienimy !\n\nMamy dużo aut w podobnych cenach!\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów \n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\nKończy Ci sie ubezpieczenie lub przegląd? \nPrzyjmiemy Twoje auto w rozliczeniu!\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\nPoniedzialek-Sobota 10:00-20:00\nNiedziela 11:00-16:00 \nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "details": {
+                "Model": "Scenic",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "237 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 596 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "113 KM"
             }
         },
         {
