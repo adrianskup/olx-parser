@@ -19,7 +19,7 @@ jobs:
           python-version: "3.10"
 
       - name: Установка зависимостей
-        run: pip install requests beautifulsoup4
+        run: pip install -r requirements.txt
 
       - name: Запуск парсера
         run: python olx_parser.py
