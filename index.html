@@ -10,6 +10,9 @@
 <body>
     <div class="container">
         <header>
+            <div id="updated-time-container">
+                <p>Последнее обновление данных: <span id="updated-time"></span></p>
+            </div>
             <h1>olx parciutko</h1>
             <p>wszystkie olx samochody w warszawie +100km do 10.000zl</p>
         </header>
@@ -20,7 +23,6 @@
 
         <footer>
             <p>&copy; мало? пиши в тг @kkgkgkk</p>
-            <p>Обновление данных: <span id="updated-time"></span></p>
         </footer>
     </div>
 
@@ -29,7 +31,7 @@
         fetch('olx_ads.json') // Update this to the correct path of your JSON file
             .then(response => response.json())
             .then(data => {
-                // Display the updated date and time
+                // Display the updated date and time at the top of the page
                 const updatedTimeElement = document.getElementById('updated-time');
                 updatedTimeElement.textContent = data.updated;
             })
