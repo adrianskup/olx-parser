@@ -1,10 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
     const adsList = document.getElementById('ads-list');
+    const updatedTimeElement = document.getElementById('updated-time'); // Select the element for updated time
 
     fetch('https://raw.githubusercontent.com/adrianskup/olx-parser/main/olx_ads.json')
         .then(response => response.json())
         .then(data => {
             console.log(data); // Печатаем данные в консоль, чтобы проверить их
+
+            // Update the "last updated" timestamp
+            if (updatedTimeElement) {
+                updatedTimeElement.textContent = `Last updated: ${data.updated}`;
+            }
 
             const ads = data.ads;
             adsList.innerHTML = '';
