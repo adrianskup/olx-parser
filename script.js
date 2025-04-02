@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const adsList = document.getElementById('ads-list');
 
-    fetch('https://adrianskup.github.io/olx-parser/olx_ads.json')
+    fetch('https://raw.githubusercontent.com/adrianskup/olx-parser/main/olx_ads.json')
         .then(response => response.json())
         .then(data => {
             const ads = data.ads;
