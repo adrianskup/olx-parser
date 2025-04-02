@@ -21,13 +21,10 @@ jobs:
       - name: Установка зависимостей
         run: pip install requests beautifulsoup4
 
-      - name: Запуск парсера с дебагом
+      - name: Запуск парсера
         run: |
           echo "=== Запуск парсера ==="
-          python olx_parser.py 2>&1 | tee debug.log  # Записываем в debug.log
-
-      - name: Вывод содержимого логов
-        run: cat debug.log  # Показываем содержимое debug.log в логах GitHub
+          python olx_parser.py  # Без записи в debug.log
 
       - name: Настройка Git
         run: |
@@ -39,6 +36,6 @@ jobs:
 
       - name: Коммит логов и данных
         run: |
-          git add olx_ads.json debug.log
-          git commit -m "Автоматическое обновление объявлений + debug" || echo "Нет изменений"
+          git add olx_ads.json
+          git commit -m "Автоматическое обновление объявлений" || echo "Нет изменений"
           git push origin main
