@@ -3,6 +3,8 @@ import json
 import datetime
 from bs4 import BeautifulSoup
 import re
+import time
+import os
 
 MONTHS_PL = {
     "stycznia": "January", "lutego": "February", "marca": "March", "kwietnia": "April",
@@ -37,6 +39,21 @@ def parse_location_date(location_date):
 
     return location_date, None
 
+def convert_date_to_datetime(date_str):
+    try:
+        for pl, en in MONTHS_PL.items():
+            date_str = date_str.replace(pl, en)
+        if " o " in date_str:
+            date_obj = datetime.datetime.strptime(date_str, "%d %B %Y o %H:%M")
+        else:
+            date_obj = datetime.datetime.strptime(date_str, "%d %B %Y")
+        return date_obj
+    except ValueError:
+        return datetime.datetime.min
+
+def clean_price(price_text):
+    return re.sub(r'\s*do negocjacji', '', price_text).strip()
+
 def get_car_details(link):
     if "otomoto.pl" in link:
         return {}
@@ -47,6 +64,18 @@ def get_car_details(link):
         soup = BeautifulSoup(response.text, "html.parser")
         description = soup.select_one("div.css-19duwlz")
         description = description.text.strip() if description else "Описание не указано"
+        
+        image_element = soup.select_one("div.swiper-zoom-container img")
+        image_url = image_element["src"] if image_element else None
+
+        if not image_url:
+            time.sleep(1)
+            response = requests.get(link)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, "html.parser")
+                image_element = soup.select_one("div.swiper-zoom-container img")
+                image_url = image_element["src"] if image_element else None
+
         details = {}
         details_section = soup.select("div.css-ae1s7g div.css-1msmb8o p.css-z0m36u")
         for item in details_section:
@@ -55,7 +84,7 @@ def get_car_details(link):
             if len(parts) == 2:
                 key, value = parts
                 details[key] = value
-        return {"description": description, "details": details}
+        return {"description": description, "details": details, "image_url": image_url}
     except Exception:
         return {}
 
@@ -73,7 +102,7 @@ def get_olx_ads():
             if "otomoto.pl" in link:
                 continue
             title = item.select_one("a > h4").text.strip()
-            price_text = item.select_one("p[data-testid='ad-price']").text.strip()
+            price_text = clean_price(item.select_one("p[data-testid='ad-price']").text.strip())
             link = f"https://www.olx.pl{link}"
             location_date = item.select_one("p.css-vbz67q").text.strip()
             location, date = parse_location_date(location_date)
@@ -89,8 +118,14 @@ def get_olx_ads():
                 "location": location,
                 "date": date,
                 "description": car_details.get("description", "Нет описания"),
-                "details": car_details.get("details", {})
+                "details": car_details.get("details", {}),
+                "image_url": car_details.get("image_url", None)
             }
+
+            ad_date = convert_date_to_datetime(ad["date"])
+            if ad_date < datetime.datetime.now() - datetime.timedelta(days=3):
+                continue
+
             ads.append(ad)
         except Exception:
             continue
@@ -109,31 +144,26 @@ def save_data_to_json(ads):
     with open("olx_ads.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-def convert_date_to_datetime(date_str):
-    try:
-        for pl, en in MONTHS_PL.items():
-            date_str = date_str.replace(pl, en)
-        if " o " in date_str:
-            date_obj = datetime.datetime.strptime(date_str, "%d %B %Y o %H:%M")
-        else:
-            date_obj = datetime.datetime.strptime(date_str, "%d %B %Y")
-        return date_obj
-    except ValueError:
-        return datetime.datetime.min
-
 def update_ads():
     existing_ads = load_existing_data()
     new_ads = get_olx_ads()
-    all_ads = existing_ads + new_ads
-    unique_ads = {ad["link"]: ad for ad in all_ads}
-    all_ads = list(unique_ads.values())
-    
-    for ad in all_ads:
-        if "date" not in ad or not ad["date"]:
-            ad["date"] = "01 January 2000"
-    
+    all_ads = new_ads
     all_ads.sort(key=lambda x: convert_date_to_datetime(x["date"]), reverse=True)
     save_data_to_json(all_ads)
-    print("DEBUG: Итоговый список объявлений:", all_ads)
 
 update_ads()
+
+# Настройки для GitHub
+GITHUB_USERNAME = "adrianskup"
+REPO_NAME = "olx-parser"
+BRANCH_NAME = "main"  # Или другая ветка, если используешь
+
+def push_to_github():
+    os.system("git config --global user.name 'github-actions'")
+    os.system("git config --global user.email 'github-actions@github.com'")
+    os.system("git add olx_ads.json")
+    os.system('git commit -m "Автоматическое обновление объявлений" || echo "No changes to commit"')
+    os.system("git push")
+
+# Запускаем пуш после обновления объявлений
+push_to_github()
