@@ -74,15 +74,18 @@ def get_olx_ads():
             location_date = item.select_one("p.css-vbz67q").text.strip()
             location, date = parse_location_date(location_date)
             car_details = get_car_details(link)
-            ads.append({
+            ad = {
                 "title": title,
-                "price": price_text ,
+                "price": price_text,
                 "link": link,
                 "location": location,
                 "date": date,
                 "description": car_details.get("description", "Нет описания"),
                 "details": car_details.get("details", {})
-            })
+            }
+            # Добавляем объявление только если есть дата
+            if date:
+                ads.append(ad)
         except Exception:
             continue
     return ads
