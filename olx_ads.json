@@ -1,63 +1,101 @@
 {
-    "updated": "2025-04-02 05:39:44.794541",
+    "updated": "2025-04-02 05:47:57.304799",
     "ads": [
         {
-            "title": "Audi A6 C5 1.8T // LPG // Hak // Klima // Zamiana //\n\nSamochó",
-            "price": "3 490 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/audi-a6-c5-1-8t-lpg-hak-klima-zamiana-samocho-CID5-ID14XGfI.html",
-            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\nOferujemy usługę dostarczenia auta pod dom !!!\n\nDzień dobry dziś mamy dla państwa do zaprezentowania Audi A6C5 z silnikiem benzynowym o pojemności 1.8T i  mocy 150 koni mechanicznych. Dodatkowo wspomagany instalacja gazowa co sprawia że jazda tym autem jest oszczędniejsza. Idealny sedan dla wymagających i ceniących sobie komfortowe podróżowanie. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji.\n\nNa wyposażeniu samochodu :\n\n  - klimatyzacja \n- centralny zamek \n- elektryczne lusterka\n- elektryczne szyby  \n- podłokietniki  \n- radio\n- komputer pokładowy\n- wspomaganie kierownicy\n- regulowana kierownica \n- ⁠ABS  \n- ESP\n\nSamochód posiada ważne ubezpieczenie OC !!!\n\nChętnie zamienimy !\n\nMamy dużo aut w podobnych cenach!\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów \n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\nKończy Ci sie ubezpieczenie lub przegląd? \nPrzyjmiemy Twoje auto w rozliczeniu!\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\nPoniedzialek-Sobota 10:00-20:00\nNiedziela 11:00-16:00 \nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "title": "Skoda Octavia 1.9 tdi",
+            "price": "3 400 zł",
+            "link": "https://www.olx.pl/oferta/skoda-octavia-1-9-tdi-CID5-ID15c7C6.html",
+            "description": "Sprzedam Skoda Octavia 1.9tdi.\nSprawny technicznie samochód.\nDwa komplety kol- lato zima",
             "details": {
-                "Model:": "A6",
-                "Rok": "produkcji: 2000",
+                "Model:": "Octavia",
+                "Rok": "produkcji: 2002",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Hatchback",
+                "Przebieg:": "343 000 km",
+                "Kolor:": "Niebieski",
+                "Poj.": "silnika: 1 900 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Niemcy"
+            }
+        },
+        {
+            "title": "Na sprzedaż Mazda 6 2.0D/zamiana/alusy/oszczędny/wygodny/nowe opony",
+            "price": "4 490 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/na-sprzedaz-mazda-6-2-0d-zamiana-alusy-oszczedny-wygodny-nowe-opony-CID5-ID15bu78.html",
+            "description": "Samochód zarejestrowany w kraju\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\nOferujemy usluge dostarczenie auta pod dom.\n\nPrzyjmujemy auto w rozliczeniu !!!\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Mazda 6 z najlepszym niezawodnym silnikiem 2.0 Diesel. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n- radio\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\nOpłaty ważne\nOC Ważne \nPT Ważne \n\nZapraszamy do oględzin oraz jazdę próbną.\n\nChętnie zamienimy!\n\nAleja Krakowska 61, 02-183 Warszawa\n\nznajdujemy się na Centrum Handlowe Okęcie Park przy Burger Kingu \n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\n\nCodziennie od 10 do 20",
+            "details": {
+                "Model:": "6",
+                "Rok": "produkcji: 2007",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Sedan",
+                "Przebieg:": "259 000 km",
+                "Kolor:": "Szary",
+                "Poj.": "silnika: 1 980 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Moc": "silnika: 140 KM",
+                "Napęd:": "Na przednie koła"
+            }
+        },
+        {
+            "title": "Fiat Seicento sprzedam",
+            "price": "2 500 zł",
+            "link": "https://www.olx.pl/oferta/fiat-seicento-sprzedam-CID5-ID15bP42.html",
+            "description": "Sprzedam Seicento. 2002 rok. Silnik 900cm3. Przebieg 87000. Stan jak na zdjęciach. Więcej informacji pod numerem tel. 5*0*2*4*5*9*9*5*8.",
+            "details": {
+                "Model:": "Seicento",
+                "Rok": "produkcji: 2002",
                 "Paliwo:": "Benzyna",
                 "Typ": "nadwozia: Sedan",
-                "Przebieg:": "265 159 km",
-                "Kolor:": "Zielony",
-                "Poj.": "silnika: 1 800 cm³",
+                "Przebieg:": "87 000 km",
+                "Kolor:": "Czerwony",
+                "Poj.": "silnika: 900 cm³",
                 "Stan": "techniczny: Nieuszkodzony",
                 "Skrzynia": "biegów: Manualna",
-                "Moc": "silnika: 150 KM",
                 "Napęd:": "Na przednie koła",
                 "Kierownica:": "po lewej"
             }
         },
         {
-            "title": "Autokomis TopCar!Chevrolet Lacetti 1.6 Lpg/Bdstan/Nowy Rozrzond/Okazja",
-            "price": "4 990 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/autokomis-topcar-chevrolet-lacetti-1-6-lpg-bdstan-nowy-rozrzond-okazja-CID5-ID14Iacs.html",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\nMOŻLIWOŚĆ ZOSTAWIENIA \nAUTA W ROZLICZENIU !\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Chevrolet Lacetti wyprodukowana w 2006 Roku z najlepszym niezawodnym silnikiem 1.6 benzyna+ Lpg sekwencja, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \nW dowodzie jest pieczontka TAXI\n\nZ wyposażenia to:\n\n- Elektryczne 4 szyby \n- centralny zamek\n- podgrzewana tylna szyba\n- System ABS + EBD + EBA (z dynamiczna kontrola stabilnosci i kontroli jazdy)\n- wspomaganie kierownicy\n- Elektroniczny zegar\n- Elektroniczny termometr temp zewnetrznej\n- Kierownica regulowana w dwoch plazczyznach\n- Reczna regulacja wysokosci reflektorow\n- Aktywne zaglowki przednie\n-Tempomat\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n- Mozliwosc ustawienia max predkosci w komputerze, ktorej samochod nie pozwoli nam przekroczyc\n- podgrzewane lusterka\n- sterowanie radiem z kierownicy\n- elektrycznie sterowane szyby (przod+tyl)\n- dwustrefowy klimatronik\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\nCHĘTNIE ZAMIENIMY! \n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\nZapraszamy na oglądanie i jazdę próbną \n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\nOtwarte jest 7 Dni w tygodni\n\nW dni świąteczne również pracujemy \n\nOd 10:00 do 20:00\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
+            "title": "Audi A4 B5 1.9 TDI/Klima!",
+            "price": "2 450 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/audi-a4-b5-1-9-tdi-klima-CID5-ID15e5XY.html",
+            "description": "Witam, posiadam na sprzedaż samochód Audi A4 B5, z silnikiem o pojemności 1.9TDI. Auto wizualnie jak i technicznie jest w stanie dobrym, odpala na widok kluczyka. Auto dzięki swojej wadze jest zrywne i dynamiczne. Samochód pali bardzo mało trasa 3-4l, miasto 5-6. Środek samochodu zadbany, czysty. Samochód posiada klimatyzację, elektryczne szyby, grzaną tylnią szybę, radio, cup holder, szyberdach.\nOC do 02.08.2025 , Pt do 21.05.2025",
             "details": {
-                "Model:": "Lacetti",
-                "Rok": "produkcji: 2006",
+                "Model:": "A4",
+                "Rok": "produkcji: 2000",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Kombi",
+                "Przebieg:": "350 000 km",
+                "Kolor:": "Czarny",
+                "Poj.": "silnika: 1 900 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Moc": "silnika: 110 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
+            "title": "Subaru legacy 4 OC do 2026r. BOXER 2.0 Reduktor 4x4 salon Polska",
+            "price": "8 500 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/subaru-legacy-4-oc-do-2026r-boxer-2-0-reduktor-4x4-salon-polska-CID5-ID13E7Nv.html",
+            "description": "Witam, posiadam na sprzedaż auto Subaru legacy IV 2.0 4x4 z 2005 roku. z legendarnym silnikiem typu boxer. Pełen komplet dokumentów. Data pierwszej rejestracji 27.04.2005. Z Polskiej dystrybucji. Badanie techniczne i OC. Prywatna osoba. Auto jeżdżące sprawne technicznie \nPosiada tempomat,podgrzewanie fotela kierowcy i pasażera, podgrzewanie szyby w miejscu wycieraczek Z PRZODU, elektryczny fotel kierowcy, reduktor. Elektryczny szyberdach. Skórzana tapicerka.\n\nZ zalet: \nNowy kompresor i chłodnica klimatyzacji wymienione w wrześniu tego roku.\nTarcze klocki przód wymienione w maju tego roku.\nNowe łożysko z piastą przód.\nNowe łączniki stabilizatora.\nNowy tłumik końcowy\nNowe felgi i NOWE opony całoroczne też montowane na początku obecnego roku\nRegeneracja przednich zacisków \nWyczyszczona przepustnica i nowe uszczelki do kolektora \nNowy akumulator na gwarancji\nNowe kierunkowskazy LED na lusterkach z homologacją.\nPełna Konserwacja podwozia wykonana 3 lata temu, trzyma się bardzo dobrze. Bez żadnych oznak korozji na dzień dzisiejszy.\nPrzy przebiegu ok. 280kkm zostało wymienione sprzęgło, olej w skrzyni i w dyferencjałach, uszczelniacze półosi w skrzyni, komplet świec zapłonowych oraz sonda lambda.\nPrzy przebiegu 300kkm został wymieniony rozrząd wraz z pompą wody i chłodnica.\nTylne lampy zostały wymienione na te poliftowe ze względu ze oryginalne były już pokruszone na krawędziach i wyglądały nieestetycznie \nsilnik oleju nie pali. Zawieszenie sztywne nie wybite\nIdealny na zimę. O auto dbałem do samego końca, oleje i filtry wymieniane zawsze na czas co 10kkm. Kupiłem teraz nowszy model Subaru i szkoda żeby legaś teraz stał a na pewno jeszcze długo posłuży nowemu nabywcy. Więcej informacji udzielę telefonicznie,SMS lub wiadomość olx. Auto można obejrzeć na Bemowie. Zapraszam na oględziny i jazdę próbną",
+            "details": {
+                "Numer": "VIN: JF1BP5LK45G030951",
+                "Model:": "Legacy",
+                "Rok": "produkcji: 2005",
                 "Paliwo:": "Benzyna",
                 "Typ": "nadwozia: Kombi",
-                "Przebieg:": "289 000 km",
-                "Kolor:": "Czarny",
-                "Poj.": "silnika: 1 600 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Seat Altea 1.6 benzyna",
-            "price": "9 800 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/seat-altea-1-6-benzyna-CID5-ID159CB0.html",
-            "description": "Witam, mam na sprzedaż moje prywatne auto Seat Altea 1.6 benzyna   w bardzo dobrym stanie ,auto jest zadbane,po wymianie olejów i filtrów ,swieży przegląd i ubezpieczenie, odgrzybiona i nabita klimatyzacja gotowa na sezon letni, zawieszenie sztywne, nie wybite pewnie trzyma się drogi. Autko jest naprawdę warte uwagi ,wiadomo ma swoje lata znajdą się gdzie niegdzie wgniotki i zarysowania ,ogólnie auto jest w bardzo dobrym stanie mechanicznym wszystko wymieniane na czas ,wsiadać i jeździć, pozdrawiam i zachęcam do kontaktu",
-            "details": {
-                "Model:": "Altea",
-                "Rok": "produkcji: 2006",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Minivan",
-                "Przebieg:": "300 000 km",
+                "Przebieg:": "335 000 km",
                 "Kolor:": "Niebieski",
-                "Poj.": "silnika: 1 600 cm³",
+                "Poj.": "silnika: 1 994 cm³",
                 "Stan": "techniczny: Nieuszkodzony",
                 "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Niemcy",
-                "Moc": "silnika: 102 KM",
-                "Napęd:": "Na przednie koła",
+                "Kraj": "pochodzenia: Polska",
+                "Moc": "silnika: 140 KM",
+                "Napęd:": "4x4 (stały)",
                 "Kierownica:": "po lewej"
             }
         },
@@ -198,6 +236,62 @@
             }
         },
         {
+            "title": "Mercedes A klasa 1.9 benzyna + LPG Długie opłaty, dobry stan, Warto",
+            "price": "2 990 zł",
+            "link": "https://www.olx.pl/oferta/mercedes-a-klasa-1-9-benzyna-lpg-dlugie-oplaty-dobry-stan-warto-CID5-ID15cZp3.html",
+            "description": "Witam posiadam na sprzedaż Mercedesa A klasę z silnikiem 1.9 benzyna + LPG 125km, Długie opłaty. Bardzo dynamiczny a zarazem ekonomiczny. Mercedes jak na swoje lata w bardzo dobrym stanie, nie wymaga wkładu finansowego. Jeździ na benzynie i gazie, zawieszenie nie posiada żadnych luzów. Opony wielosezonowe w dobrym stanie.\nUbezpieczenie oraz przegląd techniczny ważny aż do 10.09.2025r \nAuto idealnie nadaje się na dojazdy do pracy/szkoły czy do rozwożenia jedzenia. Blacharsko prezentuje się okej, Polecam. Więcej informacji udzielę telefonicznie",
+            "details": {
+                "Model:": "A Klasa",
+                "Rok": "produkcji: 1999",
+                "Paliwo:": "LPG",
+                "Typ": "nadwozia: Hatchback",
+                "Przebieg:": "290 000 km",
+                "Kolor:": "Szary",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Napęd:": "Na przednie koła"
+            }
+        },
+        {
+            "title": "Autokomis TopCar! Ford Cougar 2.6 V6 Lpg//170 koni//Szybki//Sportowy//",
+            "price": "4 490 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/autokomis-topcar-ford-cougar-2-6-v6-lpg-170-koni-szybki-sportowy-CID5-ID144gSG.html",
+            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\nMOŻLIWOŚĆ ZOSTAWIENIA \nAUTA W ROZLICZENIU !\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\nWitam wszystkich, na sprzedaż leci piękny i niezawodny Ford Cougar wyprodukowany w 2000 Roku z najlepszym niezawodnym silnikiem 2.6 V6 Benzyna+Lpg sekwencja, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\nZ wyposażenia to:\n\n- Elektryczne szyby \n- centralny zamek\n- podgrzewana tylna szyba\n- System ABS + EBD \n- wspomaganie kierownicy\n- Elektroniczny zegar\n- Elektroniczny termometr temp zewnetrznej\n- Kierownica regulowana w dwoch plazczyznach\n- Reczna regulacja wysokosci reflektorow\n- podgrzewane lusterka\n- elektrycznie sterowane szyby\n- dwustrefowy klimatronik\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\nCHĘTNIE ZAMIENIMY! \n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\nZapraszamy na oglądanie i jazdę próbną \n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\nOtwarte jest 7 Dni w tygodni\n\nW dni świąteczne również pracujemy \n\nOd 10:00 do 20:00\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
+            "details": {
+                "Model:": "Cougar",
+                "Rok": "produkcji: 2000",
+                "Paliwo:": "LPG",
+                "Typ": "nadwozia: Coupe",
+                "Przebieg:": "246 000 km",
+                "Kolor:": "Niebieski",
+                "Poj.": "silnika: 2 600 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Moc": "silnika: 170 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
+            "title": "Volkswagen Bora 1,6 benzyna 1999",
+            "price": "4 500 zł",
+            "link": "https://www.olx.pl/oferta/volkswagen-bora-1-6-benzyna-1999-CID5-ID14p8xR.html",
+            "description": "Sprzedam. \nVolkswagen Bora 1,6 benzyna.\nWyposażenie:\n-Climatronik \n-wspomaganie kierownicy\n- elektryczne lusterka jak i szyby\nOC i przegląd oplacone\nSamochód stoi na zimowych oponach. \nOpony zakupione w 2023 roku. \nWięcej informacji udzielę pod numerem telefonu.\nTylko osoby zainteresowane kupnem auta.\nCena do negocjacji opuszczam z tego 500zl ponieważ wahacz jest do wymiany.",
+            "details": {
+                "Model:": "Bora",
+                "Rok": "produkcji: 1999",
+                "Paliwo:": "Benzyna",
+                "Typ": "nadwozia: Sedan",
+                "Przebieg:": "270 km",
+                "Kolor:": "Zielony",
+                "Poj.": "silnika: 1 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Niemcy",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
             "title": "renault kangoo 1,9 DTi  5-osób   auto bez rdzy",
             "price": "4 500 zł",
             "link": "https://www.olx.pl/oferta/renault-kangoo-1-9-dti-5-osob-auto-bez-rdzy-CID5-ID15adZG.html",
@@ -217,63 +311,6 @@
                 "Moc": "silnika: 80 KM",
                 "Napęd:": "Na przednie koła",
                 "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Mini r50 1 6 bezyna",
-            "price": "9 999 zł",
-            "link": "https://www.olx.pl/oferta/mini-r50-1-6-bezyna-CID5-ID158mUQ.html",
-            "description": "Witam sprzedam mini r50 1 6 bezyna \nStan wizualny bardzo dobry jak na swoje lata \nWięcej info \nTel 79*****66",
-            "details": {
-                "Model:": "Cooper",
-                "Rok": "produkcji: 2001",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Coupe",
-                "Przebieg:": "260 000 km",
-                "Kolor:": "Czerwony",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Polska",
-                "Moc": "silnika: 116 KM"
-            }
-        },
-        {
-            "title": "Opel Signum 1.9 150KM Skrzynia 6 biegów Czujniki Parkowania",
-            "price": "3 700 zł",
-            "link": "https://www.olx.pl/oferta/opel-signum-1-9-150km-skrzynia-6-biegow-czujniki-parkowania-CID5-ID14p9ju.html",
-            "description": "Witam mam na sprzedaż auto marki Opel Signum wyprodukowanego w 2004r \nAuto jest w dobrym stanie technicznym (przy dodaniu gazu kopci na czarno-prawdopodobnie ktorys wtrysk do wymiany)\nŻadnych błędów nie ma na desce rozdzielczej \nWizualnie w bardzo dobrym stanie jak na 20 letnie auto (bez korozji)\nŚrodek auta w bardzo dobrym stanie \nProgi oraz podłoga w dobrym stanie \n\nOC I przegląd aktualne do listopada 2025r \n\nCena 3700zl \nWięcej informacji na priv lub 788x800x159",
-            "details": {
-                "Model:": "Signum",
-                "Rok": "produkcji: 2004",
-                "Paliwo:": "Diesel",
-                "Typ": "nadwozia: Hatchback",
-                "Przebieg:": "288 000 km",
-                "Kolor:": "Czarny",
-                "Poj.": "silnika: 1 900 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Niemcy",
-                "Moc": "silnika: 150 KM"
-            }
-        },
-        {
-            "title": "Opel Vectra B 1999 rok 1.6 benzyna",
-            "price": "4 000 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/opel-vectra-b-1999-rok-1-6-benzyna-CID5-ID12XnZZ.html",
-            "description": "Do sprzedaży Opel Vecta B \nRok produkcji 1999 rok\nPojemność silnika 1.6 benzyna 16v\nAuto krajowe\n3 właściciel \n189 000 przebiegu\nAuto w jednych rękach od ponad 17 lat\nSerwisowane na bieżącą\nAuto jak na 25 lat oceniam ogólnie jako dobre\nBlacharsko dobrze\nSilnikowo bardzo dobrze (takich motorów już niestety nie robią)\nZawieszenie dobrze\nAuto posiada:\nPrzednie szyby w prądzie \nCentralny zamek\nWspomaganie kierownicy\nRadio cd\nABS\nPoduszki powietrzne",
-            "details": {
-                "Model:": "Vectra",
-                "Rok": "produkcji: 1999",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Sedan",
-                "Przebieg:": "189 000 km",
-                "Kolor:": "Inny kolor",
-                "Poj.": "silnika: 1 600 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Polska",
-                "Moc": "silnika: 100 KM",
-                "Napęd:": "Na przednie koła"
             }
         },
         {
@@ -422,6 +459,70 @@
             }
         },
         {
+            "title": "Ford Focus Kombi 2007; 1,8TDCi Silver",
+            "price": "5 999 zł",
+            "link": "https://www.olx.pl/oferta/ford-focus-kombi-2007-1-8tdci-silver-CID5-ID15bzse.html",
+            "description": "Sprzedam Ford Focus kombi.\nAuto posiadam od roku 2010.\nSamochód posiada przebieg 225577km.\nSilnik Diesel 1,8TDCi.\nNa prawym i lewym błotniku widoczne ogniska korozji.\n\nDo auta dodaję komplet opon letnich na felgach stalowych.\nOC ważne do 16.09.25\nPrzegląd do 11.03.26\n\nDo obejrzenia Żychlin powiat Kutnowski",
+            "details": {
+                "Numer": "VIN: WF0WXXGCDW7K72510",
+                "Model:": "Focus",
+                "Rok": "produkcji: 2007",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Kombi",
+                "Przebieg:": "225 577 km",
+                "Kolor:": "Czerwony",
+                "Poj.": "silnika: 1 753 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Polska",
+                "Moc": "silnika: 115 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
+            "title": "SKODA OCTAVIA 2 Silnik 1.9 TDI 105KM",
+            "price": "9 400 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/skoda-octavia-2-silnik-1-9-tdi-105km-CID5-ID14uZjT.html",
+            "description": "Witam sprzedam niezawodną Skodę Octawie 2 \nAuto chodzi jak trzeba ostatnio założyłem nowe opony zimowe NOKIAN \ni kpl amortyzatorów MONROE\nSkoda zawsze była dbana i wymiany oleju robione co 10 tys \nWszytskie naprawy robione były na bierząco .\nSamochód poszanowany niskie spalanie ok 6.5L w cyklu mieszanym trasa do 4,5 l osoby zainteresowane zapraszam",
+            "details": {
+                "Model:": "Octavia",
+                "Rok": "produkcji: 2007",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Kombi",
+                "Przebieg:": "427 000 km",
+                "Kolor:": "Inny kolor",
+                "Poj.": "silnika: 1 950 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Czechy",
+                "Moc": "silnika: 105 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
+            "title": "Citroen Xsara Picasso /2005rok/2.0diesel/dobry stan",
+            "price": "3 790 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/citroen-xsara-picasso-2005rok-2-0diesel-dobry-stan-CID5-ID15dzVY.html",
+            "description": "Witam, posiadamy na sprzedaż piękny i niezawodny Citroen Xsara Picasso \nZ niezawodnym silnikiem 2.0 Diesel o mocy 90 KM oraz manualną 5-biegową skrzynią biegów \nStan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, Rozrząd płyn chłodnicy, akumulator założony wielosezonowe opony,silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w dobrym stanie. Ogólnie wsiadać i jeździć\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n-radio \nBlacharsko jak widać na zdjęciach w dość dobrym stanie do małych poprawek lakierniczych \nOpłaty ważne\nOC Ważne \nPT Ważne \n\nProponujemy dostarczenie samochodu pod dom!\n\nChętnie zamienimy!\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\nPrzyjmiemy Twoje auto w rozliczeniu!\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% \nGodziny otwarcia:\nCodziennie od 10 do 20 Zapraszamy wszystkich na oględziny oraz jazdę próbną \nAdres:Trakt lubelski 342,04-766 Warszawa \nTel:66*****02",
+            "details": {
+                "Model:": "Xsara Picasso",
+                "Rok": "produkcji: 2005",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Minivan",
+                "Przebieg:": "288 500 km",
+                "Kolor:": "Biały",
+                "Poj.": "silnika: 2 000 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Niemcy",
+                "Moc": "silnika: 90 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
             "title": "Audi a6 c5 avant 1.9 afn 110KM klima",
             "price": "3 499 zł",
             "link": "https://www.olx.pl/oferta/audi-a6-c5-avant-1-9-afn-110km-klima-CID5-ID14sChR.html",
@@ -438,67 +539,6 @@
                 "Skrzynia": "biegów: Manualna",
                 "Kraj": "pochodzenia: Polska",
                 "Moc": "silnika: 110 KM",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Na Sprzedaz Mazda 5 2.0d/7osobowy/Nowe wtryski/Zadbany/Zamiana",
-            "price": "5 990 zł",
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-mazda-5-2-0d-7osobowy-nowe-wtryski-zadbany-zamiana-CID5-ID15bG2N.html",
-            "description": "Możliwy Dowóz do klienta na terenie całej Polski!!\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Mazda 5  z najlepszym niezawodnym silnikiem 2.0 Diesel . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n- radio\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\nOC Ważne \nPT Ważne \n\nZapraszamy do oględzin oraz jazdę próbną.\n\nChętnie zamienimy!\n\nZapraszamy na : Łódź 91-355 , Zgierska 186 \n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\n\nCodziennie od 08 do 20",
-            "details": {
-                "Model:": "5",
-                "Rok": "produkcji: 2007",
-                "Paliwo:": "Diesel",
-                "Typ": "nadwozia: Minivan",
-                "Przebieg:": "258 000 km",
-                "Kolor:": "Czarny",
-                "Poj.": "silnika: 2 000 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Volkswagen Passat B6",
-            "price": "8 500 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/volkswagen-passat-b6-CID5-ID15axlF.html",
-            "description": "AUTO.OPG - Najlepsze oferty samochodów!\n\nMożliwość dostawy auta pod dom ! \n\nNa sprzedaż Volkswagen Passat B6\n\nRok produkcji: 2005\nSilnik: 2.0\nPaliwo: benzyna \nPrzebieg: 187000km\nSkrzynia biegów: manual\nCena: 8500PLN\n\nSamochód w dobrym stanie, serwisowany na bieżąco. Idealny do codziennego użytku.\n\nZadzwoń pod numer telefonu podany niżej. \nAdres: Chyliczkowska 13a, Piaseczno, Polska\n\nDlaczego warto kupować u nas?\n\nTylko sprawdzone samochody: Każdy samochód przechodzi szczegółową kontrolę przed sprzedażą.\nKonkurencyjne ceny: Oferujemy najlepsze ceny na rynku.\nPrzejrzysta historia: Udostępniamy pełne informacje o stanie technicznym i historii serwisowania.\nIndywidualne podejście: Nasi menedżerowie pomogą dobrać samochód odpowiednio do Twoich potrzeb.\nPomoc drogowa: Oferujemy wsparcie w przypadku awarii na drodze.\nMożliwość dostawy samochodu pod adres: Zapewniamy wygodną dostawę samochodu pod wskazany adres.\n\nPytania? Nie znalazłeś potrzebnego punktu - zadzwoń lub napisz wiadomość prywatną.",
-            "details": {
-                "Model:": "Passat",
-                "Rok": "produkcji: 2005",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Sedan",
-                "Przebieg:": "187 000 km",
-                "Kolor:": "Czarny",
-                "Poj.": "silnika: 1 995 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Polska",
-                "Moc": "silnika: 170 KM",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Ford Focus MK2 2008r",
-            "price": "8 300 zł",
-            "link": "https://www.olx.pl/oferta/ford-focus-mk2-2008r-CID5-ID15egic.html",
-            "description": "Sprzedam Forda Focusa 1.6TDCi z 2008r W bardzo dobrym stanie \n\nWyposażenie:\n- 2 kluczyki\n- centralny zamek z pilota\n- elektryczne szyby przednie\n- klimatyzacja\n- ABS\n-koła zima\n\nTO: 2025-12-23\nCT: 2025-05-15",
-            "details": {
-                "Numer": "VIN: WF0PXCGCDP8A60723",
-                "Model:": "Focus",
-                "Rok": "produkcji: 2008",
-                "Paliwo:": "Diesel",
-                "Typ": "nadwozia: Hatchback",
-                "Przebieg:": "293 093 km",
-                "Kolor:": "Biały",
-                "Poj.": "silnika: 1 600 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Moc": "silnika: 90 KM",
                 "Napęd:": "Na przednie koła",
                 "Kierownica:": "po lewej"
             }
@@ -644,6 +684,62 @@
             }
         },
         {
+            "title": "Passat B6 2.0TDI // 2008 // Alufelgi // Klima // Zadbany // Zamiana",
+            "price": "6 990 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/passat-b6-2-0tdi-2008-alufelgi-klima-zadbany-zamiana-CID5-ID14NyMD.html",
+            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\nOferujemy usługę dostarczenia auta pod dom !!!\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo zadbanego Volkswagena Passata B6 z dynamicznym silnikiem diesla o pojemności 2.0TDI i mocy 140 koni mechanicznych. Idealny sedan dla wymagających i ceniących sobie komfortowe podróżowanie. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji.\n\nNa wyposażeniu samochodu :\n\n  - klimatyzacja \n- centralny zamek \n- elektryczne lusterka\n- elektryczne szyby  \n- tempomat \n- podłokietniki  \n- radio\n- komputer pokładowy\n- wspomaganie kierownicy\n- regulowana kierownica \n- ⁠ABS  \n- ESP\n\nSamochód posiada ważny przegląd techniczny oraz ubezpieczenie OC !!!\n\nChętnie zamienimy !\n\nMamy dużo aut w podobnych cenach!\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów \n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\nKończy Ci sie ubezpieczenie lub przegląd? \nPrzyjmiemy Twoje auto w rozliczeniu!\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\nPoniedzialek-Sobota 10:00-20:00\nNiedziela 11:00-16:00 \nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "details": {
+                "Model:": "Passat",
+                "Rok": "produkcji: 2008",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Sedan",
+                "Przebieg:": "279 000 km",
+                "Kolor:": "Inny kolor",
+                "Poj.": "silnika: 1 998 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Moc": "silnika: 140 KM"
+            }
+        },
+        {
+            "title": "Renault   Modus   1.4   Benzyna   2005r  ( Sprawna Klimatyzacja )",
+            "price": "5 750 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/renault-modus-1-4-benzyna-2005r-sprawna-klimatyzacja-CID5-ID15cHw5.html",
+            "description": "Witam sprzedam bardzo zadbane Renault Modus 1.4 Benzyna 2005r . Auto w świetnym stanie technicznym jak i wizualnym bardzo ekonomiczne. Auto posiada wspomaganie kierownicy, centralny zamek, klimatyzację, czujnik zmierzchu, czujnik deszczu, komputer pokładowy, abs, kontrolę trakcji. Dwa miesiące temu w aucie zmieniony został olej oraz filtry na chwilę obecną auto jest w 100% sprawne technicznie i nie wymaga najmniejszego wkładu finansowego. Auto posiada ważny przegląd oraz OC. Więcej informacji udzielę pod numerem telefonu 518#078#650",
+            "details": {
+                "Model:": "Modus",
+                "Rok": "produkcji: 2005",
+                "Paliwo:": "Benzyna",
+                "Typ": "nadwozia: Minivan",
+                "Przebieg:": "203 231 km",
+                "Kolor:": "Inny kolor",
+                "Poj.": "silnika: 1 400 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Kraj": "pochodzenia: Polska"
+            }
+        },
+        {
+            "title": "Renault Scenic 1.9D // 2006 // Klima // Alufelgi // Zamiana //",
+            "price": "4 490 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/renault-scenic-1-9d-2006-klima-alufelgi-zamiana-CID5-ID1527wM.html",
+            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo fajnego i ekonomicznego Renault Scenic z silnikiem diesla o pojemności 1.9 i mocy 120 koni mechanicznych. Idealny rodzinny minivan dla wymagających i ceniących sobie komfortowe podróżowanie. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji.\n\nNa wyposażeniu samochodu :\n\n - klimatyzacja \n- centralny zamek \n- elektryczne lusterka \n- 4x elektryczne szyby \n- radio\n- komputer pokładowy \n- ⁠wspomaganie kierownicy\n- regulowana kierownica \n- ⁠ABS  \n- ESP\n- ISOFIX\n\nSamochód posiada ważny przegląd techniczny oraz ubezpieczenie OC !!! \n\nChętnie zamienimy !\n\nMamy dużo aut w podobnych cenach!\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów \n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\nKończy Ci sie ubezpieczenie lub przegląd? \nPrzyjmiemy Twoje auto w rozliczeniu!\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\nPoniedzialek-Sobota 10:00-20:00\nNiedziela 11:00-16:00 \nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "details": {
+                "Model:": "Scenic",
+                "Rok": "produkcji: 2006",
+                "Paliwo:": "Diesel",
+                "Typ": "nadwozia: Hatchback",
+                "Przebieg:": "276 261 km",
+                "Kolor:": "Inny kolor",
+                "Poj.": "silnika: 1 900 cm³",
+                "Stan": "techniczny: Nieuszkodzony",
+                "Skrzynia": "biegów: Manualna",
+                "Moc": "silnika: 120 KM",
+                "Napęd:": "Na przednie koła",
+                "Kierownica:": "po lewej"
+            }
+        },
+        {
             "title": "Renault Scénic 2  1,9 diessel",
             "price": "3 000 złdo negocjacji",
             "link": "https://www.olx.pl/oferta/renault-scnic-2-1-9-diessel-CID5-ID15ejCC.html",
@@ -678,63 +774,6 @@
                 "Poj.": "silnika: 1 400 cm³",
                 "Stan": "techniczny: Nieuszkodzony",
                 "Skrzynia": "biegów: Manualna"
-            }
-        },
-        {
-            "title": "Na Sprzedaz Toyota Aygo 1.0LPG/4 drzwi/Zamiana/Osczedny/Male Autko/",
-            "price": "5 490 zł",
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-toyota-aygo-1-0lpg-4-drzwi-zamiana-osczedny-male-autko-CID5-ID15dqqh.html",
-            "description": "Samochód zarejestrowany w kraju\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Toyota Aygo z najlepszym niezawodnym silnikiem 1.0 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n- radio\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\nOC Ważne \nPT Ważne \n\nZapraszamy do oględzin oraz jazdę próbną.\n\nChętnie zamienimy!\n\nZapraszamy na : Łódź 91-355 ,Zgierska 186 \n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\n\nCodziennie od 08 do 20",
-            "details": {
-                "Model:": "Aygo",
-                "Rok": "produkcji: 2007",
-                "Paliwo:": "LPG",
-                "Typ": "nadwozia: Hatchback",
-                "Przebieg:": "184 000 km",
-                "Kolor:": "Inny kolor",
-                "Poj.": "silnika: 1 000 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Na Sprzedaz Audi a6 c5 2.4LPG/Quattro/Zamiana/Zadbany/Osczedny/",
-            "price": "4 990 zł",
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-audi-a6-c5-2-4lpg-quattro-zamiana-zadbany-osczedny-CID5-ID15apoK.html",
-            "description": "Samochód zarejestrowany w kraju\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Audi A6C5  z najlepszym niezawodnym silnikiem 2.4 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n- radio\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\nOC Ważne \nPT Ważne \n\nZapraszamy do oględzin oraz jazdę próbną.\n\nChętnie zamienimy!\n\nZapraszamy na : Łódź 91-355 ,Zgierska 186 \n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\n\nCodziennie od 08 do 20",
-            "details": {
-                "Model:": "A6",
-                "Rok": "produkcji: 2003",
-                "Paliwo:": "LPG",
-                "Typ": "nadwozia: Kombi",
-                "Przebieg:": "269 000 km",
-                "Kolor:": "Srebrny",
-                "Poj.": "silnika: 2 400 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Napęd:": "4x4 (stały)",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Na sprzedaż Honda HR-V 1.6 LPG/zamiana/4x4/oszczędny/gwarancja",
-            "price": "2 990 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-honda-hr-v-1-6-lpg-zamiana-4x4-oszczedny-gwarancja-CID5-ID15cFGY.html",
-            "description": "Samochód zarejestrowany w kraju\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\nOferujemy usluge dostarczenie auta pod dom.\n\nPrzyjmujemy auto w rozliczeniu !!!\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Honda HR-V z najlepszym niezawodnym silnikiem 1.6 z LPG (butla w kole zapasowym) z ważną homologacja do 2030. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\nNa wyposażeniu auta:\n- wspomaganie kierownicy\n- elektryczne szyby\n- klimatyzacja\n- centralny zamek z pilota\n- radio\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\nOpłaty ważne\nOC Ważne \nPT Ważne \nButla ważna do 2030\n\nZapraszamy do oględzin oraz jazdę próbną.\n\nChętnie zamienimy!\n\nAleja Krakowska 61, 02-183 Warszawa\n\nznajdujemy się na Centrum Handlowe Okęcie Park obok Burger Kingu \n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\n\nCodziennie od 10 do 20",
-            "details": {
-                "Model:": "HR-V",
-                "Rok": "produkcji: 2000",
-                "Paliwo:": "LPG",
-                "Typ": "nadwozia: SUV",
-                "Przebieg:": "218 000 km",
-                "Kolor:": "Inny kolor",
-                "Poj.": "silnika: 1 598 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Moc": "silnika: 101 KM",
-                "Napęd:": "4x4 (stały)"
             }
         },
         {
@@ -824,48 +863,6 @@
                 "Skrzynia": "biegów: Manualna",
                 "Kraj": "pochodzenia: Polska",
                 "Moc": "silnika: 115 KM",
-                "Napęd:": "Na przednie koła",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Sprzedam Volvo V70 XC70",
-            "price": "2 999 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/sprzedam-volvo-v70-xc70-CID5-ID14t926.html",
-            "description": "Witam serdecznie sprzedam jak w tytule Volvo V70 XC70 w całości ewentualnie jako dawce rok 1998 na cienkim wale benzyna 2.5 T - 193 KM silnik z mechaniczną przepustnicą przebieg 210 tyś skrzynia biegów manualna więcej informacji pod numerem telefonu, ogłoszenie grzecznościowe na SMS i wiadomości OLX nie odpowiadam proszę dzwonić codziennie od godziny 8 do 22 pozdrawiam",
-            "details": {
-                "Model:": "XC 70",
-                "Rok": "produkcji: 1998",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Kombi",
-                "Przebieg:": "210 km",
-                "Kolor:": "Zielony",
-                "Poj.": "silnika: 2 500 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Inny",
-                "Moc": "silnika: 193 KM",
-                "Napęd:": "4x4 (stały)",
-                "Kierownica:": "po lewej"
-            }
-        },
-        {
-            "title": "Skoda Fabia Sedan 2007 1.4 benzyna + gaz Siedlce",
-            "price": "6 900 złdo negocjacji",
-            "link": "https://www.olx.pl/oferta/skoda-fabia-sedan-2007-1-4-benzyna-gaz-siedlce-CID5-ID151jli.html",
-            "description": "Dzień dobry,\n\nSprzedam auto Skoda Fabia Sedan, rocznik 2007. Silnik benzynowy  1.4 (59 KM). Benzyna + gaz. Kolor srebrny. Przebieg 176 tys km. Hak holowniczy.  2 komplety kół z oponami zimowymi oraz letnimi w dobrym stanie.\n\nTechnicznie auto sprawne i gotowe do jazdy.\n\nCena 6 900 PLN.\n\nMożliwość obejrzenia w Siedlcach, woj. mazowieckie.\n\nKontakt pod nr telefonu 79*******41 (proszę tylko o telefon, bez sms)",
-            "details": {
-                "Model:": "Fabia",
-                "Rok": "produkcji: 2007",
-                "Paliwo:": "Benzyna",
-                "Typ": "nadwozia: Sedan",
-                "Przebieg:": "176 500 km",
-                "Kolor:": "Srebrny",
-                "Poj.": "silnika: 1 390 cm³",
-                "Stan": "techniczny: Nieuszkodzony",
-                "Skrzynia": "biegów: Manualna",
-                "Kraj": "pochodzenia: Polska",
-                "Moc": "silnika: 59 KM",
                 "Napęd:": "Na przednie koła",
                 "Kierownica:": "po lewej"
             }
