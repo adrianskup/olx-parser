@@ -1,6 +1,94 @@
 {
-    "updated": "2025-04-02 11:54:08.696329",
+    "updated": "2025-04-02 11:59:00.252698",
     "ads": [
+        {
+            "title": "Skoda Fabia 1.4 2002 z Gazem",
+            "price": "2 850 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/skoda-fabia-1-4-2002-z-gazem-CID5-ID1513v7.html",
+            "location": "Warszawa, Włochy",
+            "date": "02 April 2025 o 11:52",
+            "description": "Witam Mam na sprzedaż Skodę Fabię 1.4 z Gazem(butla ważna jeszcze 2lata)z 2002 roku w bardzo dobrym stanie technicznym\n\nSilnik pracuje idealnie odpala bez problemu zarówno na zimnym jak i ciepłym ma pełną moc nie kopci\nZawieszenie bez luzów nic nie stuka ani nie puka\nSkrzynia biegów i sprzęgło w pełni sprawne\nHamulce skuteczne bez problemów\nStan wizualny brak rdzy auto prezentuje się bardzo dobrze\n\nPrzegląd techniczny do 25.03.2026\nOC do 1.09.2025\n\nZapraszam do kontaktu i obejrzenia auta",
+            "details": {
+                "Model": "Fabia",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "300 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Peugeot 3008 uszkodzony",
+            "price": "10 000 zł",
+            "link": "https://www.olx.pl/oferta/peugeot-3008-uszkodzony-CID5-ID13ObZ1.html",
+            "location": "Legionowo",
+            "date": "02 April 2025 o 11:51",
+            "description": "Mam na sprzedaż samochod peugeot 3008 1.6 z 2012r. Samochód odpala jednak silnik nie pracuje równo i nie reaguje na gaz. Akumulator do wymiany przez to że podczas jazdy i postoju ciągle pracuje wentylator chłodnicy. Na desce rozdzielczej świecą się 2 kontrolki jedna to check engine a druga od poduszek powietrznych. Mechanik uznał że samochod nie jeździ przez to że zapłon wypada na 1 i 3 cylindrze. Po więcej informacji proszę dzwonić. Ubezpieczenie do 11.2025. Brak badania technicznego",
+            "details": {
+                "Model": "3008",
+                "Rok produkcji": "2012",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "SUV",
+                "Przebieg": "228 186 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Citroen C4 1.6 benzyna+gaz sekwencja",
+            "price": "5 250 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/citroen-c4-1-6-benzyna-gaz-sekwencja-CID5-ID14ZTBa.html",
+            "location": "Kowala",
+            "date": "02 April 2025 o 11:49",
+            "description": "Samochód mechanicznie w bardzo dobrym stanie. Wszystkie naprawy robione na bieżąco po wymianie oleju i wszystkich filtrów , w listopadzie zrobione kompletne sprzęgło. Do poprawek lakierniczych (maska przód) . Silnik 1.6 benzyna z gazem sekwencja założony nowy 3lata temu butla w kole . Auto pracuje bardzo dobrze na paliwie jak i na LPG. Cena do negocjacji po oględzinach samochodu.",
+            "details": {
+                "Model": "C4",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "320 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Peugeot 307 SW 2004",
+            "price": "4 300 zł",
+            "link": "https://www.olx.pl/oferta/peugeot-307-sw-2004-CID5-ID15eDT6.html",
+            "location": "Podebłocie",
+            "date": "02 April 2025 o 11:47",
+            "description": "Sprzedam Peugeot 307 SW auto idealne na dojazdy do pracy czy też osób które planują budowę domu.",
+            "details": {
+                "Model": "307 SW",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "447 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 996 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
         {
             "title": "Opel Meriva 2005r",
             "price": "6 000 zł",
@@ -493,8 +581,22 @@
             "link": "https://www.olx.pl/oferta/toyota-corolla-sol-salon-polska-CID5-ID15ezJN.html",
             "location": "Warszawa, Bemowo",
             "date": "02 April 2025 o 11:30",
-            "description": "Нет описания",
-            "details": {}
+            "description": "Samochód sprzedaję jako firma z siedzibą na ul. Połczyńskiej 58.\nAuto zakupione w polskim salonie .\nSilnik 2.0 D-4D o mocy 116 KM.\nWersja SOL z klimą automatyczną .\nPrzegląd techniczny ważny do stycznia 2026 roku.\nOc komisowe.",
+            "details": {
+                "Numer VIN": "NMTEW20E60R015643",
+                "Model": "Corolla",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "346 639 km",
+                "Kolor": "Żółty – Złoty",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
         },
         {
             "title": "Nissan Primera p12",
@@ -5003,6 +5105,70 @@
             }
         },
         {
+            "title": "Renault Clio 1.2 benzyna gaz, elektryka szyb, klimatyzacja",
+            "price": "4 900 zł",
+            "link": "https://www.olx.pl/oferta/renault-clio-1-2-benzyna-gaz-elektryka-szyb-klimatyzacja-CID5-ID153ym1.html",
+            "location": "Łódź, Polesie",
+            "date": "01 April 2025",
+            "description": "Sprzedam swoje prywatne auto, które służyło na dojazdy do pracy, auto w dobrym stanie, jeździ na benzynie i na gazie. \nPółtora roku temu po zakupie wymieniono: \n-rozrząd kompletny\n-Świece i przewody z cewką\n-nowe opony wielosezonowe kormoran\n-Filtry i olej\n\nAuto posiada elektryczne szyby i klimatyzację.\n\nAuto zmieniam ze względu na powiększenie rodziny.\n\nZapraszam do kupna",
+            "details": {
+                "Model": "Clio",
+                "Rok produkcji": "2007",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "252 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 149 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Citroen C4 Picasso 2.0D // Exclusive // Automat // Skóry // Zamiana",
+            "price": "6 990 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/citroen-c4-picasso-2-0d-exclusive-automat-skory-zamiana-CID5-ID15dzKt.html",
+            "location": "Warszawa, Ursynów",
+            "date": "01 April 2025",
+            "description": "Samochód zarejestrowany w kraju !\n\nOferujemy usługę dostarczenia auta pod dom !!!\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo zadbanego Citroena C4 Picasso z silnikiem o pojemności 2.0 diesel i mocy 136 koni mechanicznych dodatkowo polaczony z automatyczną skrzynią biegów co daje dużo komfortu podczas jazdy.\nIdealne rodzinny minivan dla wymagających i ceniących sobie komfortowe podróżowanie. Silnik odpala na dotyk pracuje równo i prawidłowo. Skrzynia płynnie zmienia biegi nie szarpie ani nie przeciąga. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji.\n\nNa wyposażeniu samochodu :\n\n- klimatyzacja dwustrefowa\n- centralny zamek \n- elektryczne lusterka\n- podgrzewane fotele \n- elektryczne szyby \n- radio\n- skórzane fotele\n- ⁠wspomaganie kierownicy\n- tempomat \n- regulowana kierownica \n- relingi dachowe \n- ⁠ABS \n- ESP\n- Isofix\n\nSamochód posiada ważne ubezpieczenie OC  oraz przegląd techniczny !!!\n\nChętnie zamienimy !\n\nMamy dużo aut w podobnych cenach!\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie, na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów. \n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\nKończy Ci sie ubezpieczenie lub przegląd? \nPrzyjmiemy Twoje auto w rozliczeniu!\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\nGodziny otwarcia\nPoniedzialek-Sobota 10:00-20:00\nNiedziela 11:00-16:00 \nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "details": {
+                "Model": "C4 Picasso",
+                "Rok produkcji": "2011",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "298 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Moc silnika": "136 KM"
+            }
+        },
+        {
+            "title": "Sprzedam OPEL Meriva",
+            "price": "5 500 zł",
+            "link": "https://www.olx.pl/oferta/sprzedam-opel-meriva-CID5-ID15b5c2.html",
+            "location": "Sochaczew",
+            "date": "01 April 2025",
+            "description": "Witam serdecznie,\n\nSamochód odpala, jeżdzi. \nStan auta jak na zdjęciach. \nOC do listopada.\nPrzeglad auta do czerwca.\nPrzebieg 228tys\n\nAuto do obejrzenia koło Sochaczewa - miejscowosc Dzięglewo.\n\nWszelkie pytania proszę kierować pod numer telefonu:\n66*****16\nKatarzyna\n\nCena 5500pln\n\nSprzedaż od osoby prywatnej (nazwa firmy, która jest widoczna na profilu nie ma z tym nic związanego).",
+            "details": {
+                "Numer VIN": "W0L0XCE7564282711",
+                "Model": "Meriva",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "228 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 364 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "66 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
             "title": "Hyundai I 10 1.1 Benzyna|67 KM | 2009 |Dł-opłaty|Zamiana",
             "price": "5 490 złdo negocjacji",
             "link": "https://www.olx.pl/oferta/hyundai-i-10-1-1-benzyna-67-km-2009-dl-oplaty-zamiana-CID5-ID15aJ0D.html",
@@ -5574,6 +5740,29 @@
             }
         },
         {
+            "title": "Zadbane/Volvo V50 1.6 HDI 109 KM/Skóry/Możliwa zamiana",
+            "price": "7 900 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/zadbane-volvo-v50-1-6-hdi-109-km-skory-mozliwa-zamiana-CID5-ID11KOdP.html",
+            "location": "Dębe Wielkie",
+            "date": "31 March 2025",
+            "description": "SPRZEDAM !!!\n\nVolvo V50 1.6 HDI 109 KM\nRok produkcji 2005\nPrzebieg 332 000 km.\nBardzo ładny wygląd.\n\nSilnik pracuję bardzo dobrze i cicho\nSkrzynia i sprzęgło działają bez zarzutów.\nZawieszenie w super stanie, dobrze zbiera nierówności.\nSamochód bardzo ładnie się prezentuje, śliczny błyszczący lakier\nŚrodek nie jest zniszczony, czysty i zadbany.\nCzarne skóry.\nKlimatyzacja działa. \nWszystkie wymiany robione na czas.\nPo dużym serwisie, posiadam dokumenty \n\nAktualny przegląd i ubezpieczenie do maja 2025 roku.\n\nMożliwa zamiana.\n\nSamochód jest używany i nosi normalne ślady użytkowania \n\nKontakt telefoniczny:517##506##292",
+            "details": {
+                "Model": "V50",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "332 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "109 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po prawej"
+            }
+        },
+        {
             "title": "Na sprzedaż Hyundai Santa Fe 2.0 CRDI/4X4/idealny stan/nowe hamulce/",
             "price": "5 490 złdo negocjacji",
             "link": "https://www.olx.pl/oferta/na-sprzedaz-hyundai-santa-fe-2-0-crdi-4x4-idealny-stan-nowe-hamulce-CID5-ID15bw5t.html",
@@ -5928,6 +6117,72 @@
             "date": "30 March 2025",
             "description": "Нет описания",
             "details": {}
+        },
+        {
+            "title": "Fiat Seicento sprzedam",
+            "price": "2 500 zł",
+            "link": "https://www.olx.pl/oferta/fiat-seicento-sprzedam-CID5-ID15bP42.html",
+            "location": "Dziechciniec",
+            "date": "30 March 2025",
+            "description": "Sprzedam Seicento. 2002 rok. Silnik 900cm3. Przebieg 87000. Stan jak na zdjęciach. Więcej informacji pod numerem tel. 5*0*2*4*5*9*9*5*8.",
+            "details": {
+                "Model": "Seicento",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "87 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "Volkswagen Golf V 1.6 MPI !!! 2003 roku !!!",
+            "price": "5 900 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/volkswagen-golf-v-1-6-mpi-2003-roku-CID5-ID158PH7.html",
+            "location": "Piaseczno",
+            "date": "30 March 2025",
+            "description": "Witam, \nPosiadam na sprzedaż Volkswagena Golfa z silnikiem 1.6 benzyna jest to niezawodna jednostka MPI auto pochodzi z 2003 roku. \nAuto blacharsko w dobrym stanie. Wnętrze nie zniszczone. \nZawieszenie oraz sprzęgło działa prawidłowo. OC do 15.07.25\n\nZapraszam do kontaktu telefonicznego !!!",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "307 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "110 KM",
+                "Kierownica": "po lewej"
+            }
+        },
+        {
+            "title": "volkswagen bora 1.9 ARL (uszkodzone turbo)",
+            "price": "3 000 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/volkswagen-bora-1-9-arl-uszkodzone-turbo-CID5-ID15bE7L.html",
+            "location": "Pionki",
+            "date": "30 March 2025",
+            "description": "sprzedam bore 1.9 ARL  (padło turbo) odpala ale turbo wciągnęło olej \n\n373k przebieg \n\nbrak przeglądu, zepsuty plywak \n\nnowe hamulce tył \nnowe świece \nrobiona lapa skrzyni\nnowe sprzęgło 2masa \nnowe wahacze i drążki \nrozrząd wymieniany niedawno \nnowy rozrusznik \ntył sprężyny obniżające -45mm \ni nowa miska olejowa \n\nblacharsko jest słabo\n\n3000 zł do negocjacji",
+            "details": {
+                "Numer VIN": "WVWZZZ1JZ5W040066",
+                "Model": "Bora",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "373 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            }
         },
         {
             "title": "SMART FORFOUR Diesel 1.5 (silnik Mercedes / konstrukcja Mitsubishi)",
@@ -6443,6 +6698,30 @@
                 "Skrzynia biegów": "Manualna",
                 "Kraj pochodzenia": "Polska",
                 "Moc silnika": "115 KM"
+            }
+        },
+        {
+            "title": "Landrover Freelander 2.0TD",
+            "price": "7 500 złdo negocjacji",
+            "link": "https://www.olx.pl/oferta/landrover-freelander-2-0td-CID5-ID151CZV.html",
+            "location": "Łódź, Widzew",
+            "date": "27 March 2025",
+            "description": "Witam mam na sprzedaż Land Rover Freelander 2.0TD\nAuto sprawne:\nZałożone nowe sprzęgło,\nwymieniony akumulator,\n\nWażny przegląd techniczny do 27.02.2026 oraz oc 22.05.2025;\nWał zdjęty do regeneracji;\nMożliwość zdjęcia hard topa i założenia soft topa;\nSprawna klimatyzacja;\nLusterka elektryczne, podgrzewane;\nSzyby elektryczne przód oraz tył na drzwiach;",
+            "details": {
+                "Numer VIN": "SALLNAAB8XA692120",
+                "Model": "Freelander",
+                "Rok produkcji": "1999",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "291 800 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 994 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Włochy",
+                "Moc silnika": "95 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
             }
         },
         {
