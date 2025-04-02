@@ -11,10 +11,8 @@ MONTHS_PL = {
     "września": "September", "października": "October", "listopada": "November", "grudnia": "December"
 }
 
-# URL для получения данных
 OLX_URL = "https://www.olx.pl/motoryzacja/samochody/warszawa/?search%5Bdist%5D=100&search%5Border%5D=created_at:desc&search%5Bfilter_float_price:to%5D=10000"
 
-# Функция для парсинга местоположения и даты
 def parse_location_date(location_date):
     today_pattern = r'(Odświeżono )?Dzisiaj o (\d{1,2}:\d{2})'
     date_pattern = r'(Odświeżono )?(\d{1,2}) ([a-z]+) (\d{4})'
@@ -35,7 +33,6 @@ def parse_location_date(location_date):
 
     return location_date, ""
 
-# Функция для получения дополнительных данных о машине
 def get_car_details(link):
     if "otomoto.pl" in link:
         return {}
@@ -58,7 +55,6 @@ def get_car_details(link):
     except Exception:
         return {}
 
-# Функция для получения всех объявлений с OLX
 def get_olx_ads():
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(OLX_URL, headers=headers)
@@ -69,15 +65,18 @@ def get_olx_ads():
     ad_items = soup.select("div[data-cy='l-card']")
     for item in ad_items:
         try:
+            link = item.find("a", href=True)["href"]
+            if "otomoto.pl" in link:
+                continue  # Пропускаем ссылки на otomoto.pl
             title = item.select_one("a > h4").text.strip()
             price_text = item.select_one("p[data-testid='ad-price']").text.strip()
-            link = f"https://www.olx.pl{item.find('a', href=True)['href']}"
+            link = f"https://www.olx.pl{link}"
             location_date = item.select_one("p.css-vbz67q").text.strip()
             location, date = parse_location_date(location_date)
             car_details = get_car_details(link)
             ads.append({
                 "title": title,
-                "price": price_text,
+                "price": price_text ,
                 "link": link,
                 "location": location,
                 "date": date,
@@ -88,7 +87,6 @@ def get_olx_ads():
             continue
     return ads
 
-# Функция для загрузки существующих данных из JSON
 def load_existing_data():
     try:
         with open("olx_ads.json", "r", encoding="utf-8") as f:
@@ -97,13 +95,11 @@ def load_existing_data():
     except FileNotFoundError:
         return []
 
-# Функция для сохранения обновленных данных в JSON
 def save_data_to_json(ads):
     data = {"updated": str(datetime.datetime.now()), "ads": ads}
     with open("olx_ads.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
-# Функция для корректного преобразования строки даты в объект datetime
 def convert_date_to_datetime(date_str):
     try:
         for pl, en in MONTHS_PL.items():
@@ -116,29 +112,13 @@ def convert_date_to_datetime(date_str):
     except ValueError:
         return None
 
-# Функция для обновления данных
 def update_ads():
-    # Загружаем старые данные из JSON
     existing_ads = load_existing_data()
-
-    # Получаем новые объявления
     new_ads = get_olx_ads()
-
-    # Добавляем новые объявления, которых еще нет в существующих данных
-    all_ads = existing_ads
-    for ad in new_ads:
-        # Проверяем, если ссылка на это объявление уже есть в существующих данных
-        if not any(existing_ad["link"] == ad["link"] for existing_ad in existing_ads):
-            all_ads.append(ad)
-
-    # Убираем дубли (если объявления с одинаковыми ссылками)
+    all_ads = existing_ads + new_ads
     unique_ads = {ad["link"]: ad for ad in all_ads}
     all_ads = list(unique_ads.values())
-
-    # Сортируем по дате (новые вверху)
     all_ads.sort(key=lambda x: convert_date_to_datetime(x["date"]) or datetime.datetime.min, reverse=True)
-
-    # Сохраняем обновленные данные в JSON
     save_data_to_json(all_ads)
 
 update_ads()
