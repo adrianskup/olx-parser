@@ -69,16 +69,24 @@ def get_car_details(link, is_otomoto=False):
     try:
         response = requests.get(link, headers=HEADERS, timeout=10)
         response.raise_for_status()
-
+        
         soup = BeautifulSoup(response.text, "html.parser")
-        result = {"description": "Opis nie podano", "details": {}, "image_url": None}
+        result = {
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": None
+        }
 
         if is_otomoto:
+            # Извлечение описания
             description_element = soup.select_one("div.ooa-unlmzs.e1s9vvdy4")
             if description_element:
                 result["description"] = description_element.get_text(separator="\n").strip()
 
+            # Извлечение характеристик
             details = {}
+            
+            # Основные параметры (марка, модель, год)
             params_container = soup.find("div", {"data-testid": "ad-top-attributes"})
             if params_container:
                 params = params_container.find_all("p")
@@ -88,37 +96,64 @@ def get_car_details(link, is_otomoto=False):
                         value = params[i + 1].text.strip()
                         details[key] = value
 
+            # Технические характеристики
             tech_params = soup.find("div", {"data-testid": "ad-params"})
             if tech_params:
-                for section in tech_params.find_all("div", recursive=False):
-                    key_element = section.find("p", class_=re.compile(".*ooa-1vfan6r.*"))
-                    value_element = section.find("p", class_=re.compile(".*ooa-10u0vtk.*"))
-                    if key_element and value_element:
-                        details[key_element.text.strip()] = value_element.text.strip()
+                sections = tech_params.find_all("div", recursive=False)
+                for section in sections:
+                    try:
+                        key = section.find("p", class_="ekwurce8 ooa-1vfan6r").text.strip()
+                        value = section.find("p", class_="ekwurce9 ooa-10u0vtk").text.strip()
+                        details[key] = value
+                    except:
+                        continue
+
+            # Альтернативный способ, если не нашло через основные методы
+            if not details:
+                param_items = soup.select("div.ooa-17g1q1x.ekwurce6")
+                for item in param_items:
+                    try:
+                        key = item.find("p", class_="ekwurce8 ooa-1vfan6r").text.strip()
+                        value = item.find("p", class_="ekwurce9 ooa-10u0vtk").text.strip()
+                        details[key] = value
+                    except:
+                        continue
 
             result["details"] = details
 
-            img_container = soup.select_one('img[data-testid="bigImage"]')
+            # Извлечение изображения (новый рабочий метод)
+            img_container = soup.select_one('div.css-gl6djm img') or \
+                            soup.select_one('img[data-testid="bigImage"]') or \
+                            soup.select_one('img[src*="apollo.olxcdn.com"]')
+            
             if img_container:
-                result["image_url"] = img_container.get("src")
+                image_url = img_container.get('src') or img_container.get('data-src')
+                if image_url and ';s=' in image_url:
+                    image_url = image_url.split(';s=')[0]  # Убираем ненужные параметры
+                result["image_url"] = image_url
+
         else:
-            description_element = soup.select_one("div.css-1t507yq")
+            # Обработка OLX объявлений
+            description_element = soup.select_one("div.css-19duwlz")
             if description_element:
                 result["description"] = description_element.get_text(separator="\n").strip()
 
+            # Характеристики OLX
             details = {}
-            details_container = soup.select("ul.css-sfcl1s li")
-            for detail in details_container:
-                key_element = detail.select_one("p")
-                value_element = detail.select("p")[1] if len(detail.select("p")) > 1 else None
-                if key_element and value_element:
-                    details[key_element.text.strip()] = value_element.text.strip()
+            details_items = soup.select("div.css-ae1s7g div.css-1msmb8o p.css-z0m36u")
+            for item in details_items:
+                text = item.get_text(strip=True)
+                if ':' in text:
+                    key, value = text.split(':', 1)
+                    details[key.strip()] = value.strip()
 
             result["details"] = details
 
-            img_container = soup.select_one("img[data-testid='image']")
-            if img_container:
-                result["image_url"] = img_container.get("src")
+            # Изображение OLX
+            img_element = soup.select_one('div.swiper-zoom-container img') or \
+                          soup.select_one('img[data-testid="swiper-image"]')
+            if img_element:
+                result["image_url"] = img_element.get('src') or img_element.get('data-src')
 
         return result
 
@@ -126,8 +161,12 @@ def get_car_details(link, is_otomoto=False):
         print(f"Ошибка запроса для {link}: {e}")
     except Exception as e:
         print(f"Ошибка при обработке {link}: {e}")
-
-    return {"description": "Ошибка при получении данных", "details": {}, "image_url": None}
+    
+    return {
+        "description": "Ошибка при получении данных",
+        "details": {},
+        "image_url": None
+    }
 
 def get_olx_ads():
     response = requests.get(OLX_URL, headers=HEADERS)
