@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OLX Car Ads</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <div class="container">
@@ -13,8 +13,8 @@
             <div id="updated-time-container">
                 <p>Последнее обновление данных: <span id="updated-time"></span></p>
             </div>
-            <h1>OLX Car Ads</h1>
-            <p>Все объявления о машинах в радиусе 100 км от Варшавы до 10.000 zł</p>
+            <h1>olx parciutko</h1>
+            <p>Все OLX объявления о машинах в Варшаве и на расстоянии до 100 км за цену до 10 000 зл.</p>
         </header>
         
         <div class="ads-list" id="ads-list">
@@ -22,66 +22,8 @@
         </div>
 
         <footer>
-            <p>&copy; 2025, Все права защищены</p>
+            <p>&copy; мало? пиши в тг @kkgkgkk</p>
         </footer>
     </div>
-
-    <script>
-        // Fetch and display JSON data
-        fetch('https://raw.githubusercontent.com/adrianskup/olx-parser/main/olx_ads.json')
-            .then(response => response.json())
-            .then(data => {
-                const updatedTimeElement = document.getElementById('updated-time');
-                updatedTimeElement.textContent = data.updated;
-
-                const ads = data.ads;
-                const adsList = document.getElementById('ads-list');
-                adsList.innerHTML = '';
-
-                ads.forEach(ad => {
-                    const adItem = document.createElement('div');
-                    adItem.classList.add('ad-item');
-
-                    const imageUrl = ad.image_url ? ad.image_url : 'default-image.jpg';
-
-                    let detailsHtml = '<div class="details">';
-                    if (ad.details) {
-                        for (const [key, value] of Object.entries(ad.details)) {
-                            detailsHtml += `<div><strong>${key}:</strong> ${value}</div>`;
-                        }
-                    }
-                    detailsHtml += '</div>';
-
-                    adItem.innerHTML = `
-                        <img src="${imageUrl}" alt="Car Image">
-                        <div class="content">
-                            <div class="title"><a href="${ad.link}" target="_blank">${ad.title}</a></div>
-                            <div class="price">${ad.price}</div>
-                            <div class="location">${ad.location}</div>
-                            <div class="date">${ad.date}</div>
-                            <div class="description">
-                                <p>${ad.description.substring(0, 100)}...</p>
-                                <button class="toggle-description">Подробнее</button>
-                            </div>
-                            ${detailsHtml}
-                        </div>
-                    `;
-                    adsList.appendChild(adItem);
-
-                    // Toggle description visibility
-                    const toggleButton = adItem.querySelector('.toggle-description');
-                    const description = adItem.querySelector('.description p');
-                    toggleButton.addEventListener('click', () => {
-                        description.textContent = description.textContent === ad.description 
-                            ? ad.description.substring(0, 100) + '...'
-                            : ad.description;
-                    });
-                });
-            })
-            .catch(error => {
-                console.error("Error loading JSON:", error);
-                document.getElementById('ads-list').innerHTML = 'Ошибка при загрузке данных. Попробуйте позже.';
-            });
-    </script>
 </body>
 </html>
