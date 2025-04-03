@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Обновляем время последнего обновления
             if (updatedTimeElement) {
-                updatedTimeElement.textContent = `Last updated: ${data.updated}`;
+                updatedTimeElement.textContent = `Последнее обновление: ${data.updated}`;
             }
 
             const ads = data.ads;
@@ -42,15 +42,24 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="location">${ad.location}</div>
                         <div class="date">${ad.date}</div>
                         <div class="description">${ad.description}</div>
-                        ${detailsHtml} <!-- Вставляем блок с деталями -->
+                        ${detailsHtml}
+                        <span class="show-more">Показать больше</span>
                     </div>
                 `;
+
+                // Добавляем функционал для "Показать больше"
+                const showMoreButton = adItem.querySelector('.show-more');
+                showMoreButton.addEventListener('click', () => {
+                    const description = adItem.querySelector('.description');
+                    description.style.webkitLineClamp = 'unset';
+                    showMoreButton.style.display = 'none';
+                });
 
                 adsList.appendChild(adItem);
             });
         })
         .catch(error => {
-            console.error("Error loading JSON:", error);
+            console.error("Ошибка при загрузке JSON:", error);
             adsList.innerHTML = 'Произошла ошибка при загрузке данных. Попробуйте позже.';
         });
 });
