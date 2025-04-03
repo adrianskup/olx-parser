@@ -25,19 +25,5 @@
             <p>&copy; мало? пиши в тг @kkgkgkk</p>
         </footer>
     </div>
-
-    <script>
-        // Function to fetch the JSON data (you can use a local JSON file or an API here)
-        fetch('olx_ads.json') // Update this to the correct path of your JSON file
-            .then(response => response.json())
-            .then(data => {
-                // Display the updated date and time at the top of the page
-                const updatedTimeElement = document.getElementById('updated-time');
-                updatedTimeElement.textContent = data.updated;
-            })
-            .catch(error => {
-                console.error('Ошибка при загрузке данных:', error);
-            });
-    </script>
 </body>
 </html>
