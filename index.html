@@ -25,5 +25,17 @@
             <p>&copy; мало? пиши в тг @kkgkgkk</p>
         </footer>
     </div>
+
+    <script>
+    fetch('olx_ads.json')
+        .then(response => response.json())
+        .then(data => {
+            const updatedTimeElement = document.getElementById('updated-time');
+            updatedTimeElement.textContent = data.updated;
+        })
+        .catch(error => {
+            console.error('Ошибка при загрузке данных:', error);
+        });
+    </script>
 </body>
 </html>
