@@ -56,7 +56,6 @@ def convert_date_to_datetime(date_str):
         return datetime.datetime.min
 
 def clean_price(price_text):
-    # Проверим, есть ли фраза "do negocjacji"
     price_text = re.sub(r'\s*do negocjacji', '', price_text).strip()
     price_with_negotiation = 'do negocjacji' if 'do negocjacji' in price_text else ''
     return price_text, price_with_negotiation
@@ -65,24 +64,16 @@ def get_car_details(link, is_otomoto=False):
     try:
         response = requests.get(link, headers=HEADERS, timeout=10)
         response.raise_for_status()
-        
+
         soup = BeautifulSoup(response.text, "html.parser")
-        result = {
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": None
-        }
+        result = {"description": "Opis nie podano", "details": {}, "image_url": None}
 
         if is_otomoto:
-            # Извлечение описания
             description_element = soup.select_one("div.ooa-unlmzs.e1s9vvdy4")
             if description_element:
                 result["description"] = description_element.get_text(separator="\n").strip()
 
-            # Извлечение характеристик
             details = {}
-            
-            # Основные параметры (марка, модель, год)
             params_container = soup.find("div", {"data-testid": "ad-top-attributes"})
             if params_container:
                 params = params_container.find_all("p")
@@ -92,7 +83,6 @@ def get_car_details(link, is_otomoto=False):
                         value = params[i + 1].text.strip()
                         details[key] = value
 
-            # Технические характеристики
             tech_params = soup.find("div", {"data-testid": "ad-params"})
             if tech_params:
                 sections = tech_params.find_all("div", recursive=False)
@@ -104,37 +94,21 @@ def get_car_details(link, is_otomoto=False):
                     except:
                         continue
 
-            # Альтернативный способ, если не нашло через основные методы
-            if not details:
-                param_items = soup.select("div.ooa-17g1q1x.ekwurce6")
-                for item in param_items:
-                    try:
-                        key = item.find("p", class_="ekwurce8 ooa-1vfan6r").text.strip()
-                        value = item.find("p", class_="ekwurce9 ooa-10u0vtk").text.strip()
-                        details[key] = value
-                    except:
-                        continue
-
             result["details"] = details
-
-            # Извлечение изображения (новый рабочий метод)
             img_container = soup.select_one('div.css-gl6djm img') or \
                             soup.select_one('img[data-testid="bigImage"]') or \
                             soup.select_one('img[src*="apollo.olxcdn.com"]')
-            
             if img_container:
                 image_url = img_container.get('src') or img_container.get('data-src')
                 if image_url and ';s=' in image_url:
-                    image_url = image_url.split(';s=')[0]  # Убираем ненужные параметры
+                    image_url = image_url.split(';s=')[0]
                 result["image_url"] = image_url
 
         else:
-            # Обработка OLX объявлений
             description_element = soup.select_one("div.css-19duwlz")
             if description_element:
                 result["description"] = description_element.get_text(separator="\n").strip()
 
-            # Характеристики OLX
             details = {}
             details_items = soup.select("div.css-ae1s7g div.css-1msmb8o p.css-z0m36u")
             for item in details_items:
@@ -144,8 +118,6 @@ def get_car_details(link, is_otomoto=False):
                     details[key.strip()] = value.strip()
 
             result["details"] = details
-
-            # Изображение OLX
             img_element = soup.select_one('div.swiper-zoom-container img') or \
                           soup.select_one('img[data-testid="swiper-image"]')
             if img_element:
@@ -157,19 +129,14 @@ def get_car_details(link, is_otomoto=False):
         print(f"Ошибка запроса для {link}: {e}")
     except Exception as e:
         print(f"Ошибка при обработке {link}: {e}")
-    
-    return {
-        "description": "Ошибка при получении данных",
-        "details": {},
-        "image_url": None
-    }
-    
+
+    return {"description": "Ошибка при получении данных", "details": {}, "image_url": None}
 
 def get_olx_ads():
     response = requests.get(OLX_URL, headers=HEADERS)
     if response.status_code != 200:
         return []
-    
+
     soup = BeautifulSoup(response.text, "html.parser")
     ads = []
     ad_items = soup.select("div[data-cy='l-card']")
@@ -181,7 +148,7 @@ def get_olx_ads():
             price_text = clean_price(item.select_one("p[data-testid='ad-price']").text.strip())
             
             is_otomoto = "otomoto.pl" in link
-            link = link if is_otomoto else f"https://www.olx.pl{link}"  
+            link = link if is_otomoto else f"https://www.olx.pl{link}"
 
             location_date = item.select_one("p.css-vbz67q").text.strip()
             location, date = parse_location_date(location_date)
@@ -195,7 +162,7 @@ def get_olx_ads():
                 "link": link,
                 "location": location,
                 "date": date,
-                "description": car_details.get("description", "Нет описания"),
+                "description": car_details.get("description", "Brak opisu"),
                 "details": car_details.get("details", {}),
                 "image_url": car_details.get("image_url", None)
             }
@@ -232,10 +199,9 @@ def update_ads():
 
 update_ads()
 
-# Настройки для GitHub
 GITHUB_USERNAME = "adrianskup"
 REPO_NAME = "olx-parser"
-BRANCH_NAME = "main"  # Или другая ветка, если используешь
+BRANCH_NAME = "main"
 
 def push_to_github():
     os.system("git config --global user.name 'github-actions'")
@@ -244,5 +210,4 @@ def push_to_github():
     os.system('git commit -m "Автоматическое обновление объявлений" || echo "No changes to commit"')
     os.system("git push")
 
-# Запускаем пуш после обновления объявлений
 push_to_github()
