@@ -56,9 +56,14 @@ def convert_date_to_datetime(date_str):
         return datetime.datetime.min
 
 def clean_price(price_text):
+    # Проверяем, есть ли в тексте "do negocjacji"
+    negotiable = "do negocjacji" in price_text
+    # Убираем "do negocjacji" из строки
     price_text = re.sub(r'\s*do negocjacji', '', price_text).strip()
-    price_with_negotiation = 'do negocjacji' if 'do negocjacji' in price_text else ''
-    return price_text, price_with_negotiation
+    return price_text, negotiable
+
+    # Возвращаем цену и флаг negotiable
+    return price_text, negotiable
 
 def get_car_details(link, is_otomoto=False):
     try:
@@ -136,7 +141,7 @@ def get_olx_ads():
     response = requests.get(OLX_URL, headers=HEADERS)
     if response.status_code != 200:
         return []
-
+    
     soup = BeautifulSoup(response.text, "html.parser")
     ads = []
     ad_items = soup.select("div[data-cy='l-card']")
@@ -145,7 +150,10 @@ def get_olx_ads():
         try:
             link = item.find("a", href=True)["href"]
             title = item.select_one("a > h4").text.strip()
-            price_text = clean_price(item.select_one("p[data-testid='ad-price']").text.strip())
+
+            # Получаем цену и флаг наличия "do negocjacji"
+            price_text = item.select_one("p[data-testid='ad-price']").text.strip()
+            price, negotiable = clean_price(price_text)
             
             is_otomoto = "otomoto.pl" in link
             link = link if is_otomoto else f"https://www.olx.pl{link}"
@@ -158,11 +166,12 @@ def get_olx_ads():
 
             ad = {
                 "title": title,
-                "price": price_text,
+                "price": price,  # Корректная цена без "do negocjacji"
+                "negotiable": negotiable,  # Флаг, если есть "do negocjacji"
                 "link": link,
                 "location": location,
                 "date": date,
-                "description": car_details.get("description", "Brak opisu"),
+                "description": car_details.get("description", "Нет описания"),
                 "details": car_details.get("details", {}),
                 "image_url": car_details.get("image_url", None)
             }
