@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 detailsHtml += '</div>';
 
                 // Проверяем, есть ли торг
-                const negotiableText = ad.negotiable ? '<div class="negotiable">💰 Возможен торг</div>' : '';
+                const negotiableText = ad.negotiable ? '<div class="negotiable">Do Negocjacji</div>' : '';
 
                 adItem.innerHTML = `
                     <img src="${imageUrl}" alt="Car Image">
