@@ -5,10 +5,6 @@ import datetime
 from bs4 import BeautifulSoup
 import re
 import time
-from geopy.distance import geodesic  # Импортируем geopy для расчета расстояния между координатами
-
-# Координаты Варшавы
-WARSAW_COORDINATES = (52.2298, 21.0118)
 
 MONTHS_PL = {
     "stycznia": "January", "lutego": "February", "marca": "March", "kwietnia": "April",
@@ -60,29 +56,14 @@ def convert_date_to_datetime(date_str):
         return datetime.datetime.min
 
 def clean_price(price_text):
+    # Проверяем, есть ли в тексте "do negocjacji"
     negotiable = "do negocjacji" in price_text
+    # Убираем "do negocjacji" из строки
     price_text = re.sub(r'\s*do negocjacji', '', price_text).strip()
     return price_text, negotiable
 
-def get_coordinates(city_name):
-    # Используем геокодирование для получения координат города
-    # Пример с OpenCage Geocoder (необходимо зарегистрироваться и получить API ключ)
-    API_KEY = "your_api_key_here"
-    url = f"https://api.opencagedata.com/geocode/v1/json?q={city_name}&key={API_KEY}"
-    response = requests.get(url)
-    if response.status_code == 200:
-        data = response.json()
-        if data["results"]:
-            lat = data["results"][0]["geometry"]["lat"]
-            lng = data["results"][0]["geometry"]["lng"]
-            return lat, lng
-    return None
-
-def calculate_distance_to_warsaw(city_name):
-    coordinates = get_coordinates(city_name)
-    if coordinates:
-        return geodesic(WARSAW_COORDINATES, coordinates).km
-    return None
+    # Возвращаем цену и флаг negotiable
+    return price_text, negotiable
 
 def get_car_details(link, is_otomoto=False):
     try:
@@ -170,6 +151,7 @@ def get_olx_ads():
             link = item.find("a", href=True)["href"]
             title = item.select_one("a > h4").text.strip()
 
+            # Получаем цену и флаг наличия "do negocjacji"
             price_text = item.select_one("p[data-testid='ad-price']").text.strip()
             price, negotiable = clean_price(price_text)
             
@@ -180,18 +162,15 @@ def get_olx_ads():
             location, date = parse_location_date(location_date)
             date = date if date else "01 January 2000"
 
-            distance = calculate_distance_to_warsaw(location)  # Получаем расстояние до Варшавы
-
             car_details = get_car_details(link, is_otomoto)
 
             ad = {
                 "title": title,
-                "price": price,
-                "negotiable": negotiable,
+                "price": price,  # Корректная цена без "do negocjacji"
+                "negotiable": negotiable,  # Флаг, если есть "do negocjacji"
                 "link": link,
                 "location": location,
                 "date": date,
-                "distance_from_warsaw": distance,  # Расстояние до Варшавы
                 "description": car_details.get("description", "Нет описания"),
                 "details": car_details.get("details", {}),
                 "image_url": car_details.get("image_url", None)
