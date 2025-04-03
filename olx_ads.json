@@ -1,6 +1,33 @@
 {
-    "updated": "2025-04-03 19:38:35.748620",
+    "updated": "2025-04-03 19:40:16.523678",
     "ads": [
+        {
+            "title": "Ford Fiesta Przebieg 180 tys",
+            "price": "5 300 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-fiesta-przebieg-180-tys-ID6HhYjB.html",
+            "location": "Otwock",
+            "date": "03 April 2025 o 19:34",
+            "description": "Sprzedam Ford Fiesta ,nie działa radio -wcześniej chodziło.Tak auto nie wybite ,dobrze się prowadzi, ładny środek nie zniszczony/ dodatkowo opony letnie. Cena do rozsądnej negocjacji .Samochód nosi normalne ślady użytkowania. Przegląd  do sierpnia, ubezpieczenie do stycznia 26 . ABS .centr.zamek,wspomaganie,klimatyzacja, 4 poduszka powietrzna.",
+            "details": {
+                "Marka pojazdu": "Ford",
+                "Model pojazdu": "Fiesta",
+                "Kolor": "Niebieski",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Generacja": "Mk6 (2002-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 388 cm3",
+                "Moc": "80 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Przebieg": "180 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhxcDdoMW5kYXE5dy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.14eIl0tDGdJHrjgPDVcV4Y9r8YPcie9Fnz2GiGwThJY/image"
+        },
         {
             "title": "Renault Clio 1.2 stan bardzo dobry",
             "price": "9 600 zł",
@@ -25,6 +52,32 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9suryyna0wg43-PL/image;s=1020x459"
+        },
+        {
+            "title": "Peugeot 207 Niemcy Klimatyzacja",
+            "price": "7 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/peugeot-207-niemcy-klimatyzacja-CID5-ID15fYou.html",
+            "location": "Raciąż",
+            "date": "03 April 2025 o 19:34",
+            "description": "Witam serdecznie do zaoferowania państwu peugeot 207 Małe ekonomiczne auto sprawna klimatyzacja więcej informacji udzielę telefonicznie zapraszam",
+            "details": {
+                "Numer VIN": "VF1",
+                "Model": "207",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "177 777 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a4t53zpha4092-PL/image;s=1984x1663"
         },
         {
             "title": "Sprzedam Opel Agila 1.0 z LPG",
@@ -121,6 +174,30 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/57ml5i4f4px43-PL/image;s=2000x1500"
         },
         {
+            "title": "FIat Panda 1.1 benzyna",
+            "price": "3 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/fiat-panda-1-1-benzyna-CID5-ID15fWZr.html",
+            "location": "Stare Budy",
+            "date": "03 April 2025 o 19:31",
+            "description": "Witam sprzedam Auto FIat Panda\n\nSilnik 1.1 w benzynce 2004r \n\nAuto jak na swój wiek w dobrej kondycj niski przebieg 126430 i ciagle rośnie, od roku w posiadaniu \n\nWięcej informaci udzielę telefonicznie \n\n79*******14",
+            "details": {
+                "Model": "Panda",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "126 430 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 100 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cj3msp8mgkqh-PL/image;s=423x564"
+        },
+        {
             "title": "BMW E38 seria 728i + mnóstwo części zapasowych",
             "price": "8 000 zł",
             "negotiable": true,
@@ -170,6 +247,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5to510wxdiki2-PL/image;s=1008x756"
+        },
+        {
+            "title": "Mazda 2 1.4 Śliczna z Niemiec*Klimatronik*Alu*Serwis*Zobacz 2007r",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/mazda-2-1-4-sliczna-z-niemiecklimatronikaluserwiszobacz-2007r-CID5-ID157Ri4.html",
+            "location": "Gostynin",
+            "date": "03 April 2025 o 19:29",
+            "description": "Witam.Mam Na Sprzedanie MAZDA 2 1.4 80 koni 5-Drzwiowa, Skrzynia MANUALNA,Sprowadzony kilka dni temu z Niemiec,Auto jest od pierwszego właściciela jest w stanie idealnym i serwisowanym do końca posiada książkę serwisowa bardzo ładnie chodzi,w środku jest jak nowa tapicerka w idealnym stanie jak i technicznym zobacz na żywo śliczny jest,opłacony.posiada książkę 8900 zl. uzgodnienia. tel 695#786#013 OPŁACONA KOSZT REJ.161 zł\n\n\n\nPrzebieg Oryginalny z Książka Serwisowa 170304 Tys KM\n\n\n\nWięcej zdjęć 40 na Otomoto Lokalizacja Gostynin\n\n\n\nWyposażenie\n\n\n\nwspomaganie kierownicy\n\npoduszki powietrzne\n\nPodgrzewane fotele\n\nAlufelgi Oryginalne\n\nKomputer pokładowy\n\nElektryczne szyby\n\nElektryczne lusterka\n\ncentralny zamek\n\nKLIMATRONIK\n\nKubełkowe siedzenia\n\nKomputer Pokładowy\n\nOpony LADNE\n\n2 komplet kluczyków\n\nksiążka serwisowa\n\nabs\n\nasp\n\nradio Cd Mp3 USB\n\n\n\nSamochód został świeżo sprowadzony z Niemiec od prywatnej osoby Wszystko udokumentowane w briefach Książka serwisowa do wglądu\n\n\n\nSamochód jest naprawdę w idealnym stanie, silnik, skrzynia biegów, zawieszenie jak i reszta innych podzespołów pracują bez najmniejszych zarzutów. Samochód pali na dotyk, nie kopci nawet przy mocniejszym dodaniu gazu, oraz posiada swoją prawidłową moc. Zero wycieków\n\n\n\nSilnik pracuje jak zegarek, przy czym jest bardzo ekonomiczny, w trasie udało mi się uzyskać spalanie poniżej 6 L na 100 km. Samochodem zrobiłem ponad 800 km wracając z Niemiec,Mazda na trasie spisywało się rewelacyjnie!\n\n\n\nZawieszenie w samochodzie również pracuje jak nowe, nie słychać żadnych stuków czy luzów, jest sztywne i pracuje prawidłowo, samochód prowadzi się pewnie i prosto, nie ściąga go na żadne strony.\n\n\n\nWnętrze samochodu wygląda jak nowe i pachnie nowością, fotele nie posiadają żadnych dziur czy przetarć, są czyste i zadbane. W aucie nie palono papierosów.\n\n\n\nPlastiki wszystkie są prawidłowo umiejscowione na swoim miejscu tak jak powinno być, nic nie jest połamane czy zniszczone.\n\n\n\nKaroseria auta posiada oryginalny lakier, nic nigdy nie było ponownie lakierowane, nie ma mowy też o żadnej rdzy, lakier auta jest zadbany, posiada normalne ślady użytkowania. Samochód był przez cały czas garażowany.\n\n\n\nSamochód bezwypadkowy, na Państwa\n\n\n\nżyczenie możliwość sprawdzenia auta w dowolnie wybranej stacji diagnostycznej.\n\n\n\nZapraszam serdecznie, na pewno nikt z Państwa nie rozczaruje się oglądając pojazd na żywo.\n\n\n\nMAZDA W JEST W BARDZO DOBRYM STANIE, NA POLSKIM RYNKU NAPRAWDĘ CIĘŻKO O TAK ZADBANY EGZEMPLARZ, DLATEGO CENA JEST ADEKWATNA DO STANU POJAZDU., ORAZ NIE WYMAGA ŻADNYCH DODATKOWYCH WKŁADÓW FINANSOWYCH.\n\n\n\nBEZWYPADKOWY\n\n\n\nORYGINALNY PRZEBIEG\n\n\n\nORYGINALNY LAKIER,\n\n\n\nSTAN WIZUALNY PERFEKCYJNY,\n\n\n\nSTAN TECHNICZNY IDEALNY\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce.\n\n\n\nStan techniczny oceniam jako bardzo dobry. Samochód jest sprawny, jeżdżący, nie posiada ukrytych wad technicznych.Wszystko robione na czas oleje paski itd..Co świadczy Niemiecki przegląd i wpisy w książkę serwisową.(Na życzenie do wglądu!!) Silnik sprawny, pracuje równo, bez problemu wchodzi na obroty.Skrzynia idealna.Środek ładny nie poniszczony bez jakichkolwiek,przetarć wszystkie plastiki na swoim miejscu. Cała elektryka działa bez zarzutu, brak błędów w komputerze. Karoseria bez oznak korozji, lakier w bardzo dobrym stanie.\n\n\n\nZainteresowanych serdecznie zapraszam na oględziny i ewentualną jazdę próbną.\n\n\n\nSamochód do oglądnięcia znajduje się w Gostyninie Woj.Mazowieckie\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce. Po zakupie auta można wracać do domu na\n\n\n\nKołach(Ubezpieczenie Gratis). Możliwość sprawdzenia auta na dowolnej stacji diagnostycznej.\n\n\n\n*Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, § 1. Kodeksu Cywilnego.\n\n\n\n*Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.\n\n\n\n* Zastrzegamy sobie prawo do kopiowania treści naszych ogłoszeń i przetwarzania ich osobom\n\n\n\ntrzecim oraz innym firmom konkurencyjnym\n\n\n\nZAPIS TEN ZOSTAŁ ZAWARTY ZE WZGLĘDU NA MOŻLIWOŚĆ DROBNYCH, LUDZKICH POMYŁEK. JEŻELI ZAUWAŻYSZ NIEŚCISŁOŚĆ - ZADZWOŃ DO NAS, A NIEZWŁOCZNIE JĄ WYJAŚNIMY\n\n\n\nTelefon; 695#786#013",
+            "details": {
+                "Model": "2",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "170 304 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "80 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o64ifzuus00s2-PL/image;s=2550x1700"
         },
         {
             "title": "Opel Vectra Kombi 1.8 bardzo doinwestowany, bez rdzy bez wkładu!",
@@ -813,158 +915,28 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/88agizeeefe8-PL/image;s=1232x1576"
         },
         {
-            "title": "Citroen C4 Grand Picasso",
-            "price": "8 600 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/citroen-c4-grand-picasso-CID5-ID15fV4n.html",
-            "location": "Warszawa, Bemowo",
-            "date": "03 April 2025 o 19:02",
-            "description": "Dzień dobry!  Sprzedaję Citroena c4 Grand Picasso. Ubezpieczenie i przegląd techniczny do września. Diesel. 7 miejsc. Silnik 1.6 Rock 2007.  Wszystko działa.  72********94",
-            "details": {
-                "Numer VIN": "vf7ua9hzh45035400",
-                "Model": "C4 Grand Picasso",
-                "Rok produkcji": "2007",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "350 km",
-                "Kolor": "Żółty – Złoty",
-                "Poj. silnika": "1 600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "66 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mjld6k5c61ea1-PL/image;s=768x1024"
-        },
-        {
-            "title": "Renault Laguna 1,8 Benzyna/ AUTOMAT/Klima/Bez Rdzy/Długie Opłaty/",
-            "price": "3 999 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/renault-laguna-1-8-benzyna-automat-klima-bez-rdzy-dlugie-oplaty-CID5-ID156EsG.html",
-            "location": "Łódź, Górna",
-            "date": "03 April 2025 o 19:02",
-            "description": "Witam na sprzedaż posiadam zgrabne auto jakim jest Renault Laguna z silnikiem 1.8 benzyna z automatyczną skrzynią biegów 262tys km przebiegu.\n\n\n\nSamochód mechanicznie bez najmniejszego problemu. \n\n\n\nSilnik ma moc nie poci się nie kopci nie pobiera oleju pracuje równo. \n\n\n\nZawieszenie bez luzów nie ma tu mowy o jakimkolwiek stuknięciu bądź puknięciu. \n\n\n\nAutomatyczna skrzynia biegów radzi sobie doskonale zmienia biegi zwinnie oraz płynnie nie szarpie nie przeciąga. \n\n\n\nKlimatyzacja jest w pełni sprawna nabita chłodzi dobrze. \n\n\n\nWizualnie jak na zdjęciach samochód wygląda dobrze. \n\n\n\nKaroseria progi oraz podłoga zdrowe. \n\n\n\nWnętrze dobrze wyposażone czyste oraz zadbane nie zmęczone życiem.\n\n\n\nSamochód gotowy jest do jazdy od zaraz!\n\n\n\nUbezpiecznie- 28.08.2025r.(sierpień)\n\nPrzegląd techniczny- 09.11.2025r.(listopad)\n\n\n\nPo więcej informacji na temat tego samochodu zapraszam do kontaktu telefonicznego. \n\n\n\n5 3 1 1 6 4 1 3 2",
-            "details": {
-                "Model": "Laguna",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "262 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "1 783 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "115 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r3w8b2h9ud1l-PL/image;s=1000x751"
-        },
-        {
-            "title": "Saab 9-3 Saab 9-3 1.8T Vector 195KM",
-            "price": "8 600 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/saab-9-3-saab-9-3-1-8t-vector-195km-ID6HhY2Q.html",
-            "location": "Wieliszew",
-            "date": "03 April 2025 o 19:02",
-            "description": "Dzień dobry.\nOferuję na sprzedaż samochód marki SAAB 93 w wersji Vector 1.8T 150km,( Wgrany program HIRSCH podnoszący moc do 195km) manual 5 biegów. Jestem jego pierwszym właścicielem w kraju od 2018roku, auto jest benzynowe z zamontowaną instalacją LPG marki STAG. Butla o pojemności 72 litrów pozwala na przejechanie ok 650km przy spokojnej jeździe. Sprowadzone z Holandii. Nie jest picowane, czyszczone itp. Przebieg oryginalny, bezwypadkowe, ale mające swoje mankamenty wynikające z użytkowania widoczne na zdjęciach.\nDwa ogniska korozji na nadkolach.\nWgniecenie na drzwiach pasażera\nDwa odpryski na szybie przedniej\nUszkodzony mechanizm podnoszenia szyby tylnej lewej i prawej\nSamochód NIE JEST NOWY. Regularnie serwisowany, wymiany filtrowo-olejowe co ok 10tys. kilometrów. Przebieg może się zmieniać, bo auto w ciągłym użytku. Przegląd ważny do 17.03.2026roku, OC ważne do 01.09.2025r. Cena jest do negocjacji. Zapraszam do kontaktu w razie pytań odpowiem na każde pytanie.",
-            "details": {
-                "Marka pojazdu": "Saab",
-                "Model pojazdu": "9-3",
-                "Wersja": "1.8t Vector",
-                "Kolor": "Szary",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2008",
-                "Generacja": "II (2003-2011)",
-                "Rodzaj paliwa": "Benzyna+LPG",
-                "Pojemność skokowa": "1 998 cm3",
-                "Moc": "150 KM",
-                "Typ nadwozia": "Sedan",
-                "Rodzaj koloru": "Metalik",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "184 g/km",
-                "Spalanie W Mieście": "10.7 l/100km",
-                "Spalanie Poza Miastem": "5.9 l/100km",
-                "Kraj pochodzenia": "Holandia",
-                "Przebieg": "287 752 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxvMzl3YWEwNWo1bDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.3lzdWXN8Djdtlit7mQ1levwq1un5Sc8U1BZCYvJTfR0/image"
-        },
-        {
-            "title": "Mitsubishi Outlander 2007 2.0 DI-D 140 KM uszkodzony",
-            "price": "6 700 zł",
+            "title": "Skoda Fabia II kombi 1,6tdi vat23%",
+            "price": "10 000 zł",
             "negotiable": false,
-            "link": "https://www.olx.pl/oferta/mitsubishi-outlander-2007-2-0-di-d-140-km-uszkodzony-CID5-ID15fV6q.html",
-            "location": "Gadka",
-            "date": "03 April 2025 o 19:01",
-            "description": "Auto powypadkowe jak widać na zdjęciach.\n\nSilnik, skrzynia biegów i napędy do końca były sprawne.\n\nSprzedam w całości.\n\nBadania techniczne ważne i OC również ważne i opłacone. Dowód rejestracyjny zatrzymany elektronicznie.\n\n\n\nDodatkowe pytania?\n\nProszę pisać lub dzwonić.",
+            "link": "https://www.olx.pl/oferta/skoda-fabia-ii-kombi-1-6tdi-vat23-CID5-IDI62GF.html",
+            "location": "Goździków",
+            "date": "03 April 2025 o 08:33",
+            "description": "Witam,\n\n\n\nDo zaoferowania mam samochód Skoda Fabia II kombi rok 2011\n\nSamochód z Polskiego salonu. \n\n\n\nWyposażenie:\n\nklimatyzacja - sprawna,\n\nelektryczne szyby - przód,\n\nwspomaganie kierownicy,\n\ncentralny zamek z pilota,\n\nABS,\n\nAirbag,\n\nRadio z zestawem głośnomówiącym,\n\nLakier metalik,\n\n\n\nAutentyczny przebieg 228tyś km \n\nSamochód na bieżąco serwisowany i naprawiany, świeżo  po wymianie wszystkich filtrów i oleju. (do 15 tyś)\n\n\n\nSamochód w pełni sprawny, nie stwarzał nigdy problemów. \n\nOpony w bdb stanie.\n\n\n\nFaktura VAT",
             "details": {
-                "Model": "Outlander",
-                "Rok produkcji": "2007",
+                "Model": "Fabia",
+                "Rok produkcji": "2012",
                 "Paliwo": "Diesel",
-                "Typ nadwozia": "Terenowy",
-                "Przebieg": "268 400 km",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "228 000 km",
                 "Kolor": "Srebrny",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "140 KM",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wkhwn1z51b8m2-PL/image;s=1024x768"
-        },
-        {
-            "title": "Autokomis TopCar! Skoda Octavia 1.9 Diesel/Nowy rozrzad/Bdstan/Polecam",
-            "price": "3 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/autokomis-topcar-skoda-octavia-1-9-diesel-nowy-rozrzad-bdstan-polecam-CID5-ID151pjx.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "03 April 2025 o 12:29",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Skoda Octavia wyprodukowana w 2004 Roku z najlepszym niezawodnym silnikiem 1.9, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n-Tempomat\n\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n\n- podgrzewane lusterka\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- dwustrefowy klimatronik\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
-            "details": {
-                "Model": "Octavia",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "285 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 900 cm³",
+                "Poj. silnika": "1 598 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Kierownica": "po prawej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i02i1z82b2da1-PL/image;s=750x1000"
-        },
-        {
-            "title": "Citroen C4 1.4 Benzyna 2006r Wersja Snow Super Stan",
-            "price": "5 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/citroen-c4-1-4-benzyna-2006r-wersja-snow-super-stan-CID5-ID15ejBE.html",
-            "location": "Piaseczno",
-            "date": "03 April 2025 o 10:59",
-            "description": "Witam. Na sprzedaż posiadam ten oto piękny egzemplarz Citroena C4 w limitowanej edycji SNOW. Samochód w bardzo dobrym stanie technicznym oraz wizualnym , nie potrzebuje żadnego nakładu finansowego , silnik pracuje cicho i równo , sprzęgło , hamulce , zawieszenie super !!! Oleje i filtry zmieniane co 10.000 km. Samochód bardzo czysty i zadbany , klimatyzacja sprawna , rozrząd wymieniony rok temu. Auto kompletnie bez wkładu siadać i jechać. Data ważności polisy\n\n28.04.2025",
-            "details": {
-                "Numer VIN": "VF7LAKFUC74580377",
-                "Model": "C4",
-                "Rok produkcji": "2006",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "295 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "1 400 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4enkw968wjzm2-PL/image;s=1000x750"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y0x7zaeinxmq2-PL/image;s=4000x3000"
         },
         {
             "title": "Na Sprzedaż Rover GM 1.4LPG/oszczędny/zamiana/klima/gwarancja/sport",
@@ -991,51 +963,30 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/npgr90u3vm1q-PL/image;s=750x1000"
         },
         {
-            "title": "Clio 2006 r 1,2 klima wspomaganie zadbany stan polecam",
-            "price": "3 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/clio-2006-r-1-2-klima-wspomaganie-zadbany-stan-polecam-CID5-ID15cbk6.html",
-            "location": "Łomża",
-            "date": "02 April 2025",
-            "description": "Witam na sprzedaz mam zadbane male miejskie ekonomiczne auto reno clio z roku 2006 siknik 1,2 beznyna . Samoxhod w bdb stanie blacharsko zadbany bez rdzy progi i ppdloga w bdb stanie nadkola drzwi bez korozji lakier nigdzie nie luszczy sie wyglada dorbze . Samochod z dwoma kompletami kol jezdzi bdb silnik ladnie pracuje nie kopci nie zurzywa oleju pracuje cicho i rowno zawieszenie bez stukow prowadzi sie pewnie i przyjemnie. Autko czyste nie powycierane w srodku cena to 3999 zl tel 729#675#374",
-            "details": {
-                "Model": "Clio",
-                "Rok produkcji": "2006",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "320 km",
-                "Kolor": "Biały",
-                "Poj. silnika": "1 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "55 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x8u7b8yg9mou3-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Peugeot 207 Super Stan, po dużym serwisie.",
+            "title": "Sprzedam Citroen C4 Picasso 1,6 HDI",
             "price": "8 900 zł",
             "negotiable": true,
-            "link": "https://www.olx.pl/oferta/peugeot-207-super-stan-po-duzym-serwisie-CID5-ID14WDwW.html",
-            "location": "Dębe Wielkie",
+            "link": "https://www.olx.pl/oferta/sprzedam-citroen-c4-picasso-1-6-hdi-CID5-ID15alXb.html",
+            "location": "Warszawa, Śródmieście",
             "date": "02 April 2025",
-            "description": "SPRZEDAM!!!\n\n\n\nPeugeot 207 1,4 benzyna 95KM\n\nRok produkcji 2007\n\nPrzebieg 170 000 km.\n\n\n\nSuper stan, bez jakiegokolwiek wkładu finansowego, przygotowany do jazdy.\n\nBogate wyposażenie.\n\nEfektowny wygląd.\n\nSilnik pracuje równo i cicho.\n\nNiedawno był wymieniony olej, filtry i kompletny rozrząd.\n\nSkrzynia i sprzęgło działają bez zarzutu.\n\nHamulce działają jak należy dopiero wymienione.\n\nZawieszenie płynnie pokonuje nierówności.\n\nŚliczny błyszczący lakier.\n\nŚrodek nie zniszczony w bardzo dobrym stanie.\n\nKlimatyzacja działa i chłodzi \n\nAktualne ubezpieczenie i przegląd.\n\nWszystkie naprawy i wymiany robione na czas \n\n\n\nCena podlega negocjacji na miejscu przy oględzinach auta.\n\n\n\nMożliwa zamiana.\n\n\n\nSamochód używany nosi normalne ślady użytkowania.\n\n\n\nProszę o kontakt: 517##506##292",
+            "description": "Witam,posiadam do sprzedania Citroena C4 Picasso w bardzo dobrym stanie,wszelkie naprawy wykonywane na bieżąco,na chwilę obecną bez wkładu finansowego.\n\nWYPOSAŻENIE:\n\n1.  SZYBA PRZEDNIA PANORAMA \n\n2. PARKTRONIK\n\n3. EL.SKŁADANE,GRZANE I PODŚWIETLANE LUSTERKA \n\n4. ROLETY SZYB TYLNYCH\n\n5. SKRZYNIA BIEGÓW AUTOMATYCZNA \n\n6. KURTYNA AIRBAG\n\n7. CENTRALNY ZAMEK Z PILOTA\n\n8. KOMPLET 2 KLUCZYKÓW \n\nUbezpieczenie OC do 15.03 2026 \n\nPrzegląd techniczny do 14.08.2025 \n\nSprzedaje ponieważ kupiłem większe auto.\n\nCena do negocjacji!!!\n\nProszę dzwonić,nie pisać.\n\nTel. 5 0 9 3 6 0 6 9 6",
             "details": {
-                "Model": "207",
+                "Numer VIN": "VF7UD9H2H455330297",
+                "Model": "C4 Picasso",
                 "Rok produkcji": "2008",
-                "Paliwo": "Benzyna",
+                "Paliwo": "Diesel",
                 "Typ nadwozia": "Hatchback",
-                "Przebieg": "170 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 400 cm³",
+                "Przebieg": "260 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 600 cm³",
                 "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "95 KM",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Inny",
+                "Moc silnika": "110 KM",
                 "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5tqwlncz3yak-PL/image;s=504x315"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vr4ip4lfa0w21-PL/image;s=320x240"
         },
         {
             "title": "Opel Astra H 1.4 Benzyna + LPG",
@@ -1060,30 +1011,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o6lmqjsynx763-PL/image;s=4000x3000"
-        },
-        {
-            "title": "Na sprzedaż Fiat Stilo 1.6LPG/Oszczędny/Wygodny/Gwarancja/Nowy rozrząd",
-            "price": "3 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-fiat-stilo-1-6lpg-oszczedny-wygodny-gwarancja-nowy-rozrzad-CID5-ID15dxBU.html",
-            "location": "Warszawa, Ursus",
-            "date": "01 April 2025",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie RATALNYM!!! \n\n\n\nMożliwy dowóz do klienta na terenie całej Polski!!!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Fiat Stilo z najlepszym niezawodnym silnikiem 1.6 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Warszawska 56 , 02-496, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 09 do 20",
-            "details": {
-                "Model": "Stilo",
-                "Rok produkcji": "2006",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "283 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 590 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "90 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/iaoy1y21x5kx-PL/image;s=960x1280"
         }
     ]
 }
