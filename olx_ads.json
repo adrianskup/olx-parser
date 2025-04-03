@@ -1,6 +1,403 @@
 {
-    "updated": "2025-04-03 11:27:14.920643",
+    "updated": "2025-04-03 11:41:19.275385",
     "ads": [
+        {
+            "title": "Piękna toyota Yaris .",
+            "price": [
+                "2 900 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/piekna-toyota-yaris-CID5-ID15fwLI.html",
+            "location": "Baniocha",
+            "date": "03 April 2025 o 11:36",
+            "description": "Dzień dobry posiadam na sprzedaż piękną toyotkę yaris z litrowym silniczkiem benzynowym o niebotycznej mocy 70 koni co za tym idzie auto spala bardzo mało paliwka, auto jest gotowe do jazdy codziennie eksploatowane na dojazdy do pracy niema może super potężnego wyposazenia ale ma tą niezawodność co posiada toyota zawsze dowozi na miejsce ,przebieg orginalny , aktualne OC ,świezy dopiero co przegląd także wsiadać i jechać ,do autka dożucam komplet opon letnich, dwa komplety kluczyków i trochę paperkowej histori o autku ,polecam autko bo napewno jeszcze długo komuś posłuży.",
+            "details": {
+                "Model": "Yaris",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "186 700 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "70 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5gbcw9w5whp51-PL/image;s=2000x900"
+        },
+        {
+            "title": "Mazda 3 2007r 2.0 Diesel Sportive",
+            "price": [
+                "7 999 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/mazda-3-2007r-2-0-diesel-sportive-CID5-ID15a9Ud.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025 o 11:34",
+            "description": "Witam sprzedam Mazdę 3 w wersji sport z 2007r z bardzo dobrym silnikiem diesla. Samochód bardzo oszczędny i dynamiczny , na bieżąco serwisowany. Klimatyzacja sprawna , bogate wyposażenie. Autko naprawdę dobrze się prezentuje od strony technicznej super jeździć i się cieszyć. Środek czysty i zadbany. Okresowe badanie techniczne (ważne do 27.04.2025) Data ważności polisy 05.06.2025. Kupujący zwolniony z opłaty skarbowej pcc3 zgadzam się na wizytę na stacji diagnostycznej. Zapraszam.",
+            "details": {
+                "Numer VIN": "JMZBK14R681658051",
+                "Model": "3",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "241 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "142 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wq4mml13ag6o3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Nissan Micra 2004r 1.5 DCi Super Stan Klimatyzacja Spełnia Normy SCT",
+            "price": [
+                "4 800 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/nissan-micra-2004r-1-5-dci-super-stan-klimatyzacja-spelnia-normy-sct-CID5-ID15dcpx.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025 o 11:32",
+            "description": "Witam sprzedam Nissana Micrę rok produkcji 2004 silnik 1.5 DCi. Samochód bardzo zwinny i ekonomiczny pali około 4-5 l na 100 km posiada klimatyzację. Samochód w bardzo dobrym stanie wizualnym oraz technicznym ( serwisowany na bieżąco ). Środek czysty i nie poniszczony. Samochód do jazdy na już , napewno posłuży jeszcze dużo czasu. Data ważności polisy\n\n23.08.2025 \n\nKupujący zwolniony z opłaty skarbowej pcc3.",
+            "details": {
+                "Numer VIN": "SJNEDAK12U1090402",
+                "Model": "Micra",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "255 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 500 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tjyz6vbbfugj1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Volkswagen VW Caddy 2004r  2.0 Diesel Osobowy",
+            "price": [
+                "6 900 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/volkswagen-vw-caddy-2004r-2-0-diesel-osobowy-CID5-ID15dcDa.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025 o 11:32",
+            "description": "Witam sprzedam VW Caddy 2004r 2.0 diesel , samochód w pełni sprawny do jazdy na już nie potrzebuje nakładów finansowych. Wersja osobowa zarejestrowany na 5 osób posiada duży bagażnik. Wygląda dokładnie tak jak na zdjęciach auto wyposażone w klimatyzację. Silnik brzytwa odpala na dotyk. Data ważności polisy\n\n19.04.2025\n\nOkresowe badanie techniczne (ważne do 18.10.2025)\n\n\n\nKupujący zwolniony z opłaty pcc3",
+            "details": {
+                "Numer VIN": "WV1ZZZ2KZ5X061697",
+                "Model": "Caddy",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "481 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 968 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hlijt38jm8j81-PL/image;s=1000x750"
+        },
+        {
+            "title": "Skoda Roomster 1.6 MPI Benzyna 2007r Zadbany Stan Bardzo Dobry",
+            "price": [
+                "9 000 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/skoda-roomster-1-6-mpi-benzyna-2007r-zadbany-stan-bardzo-dobry-CID5-ID15dcPf.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025 o 11:32",
+            "description": "Witam sprzedam Skodę Roomster z 2007r z najlepszym w tym modelu silnikiem benzynowym 1.6 MPI. Samochód w bardzo dobrym stanie technicznym oraz wizualnym , auto serwisowane na bieżąco rok temu wymieniony rozrząd , 1 właściciel od 2013 roku. Samochód nie wymaga żadnego nakładu finansowego siadać i jeździć. Oleje wraz z filtrami wymieniane co 10.000 km. Silnik pracuje cicho i równo jest w bardzo dobrej kondycji. Zawieszenie , hamulce , sprzęgło wszystko w jak najlepszym porządku. Autko bardzo dobrze wyposażone posiada panoramę dach , climatronic ( klima sprawna ) komputer pokładowy dwa oryginalne kluczyki. Samochód bezwypadkowy z Polskiego salonu z oryginalnym i rzeczywistym przebiegiem. Sprzedaje z czystym sumieniem napewno komuś posłuży jeszcze długi czas. Okresowe badanie techniczne (ważne do 23.04.2025)\n\nData ważności polisy\n\n26.04.2025\n\nKupujący zwolniony z opłaty skarbowej pcc3.",
+            "details": {
+                "Numer VIN": "TMBMD25JX75048346",
+                "Model": "Roomster",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "325 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2kskhz8v1z502-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota RAV4 D4D diesel",
+            "price": [
+                "5 000 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/toyota-rav4-d4d-diesel-CID5-ID133JAx.html",
+            "location": "Jabłonna",
+            "date": "03 April 2025 o 11:31",
+            "description": "Witam, sprzedam Toyota RAV4 2004 D4D\n\nUszkodzony silnik - do wymiany. \n\nStan auta dobry - poza obecną rdzą, do momentu awarii silnika jeździł bez problemu, do tego czasu też był doinwestowany na ok 10 tyś ( nowa podpora wału - tzw sanki ) hamulce, wszystkie filtry itd, tylne łożyska kół.\n\nNowy, pojemny akumulator za ok 600 zł.\n\n\n\nDo zainwestowania jeśli chodzi o rdzę.\n\nUbezpieczenie do 07.2025, brak przeglądu, gdyż silnik padł miesiąc przed nim, od tamtej pory(07.2024) auto stoi uziemione na podwórku.\n\nSprzedaję bo w planie był już zakup nowego auta, więc na chwilę obecną nie ma w planach inwestowania w te auto.\n\nO więcej zdjęć i informacji proszę pisać.",
+            "details": {
+                "Model": "RAV-4",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "SUV",
+                "Przebieg": "280 000 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j15daymix7zw-PL/image;s=1640x738"
+        },
+        {
+            "title": "Toyota Yaris II D4D 2kplKół",
+            "price": [
+                "9 700 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/toyota-yaris-ii-d4d-2kplkol-CID5-ID12ovDc.html",
+            "location": "Bruliny",
+            "date": "03 April 2025 o 11:31",
+            "description": "Sprzedam samochód Toyota Yaris 2,  2006 rok. \n\nSprawny. Stan dobry. \n\nW zestawie 2 komplety kół. \n\nKlimatyzacja sprawna. \n\nUbezpieczenie OC do 12.05.2025r.  \n\nPrzegląd do 22.11.2025r.\n\nBezwypadkowy.\n\nDrugi właściciel.\n\nAlufelgi.\n\nKołpaki do kół zimowych.\n\nMało pali ok.5l.\n\n90kM\n\nZgrabny, dobrze się prowadzi.\n\nSynowie rosną - sprzedaję, gdyż musiałem kupić większy samochód.\n\n6,9,2,1,0,6,6,1,9,",
+            "details": {
+                "Numer VIN": "VNKKC98390A032871",
+                "Model": "Yaris",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "346 400 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2ykz2rzc6rp42-PL/image;s=768x1020"
+        },
+        {
+            "title": "Sprzedam Opel Astra",
+            "price": [
+                "3 600 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/sprzedam-opel-astra-CID5-ID15cu7z.html",
+            "location": "Warszawa, Ursus",
+            "date": "03 April 2025 o 11:30",
+            "description": "Witam sprzedam opla astrę o pojemności 1.7 diesel z 2003 roku auto do jazdy na pewno jeszcze komuś posłuzy wyposażenie wspomaganie kierownicy regulowana wysokość kierownicy elektryczne szyby przód elektryczne lusterka radio ABS ARBX4 radio klimatronim działa jak należy centralny zamek  więcej informacji zapraszam prywatnie",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "282 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 700 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qxzul9osjruh2-PL/image;s=1734x1734"
+        },
+        {
+            "title": "Toyota Avensis 2.0 d4d",
+            "price": [
+                "2 999 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/toyota-avensis-2-0-d4d-CID5-ID15fwlz.html",
+            "location": "Bobrowniki",
+            "date": "03 April 2025 o 11:29",
+            "description": "Sprzedam w pełni sprawną Toyotę Avensis  2.0 D4D silnik pracuje wzorowo blacharsko-beskozji nie ma sprawna aktualna polisa OC zgubione tablice rejestracyjne. Możliwość sprzedaży na grata",
+            "details": {
+                "Model": "Avensis",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "303 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "20 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u0v760yqebo52-PL/image;s=1156x868"
+        },
+        {
+            "title": "Seat Ibiza 2003 I.4L \nbenzyna, pojemność silnika 1390 cm",
+            "price": [
+                "2 999 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/seat-ibiza-2003-i-4l-benzyna-pojemnosc-silnika-1390-cm-CID5-ID15f9zp.html",
+            "location": "Warszawa, Wawer",
+            "date": "03 April 2025 o 11:29",
+            "description": "Dzień dobry\n\nNa sprzedanie mam\n\nSeat Ibiza 2003 I.4\n\nbenzyna, pojemność silnika 1390 cm.3, moc silnika 75km\n\nprzebieg z 2024 ok 240 tys km\n\n\n\ndo zrobienia jest hamulec ręczny, samochod długo stał i po zimie ręczny się zblokował i nie chce odpuścić. Poza tym samochod w pełni sprawny, odpala ładnie i chodzi równo. Stan wizualny jak widać na zdjęciach, są widoczne ogniska korozji i schodzi klar. brak akumulatora\n\n\n\npolica OC do 14.04.2025 r.\n\nBrak przeglądu \n\n\n\nCena do rozsądnej negocjacji",
+            "details": {
+                "Model": "Ibiza",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "240 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/36u2oegdknx3-PL/image;s=3060x4080"
+        },
+        {
+            "title": "Peugeot 307 2.0 Benzyna Gaz \"LIFT\" Dużo nowych czesci we francuskim Lwie 17\" Kola",
+            "price": [
+                "8 800 zł",
+                ""
+            ],
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-307-2-0-benzyna-gaz-lift-duzo-nowych-czesci-we-francuskim-lwie-17-kola-ID6HhSnq.html",
+            "location": "Płock",
+            "date": "03 April 2025 o 11:28",
+            "description": ".Witam mam do sprzedania pięknego POLIFTOWEGO Francuskiego LWA z bezkonkurencyjny 2.0 silnikiem benzynowym z Gazem LPG. W aucie jest wymienionych w ostatnim czasie bardzo duzo części typu nowy , rozrząd, nowa Simensa przepustnica, nowe sprężyny, nowy olej, nowe wszystkie filtry, spód podłogi oczyszczony i zakonserwowany, Nowy przegląd ważny do 03 .2026 . Klimatyzacja odgrzybiona w pełni sprawna .Opony nowe 7mm.W ostatnim czasie włożone w auto było ponad 4000 tys zł LAMPY XENON Oryginał ze spryskiwaczami Auto na mnie zarejestrowane . Samochód prezentuje się bardzo ladnie wszystko sprawne. zapraszam do zakupu tak nietuzinkowego francuskiego Lwa. Cena do symbolicznej negocjacji.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVkaTlneWpldWt0by1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-xe3xBHW9-UIMGGYuZZyGo21oQ8VYsXff23PMikQacQ/image"
+        },
+        {
+            "title": "Audi A4 B5 1.9 TDI Full opcja",
+            "price": [
+                "1 850 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/audi-a4-b5-1-9-tdi-full-opcja-CID5-ID15ftNQ.html",
+            "location": "Warszawa, Włochy",
+            "date": "03 April 2025 o 11:28",
+            "description": "Sprzedam bardzo ładny i zadbany samochód marki Audi A4 samochód Sprawny jeżdżący bardzo bogate wyposażenie za więcej informacji proszę dzwonić",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2000",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "230 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4af5fz57avzu-PL/image;s=750x1000"
+        },
+        {
+            "title": "Seat Leon 1.6 Benzyna Climatronic",
+            "price": [
+                "2 900 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/seat-leon-1-6-benzyna-climatronic-CID5-ID15fwhO.html",
+            "location": "Warszawa, Włochy",
+            "date": "03 April 2025 o 11:27",
+            "description": "Auto sprawne, jeżdżące, silnik i skrzynia biegów pracują bezproblemowo, klima działa. Badanie techniczne do grudnia, ubezpieczony do lipca.\n\nTel.:\n\n602\n\n445\n\n207",
+            "details": {
+                "Model": "Leon",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "330 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vmmn0l2qgq1v3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Motoryzacja Alfa Romeo",
+            "price": [
+                "5 500 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/motoryzacja-alfa-romeo-CID5-ID14LxdY.html",
+            "location": "Łódź, Polesie",
+            "date": "03 April 2025 o 11:24",
+            "description": "Sprzedam autko Alfa Romeo 147 na chodzie . Przegląd do września jak i ubezpieczenie.",
+            "details": {
+                "Model": "147",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "326 919 km",
+                "Kolor": "Inny kolor",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kdyoqn43x8fu3-PL/image;s=1600x1201"
+        },
+        {
+            "title": "Mercedes W211 320 CDI Anglik 2005",
+            "price": [
+                "7 000 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/mercedes-w211-320-cdi-anglik-2005-CID5-ID13RMXa.html",
+            "location": "Izabelin C",
+            "date": "03 April 2025 o 11:23",
+            "description": "Mercedes Benz\n\n320 CDI\n\nAnglik\n\n3222 cm³\n\nUszkodzony grill\n\nBrak v5c\n\n\n\nSilnik suchy skrzynia nie szarpie\n\n\n\nWDB2110262A770091\n\nnumer koloru 744 (Srebrny brylantowy - lakier metaliczny)\n\nWnętrze 830 (Skóra/nappa/semianilin)\n\n831 (Skóra/nappa/semianilin - kolor czarny/antracytowy)\n\n\n\nparametryczny układ kierowniczy/ukł. kierowniczy vario\n\nlusterko wsteczne i lusterka wewnętrzne automatycznie przyciemniane\n\nautomatyczna 5-biegowa skrzynia biegów\n\nlusterko zewnętrzne elektrycznie składane\n\nukład zapobiegający kradzieży i włamaniu, podstawowy (edw)\n\nukład klimatyzacji\n\nukład zmywania reflektorów\n\nreflektory biksenonowe, ruch lewostronny\n\nkonsola środkowa z włókna węglowego, błyszcząca amg\n\nsrebrny brylantowy - lakier metaliczny\n\nskóra/nappa/semianilin\n\nskóra/nappa/semianilin - kolor czarny/antracytowy\n\nogrzewane spryskiwacze szyb\n\nczujniki i syrena alarmu antywłamaniowego i antykradzieżowego\n\nalternator o większej mocy\n\nzbiornik paliwa o większej pojemności - objętość2\n\nlinia wyposażenia/pakiet – avantgarde\n\nsilnik wysokoprężny r6 om648\n\nobręcze kół ze stopu metali lekkich z 5 ramionami 16\" \"dookoła\"\n\nautomatyczne rozpoznawanie fotelika dziecięcego (akse)\n\npółoś przednia z lewej strony\n\npartsident\n\nvr\n\npółoś przednia z prawej strony",
+            "details": {
+                "Numer VIN": "WDB2110262A770091",
+                "Model": "E Klasa",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "268 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "3 222 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Wielka Brytania",
+                "Moc silnika": "200 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/svq197ehdjul-PL/image;s=2000x1126"
+        },
+        {
+            "title": "Volvo S40 1.6D 110 KM",
+            "price": [
+                "7 600 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/volvo-s40-1-6d-110-km-CID5-ID15eWfu.html",
+            "location": "Głowno",
+            "date": "03 April 2025 o 11:22",
+            "description": "Witam.\n\n\n\nSprzedam Volvo S40\n\nRok produkcji: 2005\n\nPrzebieg 245 tys\n\nSilnik 1.6D 110KM \n\n\n\nSamochód w dobrym stanie, bardzo sztywno się prowadzi, w ostatnim czasie po wymianach oleju, filtra paliwa, turbiny i wiele innych.\n\nBlacharsko i lakierniczo jak na ten rocznik wygląda bardzo dobrze. Silnik pali od strzała, zawieszenie, sprzęgło, skrzynia działa bez problemu.\n\n\n\nWyposażenie:\n\nKlimatyzacja\n\nSkórzana kierownica \n\nWspomaganie\n\nPoduszki powietrzne\n\nABS\n\nESP\n\nFabryczne radio \n\nAlufelgi\n\nElektryczne szyby \n\nCentralny zamek\n\nTempomat\n\nPodłokietnik\n\nInne…\n\n\n\nOC do: 13.05.2025\n\nPrzegląd do: 22.04.2025\n\n\n\nZapraszam do zakupu.",
+            "details": {
+                "Model": "S40",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "245 400 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 560 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cu8hfset973k1-PL/image;s=2000x1500"
+        },
         {
             "title": "Honda Jazz Honda Jazz 1.2 ,salon Polska ,drugi własciciel ,niski przebieg.",
             "price": [
@@ -13,6 +410,32 @@
             "description": "Witam\nDo sprzedania Honda Jazz 1.2. Auto pochodzi z polskiego salon i posiadało tylko 2 właścicieli z jednej rodziny .Jak na ten rocznik , niski udokumentowany przebieg 128 800 km. Auto jest mechanicznie sprawne i wszystko co powinno działać działa jak należy (klimatyzacja też ). Blacharsko trzeba trochę ogarnąć.\nW komplecie koła letni i zimowe. Ubezpieczenie do listopada 2025 , przegląd do lipca 2025\nWszelkich dodatkowych informacji udzielę telefonicznie  \nWyświetl numer",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJzaHphcmdxYmNjYjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.gtQ54XuJp5BssugsHtnXlC-nhnP3uUToXuUecTaBvsE/image"
+        },
+        {
+            "title": "Ford fiesta 2009r Diesel 1,4 w dobrym stanie",
+            "price": [
+                "6 100 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/ford-fiesta-2009r-diesel-1-4-w-dobrym-stanie-CID5-ID15ftqY.html",
+            "location": "Blizne Łaszczyńskiego",
+            "date": "03 April 2025 o 11:20",
+            "description": "forda fiesty 2009r 1.4 Diesel stan dobry Nie dymi dwa komplety opon, po pełnym serwisie, nowy pasek rozrządu, wymienione filtry olejowe, nowy akumulator, rozrusznik, generator.",
+            "details": {
+                "Model": "Fiesta",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "245 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lyq5xm3rzllm2-PL/image;s=461x1000"
         },
         {
             "title": "Opel Astra",
@@ -413,647 +836,215 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6o4yikfhzjup3-PL/image;s=1024x768"
         },
         {
-            "title": "Peugeot 206 Doinswestowany! Klima! 153 tys km! Salon Pl!",
-            "price": [
-                "6 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/peugeot-206-doinswestowany-klima-153-tys-km-salon-pl-CID5-ID15fsO7.html",
-            "location": "Rawa Mazowiecka",
-            "date": "03 April 2025 o 10:55",
-            "description": "Sprzedam moje prywatne auto Peugeot 206 z 2005 roku. Przebieg to zaledwie 153 tys km który jest w pełni oryginalny. \n\nAutko jak na swój wiek w dobrym stanie, bez korozji w pełni bezwypadkowe.Samochód jako nowy kupiony w polskim salonie, zarejestrowany od nowości w Polsce, ważny przegląd oraz aktualne ubezpieczenie. \n\nPeugeot w pełni sprawy, bardzo doinwestowany. Przy 143 tys auto przeszło bardzo duży serwis ponieważ było szykowane dla siebie żeby było sprawne. Wymienione zostały m.in:\n\n-alumulator\n\n-alternator\n\n-wahacze przód \n\n-łącznik stabilizatora \n\n-swiece zapłonowe\n\n-rozrusznik\n\n-pompa wspomagania\n\n-sonda lambda\n\nAuto bogato wyposażone i posiada m.in. klimatyzację, el.szyby, wspomaganie kierownicy, centralny zamek, radio CD, klamki i lusterka w kolorze nadwozia. \n\nWięcej informacji pod nr.Telefonu lub w wiadomości prywatnej.",
-            "details": {
-                "Model": "206",
-                "Rok produkcji": "2005",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "153 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "1 100 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "60 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ep9mkuulf4v-PL/image;s=1024x714"
-        },
-        {
-            "title": "Citroen C1 Salon PL - jak Aygo, Peugeot 107 - Klima, Przebieg 106tkm",
-            "price": [
-                "9 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/citroen-c1-salon-pl-jak-aygo-peugeot-107-klima-przebieg-106tkm-CID5-ID15ftdq.html",
-            "location": "Łódź, Widzew",
-            "date": "03 April 2025 o 10:55",
-            "description": "Dzień dobry,\n\n\n\nPosiadam na sprzedaż Citroena C1 z silnikiem 1.0 benzyna\n\n\n\n* pochodzenie salon PL\n\n* rok 2009\n\n* przebieg jedynie 106 000 km\n\n* skrzynia manualna 5b\n\n* silnik 1.0 benzyna 68KM\n\n\n\nNajważniejsze wyposażenie:\n\n* sprawna klimatyzacja\n\n* wspomaganie kierownicy\n\n* elektryczne szyby\n\n* centralny zamek\n\n* wbudowane radio CD\n\n\n\nSamochód w dobrym stanie.\n\nW ostatnim czasie wymieniony akumulator oraz kompletne sprzęgło \n\n\n\nPosiada ważne opłaty: OC do 06.2025. Przegląd do 05.2025.\n\n\n\nWięcej informacji pod numerem telefonu podanym w ogłoszeniu.\n\nKupujący nie płaci PCC3 - FVmarża.",
-            "details": {
-                "Model": "C1",
-                "Rok produkcji": "2009",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "100 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "68 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r8uk1pn7jzid2-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Opoel Combo 2023 rok, cesja leasingu, niska rata",
-            "price": [
-                "1 928 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/opoel-combo-2023-rok-cesja-leasingu-niska-rata-CID5-ID14qKBA.html",
-            "location": "Łódź, Bałuty",
-            "date": "03 April 2025 o 10:55",
-            "description": "Cesja leasingu, najem długoterminowy do 03.2027. Auto w stanie idealnym po pierwszym przeglądzie i wymianie oleju, dodatkowo zrobiłem w nim podłogę ze sklejki w przestrzeni bagażowej, komplet opon zimowych i letnich. Ubezpieczenie do 05.2025.\n\nCzujniki parkowania, klimatyzacja, bluetooth, tempomat. \n\nPrzegląd Vat-1",
-            "details": {
-                "Model": "Combo",
-                "Rok produkcji": "2023",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Minibus",
-                "Przebieg": "33 625 km",
-                "Kolor": "Biały",
-                "Poj. silnika": "1 199 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "110 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8f0oyp38abpt-PL/image;s=4000x2252"
-        },
-        {
-            "title": "CITROEN XSARA PICASSO 1.6 Benzyna+LPG Klimatyzacja Elektryka 2005 ROK!",
-            "price": [
-                "5 999 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/citroen-xsara-picasso-1-6-benzyna-lpg-klimatyzacja-elektryka-2005-rok-CID5-ID158dsE.html",
-            "location": "Kozienice",
-            "date": "03 April 2025 o 10:55",
-            "description": "Sprzedam CITROEN XSARA PICASSO 1.6 benzyna z sekwencyjną instalacją gazową.\n\nAuto zostało sprowadzone do kraju w 2019 roku i do tej pory miało jednego właściciela. \n\nInstalacja gazowa została zamontowana w 2019 roku przy 204 tyś. km. przebiegu Silnik pracuje równo i cicho na obu paliwach, odpala bez problemów zimny czy ciepły. Bardzo dynamiczna jednostka, zarazem ekonomiczna. Spalanie gazu około 7L/100KM w cyklu mieszanym. Zawieszenie jest w dobrym stanie, auto prowadzi się dobrze. Wnętrze czyste, zadbane. Karoseria utrzymana jest w ładnym stanie, podłoga oraz progi bez dziur i korozji. Wizualnie auto prezentuje się jak na zdjęciach. Na auto wystawiam fakturę FV-Marża. Kupujący zwolniony jest z opłaty skarbowej.\n\n\n\nWyposażenie:\n\n\n\n- wspomaganie kierownicy\n\n- radio CD\n\n- klimatyzacja\n\n- centralny zamek\n\n- elektryczne szyby\n\n- elektryczne lusterka\n\n- poduszki powietrzne\n\n- poduszki boczne\n\n- kurtyny boczne\n\n- ABS, ESP\n\n\n\nAuto posiada ważne opłaty\n\n\n\nPolisa OC ważna do końca lipca 2025 roku.\n\nPrzegląd techniczny ważny do końca czerwca 2025 roku.\n\nHomologacja na butle gazową ważna do 2029 roku.\n\n\n\nWięcej informacji na temat auta udzielę telefonicznie. Można dzwonić 9-22.\n\n\n\nPrzed wyjazdem prosimy o kontakt w celu umówienia się i sprawdzenia dostępności auta.\n\nIstnieje też możliwość pozostawienia swojego auta w rozliczeniu\n\n\n\nNiniejsze ogłoszenia jest wyłącznie informacją handlową i nie stanowi\n\noferty w myśl art 66,A§1 Kodeksu Cywilnego. Informacje umieszczone w ogłoszeniu służą wyłącznie celom informacyjnym. Nie stanowią oferty w rozumieniu art.4 ustawy z dnia 27 Lipca 2002 roku o szczególnych warunkach sprzedaży konsumenckiej.",
-            "details": {
-                "Model": "Xsara Picasso",
-                "Rok produkcji": "2005",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "255 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 587 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "95 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l8a04bwhxbn42-PL/image;s=2000x1333"
-        },
-        {
-            "title": "Na sprzedaż VW Golf 1.6 LPG/zamiana/2 kpl opon/gwa/fajny stan/",
-            "price": [
-                "3 490 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-vw-golf-1-6-lpg-zamiana-2-kpl-opon-gwa-fajny-stan-CID5-ID15ft9W.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 10:55",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny VW Golf z najlepszym niezawodnym silnikiem 1.6 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
-            "details": {
-                "Model": "Golf",
-                "Rok produkcji": "2001",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "255 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 598 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "101 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kp8c1bkhdx4w1-PL/image;s=960x1280"
-        },
-        {
-            "title": "Syndyk sprzeda 1/2 udziału samochód AUDI A3 8p",
-            "price": [
-                "4 000 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/syndyk-sprzeda-1-2-udzialu-samochod-audi-a3-8p-CID5-ID15fsVj.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 10:55",
-            "description": "Syndyk masy upadłości Mariusza Milczarczyka sprzeda ½ udziału samochodu marki AUDI A3 8p o nr rej. WCI 60402, rok prod. 2005. \n\n1.\tCena wywoławcza: 4 000,00 zł. (cztery tysiące złotych).\n\n2.\tOferta wraz z wymaganymi oświadczeniami winna być umieszczona w zamkniętej kopercie, a ta koperta umieszczona w zamkniętej drugiej kopercie o większym formacie. Każda z kopert winna być zaadresowana do: Syndyk masy upadłości Mariusza Milczarczyka, ul. Warzelnicza 7 lok. 23, 03-255 Warszawa z dopiskiem” oferta konkursowa na zakup samochodu o nr rej. WCI 60402” i zawierać oznaczenie składającego ofertę, tj. imię i nazwisko (firmę) oraz miejsce zamieszkania (siedzibę).\n\n3.\tOferty należy składać do dnia 23 kwietnia 2025 r. do godz. 15.00.\n\n4.\tOtwarcie i rozpoznanie ofert nastąpi w dniu 24 kwietnia 2025 roku o godzinie 10.00 w biurze syndyka mieszczącym się przy ul. Warzelnicza 7 lok. 23; 03-255 Warszawa.\n\n5.\tSzczegółowe warunki przetargu, zawierające wymagane oświadczenia oferenta, dostępne są w biurze syndyka, ul. Warzelnicza 7 lok. 23 w Warszawie. Inne szczegółowe informacje pod nr tel. 72*******70; e-mail: \n\n\n\nsamochód posiada instalację gazową",
-            "details": {
-                "Numer VIN": "WAU2228P56A099885",
-                "Model": "A3",
-                "Rok produkcji": "2005",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "263 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Moc silnika": "75 KM",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fz4u1odj41pl2-PL/image;s=3024x4032"
-        },
-        {
-            "title": "49Fabia 2003r 155 tys km klima sprawna wspomaganie zadbana Polecam",
-            "price": [
-                "4 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/49fabia-2003r-155-tys-km-klima-sprawna-wspomaganie-zadbana-polecam-CID5-ID14YpTv.html",
-            "location": "Łomża",
-            "date": "03 April 2025 o 10:55",
-            "description": "Witam serdecznie \n\nNa sprzedaż mam ładna skoda fabie z roku 2003 z silnikiem 1,2 benzyna na łańcuszku rozrządu.  Samochód w bardzo dobrym stanie blacharsko bez korozji lakierniczo bardzo ładna biorąc wiek pod uwagę samochodu progi i podloga w bdb stanie.  Samochód mechanicznie jeździ bdb. Silnik ładnie pracuje cicho I rowno zawieszenie sztywne brak luzów prowadzi się pewnie i przyjemnie wszystkie podzespoły działają prawidłowo.  Środek samochodu jest ladny czysty zadbany cena to 4900 zł tel 729#675#374",
-            "details": {
-                "Model": "Fabia",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "155 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "55 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1zi4g4jvgszy-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Smart 600 benzyna",
+            "title": "Touran 1.9TDI 2003 rok, grafitowy, silnik odpala nie ma kompresji.",
             "price": [
                 "3 000 zł",
                 ""
             ],
-            "link": "https://www.olx.pl/oferta/smart-600-benzyna-CID5-ID15ft84.html",
-            "location": "Ząbki",
-            "date": "03 April 2025 o 10:54",
-            "description": "Witam\n\nSprzedam smart fortwo 600cm benzyna turbo\n\n160tys km\n\nSilnik pracuje ładnie\n\nskrzynia biegów półautomat\n\nNiedawno wymieniona pompa wody \n\nZapraszam na jazdę próbną \n\n\n\nNIE ODPOWIADAM NA WIADOMOSCI TEKSTOWE CHCESZ KUPIC ZADZWON\n\nZA JANUSZY KUPIE ZA 1000 DZIEKUJE",
+            "link": "https://www.olx.pl/oferta/touran-1-9tdi-2003-rok-grafitowy-silnik-odpala-nie-ma-kompresji-CID5-ID15fe2E.html",
+            "location": "Tarczyn",
+            "date": "03 April 2025 o 05:45",
+            "description": "Touran 1.9TDI 2003rok- brak kompresji .Stan ogólny dobry oprócz silnika . więcej info na telefon",
             "details": {
-                "Model": "Fortwo",
-                "Rok produkcji": "1998",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Coupe",
-                "Przebieg": "160 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
+                "Model": "Touran",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "300 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
                 "Kraj pochodzenia": "Polska",
-                "Moc silnika": "40 KM",
-                "Napęd": "Na tylne koła",
+                "Moc silnika": "101 KM",
+                "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ccga4dvtl8i93-PL/image;s=2000x1126"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zkbbfpjdo2fs1-PL/image;s=414x916"
         },
         {
-            "title": "Na sprzedaż Opel Vectra 1.9 CDTI/zamiana/idealny stan/gwarancja/oszczę",
+            "title": "Peugeot 207 SW 1.4*Śliczny z Niemiec*Klima*PANORAMA*ZOBACZ 2009r",
             "price": [
-                "4 990 zł",
+                "8 900 zł",
                 ""
             ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-opel-vectra-1-9-cdti-zamiana-idealny-stan-gwarancja-oszcze-CID5-ID15ft4m.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 10:53",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Opel Vectra z najlepszym niezawodnym silnikiem 1.9 Diesel . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
+            "link": "https://www.olx.pl/oferta/peugeot-207-sw-1-4sliczny-z-niemiecklimapanoramazobacz-2009r-CID5-ID15f793.html",
+            "location": "Gostynin",
+            "date": "03 April 2025 o 05:21",
+            "description": "Witam.Mam Na Sprzedanie Peugeota 207 SW Kombi PANORAMA 1.4 95 koni Skrzynia MANUALNA,Sprowadzony kilka dni temu z Niemiec,Auto jest od pierwszego właściciela jest w stanie idealnym i serwisowanym do końca posiada książkę serwisowa bardzo ładnie chodzi,w środku jest jak nowa tapicerka w idealnym stanie jak i technicznym zobacz na żywo śliczny jest,opłacony.posiada książkę serwisowa,więcej informacji udzielam telefonicznie zapraszam na oględziny i jazdę próbna.Cena 8900 zl. uzgodnienia. tel 695#786#013 OPŁACONY KOSZT REJ.161 zł\n\n\n\nPrzebieg Oryginalny z Książka Serwisowa 149653Tys KM \n\n\n\nwięcej zdjęć 40 na otomoto lokalizacja Gostynin\n\n\n\nWyposażenie\n\n\n\nwspomaganie kierownicy\n\npoduszki powietrzne\n\nPodgrzewane fotele\n\nPANORAMA\n\nKubelki\n\nCzujniki cofania\n\nKomputer pokładowy\n\nElektryczne szyby\n\nElektryczne lusterka\n\ncentralny zamek\n\nKLIMATRONIK\n\nKubełkowe siedzenia\n\nKomputer Pokładowy\n\nOpony LADNE\n\n2 komplet kluczyków\n\nksiążka serwisowa\n\nabs\n\nasp\n\nradio Cd Mp3 USB\n\n\n\nSamochód został świeżo sprowadzony z Niemiec od prywatnej osoby Wszystko udokumentowane w briefach Książka serwisowa do wglądu\n\n\n\nSamochód jest naprawdę w idealnym stanie, silnik, skrzynia biegów, zawieszenie jak i reszta innych podzespołów pracują bez najmniejszych zarzutów. Samochód pali na dotyk, nie kopci nawet przy mocniejszym dodaniu gazu, oraz posiada swoją prawidłową moc. Zero wycieków\n\n\n\nSilnik pracuje jak zegarek, przy czym jest bardzo ekonomiczny, w trasie udało mi się uzyskać spalanie poniżej 5 L na 100 km. Samochodem zrobiłem ponad 800 km wracając z Niemiec,Peugeot na trasie spisywało się rewelacyjnie!\n\n\n\nZawieszenie w samochodzie również pracuje jak nowe, nie słychać żadnych stuków czy luzów, jest sztywne i pracuje prawidłowo, samochód prowadzi się pewnie i prosto, nie ściąga go na żadne strony.\n\n\n\nWnętrze samochodu wygląda jak nowe i pachnie nowością, fotele nie posiadają żadnych dziur czy przetarć, są czyste i zadbane. W aucie nie palono papierosów.\n\n\n\nPlastiki wszystkie są prawidłowo umiejscowione na swoim miejscu tak jak powinno być, nic nie jest połamane czy zniszczone.\n\n\n\nKaroseria auta posiada oryginalny lakier, nic nigdy nie było ponownie lakierowane, nie ma mowy też o żadnej rdzy, lakier auta jest zadbany, posiada normalne ślady użytkowania. Samochód był przez cały czas garażowany.\n\n\n\nSamochód bezwypadkowy, na Państwa\n\n\n\nżyczenie możliwość sprawdzenia auta w dowolnie wybranej stacji diagnostycznej.\n\n\n\nZapraszam serdecznie, na pewno nikt z Państwa nie rozczaruje się oglądając pojazd na żywo.\n\n\n\nPEUGEOT W JEST W BARDZO DOBRYM STANIE, NA POLSKIM RYNKU NAPRAWDĘ CIĘŻKO O TAK ZADBANY EGZEMPLARZ, DLATEGO CENA JEST ADEKWATNA DO STANU POJAZDU., ORAZ NIE WYMAGA ŻADNYCH DODATKOWYCH WKŁADÓW FINANSOWYCH.\n\n\n\nBEZWYPADKOWY\n\n\n\nORYGINALNY PRZEBIEG\n\n\n\nORYGINALNY LAKIER,\n\n\n\nSTAN WIZUALNY PERFEKCYJNY,\n\n\n\nSTAN TECHNICZNY IDEALNY\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce.\n\n\n\nStan techniczny oceniam jako bardzo dobry. Samochód jest sprawny, jeżdżący, nie posiada ukrytych wad technicznych.Wszystko robione na czas oleje paski itd..Co świadczy Niemiecki przegląd i wpisy w książkę serwisową.(Na życzenie do wglądu!!) Silnik sprawny, pracuje równo, bez problemu wchodzi na obroty.Skrzynia idealna.Środek ładny nie poniszczony bez jakichkolwiek,przetarć wszystkie plastiki na swoim miejscu. Cała elektryka działa bez zarzutu, brak błędów w komputerze. Karoseria bez oznak korozji, lakier w bardzo dobrym stanie.\n\n\n\nZainteresowanych serdecznie zapraszam na oględziny i ewentualną jazdę próbną.\n\n\n\nSamochód do oglądnięcia znajduje się w Gostyninie Woj.Mazowieckie\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce. Po zakupie auta można wracać do domu na\n\n\n\nKołach(Ubezpieczenie Gratis). Możliwość sprawdzenia auta na dowolnej stacji diagnostycznej.\n\n\n\n*Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, § 1. Kodeksu Cywilnego.\n\n\n\n*Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.\n\n\n\n* Zastrzegamy sobie prawo do kopiowania treści naszych ogłoszeń i przetwarzania ich osobom\n\n\n\ntrzecim oraz innym firmom konkurencyjnym\n\n\n\nZAPIS TEN ZOSTAŁ ZAWARTY ZE WZGLĘDU NA MOŻLIWOŚĆ DROBNYCH, LUDZKICH POMYŁEK. JEŻELI ZAUWAŻYSZ NIEŚCISŁOŚĆ - ZADZWOŃ DO NAS, A NIEZWŁOCZNIE JĄ WYJAŚNIMY\n\n\n\nTelefon; 695#786#013",
             "details": {
-                "Model": "Vectra",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "261 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 890 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "130 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3xkw8413oyso3-PL/image;s=960x1280"
-        },
-        {
-            "title": "Peugeot 307_2001r_1.4 Hdi_Nowy PT",
-            "price": [
-                "3 800 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/peugeot-307-2001r-1-4-hdi-nowy-pt-CID5-ID15ft34.html",
-            "location": "Andrespol",
-            "date": "03 April 2025 o 10:53",
-            "description": "Sprzedam Peugeot 307\n\nSilnik 1.4 hdi\n\n\n\nNowy Przegląd  do 31.03.2026\n\nOC do 26.08.2025\n\n\n\nAuto w dobrym stanie technicznym \n\nSilnik pracuje równo, ma moc nie kopci\n\nZawieszenie w dobrym stanie \n\nWnętrze pojazdu zadbane \n\nBlacharsko bez rdzy \n\n\n\nwyposażenie \n\n-elektryczne szyby \n\n-radio\n\n-centralny zamek\n\n-podrzewana szyba tył\n\n-wspomaganie\n\n-komputer\n\n-skrzynia manualna 5 biegowa\n\n-opony letnie\n\n-wersja 5 drzwiowa\n\n-abs\n\n-airbag\n\n\n\nW razie pytań proszę dzwonić \n\n\n\nNa auto wystawiam fakturę VAT marża \n\nKupujący zwolniony z opłaty skarbowej \n\n2%\n\n\n\nMożliwość pozostawienia swojego pojazdu w rozliczeniu \n\n\n\nAdres \n\n\n\nKraszew ul Rokicinksa 21b \n\n\n\nOtwarte codziennie od 9-18",
-            "details": {
-                "Model": "307",
-                "Rok produkcji": "2001",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "231 000 km",
+                "Model": "207",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "149 653 km",
                 "Kolor": "Niebieski",
                 "Poj. silnika": "1 400 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tuyaz9nuyn802-PL/image;s=1000x750"
-        },
-        {
-            "title": "Na sprzedaż Toyota Yaris 1.0B/zamiana/gwarancja/nowe sprzęgło/",
-            "price": [
-                "3 990 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-toyota-yaris-1-0b-zamiana-gwarancja-nowe-sprzeglo-CID5-ID15fsZh.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 10:52",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Toyota Yaris z najlepszym niezawodnym silnikiem 1.0 Benzyna . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
-            "details": {
-                "Model": "Yaris",
-                "Rok produkcji": "2005",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "110 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "998 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "60 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r9f1q62bwpql3-PL/image;s=960x1280"
-        },
-        {
-            "title": "Mitsubishi Lancer Sportback 1.8 Diesel 116KM 2011r OKAZJA!!!",
-            "price": [
-                "7 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/mitsubishi-lancer-sportback-1-8-diesel-116km-2011r-okazja-CID5-ID14paIn.html",
-            "location": "Sochaczew",
-            "date": "03 April 2025 o 10:50",
-            "description": "Witam mam na sprzedaż auto marki Mitsubishi Lancer wyprodukowanego w 2011r  natomiast do Polski został sprowadzony w 2012r \n\nPrzegląd ważny do grudnia 2025r \n\nOC ważne do maja 2025r \n\nAuto jest w dobrym stanie mechanicznym (do wymiany łożysko pod amortyzatora)\n\nWizualnie natomiast do poprawek lakierniczych \n\nDo zrobienia również podsufitka \n\nSilnik 1.8 Diesel 116KM \n\nŚrodek auta w bardzo dobrym stanie\n\n\n\nPrzebieg 212 000km \n\n\n\nCena 7900zl \n\n\n\nWięcej informacji przez telefon",
-            "details": {
-                "Model": "Lancer",
-                "Rok produkcji": "2011",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "212 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 800 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Belgia",
-                "Moc silnika": "116 KM",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "95 KM",
                 "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i23ze2mz1bqe1-PL/image;s=2000x1500"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rb09wdg9wvld3-PL/image;s=2550x1700"
         },
         {
-            "title": "Skoda Fabia 2011 rok",
+            "title": "Citroen Berlingo/1.6diesel/2007rok/dobry stan",
             "price": [
-                "7 800 zł",
+                "4 490 zł",
                 ""
             ],
-            "link": "https://www.olx.pl/oferta/skoda-fabia-2011-rok-CID5-ID158e8O.html",
-            "location": "Lublin",
-            "date": "03 April 2025 o 10:50",
-            "description": "Sprzedam Skodę Fabię II, rocznik 2011. Auto zadbane, w dobrym stanie technicznym. Bardzo niskie spalanie na poziomie 4/5 l. Silnik 1.6 TDI.\n\nSprzedaję samochód bo kupiłem nowy. Oleje i filtry wymienione 1000 km temu. Nowe ubezpieczenie na rok. Usiądź i jedź .",
+            "link": "https://www.olx.pl/oferta/citroen-berlingo-1-6diesel-2007rok-dobry-stan-CID5-ID158PN0.html",
+            "location": "Warszawa, Wawer",
+            "date": "02 April 2025",
+            "description": "Witam, posiadamy na sprzedaż piękny i niezawodny Citroen Berlingo\n\nZ niezawodnym silnikiem 1.6Diesel o mocy 90 KM oraz manualną 5 biegową skrzynią biegów \n\nStan auta oceniam na dobry, silnik w bardzo dobrym stanie,nie kopci ma swoją moc ostatnio wymienione oleje oraz filtry, Rozrząd ,płyn chłodnicy, Sprzęgło rok temu nowy akumulator założony wielosezonowe opony,silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w dobrym stanie.Do obejrzenia klocki tył,tarcze przód poza tym Ogólnie wsiadać i jeździć\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n-radio \n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie robione progi jest ślady użytkowania \n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nProponujemy dostarczenie samochodu pod dom!\n\n\n\nChętnie zamienimy!\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% \n\nGodziny otwarcia:\n\nCodziennie od 10:30do 20:00 Zapraszamy wszystkich na oględziny oraz jazdę próbną \n\nAdres:Trakt lubelski 342,04-766 Warszawa",
             "details": {
-                "Numer VIN": "TMB1 SB5J0C3094315",
-                "Model": "Fabia",
-                "Rok produkcji": "2011",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "335 000 km",
-                "Kolor": "Biały",
-                "Poj. silnika": "1 598 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "90 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x7gzjxfqj2fm3-PL/image;s=2252x4000"
-        },
-        {
-            "title": "Sprzedam v50 2.0d  uszkodzone",
-            "price": [
-                "4 000 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/sprzedam-v50-2-0d-uszkodzone-CID5-ID15dnmw.html",
-            "location": "Sanniki",
-            "date": "03 April 2025 o 10:50",
-            "description": "Sprzedam v50 2.0d  uszkodzone blacharsko jak na zdjęciach plus traci moc po jakimś  czasie, ale po zgaszeniu  I odpaleniu  wszystko jest ok. Wzeszłym  roku wymieniony kompletny rozrząd  i zregenerowana  pompa wtryskowa. Więcej informacji  pod tel6 9 1 8 7 1 4 4 8",
-            "details": {
-                "Model": "V50",
-                "Rok produkcji": "2006",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "345 000 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 998 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "136 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u3h4f20dou5o3-PL/image;s=1020x765"
-        },
-        {
-            "title": "Audi A4 B6 Benzyna + LPG",
-            "price": [
-                "7 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/audi-a4-b6-benzyna-lpg-CID5-ID14MmW4.html",
-            "location": "Cegłów",
-            "date": "03 April 2025 o 10:49",
-            "description": "Na sprzedaż posiadam Audi A4 B6 z silnikiem 2.0 benzyna o mocy 131KM.\n\nPrzebieg 390 000km i rośnie, ponieważ codziennie jeździ. \n\n\n\nSilnik sprawny, świeżo po naprawie uszczelki pod głowicą. Miesiąc temu wymieniony rozrząd oraz nagrzewnica, czujniki temperatury, termostat oraz pompa wody. (Występowały problemy z ogrzewaniem, okazało się, że problemem było złe umieszczenie ,,trójnika\" od instalacji LPG). Ogrzewanie naprawione w 100%. \n\nNa dziś w aucie odłączone jest LPG (do podłączania w każdej chwili). Jeszcze miesiąc temu jeździł na gazie. \n\nZawieszenie i hamulce w porządku, bez potrzeby ingerencji.\n\nBlacharsko stan dobry, bez dziur czy korozji, lekkie ślady użytkowania. \n\n\n\nOpłaty aktualne \n\n- OC początek lipca \n\n- Przegląd połowa czerwca\n\n\n\nPosiadam go już około 9 lat i czas się rozstać :) \n\nCena do lekkiej negocjacji na miejscu lub bez negocjacji i dorzucę opony letnie :).\n\nTel. 5*0*7*0*3*9*7*7*5",
-            "details": {
-                "Model": "A4",
-                "Rok produkcji": "2002",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "390 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "131 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9l4252zfvk3s1-PL/image;s=2856x2142"
-        },
-        {
-            "title": "Na sprzedaż Mazda 5 2.0 tdi 2008 rok dobry stan zamiana",
-            "price": [
-                "7 300 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-mazda-5-2-0-tdi-2008-rok-dobry-stan-zamiana-CID5-ID15fsMZ.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 10:48",
-            "description": "Numer telefonu 57*****44\n\nAdres obrazkowa 36 Warszawa\n\nGodziny otwarcia- 10:00do20:00 \n\nZamiany Gwarancja raty dopłata w obydwie strony dostawa Auto pod dom\n\nPrzejmujemy Auto w rozliczeniu \n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Mazda 5 z najlepszym niezawodnym silnikiem 2.0 auta oceniam na bardzo dobry, ostatnio wymienione oleje oraz filtry, klocki. zawieszenie w bardzo dobrym stanie\n\n\n\nPARAMETRY TECHNICZNE:\n\nRok produkcji-2008\n\nPrzebieg -250\n\nSilnik -2.0\n\nSkrzynia biegów -Manualną\n\nPrzegląd techniczny -2026\n\nUbezpieczenia-2026\n\nNadwozie -\n\nPaliwo -Ser\n\nMiejsca siedzące 7\n\nKlasy emisji Euro5\n\nniezawodny silnik\n\nDZWOŃ CODZIENNIE OD 10:00 DO 20:00 - NAWET W WEEKENDY I ŚWIĘTA\n\nDostarczamy Auto pod dom \n\nPaństwo zwolniony z opłaty skarbowy 2%",
-            "details": {
-                "Model": "5",
-                "Rok produkcji": "2008",
+                "Model": "Berlingo",
+                "Rok produkcji": "2007",
                 "Paliwo": "Diesel",
                 "Typ nadwozia": "Minivan",
-                "Przebieg": "250 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/690oobq9leac-PL/image;s=1000x750"
-        },
-        {
-            "title": "Na sprzedaż Dodge Caliber 2.0 CRDI/zamiana/alusy/klima/gwarancja/długi",
-            "price": [
-                "7 490 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-dodge-caliber-2-0-crdi-zamiana-alusy-klima-gwarancja-dlugi-CID5-ID15fswY.html",
-            "location": "Warszawa, Włochy",
-            "date": "03 April 2025 o 10:44",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Dodge Caliber z najlepszym niezawodnym silnikiem 2.0 Diesel. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nAleja Krakowska 61, 02-183 Warszawa\n\n\n\nznajdujemy się na Centrum Handlowe Okęcie Park przy Burger Kingu \n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
-            "details": {
-                "Model": "Caliber",
-                "Rok produkcji": "2008",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "SUV",
-                "Przebieg": "245 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 980 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "140 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/21ket1qdo8441-PL/image;s=960x1280"
-        },
-        {
-            "title": "Witam posiadam do sprzedania Audi a4",
-            "price": [
-                "2 700 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/witam-posiadam-do-sprzedania-audi-a4-CID5-ID15eHv1.html",
-            "location": "Radom",
-            "date": "02 April 2025",
-            "description": "Witam Audi a4 B5 1.9 diesel 90 koni OC ważne 28 wrzesień przegląd 28 maj podłoga progi bardzo dobrym stanie wymieniamy alternator pasek pk napinacz olej filtry lekko poci się maglownica nie przeszkadza to w eksploatacji codziennego auta  samochód używałem na co dzień nigdy mnie nie zawiódł sprzedaję gdyż kupiłem drugi chętne osoby zapraszam do kontaktu jazdy próbnej",
-            "details": {
-                "Model": "A4",
-                "Rok produkcji": "1997",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "360 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "1 899 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "90 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/490fd4bc4gff1-PL/image;s=1020x456"
-        },
-        {
-            "title": "Ford c-max 1.8 benzyna",
-            "price": [
-                "4 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/ford-c-max-1-8-benzyna-CID5-ID15b9a0.html",
-            "location": "Rzgów",
-            "date": "02 April 2025",
-            "description": "Dzień dobry\n\nAutko w dobrym stanie technicznym. Zawieszenie ciche, silnik pracuje ładnie rozrząd na łańcuchu. Wnętrze czyste, niezniszczone całe wyposażenie łącznie z klimatyzacją sprawne. Dwa kluczyki, świeży akumulator. Na zewnątrz wygląda dobrze choć już kilka zaprawek było robione. Przegląd do końca roku, oc do końca kwietnia. Zapraszam serdecznie",
-            "details": {
-                "Model": "C-MAX",
-                "Rok produkcji": "2004",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "282 000 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 800 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u37d2849vzm13-PL/image;s=1841x1332"
-        },
-        {
-            "title": "Opel Zafira B/2008/1.9CDTI/7osobowy/Okazja",
-            "price": [
-                "6 590 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/opel-zafira-b-2008-1-9cdti-7osobowy-okazja-CID5-ID15eN9i.html",
-            "location": "Warszawa, Targówek",
-            "date": "02 April 2025",
-            "description": "Witam serdecznie !!\n\n\n\nSprzedam niezawodny i zadbany samochód Opel Zafira B. Auto zarejestrowane w Polsce, gotowe do jazdy bez dodatkowych nakładów.\n\n\n\nGłówne informacje:\n\n\n\n• Silnik: 1.9diesel, pracuje bez zarzutu.\n\n• Stan: Świetny, niedawno przeszło pełen serwis techniczny.\n\n• Przebieg: 300.000km.\n\n• Skrzynia biegów: manualna \n\n• Karoseria: Jak na założonych zdjęciach , prezentuje się bardzo dobrze.\n\n\n\nWyposażenie:\n\n\n\n• Klimatyzacja, która działa świetnie o każdej porze roku.\n\n• Elektryczny pakiet: szyby, lusterka.\n\n• Centralny zamek z pilotem.\n\n• Dodatkowe udogodnienia:\n\n*7 osobowy \n\n\n\nZalety:\n\n\n\n•Dostawa samochodu na terenie całej Polski po uzgodnieniu.\n\n•Wszystkie dokumenty są w porządku, ubezpieczenie i przegląd techniczny są ważne.\n\n\n\nJeśli szukasz samochodu, który łączy niezawodność, komfort i ekonomię, ten jest idealnym wyborem. Zapraszamy do oględzin i na jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nZadzwoń pod numer , aby dowiedzieć się więcej lub umówić się na spotkanie. \n\n\n\nSamochód znajduje się pod Szkolna 1 05- 077 Zakręt \n\n73*******09\n\nPracujemy codziennie :\n\nod 8:00 do 20:00\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nPrzed przyjazdem koniecznie sprawdź dostępność.",
-            "details": {
-                "Model": "Zafira",
-                "Rok produkcji": "2008",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "300 000 km",
+                "Przebieg": "330 000 km",
                 "Kolor": "Srebrny",
-                "Poj. silnika": "1 898 cm³",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/55u4dtpust3g2-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford Focus C-Max 1.8Benzyna Klimatyzcja Hak Alu Aktualne Opłaty",
+            "price": [
+                "2 999 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/ford-focus-c-max-1-8benzyna-klimatyzcja-hak-alu-aktualne-oplaty-CID5-ID15eJEN.html",
+            "location": "Rutki-Kossaki",
+            "date": "02 April 2025",
+            "description": "Ford Focus C-Max 1.8Benzyna Klimatyzcja Hak Alu Aktualne Opłaty \n\n\n\nSamochód posiada bardzo dobry mocny silnik 1.8 benzyna 120KM  odpala od strzała, silnik pracuje bardzo ładnie dobrze jeździ rok prod 2003 przebieg 310742km\n\n\n\nBlacharsko i lakierniczo wygląda jeszcze dobrze \n\n\n\nOd spodu auto wygląda jeszcze całkiem nieźle\n\n\n\nNa wyposażeniu posiada wspomaganie ,elektryczne szyby,radio,centralny zamek ,air bag ,hak ,klimatyzacja -sprawna ,2x kluczyk ,tempomat,multi-funkcyjna kierownica \n\n\n\nProwadzi się bardzo dobrze, twardo trzyma się drogi\n\n\n\nOPŁATY AKTUALNE\n\nOC DO 04/06/2025\n\nBT DO  03/06/2025\n\n\n\n- Przed zakupem możesz sprawdzić swoje auto na stacji diagnostycznej!\n\n\n\n- Wystawiamy fakturę vat marżę - kupujący jest zwolniony z opłaty skarbowej 2% \n\n\n\n- Jeśli znudzi Ci się auto, możesz przyjechać i wymienić je na inne - na pewno się dogadamy\n\n\n\n- Możliwość zostawienia swojego samochodu w rozliczeniu!\n\n\n\nSKUP SPRZEDAŻ ZAMIANA\n\nWPADAJ SZYBKO DO PP-CAR !\n\n\n\nAdres: Mężenin 26 18-312 Rutki-kossaki Powiat Zambrów \n\n\n\nGodziny otwarcia :\n\n\n\nPoniedziałek - Sobota - od 8 do 18\n\nNiedziela - od 11 do 16\n\n\n\nNiniejsza oferta jest wyłącznie informacja handlową i nie stanowi oferty w myśl art.66, § 1. Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ofert",
+            "details": {
+                "Numer VIN": "WF0MXXGCDM3J38231",
+                "Model": "C-MAX",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "310 742 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 798 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
                 "Moc silnika": "120 KM",
                 "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ru1nym5udt6r1-PL/image;s=1008x756"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/31yph0a0e9t12-PL/image;s=1000x750"
         },
         {
-            "title": "Autokomis TopCar! Ford Ka 1.6 Benzyna/Kabriolet/Bdstan/Maly przebieg/",
+            "title": "KIA CEED 1.6 CRDi 2009r Bardzo Zadbany Oszczedny Super Stan",
             "price": [
-                "5 490 zł",
+                "6 500 zł",
                 ""
             ],
-            "link": "https://www.olx.pl/oferta/autokomis-topcar-ford-ka-1-6-benzyna-kabriolet-bdstan-maly-przebieg-CID5-ID14Qrsl.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "01 April 2025",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękny i niezawodny Ford Ka wyprodukowany w 2004 Roku z najlepszym niezawodnym silnikiem 1.6 Benzyna, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
+            "link": "https://www.olx.pl/oferta/kia-ceed-1-6-crdi-2009r-bardzo-zadbany-oszczedny-super-stan-CID5-ID15eGSK.html",
+            "location": "Piaseczno",
+            "date": "02 April 2025",
+            "description": "Sprzedam Kię Ceed rok produkcji 2008 silnik 1.6 CRDi w bardzo dobrej kondycji. Na bieżąco serwisowany nie potrzebuje żadnego nakładu finansowego. Bardzo dobrze jeździ i bardzo mało pali. Klimatyzacja sprawna. Jeśli szukasz taniego auta do którego nie musisz dokładać i jeździć to uważam że jest to świetna oferta. Okresowe badanie techniczne (ważne do 18.10.2025)\n\nData ważności polisy\n\n21.12.2025\n\nKupujący zwolniony z opłaty skarbowej pcc3.",
             "details": {
-                "Model": "KA",
-                "Rok produkcji": "2004",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kabriolet",
-                "Przebieg": "168 000 km",
-                "Kolor": "Czarny",
+                "Numer VIN": "U5YFF24428L125845",
+                "Model": "Cee'd",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "251 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 582 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9d27db483n5w1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Zafira 1.6 Benzyna+gaz",
+            "price": [
+                "4 000 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/opel-zafira-1-6-benzyna-gaz-CID5-ID15f1nW.html",
+            "location": "Szydłowiec",
+            "date": "02 April 2025",
+            "description": "Sprzedam Opla Zafire 1.6 Benzyna+gaz 2001 r. Butla z homologacją do 2034. Przegląd do sierpnia. Auto codziennie użytkowane. Dorzucam drugi komplet opon z felgami",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "330 000 km",
+                "Kolor": "Zielony",
                 "Poj. silnika": "1 600 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
+                "Kraj pochodzenia": "Polska",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a0rxyqciyhcy2-PL/image;s=750x1000"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yoyczdi0t4vs-PL/image;s=934x2000"
         },
         {
-            "title": "Renault Clio 1,2 Benz 07r bdb stan zadbana 1WŁ od nowości",
+            "title": "Na sprzedaż Audi A6 1.8LPG/Gwarancja/Alufelgi/Nowe klocki/Zamiana/Clim",
             "price": [
-                "3 999 zł",
+                "3 490 zł",
                 ""
             ],
-            "link": "https://www.olx.pl/oferta/renault-clio-1-2-benz-07r-bdb-stan-zadbana-1wl-od-nowosci-CID5-ID15drlm.html",
-            "location": "Warszawa, Targówek",
-            "date": "01 April 2025",
-            "description": "Renault Clio 1,2 Benz 07r, samochód jest w świetnej kondycji mechanicznej, silnik pracuje wzorowo, cicho równo, ładnie przyspiesza, nie dymi, sprzęgło skrzynia oraz hamulce działają prawidłowo, samochód miał jednego właściciela, jest bardzo dobrze utrzymany, nie wymaga wkładu finansowego, zawieszenie w stanie dobrym, sztywne nie wybite, bez stuków luzów, dobrze wybiera nierówności, pewnie się prowadzi \n\n\n\nWyposażenie \n\nKlima SPRAWNA \n\nEl szyby \n\nEl lusterka \n\nRadio\n\n\n\nWażne opłaty \n\n\n\nMożliwa zamiana 509(595(3I6(\n\n\n\nSPRAWDŹ NASZE POZOSTAŁE OGŁOSZENIA, POSIADAMY WIELE AUT W ATRAKCYJNYCH CENACH, Z WAŻNYMI OPŁATAMI \n\n\n\nBIERZEMY AUTA W ROZLICZENIU \n\n\n\nCHCESZ SPRZEDAĆ BĄDŹ ZAMIENIĆ SWOJE AUTO ZADZWOŃ 5O7O16O32 \n\n\n\nZAPRASZAMY 7-DNI W TYGODNIU \n\n\n\nZAWSZE DUŻY WYBÓR/DOBRE CENY",
-            "details": {
-                "Model": "Clio",
-                "Rok produkcji": "2007",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "220 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "1 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "60 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zd14jt3lqenk-PL/image;s=1024x768"
-        },
-        {
-            "title": "Skoda Fabia 1.4 16v 86km LPG",
-            "price": [
-                "9 500 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/skoda-fabia-1-4-16v-86km-lpg-CID5-ID127uy5.html",
-            "location": "Warszawa, Wawer",
-            "date": "01 April 2025",
-            "description": "Witam, sprzedam Skodę Fabię 1.4 16v 86km z LPG. Auto na bieżąco serwisowane Polski Salon faktury od nowości. Auto jeździło na Taxi przez 3 miesiące przez moją mamę jednak zrezygnowała. OC do końca grudnia oplacone.\n\n Zapraszam do kontaktu",
-            "details": {
-                "Numer VIN": "TMB1CB5J7D3059804",
-                "Model": "Fabia",
-                "Rok produkcji": "2012",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "298 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 398 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "86 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lmxsx1yf51xl1-PL/image;s=1000x750"
-        },
-        {
-            "title": "Opel Vectra C polift //2008 rok//niski przebieg //hak",
-            "price": [
-                "5 900 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/opel-vectra-c-polift-2008-rok-niski-przebieg-hak-CID5-ID15boNS.html",
-            "location": "Ostrołęka",
-            "date": "01 April 2025",
-            "description": "Sprzedam Opla Vectrę z 2008 roku ,przebieg 153 tys km samochód w pełni sprawny . W środku zadbany czysty w bardzo dobrym stanie z zewnątrz normalne ślady użytkowania \n\nCena to tylko 5900 zł \n\nZapraszam na oględziny i jazdę próbną",
-            "details": {
-                "Model": "Vectra",
-                "Rok produkcji": "2008",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "153 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k1k791qk6jqn2-PL/image;s=2048x1536"
-        },
-        {
-            "title": "Na sprzedaż BMW E46 2.0D/Ładny stan/Nowy rozrząd/Clima/Alufelgi/Zamian",
-            "price": [
-                "3 990 zł",
-                ""
-            ],
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-bmw-e46-2-0d-ladny-stan-nowy-rozrzad-clima-alufelgi-zamian-CID5-ID15dEq6.html",
+            "link": "https://www.olx.pl/oferta/na-sprzedaz-audi-a6-1-8lpg-gwarancja-alufelgi-nowe-klocki-zamiana-clim-CID5-ID15dEEM.html",
             "location": "Warszawa, Ursus",
             "date": "01 April 2025",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie RATALNYM!!! \n\n\n\nMożliwy dowóz do klienta na terenie całej Polski!!!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna BMW E46 z najlepszym niezawodnym silnikiem 2.0 Diesel. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Warszawska 56 , 02-496, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 09 do 20",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie RATALNYM!!! \n\n\n\nMożliwy dowóz do klienta na terenie całej Polski!!!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Audi A6 z najlepszym niezawodnym silnikiem 1.8 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Warszawska 56 , 02-496, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 09 do 20",
             "details": {
-                "Model": "Seria 3",
-                "Rok produkcji": "2002",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Coupe",
-                "Przebieg": "256 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 990 cm³",
+                "Model": "A6",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "266 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 790 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
-                "Moc silnika": "150 KM",
-                "Napęd": "Na tylne koła",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ud6txhl2o3ud2-PL/image;s=960x1280"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m6yqi0iik9fx2-PL/image;s=960x1280"
+        },
+        {
+            "title": "Renault Scenic II",
+            "price": [
+                "2 900 zł",
+                ""
+            ],
+            "link": "https://www.olx.pl/oferta/renault-scenic-ii-CID5-ID13mjj0.html",
+            "location": "Zakroczym",
+            "date": "01 April 2025",
+            "description": "Sprzedam Renault Scenic II. Stan techniczny dobry. Sprowadzony z Francji w 2012r. Pierwszy właściciel w kraju.",
+            "details": {
+                "Model": "Scenic",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "290 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "105 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u5jm3wuwwi09-PL/image;s=1200x1600"
         }
     ]
 }
