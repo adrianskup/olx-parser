@@ -81,7 +81,7 @@ def get_car_details(link, is_otomoto=False):
             details = {}
             params_container = soup.find("div", {"data-testid": "ad-top-attributes"})
             if params_container:
-                params = params_container.find_all("p")  # ВАЖНО: добавил .find_all("p")
+                params = params_container.find_all("p")
                 for i in range(0, len(params), 2):
                     if i + 1 < len(params):
                         key = params[i].text.strip().rstrip(':')
@@ -90,25 +90,35 @@ def get_car_details(link, is_otomoto=False):
 
             tech_params = soup.find("div", {"data-testid": "ad-params"})
             if tech_params:
-                sections = tech_params.find_all("div", recursive=False)
-                for section in sections:
-                    try:
-                        key = section.find("p", class_="ekwurce8 ooa-1vfan6r").text.strip()
-                        value = section.find("p", class_="ekwurce9 ooa-10u0vtk").text.strip()
-                        details[key] = value
-                    except AttributeError:
-                        continue  # Пропускаем секции без данных
+                for section in tech_params.find_all("div", recursive=False):
+                    key_element = section.find("p", class_=re.compile(".*ooa-1vfan6r.*"))
+                    value_element = section.find("p", class_=re.compile(".*ooa-10u0vtk.*"))
+                    if key_element and value_element:
+                        details[key_element.text.strip()] = value_element.text.strip()
 
             result["details"] = details
 
-            img_container = soup.select_one('div.css-gl6djm img') or \
-                            soup.select_one('img[data-testid="bigImage"]') or \
-                            soup.select_one('img[src*="apollo.olxcdn.com"]')
+            img_container = soup.select_one('img[data-testid="bigImage"]')
             if img_container:
-                image_url = img_container.get('src') or img_container.get('data-src')
-                if image_url and ';s=' in image_url:
-                    image_url = image_url.split(';s=')[0]
-                result["image_url"] = image_url
+                result["image_url"] = img_container.get("src")
+        else:
+            description_element = soup.select_one("div.css-1t507yq")
+            if description_element:
+                result["description"] = description_element.get_text(separator="\n").strip()
+
+            details = {}
+            details_container = soup.select("ul.css-sfcl1s li")
+            for detail in details_container:
+                key_element = detail.select_one("p")
+                value_element = detail.select("p")[1] if len(detail.select("p")) > 1 else None
+                if key_element and value_element:
+                    details[key_element.text.strip()] = value_element.text.strip()
+
+            result["details"] = details
+
+            img_container = soup.select_one("img[data-testid='image']")
+            if img_container:
+                result["image_url"] = img_container.get("src")
 
         return result
 
@@ -118,7 +128,7 @@ def get_car_details(link, is_otomoto=False):
         print(f"Ошибка при обработке {link}: {e}")
 
     return {"description": "Ошибка при получении данных", "details": {}, "image_url": None}
-    
+
 def get_olx_ads():
     response = requests.get(OLX_URL, headers=HEADERS)
     if response.status_code != 200:
