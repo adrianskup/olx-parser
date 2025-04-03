@@ -1,6 +1,105 @@
 {
-    "updated": "2025-04-03 19:25:06.256690",
+    "updated": "2025-04-03 19:30:50.869059",
     "ads": [
+        {
+            "title": "ŠKODA FABIA 1.2 12V sedan , przebieg 124tyś km , stan dobry...",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/skoda-fabia-1-2-12v-sedan-przebieg-124tys-km-stan-dobry-CID5-ID15fXQ7.html",
+            "location": "Ciechanowiec",
+            "date": "03 April 2025 o 19:24",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Mitsubishi colt 1.3 *AUTOMAT* przebieg 200tys",
+            "price": "9 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/mitsubishi-colt-1-3-automat-przebieg-200tys-CID5-ID15fXlp.html",
+            "location": "Jabłonna",
+            "date": "03 April 2025 o 19:23",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Fiat grande punto",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/fiat-grande-punto-CID5-ID15fXpT.html",
+            "location": "Lublin",
+            "date": "03 April 2025 o 19:22",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Volvo C30 1.6 diesel",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/volvo-c30-1-6-diesel-CID5-ID15dvsz.html",
+            "location": "Płock",
+            "date": "03 April 2025 o 19:21",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Smart Fortwo 0.6 !",
+            "price": "999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/smart-fortwo-0-6-CID5-ID15fXEd.html",
+            "location": "Warszawa, Białołęka",
+            "date": "03 April 2025 o 19:21",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Ford Galaxy 2005 rok",
+            "price": "5 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/ford-galaxy-2005-rok-CID5-ID15fXAe.html",
+            "location": "Warszawa, Ursynów",
+            "date": "03 April 2025 o 19:21",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Ford S-Max z roku 2009. 1.8 TDCi Wersja TITANIUM FILM Nowa Cena",
+            "price": "8 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/ford-s-max-z-roku-2009-1-8-tdci-wersja-titanium-film-nowa-cena-CID5-ID13Mjey.html",
+            "location": "Kutno",
+            "date": "03 April 2025 o 19:20",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "MINI ONE Mini One 2005",
+            "price": "7 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mini-one-mini-one-2005-ID6HhYbH.html",
+            "location": "Legionowo",
+            "date": "03 April 2025 o 19:18",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im41cDAxYm90NGxpczMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.JK7kl8UVr3ZKhIrAZpodW4-MVionbDS7FCbRRNrbapE/image"
+        },
+        {
+            "title": "Skoda Fabia Kombi 2.0 115KM, 2005r, Nowy rozrząd, Gaz, Grzane fotele!",
+            "price": "9 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/skoda-fabia-kombi-2-0-115km-2005r-nowy-rozrzad-gaz-grzane-fotele-CID5-ID14IqoO.html",
+            "location": "Warszawa, Wilanów",
+            "date": "03 April 2025 o 19:18",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
+        },
         {
             "title": "Opel Vectra Opel Vectra C 1.9 CDTI Elegance",
             "price": "9 500 zł",
@@ -11,6 +110,17 @@
             "description": "Dzień dobry, mam na sprzedaż Opel Vectra C 1.9 CDTI Elegance.\nSamochód posiada widoczne na przednim zderzaku i masce uszkodzenie po stłuczce parkingowej.\nSamochód jest świeżo po wymianie rozrządu, pompy sprzęgła, wysprzęglika oraz posiada nowy olej, płyn hamulcowy i filtry.\nOpony całoroczne 2 letnie.\nSamochód serwisowany systematycznie. Większość przebiegu na autostradach.\nStan techniczny bardzo dobry.\nOC i przegląd techniczny są aktualne.\nZapraszam do kontaktu: \nWyświetl numer",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml2N25jbHFrb3pkZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.R5rjwJSk60zRzosvgk7aTfRRBSwaD1eGVKBPdVnUbZg/image"
+        },
+        {
+            "title": "2.2 cdi kombi 2002 rok do jazdy Łódź",
+            "price": "4 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/2-2-cdi-kombi-2002-rok-do-jazdy-lodz-CID5-ID152GY4.html",
+            "location": "Łódź, Śródmieście",
+            "date": "03 April 2025 o 19:17",
+            "description": "Opis nie podano",
+            "details": {},
+            "image_url": null
         },
         {
             "title": "Citroën C4 Grand Picasso Citroen C4 Grand Picasso 2008",
@@ -200,17 +310,6 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxvMzl3YWEwNWo1bDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.3lzdWXN8Djdtlit7mQ1levwq1un5Sc8U1BZCYvJTfR0/image"
         },
         {
-            "title": "Mitsubishi Outlander 2007 2.0 DI-D 140 KM uszkodzony",
-            "price": "6 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/mitsubishi-outlander-2007-2-0-di-d-140-km-uszkodzony-CID5-ID15fV6q.html",
-            "location": "Karczew",
-            "date": "03 April 2025 o 19:01",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
             "title": "Mazda 6 Drugi właściciel, auto sprowadzone z Niemiec w 2014r.",
             "price": "8 000 zł",
             "negotiable": false,
@@ -321,133 +420,23 @@
             "image_url": null
         },
         {
-            "title": "VW Bora  2.0 + LPG",
-            "price": "7 500 zł",
+            "title": "Chrysler Pacifica 3.5V6 benzyna+LPG !!! 2004 rok !!!",
+            "price": "9 900 zł",
             "negotiable": true,
-            "link": "https://www.olx.pl/oferta/vw-bora-2-0-lpg-CID5-ID158Sna.html",
-            "location": "Brzeziny",
-            "date": "03 April 2025 o 18:52",
+            "link": "https://www.olx.pl/oferta/chrysler-pacifica-3-5v6-benzyna-lpg-2004-rok-CID5-ID14ZaNf.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025 o 14:25",
             "description": "Opis nie podano",
             "details": {},
             "image_url": null
         },
         {
-            "title": "Volvo V70 2,5 TDI 2gen okazja!",
-            "price": "4 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/volvo-v70-2-5-tdi-2gen-okazja-CID5-ID15fSkS.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 18:52",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Fiat Grande Punto osobowy kierownica po lewej stronie",
-            "price": "9 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/fiat-grande-punto-osobowy-kierownica-po-lewej-stronie-CID5-ID12oCN8.html",
-            "location": "Sierpc",
-            "date": "03 April 2025 o 18:52",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Sprzedam Mini Morris dwie sztuki okazja",
-            "price": "10 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/sprzedam-mini-morris-dwie-sztuki-okazja-CID5-ID153jqP.html",
-            "location": "Blizne Łaszczyńskiego",
-            "date": "03 April 2025 o 18:52",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "mini cooper one 1,6 benzyna + lpg",
+            "title": "Opel Zafira 1.6 Benzyna+gaz",
             "price": "4 000 zł",
             "negotiable": true,
-            "link": "https://www.olx.pl/oferta/mini-cooper-one-1-6-benzyna-lpg-CID5-ID15fWnZ.html",
-            "location": "Rawa Mazowiecka",
-            "date": "03 April 2025 o 18:50",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Sprzedam mercedesa",
-            "price": "9 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/sprzedam-mercedesa-CID5-ID14oTFN.html",
-            "location": "Cegłów",
-            "date": "03 April 2025 o 18:50",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Nissan Note Nissan Note przygotowany do jazdy",
-            "price": "7 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/nissan-note-nissan-note-przygotowany-do-jazdy-ID6HhXQF.html",
-            "location": "Łysów",
-            "date": "03 April 2025 o 18:46",
-            "description": "Witam,\nsprzedam Nissana Note z 2008 roku, auto przygotowane do jazdy, na chwilę obecną nie wymaga żadnych inwestycji (ewentualnie można dokonać drobnych prac blacharsko-lakierniczych w celach estetycznych). Przebieg ok 250 tyś. autem na codzień jeździłem do pracy ok 20km, niezawodnie służył mi również podczas wakacyjnych czy weekendowych wyjazdów morze, góry, mazury.\nDo auta dokładam komplet opon letnich. Przegląd do 03.08.2025 r., ubezpieczenia do 29.08.2025 r.\nOsoby zainteresowane zapraszam na jazdę próbną, w razie jakichkolwiek pytań lub wątpliwości chętnie odpowiem telefonicznie \nWyświetl numer\n.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJhOWppbDFvZXQwZDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.cKFqUMXdnkTtl7a6gl7rORdJTFWRU68obmVWJ-WRxmo/image"
-        },
-        {
-            "title": "Toyota Yaris 1 3 klima",
-            "price": "2 100 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/toyota-yaris-1-3-klima-CID5-ID15fWul.html",
-            "location": "Warszawa, Mokotów",
-            "date": "03 April 2025 o 18:46",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Volvo V50 1.8 benzyna 2005r hak",
-            "price": "2 250 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/volvo-v50-1-8-benzyna-2005r-hak-CID5-ID15fWtB.html",
-            "location": "Jabłonna",
-            "date": "03 April 2025 o 18:46",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "BMW e36 compact 316i zamiana na automat/traktorek ogrodowy/przyczepkę",
-            "price": "6 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/bmw-e36-compact-316i-zamiana-na-automat-traktorek-ogrodowy-przyczepke-CID5-ID14GQAO.html",
-            "location": "Siedlce",
-            "date": "03 April 2025 o 18:45",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Golf V 1.9Tdi 105Km 2007/08 6biegow Długie Oplaty Luty 2026!!!",
-            "price": "5 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/golf-v-1-9tdi-105km-2007-08-6biegow-dlugie-oplaty-luty-2026-CID5-ID15egKW.html",
-            "location": "Łódź, Polesie",
-            "date": "03 April 2025 o 17:18",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Na Sprzedaż BMW 5 2.5D/super stan/zamiana/alu/gwarancja/alu/klima",
-            "price": "6 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-bmw-5-2-5d-super-stan-zamiana-alu-gwarancja-alu-klima-CID5-ID15fpgO.html",
-            "location": "Warszawa, Białołęka",
-            "date": "03 April 2025 o 09:51",
+            "link": "https://www.olx.pl/oferta/opel-zafira-1-6-benzyna-gaz-CID5-ID15f1nW.html",
+            "location": "Szydłowiec",
+            "date": "02 April 2025",
             "description": "Opis nie podano",
             "details": {},
             "image_url": null
@@ -475,33 +464,11 @@
             "image_url": null
         },
         {
-            "title": "Renault Espace 2002 2.0T + LPG",
-            "price": "5 800 zł",
+            "title": "Skoda Fabia 1.6 TDI 105KM !!! 2011 rok !!!",
+            "price": "7 000 zł",
             "negotiable": true,
-            "link": "https://www.olx.pl/oferta/renault-espace-2002-2-0t-lpg-CID5-ID153HoL.html",
-            "location": "Nałęczów",
-            "date": "02 April 2025",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Ford S-Max 2.0 diesel 2006r",
-            "price": "9 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/ford-s-max-2-0-diesel-2006r-CID5-ID13LR4O.html",
-            "location": "Dęblin",
-            "date": "02 April 2025",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Fiat 1.9 Bravo jtd",
-            "price": "7 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/fiat-1-9-bravo-jtd-CID5-ID15dhTC.html",
-            "location": "Elizówka",
+            "link": "https://www.olx.pl/oferta/skoda-fabia-1-6-tdi-105km-2011-rok-CID5-ID14iRDH.html",
+            "location": "Warszawa, Ursynów",
             "date": "01 April 2025",
             "description": "Opis nie podano",
             "details": {},
@@ -513,17 +480,6 @@
             "negotiable": true,
             "link": "https://www.olx.pl/oferta/mercedes-c-200-kompresor-z-lpg-automat-avangarde-okazja-gotowy-do-jazd-CID5-ID15ef7j.html",
             "location": "Warszawa, Białołęka",
-            "date": "01 April 2025",
-            "description": "Opis nie podano",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Audi na sprzedaż",
-            "price": "9 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/audi-na-sprzedaz-CID5-ID13yIPr.html",
-            "location": "Ostrów Mazowiecka",
             "date": "01 April 2025",
             "description": "Opis nie podano",
             "details": {},
