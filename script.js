@@ -31,15 +31,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 detailsHtml += '</div>';
 
-                // Проверяем, есть ли торг
-                const negotiableText = ad.negotiable ? '<div class="negotiable">Do Negocjacji</div>' : '';
+                // Добавляем "Do Negocjacji" в скобках после цены, если negotiable = true
+                const priceText = ad.negotiable ? `${ad.price} (Do Negocjacji)` : ad.price;
 
                 adItem.innerHTML = `
                     <img src="${imageUrl}" alt="Car Image">
                     <div class="content">
                         <div class="title"><a href="${ad.link}" target="_blank">${ad.title}</a></div>
-                        <div class="price">${ad.price}</div>
-                        ${negotiableText} <!-- Показываем "Возможен торг" только если negotiable = true -->
+                        <div class="price">${priceText}</div>
                         <div class="location">${ad.location}</div>
                         <div class="date">${ad.date}</div>
                         <div class="description">${ad.description}</div>
