@@ -56,7 +56,10 @@ def convert_date_to_datetime(date_str):
         return datetime.datetime.min
 
 def clean_price(price_text):
-    return re.sub(r'\s*do negocjacji', '', price_text).strip()
+    # Проверим, есть ли фраза "do negocjacji"
+    price_text = re.sub(r'\s*do negocjacji', '', price_text).strip()
+    price_with_negotiation = 'do negocjacji' if 'do negocjacji' in price_text else ''
+    return price_text, price_with_negotiation
 
 def get_car_details(link, is_otomoto=False):
     try:
