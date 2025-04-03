@@ -1,6 +1,55 @@
 {
-    "updated": "2025-04-03 21:45:48.091114",
+    "updated": "2025-04-03 21:50:51.128520",
     "ads": [
+        {
+            "title": "Mercedess-Benz/C-Class/W203/2004rok/2.2Diesel/dobry stan!",
+            "price": "6 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/mercedess-benz-c-class-w203-2004rok-2-2diesel-dobry-stan-CID5-ID151iJG.html",
+            "location": "Warszawa, Wawer",
+            "date": "03 April 2025 o 21:43",
+            "description": "Witam, posiadamy na sprzedaż piękny i niezawodny Mercedes-Benz W203 C-Class\n\nZ niezawodnym silnikiem 2.2diesel o mocy 143KM oraz automatyczną skrzynią biegów \n\nStan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, Rozrząd , płyn chłodnicy,klocki nowy akumulator założony zimowe opony,silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy .Skrzynia zmienia biegi płynnie bez żadnych problemów,zawieszenie w dobrym stanie. Ogólnie wsiadać i jeździć\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n-radio \n\n-wielofunkcyjna kierownica \n\n-tempomat \n\n-dwustrefowa klimatyzacja \n\n-podgrzewanie fotele\n\n-szyberdach \n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie do małych poprawek lakierniczych \n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nProponujemy dostarczenie samochodu pod dom!\n\n\n\nChętnie zamienimy!\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% \n\nGodziny otwarcia:\n\nCodziennie od 10 do 20 Zapraszamy wszystkich na oględziny oraz jazdę próbną \n\nAdres:Trakt lubelski 342,04-766 Warszawa \n\nTel:66*****02",
+            "details": {
+                "Model": "C Klasa",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "274 200 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 198 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "143 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/au86zdolxw003-PL/image;s=1000x750"
+        },
+        {
+            "title": "Mitsubishi Colt 1.3 - na lancuchu - 2009 - klimatyzacja - ZAMIANA",
+            "price": "8 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/mitsubishi-colt-1-3-na-lancuchu-2009-klimatyzacja-zamiana-CID5-ID151iFL.html",
+            "location": "Łódź, Polesie",
+            "date": "03 April 2025 o 21:41",
+            "description": "Colt sprowadzony do Polski w 2015 roku.  Jestem właścicielem od dwóch lat.\n\n\n\nSilnik 4-cylindrowy, na łańcuchu. 1.3 95km \n\nPrzebieg na ostatnim zdjęciu. \n\n\n\nBadanie techniczne aktualne, OC zapłacone na pół roku 17 marca 2025. \n\n\n\nWyposażenie:\n\nKlimatyzacja \n\nEl. Szyby i lusterka \n\nCentralny zamek \n\nWspomaganie kierownicy\n\n\n\nKsiążka z dokumentami od auta i 2 kluczyki. \n\n\n\nObecnie na oponach zimowych, letnie w bagażniku. \n\n\n\nFajna alternatywa dla innych samochdodow z segmentu B takich jak:\n\nSkoda Fabia \n\nSeat Ibiza \n\nHyundai i20 \n\nToyota Yaris \n\nVw Polo\n\nI podobnych. \n\n\n\nSamochód stoi na retkinii.\n\n\n\nMożliwa zamiana na samochód z lat 80 / 90 lub większy z dopłatą.",
+            "details": {
+                "Numer VIN": "Xmcmnz34a9f035279",
+                "Model": "Colt",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "178 800 km",
+                "Kolor": "Czerwony",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "95 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/g1zti1bt98dx-PL/image;s=1000x750"
+        },
         {
             "title": "Audi a4 b6 1.8T 200KM zamiana na tańszy lub drozszy",
             "price": "8 600 zł",
@@ -1006,109 +1055,6 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zimauf7v65ss-PL/image;s=750x1000"
         },
         {
-            "title": "Citroën C4 Picasso 3 właściciel. Stan techniczny nie uszkodzony",
-            "price": "8 600 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c4-picasso-3-wlasciciel-stan-techniczny-nie-uszkodzony-ID6HhYQb.html",
-            "location": "Warszawa, Bemowo",
-            "date": "03 April 2025 o 20:34",
-            "description": "Dzień dobry! Sprzedaję Citroena c4 Grand Picasso. Ubezpieczenie i przegląd techniczny do września. Diesel. 7 miejsc. Silnik 1.6 Rock 2007. Wszystko działa. 729*88*00*94",
-            "details": {
-                "Marka pojazdu": "Citroën",
-                "Model pojazdu": "C4 Picasso",
-                "Wersja": "1.6 HDi Equilibre Pack MCP",
-                "Kolor": "Złoty",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "7",
-                "Rok produkcji": "2007",
-                "Generacja": "I (2006-2013)",
-                "Rodzaj paliwa": "Diesel",
-                "Pojemność skokowa": "1 560 cm3",
-                "Moc": "110 KM",
-                "Typ nadwozia": "Minivan",
-                "Skrzynia biegów": "Automatyczna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "150 g/km",
-                "Spalanie W Mieście": "6.8 l/100km",
-                "Spalanie Poza Miastem": "5.1 l/100km",
-                "Przebieg": "350 000 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZjeWhkM2x5MzI2ZDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.o1wcvKmMLC3c9fdDNuRBmPMVwstc9fdpKfRWfYgxqNM/image"
-        },
-        {
-            "title": "Ford Focus MK3 lift 1.0 benzyna kombi, niski przebieg",
-            "price": "9 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/ford-focus-mk3-lift-1-0-benzyna-kombi-niski-przebieg-CID5-ID14WeC8.html",
-            "location": "Brodnica",
-            "date": "03 April 2025 o 20:33",
-            "description": "Ford Focus MK3 po lifcie w stanie uszkodzonym jak na zdjęciach. Do wymiany pas przedni, chłodnice, kokpit, maska, lampy. Podłużnice i szyba, nie naruszone. Czysty zadbany",
-            "details": {
-                "Model": "Focus",
-                "Rok produkcji": "2015",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "120 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "999 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "100 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mb2buh6g0r6p3-PL/image;s=1000x750"
-        },
-        {
-            "title": "Mazda 2 1.4 Śliczna z Niemiec*Klimatronik*Alu*Serwis*Zobacz 2007r",
-            "price": "8 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/mazda-2-1-4-sliczna-z-niemiecklimatronikaluserwiszobacz-2007r-CID5-ID157Ri4.html",
-            "location": "Gostynin",
-            "date": "03 April 2025 o 19:29",
-            "description": "Witam.Mam Na Sprzedanie MAZDA 2 1.4 80 koni 5-Drzwiowa, Skrzynia MANUALNA,Sprowadzony kilka dni temu z Niemiec,Auto jest od pierwszego właściciela jest w stanie idealnym i serwisowanym do końca posiada książkę serwisowa bardzo ładnie chodzi,w środku jest jak nowa tapicerka w idealnym stanie jak i technicznym zobacz na żywo śliczny jest,opłacony.posiada książkę 8900 zl. uzgodnienia. tel 695#786#013 OPŁACONA KOSZT REJ.161 zł\n\n\n\nPrzebieg Oryginalny z Książka Serwisowa 170304 Tys KM\n\n\n\nWięcej zdjęć 40 na Otomoto Lokalizacja Gostynin\n\n\n\nWyposażenie\n\n\n\nwspomaganie kierownicy\n\npoduszki powietrzne\n\nPodgrzewane fotele\n\nAlufelgi Oryginalne\n\nKomputer pokładowy\n\nElektryczne szyby\n\nElektryczne lusterka\n\ncentralny zamek\n\nKLIMATRONIK\n\nKubełkowe siedzenia\n\nKomputer Pokładowy\n\nOpony LADNE\n\n2 komplet kluczyków\n\nksiążka serwisowa\n\nabs\n\nasp\n\nradio Cd Mp3 USB\n\n\n\nSamochód został świeżo sprowadzony z Niemiec od prywatnej osoby Wszystko udokumentowane w briefach Książka serwisowa do wglądu\n\n\n\nSamochód jest naprawdę w idealnym stanie, silnik, skrzynia biegów, zawieszenie jak i reszta innych podzespołów pracują bez najmniejszych zarzutów. Samochód pali na dotyk, nie kopci nawet przy mocniejszym dodaniu gazu, oraz posiada swoją prawidłową moc. Zero wycieków\n\n\n\nSilnik pracuje jak zegarek, przy czym jest bardzo ekonomiczny, w trasie udało mi się uzyskać spalanie poniżej 6 L na 100 km. Samochodem zrobiłem ponad 800 km wracając z Niemiec,Mazda na trasie spisywało się rewelacyjnie!\n\n\n\nZawieszenie w samochodzie również pracuje jak nowe, nie słychać żadnych stuków czy luzów, jest sztywne i pracuje prawidłowo, samochód prowadzi się pewnie i prosto, nie ściąga go na żadne strony.\n\n\n\nWnętrze samochodu wygląda jak nowe i pachnie nowością, fotele nie posiadają żadnych dziur czy przetarć, są czyste i zadbane. W aucie nie palono papierosów.\n\n\n\nPlastiki wszystkie są prawidłowo umiejscowione na swoim miejscu tak jak powinno być, nic nie jest połamane czy zniszczone.\n\n\n\nKaroseria auta posiada oryginalny lakier, nic nigdy nie było ponownie lakierowane, nie ma mowy też o żadnej rdzy, lakier auta jest zadbany, posiada normalne ślady użytkowania. Samochód był przez cały czas garażowany.\n\n\n\nSamochód bezwypadkowy, na Państwa\n\n\n\nżyczenie możliwość sprawdzenia auta w dowolnie wybranej stacji diagnostycznej.\n\n\n\nZapraszam serdecznie, na pewno nikt z Państwa nie rozczaruje się oglądając pojazd na żywo.\n\n\n\nMAZDA W JEST W BARDZO DOBRYM STANIE, NA POLSKIM RYNKU NAPRAWDĘ CIĘŻKO O TAK ZADBANY EGZEMPLARZ, DLATEGO CENA JEST ADEKWATNA DO STANU POJAZDU., ORAZ NIE WYMAGA ŻADNYCH DODATKOWYCH WKŁADÓW FINANSOWYCH.\n\n\n\nBEZWYPADKOWY\n\n\n\nORYGINALNY PRZEBIEG\n\n\n\nORYGINALNY LAKIER,\n\n\n\nSTAN WIZUALNY PERFEKCYJNY,\n\n\n\nSTAN TECHNICZNY IDEALNY\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce.\n\n\n\nStan techniczny oceniam jako bardzo dobry. Samochód jest sprawny, jeżdżący, nie posiada ukrytych wad technicznych.Wszystko robione na czas oleje paski itd..Co świadczy Niemiecki przegląd i wpisy w książkę serwisową.(Na życzenie do wglądu!!) Silnik sprawny, pracuje równo, bez problemu wchodzi na obroty.Skrzynia idealna.Środek ładny nie poniszczony bez jakichkolwiek,przetarć wszystkie plastiki na swoim miejscu. Cała elektryka działa bez zarzutu, brak błędów w komputerze. Karoseria bez oznak korozji, lakier w bardzo dobrym stanie.\n\n\n\nZainteresowanych serdecznie zapraszam na oględziny i ewentualną jazdę próbną.\n\n\n\nSamochód do oglądnięcia znajduje się w Gostyninie Woj.Mazowieckie\n\n\n\nPrzed przybyciem proszę o telefon celem ustalenia aktualności oferty. Cena do negocjacji po przybyciu na miejsce. Po zakupie auta można wracać do domu na\n\n\n\nKołach(Ubezpieczenie Gratis). Możliwość sprawdzenia auta na dowolnej stacji diagnostycznej.\n\n\n\n*Niniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, § 1. Kodeksu Cywilnego.\n\n\n\n*Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.\n\n\n\n* Zastrzegamy sobie prawo do kopiowania treści naszych ogłoszeń i przetwarzania ich osobom\n\n\n\ntrzecim oraz innym firmom konkurencyjnym\n\n\n\nZAPIS TEN ZOSTAŁ ZAWARTY ZE WZGLĘDU NA MOŻLIWOŚĆ DROBNYCH, LUDZKICH POMYŁEK. JEŻELI ZAUWAŻYSZ NIEŚCISŁOŚĆ - ZADZWOŃ DO NAS, A NIEZWŁOCZNIE JĄ WYJAŚNIMY\n\n\n\nTelefon; 695#786#013",
-            "details": {
-                "Model": "2",
-                "Rok produkcji": "2007",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "170 304 km",
-                "Kolor": "Zielony",
-                "Poj. silnika": "1 400 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Moc silnika": "80 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o64ifzuus00s2-PL/image;s=2550x1700"
-        },
-        {
-            "title": "VW Passat 1.9 TDI 2006r Kombi",
-            "price": "7 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/vw-passat-1-9-tdi-2006r-kombi-CID5-ID1502Rk.html",
-            "location": "Siedlce",
-            "date": "03 April 2025 o 17:06",
-            "description": "Na sprzedaż oferuje VW Passata z 2006 roku z silnikiem 1.9 TDI w najbardziej praktycznym nadwoziu kombi. OC 09.2025. Przegląd 02.2026. Duże, wygodne i praktyczne auto za małe pieniądze. Więcej informacji pod numerem telefonu.",
-            "details": {
-                "Model": "Passat",
-                "Rok produkcji": "2006",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "365 000 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "105 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w8gli9kd9uvx1-PL/image;s=1020x459"
-        },
-        {
             "title": "Fiat Panda 1.1 benzyna !!! 2004 rok !!!",
             "price": "3 400 zł",
             "negotiable": true,
@@ -1133,28 +1079,54 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qxd0ljb7rz4i3-PL/image;s=1000x750"
         },
         {
-            "title": "Ford S-Max 2.0 diesel 2006r",
-            "price": "9 500 zł",
+            "title": "Na Sprzedaż Mercedes ML 2.3LPG/4x4/super stan/zamiana/gwarancja/oszczę",
+            "price": "6 490 zł",
             "negotiable": true,
-            "link": "https://www.olx.pl/oferta/ford-s-max-2-0-diesel-2006r-CID5-ID13LR4O.html",
-            "location": "Dęblin",
+            "link": "https://www.olx.pl/oferta/na-sprzedaz-mercedes-ml-2-3lpg-4x4-super-stan-zamiana-gwarancja-oszcze-CID5-ID14I5Nz.html",
+            "location": "Warszawa, Białołęka",
             "date": "02 April 2025",
-            "description": "Witam. Sprzedam Forda S-Maxa, samochód w ciągłej eksploatacji ma kilka mankamentow i plusów( nowe zawieszenie tył oraz nowa podgrzewana szyba przednia). Zapraszam do zakupu",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Mercedesa ML z najlepszym niezawodnym silnikiem 2.3LPG. ( butla w kole zapasowym). Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Modlińska 325a Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
             "details": {
-                "Model": "S-Max",
-                "Rok produkcji": "2006",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "335 000 km",
-                "Kolor": "Zielony",
-                "Poj. silnika": "1 997 cm³",
+                "Model": "ML Klasa",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "286 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 300 cm³",
                 "Stan techniczny": "Nieuszkodzony",
                 "Skrzynia biegów": "Manualna",
-                "Moc silnika": "130 KM",
+                "Moc silnika": "150 KM",
+                "Napęd": "4x4 (stały)",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/oss5ez6mhqbo2-PL/image;s=750x1000"
+        },
+        {
+            "title": "Seat leon 1.8 benzyna + gaz",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/seat-leon-1-8-benzyna-gaz-CID5-ID15aNhc.html",
+            "location": "Warszawa, Białołęka",
+            "date": "02 April 2025",
+            "description": "Witam, sprzedam samochód osobowy marki seat leon 2001r. \n\nZ silnikiem 1.8 benzyna + gaz \n\nInstalacja gazowa stag 4 homologacja butli do 2031r. Ubezpieczenie do listopada 2025r.\n\nPrzegląd październik 2025r\n\nSamochód mechanicznie jest w bardzo dobrym stanie jak na swój wiek , prowadzi się bardzo dobrze , wizualnie do poprawek jak widać na zdjęciach.\n\n( Lewe nadkole zjada ruda , co uwzględniam przy oględzinach i kupnie)\n\nSzyba od strony pasażera nie opuszcza się, mechanizm działa jak najbardziej ale spadła z linek.\n\nSamochód ma długie opłaty i jest doinwestowany.\n\n2024r październik: nowe wtryski do gazu + filtry, nowe klocki przód , wymieniony regulator napięcia a także króćce i wężyk od chłodnicy.\n\n2025r luty - wymieniony olej i filtry , filtr powietrza a kabinowy dodaje do auta\n\nPrzy zakupie w 2022r wymienione zostały wszystkie sprężyny w zawieszeniu , drążki kierownicy + zbieżność , auto serwisowane na bieżąco.\n\nKlimatyzacja jest.\n\nSprzedaje na oponach zimowych 2sezon w bardzo dobrym stanie ,dodaje komplet opon wielosezonowych i fabryczne radio\n\nPrzebieg 446tys km \n\nAuto służyło na dojazdy do pracy i w takim harakterze też było zakupione \n\nCena ulega negocjacji jak najbardziej po wcześniejszych oględzinach na miejscu.\n\nAuto do obejrzenia na Tarchominie.",
+            "details": {
+                "Numer VIN": "VSSZZZ1MZ1R066082",
+                "Model": "Leon",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "446 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "120 KM",
                 "Napęd": "Na przednie koła",
                 "Kierownica": "po lewej"
             },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y6rqgi51cu8l3-PL/image;s=2000x1496"
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j66ta8ps1wi52-PL/image;s=768x1020"
         },
         {
             "title": "Mercedes-benz C klasa Coupe 2.3 kompressor LPG, w bdb stanie techniczn",
@@ -1182,32 +1154,6 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8aitdeig0a541-PL/image;s=1000x750"
         },
         {
-            "title": "Audi na sprzedaż",
-            "price": "9 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/audi-na-sprzedaz-CID5-ID13yIPr.html",
-            "location": "Ostrów Mazowiecka",
-            "date": "01 April 2025",
-            "description": "Dzień dobry!\n\nSprzedam Audi A6 3.0 Quattro. Posiadam samochód od 8 lat. LPG plus benzyna. Wyposażenie: klimatronic, podgrzewane fotele i kierownice, 4x elektryczne szyby, skrzynie automatyczna tiptronic, elektrycznie regulowane fotele z pamięcią. Lusterka fotochromatyczne, tempomat, reflektory xenonowe, elektryczne lusterka. W audi ostatnio wymienione: akumulator, tarcze i klocki z przodu. W najbliższym czasie trzeba zmienić rozrząd i olej w silniku. Badanie techniczne ważne do 9.09.2025 r. OC opłacone do końca lipca. Zapraszam do kontaktu. Cena do negocjacji",
-            "details": {
-                "Numer VIN": "WAUZZZ4B93N099399",
-                "Model": "A6",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "364 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "3 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
-                "Kraj pochodzenia": "Niemcy",
-                "Moc silnika": "220 KM",
-                "Napęd": "4x4 (stały)",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ts0le28kn4gj3-PL/image;s=2040x1528"
-        },
-        {
             "title": "Na Sprzedaż Rover 75 1.8LPG/zadbany/klima/alu/bez rdzy/gwarancja/zamia",
             "price": "1 990 zł",
             "negotiable": true,
@@ -1230,30 +1176,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gdd4309kpsop3-PL/image;s=750x1000"
-        },
-        {
-            "title": "Na sprzedaż Audi A4 1.6LPG/Ładny stan/Gwarancja/Oszczędny/Zamiana/Nowe",
-            "price": "2 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/na-sprzedaz-audi-a4-1-6lpg-ladny-stan-gwarancja-oszczedny-zamiana-nowe-CID5-ID15dzOi.html",
-            "location": "Warszawa, Ursus",
-            "date": "01 April 2025",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie RATALNYM!!! \n\n\n\nMożliwy dowóz do klienta na terenie całej Polski!!!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Audi A4 z najlepszym niezawodnym silnikiem 1.6 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Warszawska 56 , 02-496, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 09 do 20",
-            "details": {
-                "Model": "A4",
-                "Rok produkcji": "1999",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "259 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 590 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "90 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vk2cm3dh355i1-PL/image;s=960x1280"
         }
     ]
 }
