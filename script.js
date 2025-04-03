@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('https://raw.githubusercontent.com/adrianskup/olx-parser/main/olx_ads.json')
         .then(response => response.json())
         .then(data => {
-            console.log(data); // Печатаем данные в консоль, чтобы проверить их
+            console.log(data); // Проверяем полученные данные
 
-            // Update the "last updated" timestamp
+            // Обновляем время последнего обновления
             if (updatedTimeElement) {
                 updatedTimeElement.textContent = `Last updated: ${data.updated}`;
             }
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
                 detailsHtml += '</div>';
 
-                // Добавляем "Do Negocjacji" в скобках после цены, если negotiable = true
+                // Убираем старый блок с "Do Negocjacji" и объединяем его с ценой
                 const priceText = ad.negotiable ? `${ad.price} (Do Negocjacji)` : ad.price;
 
                 adItem.innerHTML = `
@@ -45,11 +45,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         ${detailsHtml} <!-- Вставляем блок с деталями -->
                     </div>
                 `;
+
                 adsList.appendChild(adItem);
             });
         })
         .catch(error => {
-            console.error("Error loading JSON:", error); // Печатаем ошибку в консоль
+            console.error("Error loading JSON:", error);
             adsList.innerHTML = 'Произошла ошибка при загрузке данных. Попробуйте позже.';
         });
 });
