@@ -1,6 +1,177 @@
 {
-    "updated": "2025-04-04 16:54:50.537180",
+    "updated": "2025-04-04 17:00:12.077674",
     "ads": [
+        {
+            "title": "Mercedes vito 2.2 cdi",
+            "price": "9 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-vito-2-2-cdi-CID5-ID15gMgP.html",
+            "location": "Zgierz",
+            "date": "04 April 2025 o 16:55",
+            "description": "Witam sprzedam samochód marki \n\nMercedes-Benz vito z 2007 r\n\nSilnik 2.2cdi \n\n6 biegowa skrzynia \n\nEl.szyby \n\nCentralny zamek \n\nSystem anty kradzieżową \n\nAuto czyste i zadbane \n\nNie jest auto zgnite wszystko jest na swoim miejscu paka auta nie zniszczona\n\nA",
+            "details": {
+                "Numer VIN": "Xxxxxxxxxxxx",
+                "Model": "Vito",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minibus",
+                "Przebieg": "270 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "2 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "11 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w1ai9wh4t38s2-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Corolla 1.6 16v",
+            "price": "6 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-1-6-16v-CID5-ID15gMhb.html",
+            "location": "Zgierz",
+            "date": "04 April 2025 o 16:55",
+            "description": "Witam posiadam na sprzedaż Toyotę Corolle z 2004r z silnikiem 1.6 16v. Auto prowadzi się pewnie, nie slyschac zadnych stukow. Silnik pracuje prawidłowo nie kopci nie pobiera oleju.\n\n\n\nAuto posiada:\n\n- wspomaganie\n\n-2 el szyby\n\n-el. Lusterka\n\n- klimatronik( Trzeba uzupełnić czynnika bo się nie zalacza)\n\n- Centralny zamek z pilota\n\n- komputer pokladowy\n\n- ladne opony wielosezonowe \n\n\n\nAuto nie zniszczone w środku.\n\n\n\nTel 6*0*9*5*1*8*5*1*3",
+            "details": {
+                "Model": "Corolla",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "290 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "105 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cpddivgwubho1-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Sprzedam samochód chevrolet aveo.",
+            "price": "6 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-chevrolet-aveo-CID5-ID15gMex.html",
+            "location": "Milanówek",
+            "date": "04 April 2025 o 16:54",
+            "description": "Sprzedam samochód chevrolet aveo 2007r.  Sprawny. OC i PT aktualne na rok. Klimatyzacja sprawna. Bez wkladu finansowego. Opony całoroczne.",
+            "details": {
+                "Model": "Aveo",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "149 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h6rhi3100a381-PL/image;s=459x1020"
+        },
+        {
+            "title": "Honda Accord 7 2003 rok benzyna 2.0",
+            "price": "5 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/honda-accord-7-2003-rok-benzyna-2-0-CID5-ID15gLYj.html",
+            "location": "Wieliszew",
+            "date": "04 April 2025 o 16:53",
+            "description": "Witam mam do sprzedania hondę Accord 7 jak widać na zdjęciach wychodzi rdza, ogólnie jeździ dobrze, jest problem z włączeniem pierwszego i wstecznego biegu pewnie do wymiany sprzęgło, przebieg ,340000 klimatyzacja dwustrefowa działa bez zarzutów na wszelkie pytania odpowiem telefonicznie",
+            "details": {
+                "Model": "Accord",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "340 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 987 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "156 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ccdrb0tkwuas1-PL/image;s=1496x2000"
+        },
+        {
+            "title": "Tata Indica LPG klimatyzacja",
+            "price": "2 999 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/tata-indica-lpg-klimatyzacja-ID6HhWF6.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "04 April 2025 o 16:53",
+            "description": "Dzien dobry,\nDo sprzedania posiadam tata indica z silnikiem 1.4 benzyna plus lpg. Auto kupione w Polskim salonie i mialo jednego wlascicela. Serwisowane na biezaco, na chwile obecna w pelni sprawne.\nwyposazenie:\n- klimatyzacja\n- 4xel.szyby\n- wspomaganie kierownicy\n- centralny zamek\n- ABS\n- isofix\n- radio CD\nButla gazowa wazna do 2034 roku\nPrzeglad wazny do 09.01.2026\nOC wazne do 11.202\nSprzedaz na podstawie FVmarza, kupujacy zwolniony z oplaty PCC3\nZapraszam",
+            "details": {
+                "Marka pojazdu": "Tata",
+                "Model pojazdu": "Indica",
+                "Wersja": "1.4 GLX",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2010",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 405 cm3",
+                "Moc": "86 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "153 g/km",
+                "Przebieg": "107 500 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1vYm03aHNmY3llZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.zhHa1IkfK-nUmX2nCaZ4AoO4mWio1yJ9sjY6uWB81Yg/image"
+        },
+        {
+            "title": "Renault Megane 1.4 Benzyna 5drzwi Piekny samochod Idealny",
+            "price": "4 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-megane-1-4-benzyna-5drzwi-piekny-samochod-idealny-CID5-ID15gLYe.html",
+            "location": "Tomaszów Mazowiecki",
+            "date": "04 April 2025 o 16:52",
+            "description": "Tel 693-/089-:;199\n\nWitam sprzedam bardzo ładne auto jakim jest Renaut Megane w wersji 5cio drzwiowej z silnikiem benzynowym 1.4 16v rok produkcji 2003 przebieg 237tys\n\n\n\nOgl stan samochodu określam jako bardzo dobry nie posiada żadnych oznak korozji oczywiscie prosze sie nie spodziewac nowego samochodu bo auto ma swoje ślady użytkowania ale prezentuje sie nadal pieknie co mozna dostrzec na załączonych zdieciach\n\n\n\nKlimatyzacja\n\n4x elektryczne szyby\n\nElektryczne lusterka\n\nCentr zamek\n\nRadio cd\n\nPodgrzewana tylnia szyba\n\n2x karta do odpalania\n\n\n\nCena 4999zł oczywiście do neg mozliwa rowniez zamiana",
+            "details": {
+                "Model": "Megane",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "237 000 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "100 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zsm6gcy81gpt1-PL/image;s=1000x737"
+        },
+        {
+            "title": "Renault Megane 2 sedan 2004",
+            "price": "5 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-megane-2-sedan-2004-CID5-ID15gLV2.html",
+            "location": "Michów",
+            "date": "04 April 2025 o 16:50",
+            "description": "Sprzedam Renault Megane 2, mały przebieg 169900. Gaz jeszcze butla ważna do 2028r. Ubezpieczenie do 22.06.25r przegląd jest do 29.04.25r.\n\nOstatnio wymieniona została półoś+ łożysko prawe , lewe zakupione nie  zmienione. I jesze jest do wymiany łożysko w skrzyni biegów. Trochę wyje to łożysko. Klima działa, odgrzybiona 2024. Szyby wszystkie są otwierane elektrycznie.dzialaja. \n\nMoże ktoś jak umie porobić to małym kosztem można sobie podszykowac. Blacharka trzyma się ładnie. Auto na oponach zimowych dwa sezony i letnie po jednym sezonie. Więcej po numerem telefonu.",
+            "details": {
+                "Numer VIN": "VF1LM0C0H31498721",
+                "Model": "5",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "169 900 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "83 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fc8cmjnj8okl-PL/image;s=1164x1782"
+        },
         {
             "title": "Sprzedam Toyota Yaris I",
             "price": "9 000 zł",
@@ -22,6 +193,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/azloq3iwiv192-PL/image;s=1200x1600"
+        },
+        {
+            "title": "Nissan Almera N16",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/nissan-almera-n16-CID5-ID155mwt.html",
+            "location": "Piotrków Trybunalski",
+            "date": "04 April 2025 o 16:48",
+            "description": "Witam do zaoferowania mam Nissana Almere N16 2000r. w wersji 1.5 benzyna 90km.\n\nAuto mechanicznie sprawne, do poprawek blacharsko lakierniczych",
+            "details": {
+                "Model": "Almera",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "195 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 498 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xbbbtkpdwmie1-PL/image;s=750x1000"
         },
         {
             "title": "Seat Altea 1.6 MPI Super Stan Klimatyzacja !",
@@ -4117,6 +4313,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ui34u9m6ave93-PL/image;s=2000x2667"
+        },
+        {
+            "title": "Audi A4 B6 avant 1.9 TDi",
+            "price": "4 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b6-avant-1-9-tdi-CID5-ID15cvNt.html",
+            "location": "Łomża",
+            "date": "04 April 2025 o 13:59",
+            "description": "Do sprzedania audi a4 b6 . \n\nSilnik 1.9tdi awx 130 konny . \n\nSilnik cicho i równo pracuje , odpala na dotyk . Ma moc \n\nAuto jest po dłuższym nie używaniu  i po nocy przy odpalaniu potrafi przykopcić na siwo , później jak się jeździ to nie kopci nawet przy przyśpieszaniu wiec może wystarczy trochę pojeździć i przejdzie . \n\n\n\nAuto blacharsko dobrze wygląda,  jedynie na prawym błotniku coś wychodzi . \n\nStoi na ładnych oponach \n\n\n\nWnetrze ok. \n\nAuto dobrze jeździ i fajnie wygląda . \n\nOpłaty aktualne do\n\nOc do października a przegląd jest na cały rok świeżo zrobiony \n\nCena do symbolicznej negocjacji na miejscu .. \n\nZapraszam .",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "340 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 890 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/egpubx2h1ky5-PL/image;s=2000x1500"
         },
         {
             "title": "Fiat Croma 1.8 benzyna 2008rok",
@@ -11933,6 +12153,103 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3k44xzsvg9if3-PL/image;s=1200x1600"
+        },
+        {
+            "title": "Sprzedam BMW E87 2.0 diesel",
+            "price": "9 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw-e87-2-0-diesel-CID5-ID15fY9j.html",
+            "location": "Lublin",
+            "date": "03 April 2025",
+            "description": "Witam posiadam autko już trzy lata w tym czasie robiłam wtryski, przednie wachacze, tarcze, klocki, autko nie bierze oleju, ma bardzo ekonomiczny silnik diesla który potrafi palić 5 litrów ropy na 100 kilometrów , ma sześcio biegową skrzynię,\n\nWspomaganie kierownicy \n\nEl lusterka \n\nEl szyby \n\nI wiele innych, naprawdę nie wymaga wkładu na tą chwilę, przegląd jest do stycznia a opłaty pół roku, serdecznie zapraszam na oględziny.",
+            "details": {
+                "Model": "Seria 1",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "266 000 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h63ks3932lt91-PL/image;s=1000x750"
+        },
+        {
+            "title": "Nissan Maxima 3.0LPG|200koni|Alusy|Dobry stan|Skora|Zamiana|",
+            "price": "5 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-maxima-3-0lpg-200koni-alusy-dobry-stan-skora-zamiana-CID5-ID15fp7m.html",
+            "location": "Warszawa, Bemowo",
+            "date": "03 April 2025",
+            "description": "Auto zarejestrowane w Kraju\n\nРозмовляємо Українською\n\n\n\nSKUP • SPRZEDAŻ • ZAMIANA\n\n\n\nAdres autokomisu : Warszawa ul. Gimnazjalna 12\n\n\n\nNa sprzedaż oferujemy auto\n\nmarki Nissan Maxima o pojemności 3.0 benzyna+LPG o mocy 200 koni mechaniczne\n\nsilnik suchy pracuje bardzo ładnie, wnętrze do lekkiego odświeżenia, ogólnie auto prowadzi się bardzo pewnie, hamulce zawieszenie wszystko w dobrym stanie .\n\n\n\nNa wyposażeniu :\n\n- wspomaganie kierownicy\n\n- klimatyzacja\n\n- elektryczne lusterka\n\n- centralny zamek\n\n- poduszki powietrzne\n\n- immobiliser\n\n- radio CD\n\n\n\nUbezpieczenie OC ważne do 09.2025\n\nPrzegląd techniczny ważny do 09.2025\n\nLPG 2028\n\n\n\n• Wystawiamy FV VAT marża jesteście Państwo zwolnieni z opłaty skarbowej 2%\n\n\n\n• Rezerwacja auta możliwa tylko poprzez wpłatę zadatku w wysokości minimum 10 % wartości auta\n\n\n\nGodziny otwarcia :\n\n\n\nPon-Pt 10:00-20:00\n\nSob 10:00-20:00\n\nNd 10,00-20,00",
+            "details": {
+                "Numer VIN": "jn1ccua33u0081060",
+                "Model": "Maxima",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "290 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 988 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "200 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/eshvqk58ufba3-PL/image;s=1280x960"
+        },
+        {
+            "title": "Audi a4 b6 1.8T 200KM zamiana na tańszy lub drozszy",
+            "price": "8 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b6-1-8t-200km-zamiana-na-tanszy-lub-drozszy-CID5-ID15a4TX.html",
+            "location": "Lublin",
+            "date": "03 April 2025",
+            "description": "Sprzedam lub zamienię na auto tańsze lub droższe \n\n\n\nRok 2001 \n\nPrzebieg 267tys\n\n\n\nSilnik w bardzo dobrej kondycji pali na dotyk w każdych warunkach olej I filtry wymieniane regularnie co 8-10tys km rozrząd wymieniony nowa turbina \n\n\n\nZawieszenie w bardzo dobrym stanie bez żadnych luzów \n\n\n\nWnętrze auta w bardzo dobrym stanie \n\n\n\nBlacharsko auto wygląda bardzo ładnie jak na swoje lata \n\n\n\nKlimatyzacja sprawna \n\n\n\nWażne opłaty\n\n\n\nAuto sprzedam lub zamienię na auto tańsze lub droższe \n\n\n\nZapraszam na oględziny auta oraz jazdę próbną \n\n\n\nWiecej informacji na temat auta udzielę telefonicznie",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2001",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "267 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "200 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/t39ks5g41p133-PL/image;s=2000x934"
+        },
+        {
+            "title": "Mercedes W211 320 CDI Anglik 2005",
+            "price": "7 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-w211-320-cdi-anglik-2005-CID5-ID13RMXa.html",
+            "location": "Izabelin C",
+            "date": "03 April 2025",
+            "description": "Mercedes Benz\n\n320 CDI\n\nAnglik\n\n3222 cm³\n\nUszkodzony grill\n\nBrak v5c\n\n\n\nSilnik suchy skrzynia nie szarpie\n\n\n\nWDB2110262A770091\n\nnumer koloru 744 (Srebrny brylantowy - lakier metaliczny)\n\nWnętrze 830 (Skóra/nappa/semianilin)\n\n831 (Skóra/nappa/semianilin - kolor czarny/antracytowy)\n\n\n\nparametryczny układ kierowniczy/ukł. kierowniczy vario\n\nlusterko wsteczne i lusterka wewnętrzne automatycznie przyciemniane\n\nautomatyczna 5-biegowa skrzynia biegów\n\nlusterko zewnętrzne elektrycznie składane\n\nukład zapobiegający kradzieży i włamaniu, podstawowy (edw)\n\nukład klimatyzacji\n\nukład zmywania reflektorów\n\nreflektory biksenonowe, ruch lewostronny\n\nkonsola środkowa z włókna węglowego, błyszcząca amg\n\nsrebrny brylantowy - lakier metaliczny\n\nskóra/nappa/semianilin\n\nskóra/nappa/semianilin - kolor czarny/antracytowy\n\nogrzewane spryskiwacze szyb\n\nczujniki i syrena alarmu antywłamaniowego i antykradzieżowego\n\nalternator o większej mocy\n\nzbiornik paliwa o większej pojemności - objętość2\n\nlinia wyposażenia/pakiet – avantgarde\n\nsilnik wysokoprężny r6 om648\n\nobręcze kół ze stopu metali lekkich z 5 ramionami 16\" \"dookoła\"\n\nautomatyczne rozpoznawanie fotelika dziecięcego (akse)\n\npółoś przednia z lewej strony\n\npartsident\n\nvr\n\npółoś przednia z prawej strony",
+            "details": {
+                "Numer VIN": "WDB2110262A770091",
+                "Model": "E Klasa",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "268 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "3 222 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Wielka Brytania",
+                "Moc silnika": "200 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/svq197ehdjul-PL/image;s=2000x1126"
         }
     ]
 }
