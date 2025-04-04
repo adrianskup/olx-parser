@@ -1,6 +1,89 @@
 {
-    "updated": "2025-04-04 10:49:34.563975",
+    "updated": "2025-04-04 10:54:42.222431",
     "ads": [
+        {
+            "title": "BMW E65 745 4.4 V8",
+            "price": "9 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/bmw-e65-745-4-4-v8-CID5-ID15gaqa.html",
+            "location": "Warszawa, Targówek",
+            "date": "04 April 2025 o 10:50",
+            "description": "Auto sprawne mechanicznie i blacharski sprowadzone że Szwajcarii z przeznaczeniem na części.silnik pracuje prawidłowo  suchy bez wycieków.Wnetrze pojazdu zniszczone .przez wilgoć z powodu nieużywania od 2 lat.Auto kompletnie z katalizatorami opony  w dobrym stanie.Wiecej informacji tel lub OLX.",
+            "details": {
+                "Model": "Seria 7",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "190 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "4 400 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Szwajcaria",
+                "Moc silnika": "450 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sc43xpfo0rvt1-PL/image;s=1512x1475"
+        },
+        {
+            "title": "Peugeot 307 Peugeot 307 salon Polska, klimatyzacja, do negocjacji",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-307-peugeot-307-salon-polska-klimatyzacja-do-negocjacji-ID6Hi2vx.html",
+            "location": "Warszawa, Bemowo",
+            "date": "04 April 2025 o 10:49",
+            "description": "Witam,\nJestem Peugeot 307 Francuz z polskiego salonu, mam już 19 lat ale ciągle jestem dziarskim autem. Na liczniku ponad 265 tysięcy kilometrów, ale mój mechanik mówi że mam silnik nie do zdarcia. Z obecnym właścicielem przemierzyliśmy trochę kraju, czy to jazda nad morze czy to w góry i nigdy go nie zawiodłem. Głównie podróżowaliśmy na wakacje w dłuższe trasy, bo do pracy właściciel woli metrem. Czemu tutaj jestem? Otóż właściciel zmienił mnie na nowszy, większy model a nie chciał bym, trafił na żyletki bo wie że mogę jeszcze dobrze posłużyć. Moje zalety? Jak na nie duży samochód to jestem bardzo przestronny i pojemny, zwinny, wszędzie wjadę, na parkingu nie zajmuję za dużo miejsca, nie rzucam się w oczy a przy okazji nie palę dużo benzyny. Wady? mam już swoje lata i to niestety widać. Nie mam nic do ukrycia, przebieg i warunki atmosferyczne zrobiły swoje, co widać na zdjęciach a także można dopytać mojego właściciela. Serwisowany byłem na bierząco, chociażby w styczniu robiony był serwis filtrowo-olejowy. Przegląd i oc mam ważne do czerwca. Obecnie jeżdżę na zimówkach, ale w zestawie właściciel dorzuca całkiem nowe felgi z letnimi oponami (jak na ostatnich zdjęciach). \nAha, posiadam tylko jeden kluczyk, tak otrzymaliśmy od poprzedniego właściciela. \nWłaściciel obiecał też zejść z ceny jeśli uzna że potencjalny nabywca jest mnie warty. \nOględziny i jazda próbna na terenie Warszawy.",
+            "details": {
+                "Marka pojazdu": "Peugeot",
+                "Model pojazdu": "307",
+                "Wersja": "1.6 Oxygene",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2006",
+                "Generacja": "II (2005-)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 587 cm3",
+                "Moc": "110 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "174 g/km",
+                "Spalanie W Mieście": "8.7 l/100km",
+                "Spalanie Poza Miastem": "5.5 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "265 250 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFla3hiZTVjMXpmNjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Y8l7Z3ldWe9JycqMp8LiSewAfrmX5BK1SLawYG4d_sw/image"
+        },
+        {
+            "title": "Na Sprzedaż/Dodge Caravan/3.8LPG/2002Rok/Automat/7Osobowy/Zamiana",
+            "price": "3 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/oferta/na-sprzedaz-dodge-caravan-3-8lpg-2002rok-automat-7osobowy-zamiana-CID5-ID15gnO7.html",
+            "location": "Warszawa, Włochy",
+            "date": "04 April 2025 o 10:47",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Dodge Caravan z najlepszym niezawodnym silnikiem 3.8Benzyna+LPG. Stan auta oceniam na bardzo dobry, ostatnio wymienione oleje oraz filtry, klocki. zawieszenie w bardzo dobrym stanie.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Ryżowa 4, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20\n\n\n\nNiniejsze ogłoszenie nie stanowi oferty ani zapewnienia, w szczególności rozumieniu art. 66 § 1 i art. 556 indeks 1 Kodeksu cywilnego. Zastrzegamy sobie prawo do doprecyzowania oraz korekt omyłek.",
+            "details": {
+                "Model": "Caravan",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "270 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "3 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "180 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rsujabgqafml2-PL/image;s=960x1280"
+        },
         {
             "title": "Opel astra h gtc 1.9 cdti",
             "price": "6 000 zł",
@@ -23,6 +106,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8t0va28mtkr21-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford Expedition Eddie Bauer 5.4 V8 2v LPG 4x4 do remontu lub na części",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/ford-expedition-eddie-bauer-5-4-v8-2v-lpg-4x4-do-remontu-lub-na-czesci-CID5-ID159RWI.html",
+            "location": "Warszawa, Włochy",
+            "date": "04 April 2025 o 10:45",
+            "description": "Sprzedam Ford Expedition z 2003 roku. Silnik 5.4 V8 2V ( bez zmiennej fazy). Posiada inatalacje LPG.\n\nAuto moim zdaniem na części, chyba że ktoś ma dużo czasu i umiejętniści, wtedy do remontu blacharskiego nadwozia. Rama w tym modelu jest solidna, posiada naloty korozji ale nie wymaga remontu (ewentualnie oczyszczenia i konserwacji) \n\nSamochód posiadam od około 2 lat, wnętrze jest całe kompletne lecz rozebrane (mam je w garażu), ponieważ auto stało u blacharza przez rok czasu czekając na swoją kolej... Niestety jak widać nie doczekało się, po roku zwodzenia mnie, wymyślania historii, nie odbierania telefonów postanowiłem zabrać samochód w takim stanie jak na zdjęciach.\n\nSamochód jeździł do końca, został rozebrany do remontu blacharskiego. Przez ostatni rok stał na zewnątrz, więc na pewno trzeba by go porządnie przejrzeć.  U blacharza w między czasie \"zagubił się\" układ wydechowy tak więc auto głośne bez wydechu.\n\nZ plusów to EXPEDITION jest po wszystkich opłatach celno skarbowych ( same opłaty wyszły mnie ponad 8tyś) gotowy do zarejestrowania w Polsce, posiada poszukiwany silnik 2 zaworowy który jest bez problematycznej zmiennej fazy, jest to wersja z napędem 4x4 i z redukrorem jest to pełnoprawna terenówka.\n\nMoge rozebrać na części jeżeli nie sprzeda się w całości lub sprzedać taniej bez felg (2 tysiące).\n\nNawet nie chce liczyć ile jestem stratny na tym samochodzie, chce po prostu sprzedać bo nie mam już na niego sił ani czasu, ale za darmo nie oddam także za oferty 5 tysięcy podziękuje, tyle kosztuje sam silnik.",
+            "details": {
+                "Model": "Expedition",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "SUV",
+                "Przebieg": "240 000 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "5 400 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Norwegia",
+                "Moc silnika": "270 KM",
+                "Napęd": "4x4 (dołączany ręcznie)",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mxg2cob4s2j72-PL/image;s=768x1020"
         },
         {
             "title": "A4 b6 1,9 TDI ładna zadbana 2003r do jazdy polecam",
@@ -2881,6 +2989,90 @@
                 "Skrzynia biegów": "Automatyczna"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k1k791qk6jqn2-PL/image;s=2048x1536"
+        },
+        {
+            "title": "Volkswagen golf 2005",
+            "price": "9 990 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/volkswagen-golf-2005-CID5-ID15e3cx.html",
+            "location": "Piotrków Trybunalski",
+            "date": "03 April 2025",
+            "description": "Na sprzedaż Volkswagena Golf Plus V z 2005 roku. Samochód sprawny technicznie, aktualne badanie techniczne do 07.2025 oraz ubezpieczenie OC 03.2026r. Silnik 1.6 benzyna 115KM.  Felgi na zdjęciu nie są na sprzedaż. Auto posiada swoje oryginalne alufelgi , widoczne na ostatnim zdjęciu. \n\n\n\nWyposażenie obejmuje:\n\n- Klimatyzację\n\n- Podgrzewane siedzenia \n\n- Podgrzewane lusterka\n\n- Elektryczne szyby\n\n- Centralny zamek\n\n- System audio\n\n- Poduszki powietrzne dla kierowcy i pasażera\n\n- ABS i ESP\n\n- Tempomat\n\n- Skrzynia 6 biegowa (zapewnia większą oszczędność zużycia paliwa)\n\n- stoliki dla pasażerów z tyłu\n\n\n\nPrzebieg 191tys km\n\n\n\nSamochód jest przestronny i komfortowy, idealny zarówno do jazdy miejskiej, jak i na dłuższe trasy. Jest to świetny wybór dla każdego. Sprzedaje na oryginalnych alufelgach. Felgi na zdjęciach nie są do sprzedania. \n\n\n\nTelefon do kontaktu 60*****46",
+            "details": {
+                "Model": "Golf Plus",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "191 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "115 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/afud1kgau8wx2-PL/image;s=750x1000"
+        },
+        {
+            "title": "Hyundai Santa Fe Zarejestrowany na sprzedającego w PL od 2015 r jeden właściciel",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/hyundai-santa-fe-zarejestrowany-na-sprzedajacego-w-pl-od-2015-r-jeden-wlasciciel-ID6HhYRN.html",
+            "location": "Warszawa, Mokotów",
+            "date": "03 April 2025",
+            "description": "Santa Fe 2,4 benzyna od  10 lat jeden właściciel w PL, jeżdzi, skręca, hamuje, wymaga wymiany układu wydechowego ((środkowy tłumik)",
+            "details": {
+                "Marka pojazdu": "Hyundai",
+                "Model pojazdu": "Santa Fe",
+                "Wersja": "2.4 GLS 2WD",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Generacja": "I (2000-2006)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "2 351 cm3",
+                "Moc": "146 KM",
+                "Typ nadwozia": "SUV",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "134 g/km",
+                "Spalanie W Mieście": "13 l/100km",
+                "Spalanie Poza Miastem": "7.9 l/100km",
+                "Kraj pochodzenia": "Niemcy",
+                "Przebieg": "235 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Pierwszy właściciel (od nowości)": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM1ZnllNnp3a3BraC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OT-ipvFiAIgRibgDjH7DNYWHLvKhmIgLJAXcSq-eP3A/image"
+        },
+        {
+            "title": "Opel Vectra 1.9 Diesel  2006 rok. Sprzedaz Zamiana.",
+            "price": "7 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/oferta/opel-vectra-1-9-diesel-2006-rok-sprzedaz-zamiana-CID5-ID14OtgZ.html",
+            "location": "Lublin",
+            "date": "03 April 2025",
+            "description": "Opel Vectra 1.9 Diesel wersja opc 2006 rok.\n\nSamochod w pelni sprawny, jezdzi bardzo dobrze.\n\nSilnik skrzynia sprzeglo dzialaja bardzo dobrze.\n\nJest na oponach zimowych.\n\nSrodek w bardzo dobrym stanie.\n\nKaroseria w bardzo dobrym stanie,\n\nUbezpieczenie wazne do 19 kwietnia 2025r.\n\nPrzeglad wazny do luty 2026r.\n\nSamochodem mozna jezdzic bez zadnych napraw.\n\nDo obejrzenia w lublinie.\n\nTel: 6*6*7*9*0*6*4*5*8\n\nPrzyjme samochod w rozliczeniu w kazdym stanie.",
+            "details": {
+                "Model": "Vectra",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "250 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vjal9wolzgst1-PL/image;s=4000x3000"
         }
     ]
 }
