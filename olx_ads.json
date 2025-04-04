@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-04 23:51:02.265671",
+    "updated": "2025-04-04 23:55:59.197566",
     "ads": [
         {
             "title": "BMW serii 3 E90 318i 2008r 2.0B+Gaz  Stan Dobry",
@@ -21084,6 +21084,52 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ryw62hqbsdg71-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Ford Mondeo 1.8 TDCI 125KM !!! 2008 rok !!!",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-mondeo-1-8-tdci-125km-2008-rok-CID5-ID14vNtr.html",
+            "location": "Warszawa, Ursynów",
+            "date": "03 April 2025",
+            "description": "Witam,\n\nPosiadam na sprzedaż Forda Mondeo MKIV 1.8 TDCI 125 KM 2008 rok \n\nAuto serwisowane na bieżąco, używane w długie trasy. W ostatnim czasie wymieniono turbinę, wydech końcowy, tarcze, klocki, zregenerowane zostały zaciski oraz wymieniony został alternator.\n\nWnętrze nie zniszczone, czyste. Tapicerka bez przetarć.\n\nZewnętrznie auto posiada normalne ślady użytkowania. Prezentuje się bardzo dobrze.\n\nŁadne opony zimowe !!!\n\nZapraszam do kontaktu !!!",
+            "details": {
+                "Model": "Mondeo",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "411 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "125 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nd46kiuzmf6c3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Audi A4 B5 2.4V6 benzyna !!! 2000 rok !!!",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b5-2-4v6-benzyna-2000-rok-CID5-ID14GTq4.html",
+            "location": "Warszawa, Ursynów",
+            "date": "03 April 2025",
+            "description": "Witam, \n\nPosiadam na sprzedaż Audi A4 B5 2.4 V6 benzyna z 2000 roku. Auto użytkowane ostatnie pięć lat na dojazdy do Niemiec.\n\nPojazd prowadzi się bardzo dobrze. Wszystko robione na czas. Po serwisie olejowym. \n\nStan zewnętrzny oceniam na dobry. Wnętrze zadbane.\n\nZapraszam do kontaktu telefonicznego !!!",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "330 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "170 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ib161gjgqmd72-PL/image;s=1000x750"
         }
     ]
 }
