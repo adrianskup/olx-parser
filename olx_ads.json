@@ -1,6 +1,53 @@
 {
-    "updated": "2025-04-04 13:44:16.383199",
+    "updated": "2025-04-04 13:49:18.861065",
     "ads": [
+        {
+            "title": "Nissan Note 2006 r Warszawa - Wawer",
+            "price": "6 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-note-2006-r-warszawa-wawer-CID5-ID15gAV6.html",
+            "location": "Warszawa, Wawer",
+            "date": "04 April 2025 o 13:45",
+            "description": "Witam,mam do sprzedania fajne auto. \n\nSamochód w stanie technicznym bodrym,posiada oryginalne części nissana,sprawną klimatyzację ,wspomaganie kierownicy,wbudowane radio,elektryczne szyby. Auto jest w pełnił sprawne po przeglądzie oraz z świeżo opłaconym ubezpieczeniem. Samochód był garażowany.  \n\nWizualnie posiada małe mankamenty w postaci zarysowań w niektorych miejscach odchodzi lakier bezbarwny są wgniecenia.Dla osób zainteresowanych mogę przesłać wiecej zdjęć.Olx ma limit zdjęć, ktore mozna dodać w ogłoszeniu... na przedniej szybie jest rysa,uszkodzenie od uderzenia kamykiem (osobom zainteresowanym jestem w stanie obniżyć koszt zakupu w celu zrobienia szyby). Samochód posiada dwa komplety opon letnie/zimowe. Osoby zainteresowane zapraszam do kontaktu 66*******56",
+            "details": {
+                "Model": "Note",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "203 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b0n6jttz0gcm2-PL/image;s=1200x1600"
+        },
+        {
+            "title": "Honda Civic 1.7 LPG automat 140tys",
+            "price": "4 200 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-civic-1-7-lpg-automat-140tys-CID5-ID15eLHK.html",
+            "location": "Warszawa, Wawer",
+            "date": "04 April 2025 o 13:44",
+            "description": "Witam sprzedam sprawna honde civic 1.7 z gazem automat. Auto bez wkladu. oc i przeglad wazne klimatyzacja sprawna. Przbieg 140tys oryginalny",
+            "details": {
+                "Model": "Civic",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "142 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 700 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Inny",
+                "Moc silnika": "95 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xaluwehkf9le-PL/image;s=2048x1536"
+        },
         {
             "title": "Lancia Musa 1.9 2007 Zadbana",
             "price": "8 500 zł",
@@ -24,6 +71,38 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4nfbs5mmlk5f2-PL/image;s=1649x1220"
+        },
+        {
+            "title": "Mazda 6",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-6-ID6Hi43k.html",
+            "location": "Warszawa, Śródmieście",
+            "date": "04 April 2025 o 13:41",
+            "description": "Syndyk sprzedaż samochód osobowy Mazda 6 kombi, 2.2 l, PB - LPG, 2007 r. VIN: JMZGY193671459821, nr rej. ESI 54671",
+            "details": {
+                "Marka pojazdu": "Mazda",
+                "Model pojazdu": "6",
+                "Wersja": "2.3 Active +",
+                "Kolor": "Czerwony",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2007",
+                "Generacja": "I (2002-2008)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "2 261 cm3",
+                "Moc": "166 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "207 g/km",
+                "Spalanie W Mieście": "12.4 l/100km",
+                "Spalanie Poza Miastem": "7.0 l/100km",
+                "Przebieg": "240 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBta2RmN2Rrc3Y3NjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.YzqgGv5FytxJ8PMGZLm0n1KRNHXm-SU7m6ciWmSVJQI/image"
         },
         {
             "title": "Sprzedam Toyota aygo  I",
@@ -6503,6 +6582,108 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bff4g5o94p0t3-PL/image;s=1020x768"
+        },
+        {
+            "title": "Sprzedam auto- volkswagen Golf",
+            "price": "1 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-auto-volkswagen-golf-CID5-ID15foFo.html",
+            "location": "Rzepki",
+            "date": "03 April 2025",
+            "description": "Sprzedam golfa 4, rok produkcji 2000, :silnik 1,4 benzyna, przegląd do 29.04.2025, polisa do 18.04.2025",
+            "details": {
+                "Numer VIN": "WVWZZZ1JZ1D175129",
+                "Model": "Golf",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "245 490 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "55 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/g9gk8pe97c481-PL/image;s=1037x626"
+        },
+        {
+            "title": "Meriva 1.6 benzyny 2007r",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/meriva-1-6-benzyny-2007r-CID5-ID14q1Ra.html",
+            "location": "Pruszków",
+            "date": "03 April 2025",
+            "description": "Witam sprzedam Opel Meriva A 1.6 benzyny.Auto sprawne zadbane wszystkie naprawy robione na bieżąco. Przebieg 154000 km.Więcej informacji udzielę telefonicznie.",
+            "details": {
+                "Numer VIN": "WOLOXCE7584034650",
+                "Model": "Meriva",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "154 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "105 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/50x5wcs51v49-PL/image;s=1500x2000"
+        },
+        {
+            "title": "Seat Toledo 1.6 LPG Klima zadbany",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-toledo-1-6-lpg-klima-zadbany-CID5-ID14WyfV.html",
+            "location": "Milanówek",
+            "date": "03 April 2025",
+            "description": "Dzień dobry\n\n\n\nSprzedam Seata Toledo z bezawaryjną jednostką VW 1.6 benzyna + LPG ważne do 2029 roku. Samochód w stanie bardzo dobrym z niskim oryginalnym przebiegiem. Klima była naprawiana i jest w 100% sprawna. Do auta posiadam komplet kół zimowych na felgach stalowych.Samochód posiada hak. OC ważne do października 2025. Przegląd do stycznia 2026.\n\nSeat pochodzi z Polskiego Salonu.\n\nSamochód bez wkładu finansowego. \n\nZapraszam do oglądania w Milanówku pod Warszawą. \n\nHandlarzom za propozycję dziękuję",
+            "details": {
+                "Model": "Toledo",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "196 000 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "105 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1khg3l51uta72-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Toyota Yaris II D4D 2kplKół",
+            "price": "9 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-yaris-ii-d4d-2kplkol-CID5-ID12ovDc.html",
+            "location": "Bruliny",
+            "date": "03 April 2025",
+            "description": "Sprzedam samochód Toyota Yaris 2,  2006 rok. \n\nSprawny. Stan dobry. \n\nW zestawie 2 komplety kół. \n\nKlimatyzacja sprawna. \n\nUbezpieczenie OC do 12.05.2025r.  \n\nPrzegląd do 22.11.2025r.\n\nBezwypadkowy.\n\nDrugi właściciel.\n\nAlufelgi.\n\nKołpaki do kół zimowych.\n\nMało pali ok.5l.\n\n90kM\n\nZgrabny, dobrze się prowadzi.\n\nSynowie rosną - sprzedaję, gdyż musiałem kupić większy samochód.\n\n6,9,2,1,0,6,6,1,9,",
+            "details": {
+                "Numer VIN": "VNKKC98390A032871",
+                "Model": "Yaris",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "346 400 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2ykz2rzc6rp42-PL/image;s=768x1020"
         }
     ]
 }
