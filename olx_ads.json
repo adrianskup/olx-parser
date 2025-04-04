@@ -1,6 +1,154 @@
 {
-    "updated": "2025-04-04 20:32:26.493440",
+    "updated": "2025-04-04 20:44:13.821593",
     "ads": [
+        {
+            "title": "Mazda 2 1.3 Klimatyzacja # Sprowadzona # Polecam!",
+            "price": "5 150 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mazda-2-1-3-klimatyzacja-sprowadzona-polecam-CID5-ID15gY9d.html",
+            "location": "Pukinin",
+            "date": "04 April 2025 o 20:38",
+            "description": "Witam,auto świeżo sprowadzone z Luxemburga. Stan mazdy widoczny na foto. Wnetrze czyste. Odpala i jeździ. Możliwy tani transport. Możliwość pozostawienia auta w rozliczeniu. Polecam",
+            "details": {
+                "Numer VIN": "xxxxxxxxxxxxxxxxx",
+                "Model": "2",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "200 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 349 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Luksemburg",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/24bi31yqycrf3-PL/image;s=1600x1204"
+        },
+        {
+            "title": "VOLVO S40*1.8 + LPG*Klima*Skóra*Długie opłaty*GAZ!",
+            "price": "2 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volvo-s401-8-lpgklimaskoradlugie-oplatygaz-CID5-ID15gXSi.html",
+            "location": "Nasielsk",
+            "date": "04 April 2025 o 20:32",
+            "description": "KONTAKT TYLKO TEL. 51*********66\n\nNIE ODPOWIADAM NA WIADOMOSCI\n\n\n\nSprzedam Volvo s40\n\n1.8 benzyna + LPG\n\nRok 2000\n\nJezdzi lepiej niz wyglada.\n\nPosiada instalacje LPG wazna do 2026 roku.\n\nAktualne badanie techniczne i polisa OC.\n\nWyposazony w klimatyzacje,komputer pokladowy, el szyby i lusterka, polskorzana tapicerka abs esp itp... \n\n\n\nZapraszam\n\nTel. 51*********66",
+            "details": {
+                "Numer VIN": "YV1VS14F3YF574229",
+                "Model": "S40",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "330 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dq8a8wvzc3yq-PL/image;s=2000x924"
+        },
+        {
+            "title": "Mercedes-Benz B klasa w245",
+            "price": "8 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mercedes-benz-b-klasa-w245-CID5-ID15gXHk.html",
+            "location": "Rybie",
+            "date": "04 April 2025 o 20:30",
+            "description": "Witam mam na sprzedaż swoje prywatne auto Mercedes w245 B klasa 170 z instalacją gazową oraz automatyczną skrzynia biegów. Jestem pierwszy właścicielem w Polsce od 17 lat samochód był sprowadzony z Niemczech. Auto serwisowane na bieżąco w ostatnim czasie było wymienione: Nowy akumulator, nowy rozrusznik, reduktor instalacji gazowej,rurki układu hamulcowego, świeżo po przeglądzie klimatyzacji. Samochód w dobrym stanie technicznym i wizualnym z ważnym przeglądem i ubezpieczeniem.  Instalacja gazową ważną do 2028 roku. \n\nWyposażenie: \n\nElektryczne szyby przód,elektryczne podgrzewane lusterka,tylna szyba podgrzewana,wspomaganie kierownicy,centralny zamek,alarm,klimatyzacja,tempomat,\n\nautomatyczna skrzynia biegów,alufelgi dodatkowo komplet kół aluminiowych z oponami zimowymi. \n\n\n\nPo więcej informacji zapraszam pod numerem telefonu 57*****33.",
+            "details": {
+                "Numer VIN": "WDD2452321J008679",
+                "Model": "B Klasa",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "215 500 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 700 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b2bu3ne1x43d1-PL/image;s=1000x750"
+        },
+        {
+            "title": "VW Golf 1.9 tdi 115KM",
+            "price": "3 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/vw-golf-1-9-tdi-115km-CID5-ID15gXOq.html",
+            "location": "Stężyca",
+            "date": "04 April 2025 o 20:30",
+            "description": "Do sprzedania VW Golf 1999r 1.9 tdi 115KM, sprawny technicznie, wizualnie też nieźle, skrzynia 6-cio biegowa. Ubezpieczenie do 01.01.2026, przegląd do 20.12.2025. Więcej info tel. 50*****25.",
+            "details": {
+                "Numer VIN": "WVWZZZ1JZYW451950",
+                "Model": "Golf",
+                "Rok produkcji": "1999",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "279 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 896 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "115 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/epcy3gnxx1yd-PL/image;s=1456x1092"
+        },
+        {
+            "title": "RENAULT LAGUNA GT ** 2.0 Turbo ** LPG ** 204KM ** LIFT ** Skóra **",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-laguna-gt-2-0-turbo-lpg-204km-lift-skora-CID5-ID15gXNh.html",
+            "location": "Świdnik",
+            "date": "04 April 2025 o 20:30",
+            "description": "RENAULT LAGUNA II po liftingu w oryginalnej wersji GT 204KM. Auto bardzo rzadko spotykane silnik 2.0 Turbo z sekwencyjną instalacją LPG. Jest bardzo dynamiczny i mocny a przy tym ekonomiczny. Rozrząd zmieniany przy 315tys. Wersja wyposażenia raczej najbogatsza w tym modelu: grzane dwu kolorowe skórzane fotele, navi, panorama, grzana przednia szyba, Xenon, i wiele innych... Technicznie auto doinwestowane jeździ dobrze. Wizualnie bez korozji srodecz czysty ładnie utrzymany. Polecam i zapraszam",
+            "details": {
+                "Model": "Laguna",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "343 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "204 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vcksy3ixbi792-PL/image;s=1024x768"
+        },
+        {
+            "title": "Sprzedam Audi a4b5 Quatro 1998r",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a4b5-quatro-1998r-CID5-ID15gXyu.html",
+            "location": "Brzeziny",
+            "date": "04 April 2025 o 20:30",
+            "description": "Sprzedam audi a 4 B 5 Quatro benzyna/gaz 1998 r .OC ważne do maja a przegląd do kwietnia .stan jak na zdjęciach bez dziur ,podłoga jak i progi zdrowe.blacha ocynk.skonczyla się teraz legalizacja butli.i pękła przednia szyba.zawieszenie ok \n\n.Zapraszam do obejrzenia i do\n\n kontaktu 50*******29 lub 66*******39",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "298 km",
+                "Kolor": "Czerwony",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "4x4 (stały)",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cni7frxv7lcn3-PL/image;s=540x1200"
+        },
         {
             "title": "Sprzedam Volkswagen Golf 4 2002r.",
             "price": "4 500 zł",
@@ -50,6 +198,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w1egds1xzag02-PL/image;s=1156x868"
+        },
+        {
+            "title": "Nissan Micra K11",
+            "price": "1 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/nissan-micra-k11-CID5-ID15gXsO.html",
+            "location": "Mrozy",
+            "date": "04 April 2025 o 20:27",
+            "description": "Sprzedam Nissan Micra K11, rok 1998, silnik 1.0, więcej informacji telefonicznie.",
+            "details": {
+                "Model": "Micra",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "168 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0gwja3b040ti2-PL/image;s=719x960"
         },
         {
             "title": "Suzuki Swift 1.3 Benzyna 92KM 2008r Klimatyzacja Czujniki Parkowania",
@@ -6650,6 +6822,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1v0giefqmg7s2-PL/image;s=2950x2008"
+        },
+        {
+            "title": "Ford Focus mk2 wersja ghia",
+            "price": "7 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-focus-mk2-wersja-ghia-CID5-ID14ENw6.html",
+            "location": "Garbów I",
+            "date": "04 April 2025 o 16:02",
+            "description": "Do sprzedania ford focus mk2 1.8 benzyna wersja ghia. \n\nStan widoczny na zdjęciach do kilku poprawek lakierniczych. \n\nSamochód sprowadzony z Niemiec w 2016 roku. Od tamtej pory w jednych rękach. \n\nPt 12.03.2026\n\nOC 25.01.2026\n\nElektryczne szyby i lusterka, radio fabryczne, grzana przednia szyba, tempomat, bardzo dobre nagłośnienie, klimatyzacja dwustrefowa, komplet drugich kół.",
+            "details": {
+                "Numer VIN": "WF05XXGCD57J49237",
+                "Model": "Focus",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "227 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0xuofxsvek5x-PL/image;s=2000x922"
         },
         {
             "title": "Volvo s70 2.0 ładny stan",
@@ -18619,6 +18816,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xqpn8h1d97fg1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Corolla coupe LPG",
+            "price": "4 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-coupe-lpg-CID5-ID14K7X4.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025",
+            "description": "AUTO.OPG - Najlepsze oferty samochodów!\n\n\n\nMożliwość dostawy auta pod dom ! \n\n\n\nNa sprzedaż Toyota Corolla\n\n\n\nRok produkcji: 2002\n\nSilnik: 1.6\n\nPaliwo: benzyna/lpg\n\nPrzebieg: 377000km\n\nSkrzynia biegów: manual\n\nCena: 4200PLN\n\n\n\nSamochód w dobrym stanie, serwisowany na bieżąco. Idealny do codziennego użytku.\n\n\n\nZadzwoń pod numer telefonu podany niżej. \n\nAdres: Chyliczkowska 13a, Piaseczno, Polska\n\n\n\nDlaczego warto kupować u nas?\n\n\n\nTylko sprawdzone samochody: Każdy samochód przechodzi szczegółową kontrolę przed sprzedażą.\n\nKonkurencyjne ceny: Oferujemy najlepsze ceny na rynku.\n\nPrzejrzysta historia: Udostępniamy pełne informacje o stanie technicznym i historii serwisowania.\n\nIndywidualne podejście: Nasi menedżerowie pomogą dobrać samochód odpowiednio do Twoich potrzeb.\n\nPomoc drogowa: Oferujemy wsparcie w przypadku awarii na drodze.\n\nMożliwość dostawy samochodu pod adres: Zapewniamy wygodną dostawę samochodu pod wskazany adres.\n\n\n\nPytania? Nie znalazłeś potrzebnego punktu - zadzwoń lub napisz wiadomość prywatną.",
+            "details": {
+                "Model": "Corolla",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "377 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "102 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s5ml10ioao5y2-PL/image;s=4032x3024"
         }
     ]
 }
