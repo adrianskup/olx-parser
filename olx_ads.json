@@ -1,6 +1,78 @@
 {
-    "updated": "2025-04-04 21:59:46.781928",
+    "updated": "2025-04-04 22:36:32.091889",
     "ads": [
+        {
+            "title": "Ford Focus C-Max 1798 cm3 Benzyna",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-focus-c-max-1798-cm3-benzyna-CID5-ID14U1iF.html",
+            "location": "Rawa Mazowiecka",
+            "date": "04 April 2025 o 22:15",
+            "description": "Ford Focus C-Max 1798 cm3 Benzyna + Gaz LPG + hak.\n\nRok produkcji 2007 (wersja po liftingu).\n\nPierwsza rejestracja w Polsce 2015 r.\n\nUbezpieczenie samochodu ważne do 27.07.2025 r.\n\nPrzegląd techniczny ważny do 25.06.2025 r.\n\nPrzegląd butli LPG kończy się w kwietniu tego roku. \n\nSamochód obecnie jest na kołach zimowych, dodatkowo dorzucam opony z felgami.\n\nSamochód w ciągłej eksploatacji.",
+            "details": {
+                "Model": "C-MAX",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "313 757 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 798 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3g4qlc2snszh3-PL/image;s=2000x924"
+        },
+        {
+            "title": "Fiat Panda 1,1 rok produkcji 2006 ale 1-sza rejestracja 2007",
+            "price": "6 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-1-rok-produkcji-2006-ale-1-sza-rejestracja-2007-CID5-ID10FylH.html",
+            "location": "Puławy",
+            "date": "04 April 2025 o 22:05",
+            "description": "Kupione w polskim salonie i użytkowane tylko przeze mnie\n\nAuto dynamiczne i w pełni sprawne\n\nWspomaganie kierownicy CITY elektryczne przednie szyby, centralny zamek, ABS, 2 kluczyki, radio, CD, \n\nNa bieżąco serwisowane, wymienione części zawieszenia, pasek rozrządu i ustawiona zbieżność. \n\nŚwieżo po przeglądzie\n\nOpłacona polisa do kwietnia 2026\n\nZapraszam",
+            "details": {
+                "Model": "Panda",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "136 000 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "40 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s1p0znj1ic512-PL/image;s=2736x2736"
+        },
+        {
+            "title": "Skoda Fabia Sedan 2007 1.4 benzyna + gaz Siedlce",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-sedan-2007-1-4-benzyna-gaz-siedlce-CID5-ID151jli.html",
+            "location": "Siedlce",
+            "date": "04 April 2025 o 21:57",
+            "description": "Dzień dobry,\n\n\n\nSprzedam auto Skoda Fabia Sedan, rocznik 2007. Silnik benzynowy  1.4 (59 KM). Benzyna + gaz. Kolor srebrny. Przebieg 176 tys km. Hak holowniczy.  2 komplety kół z oponami zimowymi oraz letnimi w dobrym stanie.\n\n\n\nTechnicznie auto sprawne i gotowe do jazdy.\n\n\n\nCena 6 900 PLN.\n\n\n\nMożliwość obejrzenia w Siedlcach, woj. mazowieckie.\n\n\n\nKontakt pod nr telefonu 79*******41 (proszę tylko o telefon, bez sms)",
+            "details": {
+                "Model": "Fabia",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "176 500 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "59 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bmy7hu03foyf-PL/image;s=7952x5304"
+        },
         {
             "title": "BMW E46 Touring 318i",
             "price": "6 200 zł",
@@ -26,6 +98,38 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h2w3wz837994-PL/image;s=2000x1125"
+        },
+        {
+            "title": "Opel Vectra Opel Vectra C 1,9 CDTI 150km Limited",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-vectra-opel-vectra-c-1-9-cdti-150km-limited-ID6HeHsH.html",
+            "location": "Rostki Piotrowice",
+            "date": "04 April 2025 o 21:46",
+            "description": "Sprzedam Opla Vectra C z najlepszym silnikiem diesla 1,9cdti o mocy 150km. Vectra jak na rocznik 2008 utrzymana w idealnym stanie technicznym jak i wizualnym. Auto jest dynamicznie a zarazem ekonomiczne jak i bardzo komfortowe idealne na daleke trasy. Przebieg autostradowy i orginalny.\nWyposażenie;\nABS\nImmobilizer\nKontrola trakcji\n10x airbag\nSkórzana kierownica wielofunkcyjna\nPodłokietniki przód i tył\nWejście AUX\nOrginalne Radio CD z bluetooth\nZestaw głośnomówiący\nNawigacja\nSterowanie oddzielne radiem dla pasażerów z tyłu\nPrzyciemniane szyby\nISOFIX\nKoła zimowe plus Alu letnie\nTempomat\nSwiatła przeciwmgielne przód tył\nKolorowy komputer pokładowy\nPodgrzewana tylna szyba\nElektryczne lusterka\nItp...\nOpłaty OC i bt do stycznia 2026\nAuto użytkuje od ponad dwóch lat wszelkie naprawy robione na bieżąco\nZapraszam na oględziny auta jak i jazdę próbną\nCena 9300",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Vectra",
+                "Wersja": "1.9 CDTI Caravan Business Executive",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2008",
+                "Generacja": "C (2002-2008)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 910 cm3",
+                "Moc": "150 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "157 g/km",
+                "Spalanie W Mieście": "7.5 l/100km",
+                "Spalanie Poza Miastem": "4.8 l/100km",
+                "Przebieg": "354 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhuN2pybWJvZmV5czItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.YftL7spoWYC-lD-Mdk9YaiohhYV1Pu1WettGOPJdrSI/image"
         },
         {
             "title": "Citroen NEMO 1.4i klimatyzacja, podgrzewany fotel kierowcy",
@@ -83,6 +187,30 @@
             "location": "Radom",
             "date": "04 April 2025 o 21:41",
             "description": "Samochód na chodzie . Cały czas używany. 2.0 benzyna,  gaz , 2004 r. Dach działa bez zarzutów. Opony zimowe jak nowe. Brak pt. Cena do negocjacji.",
+            "details": {
+                "Numer VIN": "VF33BRFNC83566199",
+                "Model": "307 CC",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kabriolet",
+                "Przebieg": "209 114 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 997 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nrvexeaihlo31-PL/image;s=768x1024"
+        },
+        {
+            "title": "Peugeot 307 2.0 BG na chodzie REZERWACJA",
+            "price": "2 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-307-2-0-bg-na-chodzie-rezerwacja-CID5-ID15h06k.html",
+            "location": "Radom",
+            "date": "04 April 2025 o 21:41",
+            "description": "Samochód na chodzie . Cały czas używany. 2.0 benzyna,  gaz , 2004 r. Dach działa bez zarzutów. Silnik rzęzi. Opony zimowe jak nowe. Brak pt. Cena do negocjacji.",
             "details": {
                 "Numer VIN": "VF33BRFNC83566199",
                 "Model": "307 CC",
@@ -230,6 +358,67 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVkOWxvaW9zanBvdjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.nTnGG0ZEYOmHY8rFVmG2xsuSlsoKJCjH6gITG_DoIi4/image"
         },
         {
+            "title": "Audi A4 Audi A4 b6 benzyna gaz zarejestrowany",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b6-benzyna-gaz-zarejestrowany-ID6Hh3Fx.html",
+            "location": "Radom",
+            "date": "04 April 2025 o 21:34",
+            "description": "Witam przedmiotem mojej aukcji jest samochód marki Audi A4 z 2002 roku z jednym z najlepszych silników benzynowych 2.0 cieszący się dobra opinia wśród użytkowników Auto w bardzo dobrym stanie technicznym jak I wizualnym środek czysty zadbany nie wytarty Silnik skrzynia zawieszenie wszystko ok Spalanie w granicach 8litrow gazu \nGaz ważny jeszcze parę lat \n2 kpl kol nalo Alufelgi zima stalówki \nWyposazenie \nElektryczne szyby\nElektryczne lusterka \nCentralny zamek \nWspomaganie kierownicy \nTempomat \nClimatronic \nItp \nWięcej informacji udzielę telefonicznie \nPo.wiecej zdjęć kliknij odnośnik otomoto",
+            "details": {
+                "Marka pojazdu": "Audi",
+                "Model pojazdu": "A4",
+                "Wersja": "Avant 2.0",
+                "Kolor": "Inny kolor",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2002",
+                "Generacja": "B6 (2000-2004)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 984 cm3",
+                "Moc": "130 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "11.5 l/100km",
+                "Spalanie Poza Miastem": "6.0 l/100km",
+                "Przebieg": "290 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ims0NTN0Zmc3dmYybzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.dSmAuCWuQkS-qaDvfWi21C8ba2Pm1bD_ODzNkbDwHCc/image"
+        },
+        {
+            "title": "MINI ONE Mini one 1.6 benzyna super stan świeżo sprowadzony !!",
+            "price": "9 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mini-one-mini-one-1-6-benzyna-super-stan-swiezo-sprowadzony-ID6HaJnH.html",
+            "location": "Radom",
+            "date": "04 April 2025 o 21:32",
+            "description": "Witam przedmiotem mojej aukcji jest samochód marki Mini One z 2004 roku z jednym z najlepszych silników benzynowych 1.6 o mocy 90koni cieszący się dobra opinia wśród użytkowników Auto w bardzo dobrym stanie technicznym jak I wizualnym środek czysty zadbany nie wytarty Silnik skrzynia zawieszenie wszystko ok Spalanie w granicach 6litrow\nMini swiezo sprowadzony z Belgi z orginalnym przebiegiem jedyne 240.000km opłacony przygotowany do rejestracji\nPozostaje koszt tablic rejestracyjnych w urzedzie\nAutem mozna wracac na kolach ubezpieczone itp\nWyposazenie wszystko sprawne\nElektryczne lusterka\nElektryczne szyby\nCentralny zamek\nAbs\nWspomaganie kierownicy\nKlimatyzacja\nTempomat\nPodgrzewane lusterka szyby\nEsp\nPoduszki powietrzne\nRadio sterowane w kierownicy\nAlufelgi\nHalogeny\nSkóra\nWięcej informacji udzielę telefonicznie",
+            "details": {
+                "Marka pojazdu": "MINI",
+                "Model pojazdu": "ONE",
+                "Wersja": "Park Lane",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "3",
+                "Rok produkcji": "2004",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "90 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "164 g/km",
+                "Spalanie W Mieście": "9.6 l/100km",
+                "Spalanie Poza Miastem": "5.2 l/100km",
+                "Przebieg": "240 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im85Y2Zjb3lzeG96ZTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.0Ik1rg_HOHLrn1jE2e0Dp15H6vyX0RtccuTM_N9Ifyc/image"
+        },
+        {
             "title": "Honda FR-V 6-osobowa",
             "price": "8 000 zł",
             "negotiable": true,
@@ -253,6 +442,37 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jd3adz1etn712-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 407 Peugeot 407 Sw Super stan oplacony zarejestrowany maly przebieg",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-407-peugeot-407-sw-super-stan-oplacony-zarejestrowany-maly-przebieg-ID6HhfOu.html",
+            "location": "Radom",
+            "date": "04 April 2025 o 21:30",
+            "description": "Witam przedmiotem mojej aukcji jest samochód marki Peugeot 407sw z 2006 roku z jednym z najlepszych silników diesla 1.6hdi cieszący się dobra opinia wśród użytkowników Auto w bardzo dobrym stanie technicznym jak I wizualnym środek czysty zadbany nie wytarty Silnik skrzynia zawieszenie wszystko ok Spalanie w granicach 6litrow \nAuto na bieżąco serwisowane \nOpłaty ważne przegląd jak I OC\nWyposazenie \nPanorama dach \nElektryczne szyby \nElektryczne lusterka. \nCentralny zamek \nWspomaganie kierownicy \nTempomat \nClimatronic \nPodgrzewane fotele lusterka itp\nPo więcej zdjęć kliknij odnośnik otomoto \nWięcej informacji udzielę telefonicznie",
+            "details": {
+                "Marka pojazdu": "Peugeot",
+                "Model pojazdu": "407",
+                "Wersja": "1.6 HDi Premium",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2006",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 560 cm3",
+                "Moc": "109 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "140 g/km",
+                "Spalanie W Mieście": "6.8 l/100km",
+                "Spalanie Poza Miastem": "4.4 l/100km",
+                "Przebieg": "259 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZoanFlNWNzZ2QydDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.nfGTIBMhzFX2iEJex4r_EG2P1qDL8VAQ8mx8YhxwUE4/image"
         },
         {
             "title": "Fiat Stilo 1.9 jTD 100 KM 5D HB",
@@ -20195,6 +20415,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m7x9hcj7atg52-PL/image;s=1000x750"
+        },
+        {
+            "title": "Na sprzedaż Dodge Caliber 2.0 CRDI/zamiana/alusy/klima/gwarancja/długi",
+            "price": "7 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-dodge-caliber-2-0-crdi-zamiana-alusy-klima-gwarancja-dlugi-CID5-ID15fswY.html",
+            "location": "Warszawa, Włochy",
+            "date": "03 April 2025",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodna Dodge Caliber z najlepszym niezawodnym silnikiem 2.0 Diesel. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nAleja Krakowska 61, 02-183 Warszawa\n\n\n\nznajdujemy się na Centrum Handlowe Okęcie Park przy Burger Kingu \n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
+            "details": {
+                "Model": "Caliber",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "SUV",
+                "Przebieg": "245 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 980 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "140 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/21ket1qdo8441-PL/image;s=960x1280"
         }
     ]
 }
