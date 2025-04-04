@@ -1,6 +1,32 @@
 {
-    "updated": "2025-04-04 21:54:35.472945",
+    "updated": "2025-04-04 21:59:46.781928",
     "ads": [
+        {
+            "title": "BMW E46 Touring 318i",
+            "price": "6 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-touring-318i-CID5-ID15h07X.html",
+            "location": "Rybienko Nowe",
+            "date": "04 April 2025 o 21:47",
+            "description": "Witam, mam na sprzedaż BMW E46 Touring 318i z silnikiem 1.9 M43B19. Auto sprawne jeździ skręca hamuję nadaje się świetnie na dojazdy do pracy jak i do jazdy codziennej. Mało pali i jest dynamiczne podczas jazdy. Posiada swoje wady i zalety:\n\nDo poprawy:\n\n-Brak hamulca ręcznego.\n\n-Blacharka, występują ogniwa korozji ale nie ma tragedii.\n\n-Do wymiany pompa paliwa w baku, zawiesza się niestety czasami.\n\n-Gaz wymaga regulacji.\n\n-Tylne amortyzatory są słabe nadają się do wymiany.\n\nOstatnio wymienione:\n\n-Zmieniłem silnik bo poprzedni padł, aktualny silnik nie bierze oleju oraz oddaje moc.\n\n-Wymienione wszystkie filtry oraz olej.\n\nOsoby zainteresowane zapraszam do kontaktu telefonicznego lub OLX.",
+            "details": {
+                "Numer VIN": "WBAAP31070JL12341",
+                "Model": "Seria 3",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "292 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 895 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "120 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h2w3wz837994-PL/image;s=2000x1125"
+        },
         {
             "title": "Citroen NEMO 1.4i klimatyzacja, podgrzewany fotel kierowcy",
             "price": "9 500 zł",
@@ -20145,6 +20171,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9b20v1p4eb9w2-PL/image;s=750x1000"
+        },
+        {
+            "title": "Dacia Logan 1.4 MPI BENZYNA !!! 2005 rok !!! Salon Polska !!! El.Szyby",
+            "price": "3 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/dacia-logan-1-4-mpi-benzyna-2005-rok-salon-polska-el-szyby-CID5-ID14ZbDj.html",
+            "location": "Piaseczno",
+            "date": "03 April 2025",
+            "description": "Witam, \n\nPosiadam na sprzedaż Dacie Logan z niezawodnym silnikiem 1.4 MPI 75KM z 2005 roku. Auto w bardzo dobrym stanie technicznym i wizualnym. Oczywiście nosi ślady użytkowania odpowiednie do wieku samochodu. Progi całe można śmiało podnosić auto. Wnętrze w dobrym stanie, czyste.\n\nOC do 31.05.25\n\nPT do 04.10.25\n\n\n\nZapraszam do kontaktu telefonicznego !!!",
+            "details": {
+                "Model": "Logan",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "180 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m7x9hcj7atg52-PL/image;s=1000x750"
         }
     ]
 }
