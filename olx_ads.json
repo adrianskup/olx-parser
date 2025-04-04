@@ -1,6 +1,42 @@
 {
-    "updated": "2025-04-04 22:45:10.401083",
+    "updated": "2025-04-04 22:50:16.566317",
     "ads": [
+        {
+            "title": "Skoda Fabia Sprzedam Skoda Fabia Combi 1.9 Diesel, rok 2008!",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-sprzedam-skoda-fabia-combi-1-9-diesel-rok-2008-ID6H3TCu.html",
+            "location": "Nowy Dwór Mazowiecki",
+            "date": "04 April 2025 o 22:42",
+            "description": "Cena: 5500 PLN (Do negocjacji)\nPrzebieg: 381.000 km (Wymiana oleju zalecana przy 383.000 km)\nDokumenty: Przegląd techniczny i ubezpieczenie ważne do sierpnia 2025 roku. Gotowy do przerejestrowania.\nDodatki:\nZamontowane opony zimowe.\nDodatkowy komplet opon letnich w prawie nowym stanie.\nKoło zapasowe, gaśnica, oryginalny podnośnik hydrauliczny.\nStan techniczny: Dobry, bardzo wygodny i płynny w prowadzeniu.\nUwagi:\nNiewielka rdza na karoserii (pod drzwiami).\nMała dziura w tapicerce fotela kierowcy.\nLokalizacja: Zarejestrowany w Nowy Dwór Mazowiecki.\nJeśli jesteś zainteresowany lub masz pytania, napisz do mnie. Cena do negocjacji, świetna okazja!",
+            "details": {
+                "Marka pojazdu": "Skoda",
+                "Model pojazdu": "Fabia",
+                "Wersja": "1.9 TDI Classic",
+                "Kolor": "Szary",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2008",
+                "Generacja": "I (1999-2008)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 896 cm3",
+                "Moc": "105 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "129 g/km",
+                "Spalanie W Mieście": "6 l/100km",
+                "Spalanie Poza Miastem": "4.0 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "381 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak",
+                "Serwisowany w ASO": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlvZ2N2Z2lxYmV4NDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WWd4Tjnwo0qRMnjEH2J8I_F7hnVPDuWUWNBeSRswWo4/image"
+        },
         {
             "title": "Sprzedam opla corse 1.3 diesel",
             "price": "4 600 zł",
@@ -15977,6 +16013,32 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fttc3uo3zcrd-PL/image;s=750x1000"
         },
         {
+            "title": "Fiat Grande Punto 1.4 8v, bezwypadkowy, salon PL.",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-1-4-8v-bezwypadkowy-salon-pl-CID5-ID15aj3v.html",
+            "location": "Grodzisk Mazowiecki",
+            "date": "04 April 2025 o 10:02",
+            "description": "Sprzedam Ładnego Fiata Grande Punto z 2008r. Silnik 1.4 8v., 78km. Auto zakupione w Polskim salonie 10.06.2008r. Auto bezwypadkowe, nie posiada korozji. Rozrząd wymieniony przy przebiegu 181.600 km. Opony wielosezonowe. Klimatyzacja sprawna, wspomaganie city, isofix, elektryczne szyby, skórzana kierownica. Samochód ładny zadbany, nie wymaga wkładu finansowego. Przegląd i OC do końca listopada.",
+            "details": {
+                "Numer VIN": "ZGA19900001362968",
+                "Model": "Grande Punto",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "187 900 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "78 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3ckdb04k4vfo-PL/image;s=1000x750"
+        },
+        {
             "title": "Autokomis!TopCar!Chrysler Pt Cruiser 2.2 Diesel/Tanio/Gwarancja/Okazja",
             "price": "2 990 zł",
             "negotiable": true,
@@ -16888,6 +16950,31 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InAxdDYxOXkyb295aDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ZxxRc2tXmo4sQnm-_5c3wXn3bVK8IzgBodHHupiuQz4/image"
         },
         {
+            "title": "Mercedes W220  3.2 CDI - bez Airmatic",
+            "price": "8 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-w220-3-2-cdi-bez-airmatic-CID5-ID12w34v.html",
+            "location": "Wołomin",
+            "date": "04 April 2025 o 09:42",
+            "description": "Samochód sprawny i jeżdżący. \n\nPosiada kilka mankamentów, ale bez wpływu na jazdę.\n\nSilnik 3.2 diesel, skrzynia automatyczna 5-biegowa.\n\nOC opłacone do stycznia 2026. Przegląd do lutego 2026.\n\nZawieszenie pneumatyczne wymienione na tradycyjne (największa bolączka tego modelu).\n\nCzarny lakier, czarne skórzane wnętrze.\n\nKorozja prawych drzwi i dołu błotnika, początkowe ogniska korozji w innych miejscach. Lakier miejscami wypłowiały.\n\nTylko sprzedaż, bez zamiany.",
+            "details": {
+                "Model": "S Klasa",
+                "Rok produkcji": "2001",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "600 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "3 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "198 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hdht0mpq8yz63-PL/image;s=2000x1500"
+        },
+        {
             "title": "BMW 118i uszkodzony silnik",
             "price": "7 900 zł",
             "negotiable": true,
@@ -17586,6 +17673,28 @@
                 "Moc silnika": "90 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9d27db483n5w1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Corsa 1.3 EcoFlex 2009r Serwisowany Bezwypadkowy ASO Super Stan",
+            "price": "8 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-1-3-ecoflex-2009r-serwisowany-bezwypadkowy-aso-super-stan-CID5-ID15eCfP.html",
+            "location": "Piaseczno",
+            "date": "04 April 2025 o 06:49",
+            "description": "Sprzedam Opla Corsę z bardzo ekonomicznym oraz dynamicznym silnikiem diesla 1.3 Exo Flex. Samochód nie potrzebuje żadnego nakładu finansowego na bieżąco serwisowany w aso do końca 2023r wtedy nastąpiła również wymiana kompletnego rozrządu. Samochód bardzo ładnie się prezentuje jest bezwypadkowy , lakier się błyszczy i nie rdzewieje. Środek bardzo czysty i zadbany , klimatyzacja sprawna , koła aluminiowe z bardzo ładnymi oponami. Nowy nabywca tego pojazdu będzie z niego bardzo zadowolony i nie będzie musiał dokładać do niego pieniążków. \n\nOkresowe badanie techniczne (ważne do 11.07.2025)\n\n\n\nData ważności polisy\n\n15.07.2025\n\n\n\nSamochód spełnia normy strefy czystego transportu w Warszawie. \n\n\n\nKupujący zwolniony z opłaty skarbowej pcc3",
+            "details": {
+                "Numer VIN": "W0L0SDL6884407813",
+                "Model": "Corsa",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "249 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 300 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5w4941rwx9m43-PL/image;s=1000x750"
         },
         {
             "title": "Niezniszczalny* VW PASSAT 1.9 TDI* Przegląd na rok* DUŻY SERWIS* OC VI",
@@ -20517,6 +20626,27 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/21ket1qdo8441-PL/image;s=960x1280"
+        },
+        {
+            "title": "BMW E46 320D 150 KONI",
+            "price": "10 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-320d-150-koni-CID5-ID1501W8.html",
+            "location": "Łódź, Śródmieście",
+            "date": "03 April 2025",
+            "description": "Dzień dobry mam do zaoferowania BMW E46 320D 150 KONI.Z silnikiem 2.0 disla  z automatyczną skrzynią  biegów. Auto jeździ skręca hamuje.Wszyskie naprawy są robione na bieżąco.Trochy posiada rudej.Zainteresowanych zapraszam do kontaktu i jazdy próbnej .",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "355 000 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kf4yv09ov0wg-PL/image;s=1024x768"
         }
     ]
 }
