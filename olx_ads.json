@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-04 20:49:55.776745",
+    "updated": "2025-04-04 20:55:20.495518",
     "ads": [
         {
             "title": "Saab 93 1.9 TiD 2007",
@@ -75,6 +75,30 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w8phwn3o8irg1-PL/image;s=1600x1204"
+        },
+        {
+            "title": "Opel Corsa D 1.2 benzyna Klimatyzacja",
+            "price": "7 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-d-1-2-benzyna-klimatyzacja-CID5-ID15gYbk.html",
+            "location": "Pomiechówek",
+            "date": "04 April 2025 o 20:42",
+            "description": "Witam posiadam do sprzedania Opel Corsa D 1.2 z 2006 r 214tys km Auto sprawne odpala i jeździ bez problemu,klimatyzacja po serwisie Opel czysty zadbany. Opłaty Ważne do OC do 02.2026 przegląd do 02.2026\n\nWyposażenie:\n\n\n\nElektryczne szyby \n\nElektryczne lusterka \n\nCentralny zamek \n\nKlimatyzacja sprawna\n\nEsp\n\nWspomaganie kierownicy \n\nAbs\n\nIsofix\n\n2 komplety kluczy \n\n\n\nWięcej informacji udzielę telefonicznie. Pozdrawiam",
+            "details": {
+                "Model": "Corsa",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "214 199 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 198 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "80 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/75gd8cshodmy-PL/image;s=1008x567"
         },
         {
             "title": "Mazda 2 1.3 Klimatyzacja # Sprowadzona # Polecam!",
@@ -19096,6 +19120,81 @@
                 "Kraj pochodzenia": "Polska"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/g4sid11y73b82-PL/image;s=1000x750"
+        },
+        {
+            "title": "fiat seicento 1100",
+            "price": "3 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-seicento-1100-CID5-ID15bsQh.html",
+            "location": "Kobyłka",
+            "date": "03 April 2025",
+            "description": "Sprzedam fiata seicento 2001 rok drugi własciciel  sprawny nowe oponki  akumulator  przebieg 106 tys wicej informacji tel 50*******66 Kobyłka ok Warszawy",
+            "details": {
+                "Model": "Seicento",
+                "Rok produkcji": "2001",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "106 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 100 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "55 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w7musgksdvlm-PL/image;s=3060x4080"
+        },
+        {
+            "title": "Sprzedam samochód osobowy Toyota Yaris Verso",
+            "price": "3 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-osobowy-toyota-yaris-verso-CID5-ID15edQj.html",
+            "location": "Ostrówiec",
+            "date": "03 April 2025",
+            "description": "Sprzedam funkcjonalne auto.\n\nPrzednie szyby elektryczne. Centralny zamek, Oryginalne radio.\n\nStan uszkodzony. Do poprawek lakierniczych\n\nPrzegląd do 24.08.2025, OC do 25.05.2025.\n\nWięcej informacji udzielę telefonicznie\n\n\n\nZapraszam do oglądania",
+            "details": {
+                "Numer VIN": "JTDKC283200003413",
+                "Model": "Yaris Verso",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "368 092 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 364 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/p2o29huaaxma-PL/image;s=2048x1536"
+        },
+        {
+            "title": "Bmw e46 Turing Lift 9Lat jeden właściciel Zadbana Zdrowa",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-turing-lift-9lat-jeden-wlasciciel-zadbana-zdrowa-CID5-ID15fOFG.html",
+            "location": "Zgierz",
+            "date": "03 April 2025",
+            "description": "Witam mam do zaoferowania bmw e46 wszystkie naprawy wykonywane na bieżąco poprzedni właściciel miał ją 9lat auto zadbane czyste i całkiem zdrowe jak na model e46 Oc Pt na rok Pozdrawiam Zapraszam 66*******89 \n\n\n\nSprzedaje ponieważ po drodze kupiłem e46 3.0 Coupe",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "345 890 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "143 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/07j46bgjvxr63-PL/image;s=2000x1500"
         }
     ]
 }
