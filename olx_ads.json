@@ -1,6 +1,79 @@
 {
-    "updated": "2025-04-04 19:50:28.738480",
+    "updated": "2025-04-04 19:55:52.013589",
     "ads": [
+        {
+            "title": "Chevrolet Aveo T300",
+            "price": "5 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/chevrolet-aveo-t300-CID5-ID15bKj8.html",
+            "location": "Mińsk Mazowiecki",
+            "date": "04 April 2025 o 19:50",
+            "description": "Witam, sprzedam Aveo jako uszkodzony, auto cały czas jeździ. Skrzynia biegów do wymiany bo łożysko się odzywa, w silniku pali się check, przy odpalaniu puści dymka. Auto 100 originalne lecz ma kilka przetarcz. Zawieszenie i hamulce sprawne w 100%. Progi i podłoga wzorowe.2012r 182KKm silnik 1.3cdti 95KM,tempomat, start stop, grzane fotele ( raz działają raz nie) opłaty do czerwca. Cena 5000zł. Do zabrania okolice Mińska Mazowieckiego\n\n\n\n78*****92",
+            "details": {
+                "Model": "Aveo",
+                "Rok produkcji": "2012",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "182 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 300 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "95 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bc7aj4osnui61-PL/image;s=4624x2084"
+        },
+        {
+            "title": "FORD KA | 2009 rok | 1,2 benzyna |",
+            "price": "10 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-ka-2009-rok-1-2-benzyna-CID5-ID15gWIE.html",
+            "location": "Płock",
+            "date": "04 April 2025 o 19:50",
+            "description": "Sprzedam samochód marki FORD KA 1,4 69 KM\n\ntyp nadwozia: hatchback\n\nrok produkcji: 2009\n\npierwszy właściciel\n\nsalon Polska\n\nprzebieg: 171 000 km\n\nrodzaj paliwa: BENZYNA\n\npojemność skokowa: 1360 cm3\n\nmoc silnika: 69 KM\n\nWyposażenie:\n\nimmobilizer, centralny zamek, ABS, elektrycznie sterowane szyby, PODGRZEWANA PRZEDNIA SZYBA klimatyzacja manualna, poduszka powietrzna kierowcy, poduszka powietrzna pasażera\n\nSaamochód zadbany, przęglądy oraz wymiany wykonywane na czas. Samochód eksploatowany przez jednego właściciela bez zaniedbań serwisowych.\n\nBez historii wypadkowej.\n\nTermin przeglądu: 07.2025\n\nCena do negocjacji.\n\nKontakt pod numerem telefonu:\n\n5*1*8 4*9*0 8*3*6",
+            "details": {
+                "Model": "KA",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "171 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 242 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "69 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1ncdfbyrao371-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Volkswagen Golf V 1.4B 2007 rok. Stan bardzo dobry",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-v-1-4b-2007-rok-stan-bardzo-dobry-CID5-ID15gWEo.html",
+            "location": "Ciechanowiec",
+            "date": "04 April 2025 o 19:48",
+            "description": "Witam. Sprzedam Świeżo sprowadzonego z Niemiec Volkswagena Golfa V z silnikiem 1.4B z 2007 roku. Auto jest opłacone gotowe do rejestracji pozostaje wydział komunikacji. Na chwilę obecną nie wymaga żadnego wkładu finansowego. Więcej informacji udzielę pod nr tel 506-=-546-=- 584",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "172 985 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "80 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qcg5mnh0pia8-PL/image;s=1600x1200"
+        },
         {
             "title": "Audi a3 1.8T AUM 150KM LPG",
             "price": "9 800 zł",
@@ -25,6 +98,56 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xs2j3tmxm9ny2-PL/image;s=1600x1200"
+        },
+        {
+            "title": "Renault Twingo II 1.2 16v benzyna 2007r. niski przebieg !",
+            "price": "8 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-twingo-ii-1-2-16v-benzyna-2007r-niski-przebieg-CID5-ID147XLC.html",
+            "location": "Sochaczew",
+            "date": "04 April 2025 o 19:46",
+            "description": "Witam !\n\nSprzedam samochód Renault Twingo II z ekonomicznym i niezawodnym silnikiem benzynowym 1.2 16v o mocy 75KM. Auto wyprodukowane w 2007r.\n\nSprowadzone do Polski w 2012r. 2 właściciel w Polsce. Przebieg auta wynosi 155.000km. Skrzynia manualna 5-biegowa. \n\nSamochód generalnie w bardzo dobrym stanie, lakier zadbany, blacharsko jak na swoje lata trzyma się bardzo dobrze !\n\nNa karoserii brak jest śladów korozji. Wnętrze pojazdu zadbane, kierownica nie powycierana.\n\nAuto wyposażone w klimatyzacje automatyczną , sprawną !!\n\nNa dzień dzisiejszy mechanicznie wszystko sprawne, hamulce działają bez zarzutu, zawieszenie ok .\n\nSilnik nie był myty, nie zauważyłem żadnych wycieków.\n\nWszystkie naprawy przeprowadzane na bieżąco. Posiadam faktury za naprawy z ubiegłych lat.\n\nOpony w bdb stanie.\n\nWyposażenie m.in. :\n\n-radio CD/AUX\n\n-hak\n\n-centralny zamek\n\n-klimatyzacja automatyczna\n\n-6x airbag\n\n-isofix\n\n-autoalarm\n\n-komputer pokładowy\n\n-wspomaganie kierownicy\n\n-elektryczne szyby\n\n-elektryczne lusterka\n\n-ABS\n\nPrzegląd techniczny do 09.12.2025r., polisa OC aktualna, opłacana ratalnie.\n\nWięcej informacji udzielę telefonicznie. Możliwość sprawdzenia auta na dowolnej stacji diagnostycznej na terenie Sochaczewa. Do auta komplet dokumentów i 2 kluczyki . Cena podlega negocjacji. Zapraszam !",
+            "details": {
+                "Numer VIN": "VF1CN0A0537835080",
+                "Model": "Twingo",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "155 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 149 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Szwajcaria",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7csmho85j2fd1-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Nissan Primera P12 Kombi 2.0 Benzyna + Gaz, 2003 rok",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-primera-p12-kombi-2-0-benzyna-gaz-2003-rok-CID5-ID148t1A.html",
+            "location": "Płock",
+            "date": "04 April 2025 o 19:46",
+            "description": "Na sprzedaż Nissan Primera P12 Kombi z 2003 roku, z silnikiem 2.0 (benzyna + gaz) oraz automatyczną skrzynią biegów CVT. Samochód ma przejechane 250 479 km i jest w dobrym stanie technicznym.\n\n\n\nW ostatnim roku zostały wykonane następujące prace: skrzynia biegów została uszczelniona oraz wymieniono silniczek krokowy (częsta usterka w tym modelu), wymieniono tarcze i klocki hamulcowe z przodu, wahacze z przodu, zregenerowano zacisk tylny lewy oraz wymieniono końcówki drążków. Auto wyposażone jest w dwa komplety opon (letnie i zimowe), sprawnie działającą klimatyzację, ogrzewanie, centralny zamek, kamerę cofania, 4 elektryczne szyby, komputer pokładowy oraz instalację gazową firmy KME z homologacją ważną do czerwca 2029 roku.\n\n\n\nBadanie techniczne ważne do listopada 2025 roku, a ubezpieczenie OC do końca lipca 2025 roku. \n\n\n\nJestem osobą prywatną, a auto jest użytkowane przeze mnie od października 2021 roku. Stan oceniam na dobry..\n\n\n\nW razie pytań proszę o kontakt pod nr telefonu: 5*0*8*6*8*9*7*9*5",
+            "details": {
+                "Model": "Primera",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "250 479 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Moc silnika": "140 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wup5kicebs7s2-PL/image;s=3024x4032"
         },
         {
             "title": "Audi A4B6 1.8 LPG",
@@ -11268,6 +11391,30 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uunqbauydfk7-PL/image;s=1020x768"
         },
         {
+            "title": "Mazda 3 2.0 B // 2006 // Klimatyzacja // Super Stan // Zadbana //\n\nSam",
+            "price": "3 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mazda-3-2-0-b-2006-klimatyzacja-super-stan-zadbana-sam-CID5-ID15gqo4.html",
+            "location": "Warszawa, Ursynów",
+            "date": "04 April 2025 o 11:22",
+            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\n\n\nOferujemy usługę dostarczenia auta pod dom !!!\n\n\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo fajna w super stanie Mazda 3 z silnikiem benzynowym o pojemności 2.0 i mocy 150 koni mechanicznych. Idealne autko dla początkującego kierowcy tanie w eksploatacji oraz oszczędne. Na chwilę obecną nie wymaga żadnych dodatkowych nakładów finansowych. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Wnętrze czyste i zadbane. Wizualnie bardzo ładnie się prezentuje. Cena oczywiście podlega negocjacji.\n\n\n\nNa wyposażeniu samochodu :\n\n\n\n  - klimatyzacja \n\n- centralny zamek \n\n- elektryczne lusterka \n\n- elektryczne szyby \n\n- klimatyzacja \n\n- tempomat \n\n- przyciemniane szyby \n\n- radio\n\n- komputer pokładowy \n\n- ⁠wspomaganie kierownicy\n\n- regulowana kierownica \n\n- ⁠ABS  \n\n- ESP\n\n- ISOFIX\n\n\n\nUbezpieczenie OC oraz przegląd techniczny ważne aż do Grudnia 2025 !!!\n\n\n\nChętnie zamienimy !\n\n\n\nMamy dużo aut w podobnych cenach!\n\n\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów.\n\n\n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\n\n\nKończy Ci sie ubezpieczenie lub przegląd? \n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\n\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \n\nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\nPoniedzialek-Sobota 10:00-20:00\n\nNiedziela 11:00-16:00 \n\nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
+            "details": {
+                "Model": "3",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "245 017 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uunqbauydfk7-PL/image;s=1020x768"
+        },
+        {
             "title": "VW Polo 2006r. 1,2L",
             "price": "1 500 zł",
             "negotiable": true,
@@ -17477,6 +17624,57 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/q3naxcynyjq63-PL/image;s=1024x769"
+        },
+        {
+            "title": "BMW e36 compact 316i zamiana na automat/traktorek ogrodowy/przyczepkę",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e36-compact-316i-zamiana-na-automat-traktorek-ogrodowy-przyczepke-CID5-ID14GQAO.html",
+            "location": "Siedlce",
+            "date": "03 April 2025",
+            "description": "Sprzedam bądź chętnie zamienię za samochód automat/skuter/ przyczepkę itp\n\nSamochód przez poprzedniego właściciela doinwestowany, ja miałem autko nie  cały rok i służyło mi zawsze niezawodnie, wymieniłem po zakupie komplet filtrów i olej oraz ostatnio akumulator na nowy, autko służyło jako zastępcze więc za dużo kilometrów w moich rękach nie zrobiło, stoi na oponach zimowych, dla zdecydowanych dorzucę komplet felg 18cali, więcej stoi jak jeździ stąd decyzja o sprzedaży/zamianie, wymienię chętnie na auto w automacie [może być z dopłatą] lub na jakis inny sprzęt, jeśli masz propozycję napisz wiadomość. Pozdrawiam",
+            "details": {
+                "Numer VIN": "WBACG11080KB78885",
+                "Model": "Seria 3",
+                "Rok produkcji": "1994",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "270 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 596 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "102 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kf44yd5oxyus1-PL/image;s=1536x2048"
+        },
+        {
+            "title": "Opel Zafira A 1.8 16v 125km Executive",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-a-1-8-16v-125km-executive-CID5-ID1274xR.html",
+            "location": "Augustynów",
+            "date": "03 April 2025",
+            "description": "Witam.\n\nMam do sprzedania samochód Opel Zafira A z 2004 roku, auto bogato wyposażone jak na swój rocznik. Wszystkie naprawy i wymiany płynów robione na czas.\n\nDwa komplety kół, letnie na alufelgach i zimowe na stalowych.\n\nSprowadzony do kraju w 2016 roku od pierwszego właściciela,jestem pierwszym właścicielem w Polsce.\n\nAuto nie wymaga żadnego wkładu finansowego.Przebieg silnika 224000 km.\n\nWięcej informacji udzielę pod numerem telefonu 513***699.\n\nPowód sprzedaży to zakup drugiego auta.",
+            "details": {
+                "Numer VIN": "W0L0TGF7542109766",
+                "Model": "Zafira",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "326 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 796 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lpxxvjrmbrp23-PL/image;s=1600x720"
         }
     ]
 }
