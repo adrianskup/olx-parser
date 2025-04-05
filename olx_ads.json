@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-05 05:43:37.690649",
+    "updated": "2025-04-05 05:49:26.476834",
     "ads": [
         {
             "title": "Ford c max 2005 r 2.0 TDCi",
@@ -257,6 +257,30 @@
             "price": "4 900 zł",
             "negotiable": false,
             "link": "https://www.olx.pl/d/oferta/mercedes-benz-211-CID5-ID15h49P.html",
+            "location": "Lidzbark",
+            "date": "05 April 2025 o 05:07",
+            "description": "Witam sprzedam Mercedesa W 211 samochód w dobrym stanie sprowadzony wszystko sprawne",
+            "details": {
+                "Numer VIN": "135",
+                "Model": "E Klasa",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "265 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 597 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "180 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ydbzqc9mp0ed3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Mercedes benz w211",
+            "price": "4 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-benz-w211-CID5-ID15h49P.html",
             "location": "Lidzbark",
             "date": "05 April 2025 o 05:07",
             "description": "Witam sprzedam Mercedesa W 211 samochód w dobrym stanie sprowadzony wszystko sprawne",
