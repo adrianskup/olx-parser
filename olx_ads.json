@@ -1,6 +1,17 @@
 {
-    "updated": "2025-04-05 19:47:45.295802",
+    "updated": "2025-04-05 19:52:58.723070",
     "ads": [
+        {
+            "title": "Skoda Felicia pickup1.9D",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-felicia-pickup1-9d-CID5-ID14H3Qn.html",
+            "location": "Ownia",
+            "date": "05 April 2025 o 19:46",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
         {
             "title": "Peugeot 407 2.2 Benz gaz automat",
             "price": "2 600 zł",
@@ -24,6 +35,38 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2ur1zju9xt9e2-PL/image;s=1632x918"
+        },
+        {
+            "title": "Ford Fusion Ford Fusion 1.4 Trend",
+            "price": "2 100 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-fusion-ford-fusion-1-4-trend-ID6HicQG.html",
+            "location": "Legionowo",
+            "date": "05 April 2025 o 19:42",
+            "description": "Witam,\nMam do sprzedania auto marki FORD FUSION 1.4 Trend - benzyna.\nSamochód jest na chodzie. Ubezpieczenie OC ważne do 20.12.2025 r.",
+            "details": {
+                "Marka pojazdu": "Ford",
+                "Model pojazdu": "Fusion",
+                "Wersja": "1.4 Trend",
+                "Kolor": "Czerwony",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 388 cm3",
+                "Moc": "80 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "154 g/km",
+                "Spalanie W Mieście": "8.5 l/100km",
+                "Spalanie Poza Miastem": "5.3 l/100km",
+                "Przebieg": "181 100 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ5MWs1bHltaGN2cjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.qd64iz79qEXusssKhyfCf3MZQqb1lRRFwd8OgPse0sk/image"
         },
         {
             "title": "Audi A3 8L 1.8t LPG",
@@ -489,6 +532,28 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ihkl4v4usmoq1-PL/image;s=1000x740"
+        },
+        {
+            "title": "Renault Thalia 1.4 16V benzyna",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-thalia-1-4-16v-benzyna-CID5-ID15hPlk.html",
+            "location": "Siedlce",
+            "date": "05 April 2025 o 19:10",
+            "description": "Sprzedam Renault Thalia 1.4 16V benzyna 98 KM.\n\nPrzebieg 160000\n\nRok produkcji 2008\n\nStan techniczny bardzo dobry.\n\nKlimatyzacja automatyczna \n\nABS\n\nElektryczne lusterka \n\nElektryczne szyby przednie \n\nIsofix\n\nAirbag\n\nKontakt telefoniczny 60*****06",
+            "details": {
+                "Model": "Thalia",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "160 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/03bfwi6dn2lf3-PL/image;s=1024x768"
         },
         {
             "title": "Opel Zafira 1,9 CDTI 120 KM Super stan 7 osób",
@@ -7084,6 +7149,37 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBoOHBtMG5nd3cxYzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.mvq3QlG1Rs_-9A6s8aXrAyG57s6Jg8idlRO-qyrnVZI/image"
         },
         {
+            "title": "Renault Megane Niski przebieg",
+            "price": "6 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-megane-niski-przebieg-ID6Hib5A.html",
+            "location": "Warszawa, Śródmieście",
+            "date": "05 April 2025 o 13:52",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Renault",
+                "Model pojazdu": "Megane",
+                "Wersja": "II 1.6 Confort Expression",
+                "Kolor": "Czerwony",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "4",
+                "Rok produkcji": "2005",
+                "Generacja": "II (2002-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "115 KM",
+                "Typ nadwozia": "Kabriolet",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.8 l/100km",
+                "Spalanie Poza Miastem": "5.6 l/100km",
+                "Przebieg": "114 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlyaTJqcnE3M3kwNi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BWwwxex59mCuOQFchsmCuhC47-zlCDmi3JvHPj08s-U/image"
+        },
+        {
             "title": "Volkswagen Passat b5",
             "price": "6 000 zł",
             "negotiable": true,
@@ -9275,6 +9371,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sxfzsvsmb8kv1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Seat Alhambra 1.8T LPG Klimatyzacja 7 Foteli Gotowa Do Jazdy",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-alhambra-1-8t-lpg-klimatyzacja-7-foteli-gotowa-do-jazdy-CID5-ID15aRV5.html",
+            "location": "Otwock",
+            "date": "05 April 2025 o 12:07",
+            "description": "Witam \n\nPosiadam na sprzedaż Seata Alhambrę \n\nRok produkcji 2003\n\nPrzebieg 328 tys km\n\nSilnik 1.8Turbo \n\nMoc 150 KM \n\nInstalacja LPG \n\nAuto w dobrym stanie , gotowe do jazdy \n\nNa wyposażeniu posiada \n\nKlimatyzację\n\nABS \n\nEsp \n\nElektryczne szyby \n\nRadio z USB \n\nI tak dalej \n\nUbezpieczenie na rok opłacone w połowie \n\nPrzegląd do lipca\n\nZapraszam",
+            "details": {
+                "Model": "Alhambra",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "328 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n329zxao3o3o-PL/image;s=1000x750"
         },
         {
             "title": "Na sprzedaż Opel Vectra 1.9D/zamiana/alusy/automat/bez rdzy",
