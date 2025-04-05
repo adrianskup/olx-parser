@@ -1,6 +1,53 @@
 {
-    "updated": "2025-04-05 09:48:06.646972",
+    "updated": "2025-04-05 09:53:33.271815",
     "ads": [
+        {
+            "title": "Ford StreetKa_Cabrio_2004_1.6 benz_Zadany",
+            "price": "6 400 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-streetka-cabrio-2004-1-6-benz-zadany-CID5-ID150ARW.html",
+            "location": "Andrespol",
+            "date": "05 April 2025 o 09:46",
+            "description": "Sprzedam Ford Street Ka\n\nSilnik 1.6 benzyna 95Km\n\n\n\nNowy Przegląd do 11.02.2026\n\nOC do 17.04.2025\n\n\n\nAuto ładnie się prezentuje \n\nWnętrze pojazdu zadane\n\nSilnik pracuje równo, ma moc\n\nZawieszenie bez luzów \n\nDach się otwiera i składa bez problemu \n\nBlacharsko bez rdzy \n\n\n\nWyposażenie \n\n-klimatyzacja \n\n-radio\n\n-elektryczne szyby \n\n-elektryczne lusterka \n\n-nowe opony \n\n-felgi aluminiowe\n\n-skrzynia manualna \n\n-skórzana tapicerka \n\n\n\nW razie pytań proszę dzwonić \n\n\n\nNa auto wystawiam fakturę VAT marża \n\nKupujący zwolniony z opłaty skarbowej 2%",
+            "details": {
+                "Model": "Streetka",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kabriolet",
+                "Przebieg": "168 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "95 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/79spfa6rqkru3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Yaris 1.4 d4d",
+            "price": "8 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-yaris-1-4-d4d-CID5-ID15hg25.html",
+            "location": "Siedlce",
+            "date": "05 April 2025 o 09:45",
+            "description": "Witam,\n\nNa sprzedaż Toyota Yaris II z silnikiem 1.4 D-4D. Używane prywatnie. W tym czasie wszystkie przeglądy i naprawy były wykonywane na bieżąco, olej wymieniany co 10-12 tys km. Idealny samochód do taniego i bezawaryjnego przemieszczania się.\n\nZapraszam do kontaktu.",
+            "details": {
+                "Numer VIN": "VNKKC92330A029229",
+                "Model": "Yaris",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "285 762 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 364 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kqequno70b6k3-PL/image;s=1575x1732"
+        },
         {
             "title": "Fiat Panda_Wspomaganie_City_Klimatyzacja_Elektryczne szyby",
             "price": "5 600 zł",
@@ -25302,6 +25349,28 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cb97x4rb9d5n1-PL/image;s=751x1000"
+        },
+        {
+            "title": "Sprzedam Toyotę Avensis T25",
+            "price": "6 200 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-toyote-avensis-t25-CID5-ID15eTnQ.html",
+            "location": "Żabia Wola",
+            "date": "04 April 2025",
+            "description": "Witam,\n\n\n\nMam do sprzedania Toyotę Avensis T25 z 2007 roku, wyposażoną w niezawodny silnik 2.0 D4D. Samochód jest w moich rękach od 7 lat i przez cały ten czas nigdy mnie nie zawiódł. Wszystkie niezbędne części były wymieniane na czas, co gwarantuje niezawodność pojazdu.\n\n\n\nAuto wyposażone jest w 4 elektryczne szyby, sprawną klimatyzację oraz podgrzewane siedzenia. Oferuje również pełne podstawowe wyposażenie, które zapewnia komfort jazdy.\n\n\n\nSamochód jest w  dobrym stanie technicznym, gotowy do użytkowania.\n\n\n\nZapraszam do kontaktu i obejrzenia pojazdu!",
+            "details": {
+                "Model": "Avensis",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "416 000 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xiepwb8tn9uv3-PL/image;s=2000x900"
         }
     ]
 }
