@@ -1,6 +1,28 @@
 {
-    "updated": "2025-04-05 13:45:43.775723",
+    "updated": "2025-04-05 13:51:24.014753",
     "ads": [
+        {
+            "title": "Volkswagen Passat 1.9TDI 90 km",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-passat-1-9tdi-90-km-CID5-ID15hvKL.html",
+            "location": "Kutno",
+            "date": "05 April 2025 o 13:46",
+            "description": "Witam sprzedam Volkswagena Passata z silnikiem 1.9 TDI 90 koni auto jest bardzo dobrym stanie technicznym jeżeli chodzi o silnik skrzynie biegów sprzęgło zawieszenie wszystko jest w nienagannym stanie samochód jest sprawny gotowy do dalszej eksploatacji posiada wspomaganie kierownicy sprawny klimatronik podgrzewane fotele odpinany hak centralny zamek elektryczne szyby welurową tapicerkę poduszki powietrzne dwa komplety kluczyków samochód posiada aktualne OC do końca lipca oraz przegląd techniczny do lutego przyszłego roku samochód jest ekonomiczny spalanie nie przekracza 6 litrów na 100 km silnik pali na dotyk czy zimny czy ciepły zawieszenie bez żadnych luzów bardzo ładnie wybiera nierówności wnętrze jest czyste niezniszczone polecam i zapraszam do kontaktu telefonicznego",
+            "details": {
+                "Model": "Passat",
+                "Rok produkcji": "1998",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "399 889 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 896 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h4q5mlyy0v4k2-PL/image;s=2000x1500"
+        },
         {
             "title": "Volkswagen Polo 05r",
             "price": "5 400 zł",
@@ -46,6 +68,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mynhkevym1jf2-PL/image;s=1000x685"
+        },
+        {
+            "title": "Autokomis TopCar! Bmw e46 Coupe M-pakiet z vinu/1.9 Lpg/Bdstan/Polecam",
+            "price": "9 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/autokomis-topcar-bmw-e46-coupe-m-pakiet-z-vinu-1-9-lpg-bdstan-polecam-CID5-ID15hvik.html",
+            "location": "Ożarów Mazowiecki",
+            "date": "05 April 2025 o 13:38",
+            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Bmw e46 Coupe wyprodukowana w 2000 Roku z najlepszym niezawodnym silnikiem 1.9 Benzyna+Lpg sekwencja, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n- podgrzewane lusterka\n\n- sterowanie radiem z kierownicy\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- klimatronik\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "300 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/d3v38gdarrqh3-PL/image;s=750x1000"
         },
         {
             "title": "Opel Zafira 1.7Cdti 125 km 7 osobowy",
@@ -31118,6 +31163,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7p2sqt958e97-PL/image;s=3264x2448"
+        },
+        {
+            "title": "Chevrolet Aveo 100 tys km stan idealny polski salon !!!",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/chevrolet-aveo-100-tys-km-stan-idealny-polski-salon-CID5-ID14O3So.html",
+            "location": "Siedlce",
+            "date": "04 April 2025",
+            "description": "Witam,mam do sprzedania Chevroleta Aveo 1.2 84 km,oryginalny udukomentowany 100 tys km przebiegu zakupionego w 2009 roku z salonu polskiego. Jestem jego drugim właścicielem od 2018 roku. Auto jest bezwypadkowek,garażowane ,posiada dwa komplety kół na felgach stalowych,dwa komplety kluczyków ,blokadę skrzyni biegów oraz zostało zabezpieczone antykorozyjnie.Olej był wymieniany w skrzyni biegów i silniku przy 100 tys km. Olej silnikowy Motul 5W30 wymieniam co 10 tys km,serwisowany na bieżąco-posiadam pełną dokumentację,rozrząd jest na łańcuchu.A Ubezpieczenie do lipca 2025,przegląd do czerwca 2025. Auto nie wymaga wkładu finansowego,jest gotowe do jazdy. Cena podlega negocjacji. Auto do obejrzenia w Siedlcach.\n\nPo więcej informacji zapraszam pod numer telefonu : 78*****06 siedem-osiem-siedem jeden-dwa- dziewięć  zero-zero-sześć",
+            "details": {
+                "Model": "Aveo",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "100 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "84 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/54467qrvkja-PL/image;s=3072x4096"
         }
     ]
 }
