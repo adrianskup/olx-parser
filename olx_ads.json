@@ -1,6 +1,101 @@
 {
-    "updated": "2025-04-05 06:42:41.805349",
+    "updated": "2025-04-05 06:51:03.369633",
     "ads": [
+        {
+            "title": "TOYOTA COROLLA VERSO 2.0 D-4D 116KM zadbana Super Stan Bez rdzy 2005 r",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-verso-2-0-d-4d-116km-zadbana-super-stan-bez-rdzy-2005-r-CID5-ID14NLX3.html",
+            "location": "Kozienice",
+            "date": "05 April 2025 o 06:47",
+            "description": "Sprzedam Toyotę Corollę Verso z najlepszym silnikiem diesla 2.0 D-4D o mocy 116KM. Samochód bardzo zadbany, wizualnie auto prezentuje się pięknie, nie ma oznak korozji na żadnym elemencie. Auto garażowane, podwozie oraz progi bez korozji. Wnętrze Toyoty zadbane, fotele oraz tapicerka czysta bez oznak nadmiernego zużycia. Technicznie jak to Toyota wszystko działa jak należy. Na desce nie palą się żadne kontrolki. Zawieszenie sztywne autko prowadzi się wyśmienicie. W ostatnim czasie pod koniec 2024 roku wymienione zostało kompletne sprzęgło, oraz hamulce. \n\n\n\nWyposażenie:\n\n- wspomaganie kierownicy \n\n- klimatyzacja która działa jak należy \n\n- elektryczne szyby \n\n- elektryczne lusterka \n\n- ABS\n\n- ESP \n\n- komputer pokładowy \n\n- hak (wbity w dowód)\n\n- ISOFIX \n\n- centralny zamek\n\n- odpalanie z przycisku \n\n- sterowanie radiem z kierownicy \n\n\n\nSamochód posiada ważne opłaty przegląd techniczny oraz ubezpieczenie. Więcej informacji udzielę telefonicznie. Cena do negocjacji po oględzinach.",
+            "details": {
+                "Model": "Corolla Verso",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "337 000 km",
+                "Kolor": "Brązowy – Beżowy",
+                "Poj. silnika": "1 995 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bbc4ujuh7547-PL/image;s=1414x943"
+        },
+        {
+            "title": "Volvo   C30 Lift",
+            "price": "7 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volvo-c30-lift-CID5-ID15h6qH.html",
+            "location": "Przysucha",
+            "date": "05 April 2025 o 06:45",
+            "description": "Sprowadzone Volvo C30 2010r 1.6 \n\nPrzebieg 270tys \n\nDo poprawek lakierniczych \n\nCena 7600 \n\nTel 60*******11",
+            "details": {
+                "Model": "C30",
+                "Rok produkcji": "2011",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "270 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Belgia"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qaab3t1ykz0w1-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Renault Laguna_1.8 LPG_2002r_Bogate wyposazenie",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-laguna-1-8-lpg-2002r-bogate-wyposazenie-CID5-ID157j0r.html",
+            "location": "Andrespol",
+            "date": "05 April 2025 o 06:41",
+            "description": "Sprzedam Renault Laguna \n\nSilnik 1.8 LPG\n\nNowy przegląd do 14.03.2026\n\nNowe OC do 26.03.2026\n\nLegalizacja butli do 20.11.2025\n\n\n\nAuto w dobrym stanie technicznym \n\nSilnik działa prawidłowo, pracuje równo, ma moc \n\nChodzi na benzynie i gazie \n\nZawieszenie bez luzów \n\nBlacharsko bez rdzy \n\nWnętrze pojazdu zadbane \n\n\n\nBogate wyposażenie \n\n-elektryczne szyby \n\n-elektryczne lusterka \n\n-klimatyzacja \n\n-instalacja LPG\n\n-hak \n\n-podrzewane fotele \n\n-komputer\n\n-isofix\n\n-radio\n\n-centralny zamek\n\n-abs\n\n-airbag \n\n\n\nW razie pytań proszę dzwonić",
+            "details": {
+                "Model": "Laguna",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "226 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uhc5eirn0qob1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 307 CC 2.0b/g 140km",
+            "price": "8 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-307-cc-2-0b-g-140km-CID5-ID15h6lC.html",
+            "location": "Radom",
+            "date": "05 April 2025 o 06:39",
+            "description": "Witam. Sprzedam peugeot 307cc 2005r 2.0 140km LPG . Butla ważna jeszcze 2 lata. W zeszłym roku wymieniony kompletny rozrząd, założone 2 nowe opony wielosezonowe na przód. Brak rdzy. Sprawny dach. Faktura z 2018r na 3tys zł za kompletny serwis hydrauliki dachu.",
+            "details": {
+                "Numer VIN": "VF33BRFJC84374051",
+                "Model": "307 CC",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kabriolet",
+                "Przebieg": "222 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 997 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "140 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wnnbghnkid462-PL/image;s=1024x459"
+        },
         {
             "title": "Citroen Berlingo_1.9 D_2004r_Nowy PT",
             "price": "4 900 zł",
@@ -49,6 +144,100 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ivkf3ub2wv0t1-PL/image;s=2464x1632"
         },
         {
+            "title": "Polecam 1 wł od kilku lat Bardzo Zadbany",
+            "price": "5 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/polecam-1-wl-od-kilku-lat-bardzo-zadbany-CID5-ID15fdj3.html",
+            "location": "Płońsk",
+            "date": "05 April 2025 o 06:38",
+            "description": "Aukcje wystawiam na prośbę znajomego samochód od kilku lat u niego na bieżącą naprawiany stan bardzo dobry . Możliwa zamiana proszę tylko dzwonić pisać na ten nr tel 45*******18.    \n\n4-5-2-9-4-6-2-1-8",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "232 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "85 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/irgzwc3xbjaa3-PL/image;s=720x882"
+        },
+        {
+            "title": "Skoda Roomster scout sprawna ekonomiczna",
+            "price": "8 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-roomster-scout-sprawna-ekonomiczna-CID5-ID150TJi.html",
+            "location": "Warszawa, Targówek",
+            "date": "05 April 2025 o 06:38",
+            "description": "Auto z polskiego salonu \n\nsprawne i bardzo ekonomiczne \n\nPonadprzeciętnie pakowne \n\nSerwisowane na bieżąco:\n\nOstatni serwis olejowo filtrowy 312 tys km \n\nWymiana rozrządu 284 tys km \n\nHamulce ogumienie stan bdb \n\nŻadnych sygnałów awarii na desce \n\n2 oryginalne kluczyki\n\nOpłaty do lipca",
+            "details": {
+                "Model": "Roomster",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "319 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/62r1xm7qz7572-PL/image;s=1000x834"
+        },
+        {
+            "title": "Peugeot 307 SW 2.0i",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-307-sw-2-0i-CID5-ID14F2su.html",
+            "location": "Kupientyn",
+            "date": "05 April 2025 o 06:38",
+            "description": "Sprzedam Peugeota 307sw wersja poliftowa z 2006 roku. Auto po wymianie rozrządu i sprzęgła. W ostatnim czasie wymieniono również tarcze i klocki hamulcowe z przodu oraz olej I filtry. Posiada sprawną dwustrefową klimatyzację, panoramiczny dach, radio mp3/  bluetooth JVC, kontrolęl trakcji asr,dzieloną tylną kanapę, przyciemniane szyby, elektryczne i składane lusterka, 4 x elektryczne szyby i wiele innych opcji. Napędza je dynamiczny 2-litrowy silnik benzynowy o mocy 140 km. Zapraszam do kontaktu tel. 60*******33.",
+            "details": {
+                "Numer VIN": "VF33HRFJC84468425",
+                "Model": "307 SW",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "247 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Holandia",
+                "Moc silnika": "140 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tqcw2l05tgxb1-PL/image;s=1020x765"
+        },
+        {
+            "title": "Seat Ibiza_2002r_1.2_Klimatyzacja_Nowy PT i Oc",
+            "price": "2 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-ibiza-2002r-1-2-klimatyzacja-nowy-pt-i-oc-CID5-ID14SA77.html",
+            "location": "Andrespol",
+            "date": "05 April 2025 o 06:37",
+            "description": "Sprzedam Seat Ibiza\n\nSilnik 1.2 benzyna\n\nNowy przegląd do 12.03.2026\n\nNowe OC do 31.03.2026\n\n\n\nAuto w dobrym stanie technicznym \n\nSilnik działa prawidłowo \n\nZawieszenie bez luzów \n\n\n\nWyposażenie \n\n-klimatyzacja \n\n-elektryczne szyby \n\n-radio \n\n-felgi aluminiowe\n\n-opony zimowe\n\n-podrzewana szyba tył \n\n-abs\n\n-airbag \n\n-skrzynia manualna 5 biegowa\n\n\n\nW razie pytań proszę dzwonić",
+            "details": {
+                "Model": "Ibiza",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "266 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "64 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/d2205x6484ir-PL/image;s=1000x750"
+        },
+        {
             "title": "Audi A3_2000r_Klimatyzacja_Nowy przeglad i Oc",
             "price": "3 800 zł",
             "negotiable": true,
@@ -90,6 +279,29 @@
                 "Skrzynia biegów": "Manualna"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/purtitx9qxbb-PL/image;s=2000x900"
+        },
+        {
+            "title": "Volvo v50_2005r_1.6d_Kombi_Nowy PT",
+            "price": "7 400 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volvo-v50-2005r-1-6d-kombi-nowy-pt-CID5-ID151476.html",
+            "location": "Andrespol",
+            "date": "05 April 2025 o 06:35",
+            "description": "Sprzedam Volvo v50\n\nSilnik 1.6 diesel 109 Km\n\n\n\nNowy przegląd do 17.03.2026\n\nOC do 21.09.2025\n\n\n\nAuto ładnie się prezentuje \n\nWnętrze pojazdu zadane \n\nSilnik działa prawidłowo \n\nZawieszenie sztywne bez luzów \n\nBlacharsko ok \n\nAuto posiada normalne ślady użytkowania \n\nWszystkie serwisy robione na bieżąco \n\n\n\nWyposażenie \n\n-klimatyzacja \n\n-elektryczne szyby \n\n-elektryczne lusterka \n\n-skrzynia manualna 5 biegowa\n\n-alufelgi \n\n-airbag\n\n-abs\n\n-centralny zamek\n\n-radio\n\n-komputer\n\n-czujnika parkowania \n\n\n\nW razie jakichkolwiek pytań proszę dzwonić \n\n\n\nNa auto wystawiam fakturę VAT marża \n\nKupujący zwolniony z opłaty skarbowej 2%",
+            "details": {
+                "Model": "V50",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "328 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "109 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k7qko8zzny023-PL/image;s=1000x750"
         },
         {
             "title": "Fiat Punto_2003r_1.2_Klimatyzacja_City_Nowy PT",
@@ -195,6 +407,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ueuje4k277uk-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 307_2005r_1.4_Klimatyzacja",
+            "price": "3 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-307-2005r-1-4-klimatyzacja-CID5-ID150y74.html",
+            "location": "Andrespol",
+            "date": "05 April 2025 o 06:33",
+            "description": "Sprzedam Peugeot 307\n\nSilnik 1.4 HDi\n\nPrzegląd do 08.06.2025\n\nOC do 16.04.2025\n\n\n\nAuto w dobrym stanie technicznym \n\nSilnik pracuje równo, ma moc \n\nZawieszenie w dobrym stanie bez luzów\n\nWnętrze pojazdu zadane \n\nBlacharsko bez rdzy \n\n\n\nWyposażenie \n\n-klimatyzacja \n\n-elektryczne szyby \n\n-elektryczne lusterka \n\n-radio \n\n-podrzewana szyba tył \n\n-wersja 5 drzwiowa\n\n-abs\n\n-airbag\n\n-centralny zamek \n\n-skrzynia manualna 5 biegowa \n\n\n\nW razie pytań proszę dzwonić \n\n\n\nNa auto wystawiam fakturę VAT marża\n\nKupujący zwolniony z opłaty skarbowej 2%",
+            "details": {
+                "Model": "307",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "197 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "68 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/aq12skilrhg72-PL/image;s=1000x750"
         },
         {
             "title": "Renault Clio_1.2_Przebieg 64 tys_Salon polska",
@@ -20048,6 +20283,40 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w1h0a8sbfjkh-PL/image;s=750x1000"
+        },
+        {
+            "title": "Citroën Xsara Picasso Citroen Xsara Picasso",
+            "price": "9 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-xsara-picasso-citroen-xsara-picasso-ID6Hi33d.html",
+            "location": "Magdalenka",
+            "date": "04 April 2025",
+            "description": "Mam do sprzedania citroena xsarę picasso, auto z bardzo pojemny bagażnikiem i dużą przestrzenią wewnątrz kabiny. Auto posiada świetny szyberdach od strony kierowcy i pasażerów, sterowanie elektryczne nie działa od zakupu od poprzedniego właściciela. Wszystkie przeglądy na bieżąco, niedawno wymieniany rozrząd. Auto posiada automatyczną skrzynię biegów. Otwieranie klapy bagażnika ukruszony plastik, do lekkiej naprawy w granicach 200 zł. Badanie techniczne aktualne, polisa OC na bardzo korzystnych warunkach ważna do 29.03.2026 r.\nAuto na nowiutkich (zakupione na jesieni 2024) oponach zimowych, w zestawie dodaję całoroczne opony jeszcze w dobrym stanie.\nJestem drugim właścicielem, niepalącym, auto było parkowane na terenie zadaszonym.\nOgólnie auto sprawne, w dobrym stanie technicznym i wizualnym posłuży jeszcze nowemu właścicielowi.",
+            "details": {
+                "Marka pojazdu": "Citroën",
+                "Model pojazdu": "Xsara Picasso",
+                "Wersja": "2.0 Automatik Exclusive",
+                "Kolor": "Niebieski",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 997 cm3",
+                "Moc": "136 KM",
+                "Typ nadwozia": "Minivan",
+                "Skrzynia biegów": "Automatyczna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "205 g/km",
+                "Spalanie W Mieście": "12.5 l/100km",
+                "Spalanie Poza Miastem": "6.4 l/100km",
+                "Kraj pochodzenia": "Holandia",
+                "Przebieg": "220 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im94bGVtdXhyOGdxMjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.gwZ0Sfpmqq5o4RQd3F225W5N-PoDLe9Gz3lqPvN8dM8/image"
         }
     ]
 }
