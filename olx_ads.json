@@ -1,6 +1,27 @@
 {
-    "updated": "2025-04-05 04:54:28.031161",
+    "updated": "2025-04-05 04:59:56.956843",
     "ads": [
+        {
+            "title": "Ford Fiesta 1, 4 TDCi 2008 klima ekonomiczny",
+            "price": "5 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-fiesta-1-4-tdci-2008-klima-ekonomiczny-CID5-ID15h42k.html",
+            "location": "Naruszewo",
+            "date": "05 April 2025 o 04:53",
+            "description": "Ford Fiesta 1, 4 TDCi 2008 klimatyzacja, 5-drzwiowy, hak holowniczy, wspomaganie kierownicy, podgrzewana tylna szyba, radio CD, w  pełni sprawny,bez oznak korozji, aktualne OC,BT",
+            "details": {
+                "Model": "Fiesta",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "311 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9bjyld6p2j3n2-PL/image;s=1020x768"
+        },
         {
             "title": "Sprzedam Opel 1.4 b+LPG",
             "price": "2 350 zł",
@@ -18696,6 +18717,73 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/saprvlg5er2k1-PL/image;s=1024x768"
+        },
+        {
+            "title": "Volkswagen Scirocco 1.4 160 koni 5900",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-scirocco-1-4-160-koni-5900-CID5-ID14eehB.html",
+            "location": "Łomża",
+            "date": "04 April 2025",
+            "description": "Witam serdecznie posiadam na sprzedaż po kolizji volkswagen Scirocco 160 przebiegu przy 120 robiony rozrząd silnik odpala po placu można się przejechać stan jak na foto silnik super skrzynia dobra  więcej informacji na temat auta udzielę telefonicznie \n\nMożliwość zamiany na inne autko \n\nOpłaty aktualne",
+            "details": {
+                "Model": "Scirocco",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "160 000 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "160 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e35t5xipm2442-PL/image;s=563x424"
+        },
+        {
+            "title": "Sprzedam passata B5 1997",
+            "price": "2 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-passata-b5-1997-CID5-ID15aekq.html",
+            "location": "Sulejów",
+            "date": "04 April 2025",
+            "description": "Sprzedam passata pali jezdzi skręca hamuje ubezpieczenie do listopada przegląd do czerwca",
+            "details": {
+                "Model": "Passat",
+                "Rok produkcji": "1997",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "273 800 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qy1zbpouh08z-PL/image;s=4096x3072"
+        },
+        {
+            "title": "Audi a6 2.4 Gaz/klima/Hak",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/audi-a6-2-4-gaz-klima-hak-CID5-ID15gru1.html",
+            "location": "Żelków-Kolonia",
+            "date": "04 April 2025",
+            "description": "Witam \n\nSprzedam Audi a6\n\nManual\n\nHak\n\n2.4  gaz w kole wazny do 2034r.\n\nKlimatyzacja sprawna \n\nEl.szyby \n\nWspomaganie \n\nRadio \n\nAluminiowe felgi \n\nSkóra \n\n\n\nAuto perfekcyjnie zachowane.  Bez korozji.  Opony wielosezonowe w super stanie.  Zawieszenie ŚCISŁE prowadzi się idealnie. Niskie koszty z uwagi na LPG.\n\n\n\nŻelków Kolonia Siedlecka 18\n\n\n\nKupujący zwolniony z opłaty skarbowej!!\n\n\n\nZapraszam \n\n\n\n79*******43 \n\n51*******15",
+            "details": {
+                "Model": "A6",
+                "Rok produkcji": "1997",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "420 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7xc1c8v9m3xi3-PL/image;s=1600x1204"
         }
     ]
 }
