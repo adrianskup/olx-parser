@@ -1,6 +1,82 @@
 {
-    "updated": "2025-04-05 15:44:26.831436",
+    "updated": "2025-04-05 15:50:02.605636",
     "ads": [
+        {
+            "title": "Toyota Corolla 2003",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-2003-CID5-ID15hEpP.html",
+            "location": "Warszawa, Mokotów",
+            "date": "05 April 2025 o 15:46",
+            "description": "Toyota Corolla E12 1.4 Benzyna | 2003 | Sprawna | drugi właściciel\n\n\n\nNa sprzedaż Toyota Corolla E12 sedan z silnikiem benzynowym 1.4 o mocy 97 KM. Auto z 2003 roku, kupione w Polsce, jestem drugim właścicielem.\n\n\n\nStan techniczny:\n\n\n\nAuto w pełni sprawne, gotowe do jazdy\n\n\n\nPrzegląd techniczny aktualny\n\n\n\nOC ważne do maja 2025\n\n\n\nSilnik i skrzynia działają bez zarzutu\n\n\n\nPrzebieg: 416 070 km – uczciwy, adekwatny do wieku\n\n\n\nWyposażenie:\n\n\n\nKlimatyzacja\n\n\n\nElektryczne szyby przód\n\n\n\nRadio\n\n\n\nCentralny zamek + immobilizer\n\n\n\nManualna skrzynia biegów\n\n\n\nKomplet kluczyków\n\n\n\nStan wizualny:\n\n\n\nNormalne ślady użytkowania, jak na auto 22-letnie\n\n\n\nKaroseria miejscami z drobnymi ogniskami korozji (widoczne na zdjęciach)\n\n\n\nWnętrze zadbane i czyste\n\n\n\nPodsufitka zaczęła się odklejać, ale wygląda to jak egzotyczny baldachim – ogólnie w trakcie jazdy dla kierowcy nieodczuwalna kwestia.\n\n\n\nIdealne jako tanie i niezawodne auto do jazdy na co dzień, do pracy, szkoły czy jako pierwsze auto.\n\n\n\nDo obejrzenia w Warszawie - okolice centrum handlowego Sadyba Best Mall\n\n\n\nZapraszam do kontaktu – chętnie odpowiem na pytania i umówię się na oględziny!",
+            "details": {
+                "Numer VIN": "NMTBM22E80R018680",
+                "Model": "Corolla",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "416 070 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 398 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "97 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/houy90xy71a71-PL/image;s=6048x4024"
+        },
+        {
+            "title": "Saab 93, 2005 rok 1.8 LPG – Otokomis! Gwarancji!",
+            "price": "6 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/saab-93-2005-rok-1-8-lpg-otokomis-gwarancji-CID5-ID15hECo.html",
+            "location": "Warszawa, Włochy",
+            "date": "05 April 2025 o 15:44",
+            "description": "Zapraszamy do OTOKOMIS-Oferujemy szeroki wybór starannie wyselekcjonowanych samochodów.\n\n\n\nSpecyfikacja pojazdu:\n\nMarka: Saab\n\nModel: 9-3\n\nRok produkcji: 2005\n\nSilnik: 1.8 benzyna z gazem\n\nMoc: 120\n\nUbezpieczenie OC: jest ważne \n\nPrzegląd techniczny: jest ważne \n\n\n\nDlaczego warto wybrać ten samochód?\n\n\n\nMega wygodny i pakowny sedan. Dzięki instalacji gazowej jest mega ekonomiczne.\n\nBardzo dobry stan techniczny. Silnik chodzi równo nie dymi na benzynie i gazie nie szarpie. Nie wybite zawieszenie, ładnie zbiera nierówności.\n\nZdrowy progi i podłoga, zadbany środek. \n\n\n\nWyposażenie: czujnik deszczu, klimatyzacja, ABS, Radio CD, wspomaganie kierownicy, wielofunkcyjna kierownica, elektryczne szyby i lusterka, podłokietnik, centralny zamek, hak, czujniki parkowania \n\n\n\nGodziny otwarcia:\n\nPoniedziałek – Sobota: 10:00 – 20:00\n\nNiedziela: 11:00 – 16:00\n\nLokalizacja: Nasz plac znajduje się na parkingu centrum handlowego Lopuszańska 22.\n\n\n\nKontakt: Zadzwoń pod numer 518xx168xx153 i umów się na jazdę próbną!\n\n\n\nZapraszamy!",
+            "details": {
+                "Model": "9-3",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "230 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "120 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/z92hq8fafrld-PL/image;s=1001x701"
+        },
+        {
+            "title": "Ford Mondeo Mk3  1,8 ,  130 KM  GHIA, hatchback,  2005",
+            "price": "4 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-mondeo-mk3-1-8-130-km-ghia-hatchback-2005-CID5-ID15hEfO.html",
+            "location": "Lublin",
+            "date": "05 April 2025 o 15:44",
+            "description": "Witam,\n\n\n\nposiadam na sprzedaż Ford Mondeo Mk3 w benzynie, pojemność 1,8 l, moc 130 KM  GHIA, hatchback, rocznik 2005. Auto kupiłem w 2016 roku z przebiegiem około 200 tys km, wcześniej sprowadzone z Niemiec, byłem jego drugim użytkownikiem. Auto sprawne, obecnie nie wymaga wkładu finansowego. Ostatni przegląd oraz ubezpieczenie w lutym 2025. \n\n\n\nSzczegóły:\n\n\n\n- alufelgi 16'', obecnie na zimowych oponach\n\n- elektryczne szyby\n\n- elektrycznie regulowane lusterka\n\n- podgrzewana przednia szyba\n\n- podgrzewane fotele przednie\n\n- klimatyzacja, nabijana do pełna w 2024 roku\n\n- radio oraz odtwarzacz CD\n\n- średnie sapalanie 7,7 l/100 km (większość po mieście) \n\n- wymiana sprzęgła i amortyzatorów w 2024 roku\n\n- obecny przebieg to 263 tys km\n\n- auto bezwypadowe\n\n- za dodatkową opłatą 100 zł od opony dorzucę komplet opon letnich z 2021 roku\n\n\n\nMankamenty: \n\n- uszkodzeine plastykowej atrapy (maskownicy) z przodu i tyłu auta (żona wjeżdżała na zbyt wysoki krawężnik) - widoczne na zdjęciu\n\n- liniowe zarysowanie i wgniecenie przy przednich drzwiach od strony pasażera - widoczne na zdjęciu \n\n- wgniecenie i zarysowanie przed prawym przednim nadkolem - zdjęcie\n\n- nieliczne punktowe odpryski lakieru \n\n- świecąca żółta kontroka \"check engine\" - wina sondy lambda - obecna już w momencie nabywania przeze mnie w 2016 r. \n\n\n\nZapraszam do kontaktu\n\n\n\nPolecam",
+            "details": {
+                "Model": "Mondeo",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "263 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 798 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jhdknhf86d321-PL/image;s=2048x1152"
+        },
         {
             "title": "Nissan Micra 1.2 benzyna",
             "price": "2 700 zł",
@@ -47,6 +123,55 @@
                 "Kierownica": "po lewej"
             },
             "image_url": null
+        },
+        {
+            "title": "Honda Accord VII 2.0 V-tec LPG 155KM. 2003r. 168 tys. Okazja. Zamiana",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-accord-vii-2-0-v-tec-lpg-155km-2003r-168-tys-okazja-zamiana-CID5-ID15hEei.html",
+            "location": "Cieksyn",
+            "date": "05 April 2025 o 15:39",
+            "description": "Witam. Sprzedam Hondę Accord VII 2.0 Benzyna+LPG . Auto wizualnie jak na zdjęciach,posiada normalne ślady użytkowania,w progu z prawej strony z przodu dziura.  Zawieszenie w dobrym stanie.  Silnik ma swoją moc. \n\nW ostatnim czasie wymienione wszystkie filtry,oleje,akumulator,klocki i tarcze hamulcowe przód i tył,pasek klinowy i rolka napinająca, uszczelka pokrywy zaworów, sprzęgło kompresora klimatyzacji. \n\nAuto ogólnie posiada instalację gazową wbitą w dowód,ale na chwilę obecną wymaga serwisu,i regulacji.  Nie działa radio i szyba kierowcy.\n\n\n\nOpłaty ważne\n\nOC miesiąc \n\nPrzegląd 09.2025\n\n\n\nRok 2003\n\nPrzebieg  168 tyś \n\n\n\nWyposażenie \n\n-El. Szyby X4 \n\n-El. Lusterka \n\n-Wspomaganie kierownicy \n\n-Pol skórzana tapicerka \n\n-Alufelgi 16\n\n-Radio CD\n\n-Halogeny \n\n-Poduszka powietrzna X8\n\n-Centralny zamek \n\n-Podłokietnik X2 \n\n-Tempomat \n\n-Wielofunkcyjna kierownica \n\n-Imobilizer \n\n-Isofix \n\n-Klimatyzacja \n\n-Kontrola trakcji \n\n\n\nCena do symbolicznej negocjacji na miejscu.\n\nAuto wystawione w okazyjnej cenie ze względu na wyżej wymienione mankamenty.\n\n\n\nFaktura VAT marża \n\nKupujący zwolniony z opłaty skarbowej PCC3 \n\n\n\nEwentualnie mogę przyjąć tańsze auto w rozliczeniu z dopłatą dla mnie",
+            "details": {
+                "Model": "Accord",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "168 700 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Inny",
+                "Moc silnika": "155 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
+        },
+        {
+            "title": "Skoda Octavia 1.6 mpi 1 właściciel",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-6-mpi-1-wlasciciel-CID5-ID15hEdD.html",
+            "location": "Łuków",
+            "date": "05 April 2025 o 15:39",
+            "description": "Sprzedam zadbany egzemplarz Skody Octavia z silnikiem benzynowym 1.6 75 KM .Auto od nowości w użytkowaniu jednego właściciela.Salon Polska.\n\nStan techniczny i blacharkowy uważam za bardzo dobry.Lakier prezentuje się ładnie.Auto nie posiada wgnieceń i zarysowań.\n\nProgi i podłoga bez zastrzeżeń.\n\nTapicerka zachowana w bardzo dobrym stanie.Brak przetarć i plam.Silnik oraz skrzynia biegów ok.Zawieszenie sztywne.\n\nOpłaty i badanie techniczne aktualne do końca roku.\n\nWięcej informacji udzielę telefonicznie \n\nZapraszam do Łukowa na oględziny.\n\nZgadzam się na sprawdzenie stanu auta na stacji kontroli pojazdów lub w wybranym zakładzie mechanicznym.",
+            "details": {
+                "Model": "Octavia",
+                "Rok produkcji": "2001",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "205 500 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/axp8koeyzcbv-PL/image;s=1020x765"
         },
         {
             "title": "Vw Bora 1.6 MPI +lpg",
@@ -34256,6 +34381,52 @@
                 "Moc silnika": "75 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8hifbm842al73-PL/image;s=1202x973"
+        },
+        {
+            "title": "Autokomis TopCar!Volvo S80 2.9 Lpg/Zadbana/Dynamiczna/Dostawa pod Dom",
+            "price": "4 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/autokomis-topcar-volvo-s80-2-9-lpg-zadbana-dynamiczna-dostawa-pod-dom-CID5-ID15832M.html",
+            "location": "Ożarów Mazowiecki",
+            "date": "04 April 2025",
+            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Volvo S80 wyprodukowana w 2000 Roku z najlepszym niezawodnym silnikiem 2.9 Benzyna+Lpg sekwencja, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n-Tempomat\n\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n\n- Mozliwosc ustawienia max predkosci w komputerze, ktorej samochod nie pozwoli nam przekroczyc\n\n- podgrzewane lusterka\n\n- sterowanie radiem z kierownicy\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- dwustrefowy klimatronik\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
+            "details": {
+                "Model": "S80",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "289 000 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mzmiqn5mbw282-PL/image;s=750x1000"
+        },
+        {
+            "title": "Na Sprzedaż/Honda Jazz/2002Rok/1.4/Ekonomiczny/Nowe Klocki/Zamian",
+            "price": "3 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-honda-jazz-2002rok-1-4-ekonomiczny-nowe-klocki-zamian-CID5-ID15gntO.html",
+            "location": "Warszawa, Włochy",
+            "date": "04 April 2025",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Honda Jazz z najlepszym niezawodnym silnikiem 1.4 Benzyna . Stan auta oceniam na bardzo dobry, ostatnio wymienione oleje oraz filtry, klocki. zawieszenie w bardzo dobrym stanie.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Ryżowa 4, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20\n\n\n\nNiniejsze ogłoszenie nie stanowi oferty ani zapewnienia, w szczególności rozumieniu art. 66 § 1 i art. 556 indeks 1 Kodeksu cywilnego. Zastrzegamy sobie prawo do doprecyzowania oraz korekt omyłek.",
+            "details": {
+                "Model": "Jazz",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "250 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zny3kl9q7c5x2-PL/image;s=960x1280"
         }
     ]
 }
