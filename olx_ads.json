@@ -1,6 +1,26 @@
 {
-    "updated": "2025-04-05 05:49:26.476834",
+    "updated": "2025-04-05 05:54:31.460770",
     "ads": [
+        {
+            "title": "Renault migane 1,2 2-wł salon Polska NAVIGACJA 134 TYS KM",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-migane-1-2-2-wl-salon-polska-navigacja-134-tys-km-CID5-ID158DNB.html",
+            "location": "Zgierz",
+            "date": "05 April 2025 o 05:48",
+            "description": "Renault Megane 1,2  2013 Nawigacja \n\nprzebieg 134 tys km \n\nI-rej 2014 \n\nprzeglad oc 02-2016\n\nII-wł Salon Polska\n\nPrawdopodobnie uszkodzone turbo taka diagnoza mechanika \n\nPali jezdzi",
+            "details": {
+                "Model": "Megane",
+                "Rok produkcji": "2013",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "134 000 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cemxrwo7n0051-PL/image;s=3264x1836"
+        },
         {
             "title": "Ford c max 2005 r 2.0 TDCi",
             "price": "7 400 zł",
