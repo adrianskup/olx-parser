@@ -1,6 +1,38 @@
 {
-    "updated": "2025-04-05 19:37:31.752225",
+    "updated": "2025-04-05 19:42:37.537988",
     "ads": [
+        {
+            "title": "Mazda 5 Bardzo dobry stan",
+            "price": "9 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-5-bardzo-dobry-stan-ID6Hicfe.html",
+            "location": "Ksawerów",
+            "date": "05 April 2025 o 19:33",
+            "description": "Bardzo dobry stan, ważne OC, ważny przegląd,  garażowany, 7 - osobowy, zadbane wnętrze.",
+            "details": {
+                "Marka pojazdu": "Mazda",
+                "Model pojazdu": "5",
+                "Wersja": "2.0 Exclusive",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "7",
+                "Rok produkcji": "2006",
+                "Generacja": "I (2005-2010)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 999 cm3",
+                "Moc": "145 KM",
+                "Typ nadwozia": "Minivan",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "187 g/km",
+                "Spalanie W Mieście": "10.6 l/100km",
+                "Spalanie Poza Miastem": "6.3 l/100km",
+                "Przebieg": "169 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjU3M3Z0MGc3YXE1Zy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.l4KMCMS0Gtce7gtvjA85WveXDub_MApxBmAzmjVxC24/image"
+        },
         {
             "title": "Audi a3 1.6  LPG",
             "price": "3 600 zł",
