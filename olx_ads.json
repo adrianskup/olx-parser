@@ -1,6 +1,30 @@
 {
-    "updated": "2025-04-05 22:33:57.263933",
+    "updated": "2025-04-05 22:43:12.034981",
     "ads": [
+        {
+            "title": "Megane II 2003r. 1.6 16v benzyna 302tys.",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/megane-ii-2003r-1-6-16v-benzyna-302tys-CID5-ID153m5h.html",
+            "location": "Ząbki",
+            "date": "05 April 2025 o 22:30",
+            "description": "Sprzedam samochód renault megane II 2003 roku, przebieg 302 499 km \n\nOC ważne do 21.11.2025\n\nBadanie techniczne ważne do 15.11.2025\n\nAlufelgi, opony zimowe. Klima działa, pali 7.2L w mieście, jeździłem do pracy 40-50km dziennie, jestem posiadaczem meganki od 5 lat, 2 właściciel w kraju, auto sprowadzone z zagranicy w 11/2017r.\n\nW lutym 2025 roku zrobiony rozrząd (301tys.) Olej i wszystkie filtry wymienione przy 295tys. W 2022r. naprawiony alternator. W 2024 wymienione tylne klocki hamulcowe i tarcze, czyszczona przepustnica. Świeci się kontrolka airbag, została wymieniona taśma zwijaka kierownicy ale to nie pomogło(ostatnie zdjęcie)",
+            "details": {
+                "Model": "Megane",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "302 499 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "113 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hookxp2lilpn-PL/image;s=1000x751"
+        },
         {
             "title": "Toyota Avensis t25 kombi",
             "price": "9 400 zł",
@@ -11317,6 +11341,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ycyyix69raes3-PL/image;s=960x1280"
+        },
+        {
+            "title": "Sprzedam toyotę Yaris ll",
+            "price": "8 400 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-toyote-yaris-ll-CID5-ID15becW.html",
+            "location": "Franopol",
+            "date": "05 April 2025 o 11:56",
+            "description": "Autko na chodzie centralny zamek elektryczne szyby klimatyzacja oszczędne tele 79*****15 zapraszamy do kataktu",
+            "details": {
+                "Model": "Yaris",
+                "Rok produkcji": "2010",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "333 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
         },
         {
             "title": "Toyota Corolla Toyota Corolla Kombi 1.4 D",
