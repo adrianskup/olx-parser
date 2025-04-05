@@ -1,6 +1,109 @@
 {
-    "updated": "2025-04-05 21:51:44.461888",
+    "updated": "2025-04-05 21:57:01.279642",
     "ads": [
+        {
+            "title": "Fiat Grande Punto  1.4 LPG na gwarancji",
+            "price": "6 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-1-4-lpg-na-gwarancji-CID5-ID15fYB1.html",
+            "location": "Białobrzegi",
+            "date": "05 April 2025 o 21:48",
+            "description": "Fiat z 2009r zprowadzony. W rodzinie 6 lat z małym przebiegiem 169. 000 tys.  z instalacją gazową założoną przy 152.000 tys jeszcze na gwarancji. Wymienione sprzęgło kompletne tydzień temu .Auto pali jeździ ,chłodnice całe klima działa z dachu zszedł lakier bezbarwny widać na ostatnim zdjęciu. Zainteresowanych zapraszam  do kontaktu",
+            "details": {
+                "Numer VIN": "ZFA19900001564461",
+                "Model": "Grande Punto",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "169 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 368 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "57 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/oazdt7w67tn83-PL/image;s=1024x768"
+        },
+        {
+            "title": "Chevrolet lacetti 1.8",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/chevrolet-lacetti-1-8-CID5-ID15aYOR.html",
+            "location": "Reguły",
+            "date": "05 April 2025 o 21:47",
+            "description": "Chevrolet lacetti 1.8\n\nOc ma\n\nKontrol pojazdu ma\n\nSilnik idealny bdb \n\n73*******04.",
+            "details": {
+                "Numer VIN": "kln1636i3i3i2929hdh",
+                "Model": "Lacetti",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "165 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "120 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/76mu3lpeevl41-PL/image;s=960x1280"
+        },
+        {
+            "title": "Nissan Almera lift 1.8 16v LPG",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-almera-lift-1-8-16v-lpg-CID5-ID15aYHf.html",
+            "location": "Mińsk Mazowiecki",
+            "date": "05 April 2025 o 21:44",
+            "description": "Sprzedam Nissan Almera lift 1.8 16v z LPG sekwencja firmy Stag \n\nSilnik równo pracuje na benzynie i na gazie \n\nNiskie spalanie LPG na zbiorniku ponad 400km za około 110zl\n\nAutko użytkowane przez dziewczynę \n\nOpłaty ważne\n\nNissan nosi normalne ślady użytkowania,nie jest pognity, progi,podloga zdrowie bez dziur,wizualnie wygląda naprawdę dobrze, siedzenia nie powycierane, podgrzewane fotele z lusterkami ,oleje z filtrami zmieniane na czas.\n\nSprzedajemy ze względu na zakup drugiego auta.\n\nJeżeli nie odbieram proszę o SMS oddzwonię",
+            "details": {
+                "Model": "Almera",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "300 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "115 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/37xcrjqy0nl9-PL/image;s=1542x2048"
+        },
+        {
+            "title": "Nissan Almera Tino",
+            "price": "5 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-almera-tino-CID5-ID155CIg.html",
+            "location": "Łódź, Górna",
+            "date": "05 April 2025 o 21:44",
+            "description": "Sprzedam Nissan Almera Tino \n\nSamochód z najlepszym silnikiem tego modelu \n\n1.8 cechujący się bezawaryjnością oraz sporym zasobem mocy-motor na łańcuchu rozrządu.\n\nDodatkowo wyposażony w sekwencyjną instalację gazową,która znacznie obniża koszty eksploatacji.\n\nSilnik w świetnej kondycji wszystkie wymiany robione na bieżąco.Zawieszenie i układ hamulcowy w dobrym stanie. Więcej informacji pod numerem telefonu 60***********38",
+            "details": {
+                "Numer VIN": "VSKTBAV10U0105421",
+                "Model": "Almera Tino",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "291 567 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 796 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/59xb6lwhayze1-PL/image;s=750x1000"
+        },
         {
             "title": "Nissan Almera 1.5, Salon Polska, Klima",
             "price": "5 500 zł",
@@ -89,6 +192,37 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x9i2bz25648i3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Fiat Punto Evo",
+            "price": "9 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/fiat-punto-evo-ID6HidI8.html",
+            "location": "Brodnica",
+            "date": "05 April 2025 o 21:37",
+            "description": "Witam, na sprzedaż samochód Fiat Punto Evo 1.3 90KM MultiJet Start&Stop EURO 5.\nWyposażenie;\n- 3kluczyki\n- klimatyzacja\n- radio\n- wspomaganie kierownicy\n- skrzynia manualna 5 biegowa\n- elektryczne lusterka\n- elektryczne szyby\n- ubezpieczenie ważne do 28.05.2025r.\n- przegląd ważne do 28.10.2025r.\n- itp.\nSamochód serwisowany na bieżąco.\nOleje i filtry wymieniane co rok.\nWięcej informacji udzielę telefonicznie.",
+            "details": {
+                "Marka pojazdu": "Fiat",
+                "Model pojazdu": "Punto Evo",
+                "Wersja": "1.3 Multijet 16V Dynamic",
+                "Kolor": "Granatowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2010",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 248 cm3",
+                "Moc": "95 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "119 g/km",
+                "Spalanie W Mieście": "5.9 l/100km",
+                "Spalanie Poza Miastem": "3.7 l/100km",
+                "Przebieg": "210 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV3MTN4MHhhM3lucTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.-PP8vajhrh69KWHot5AnzDFFdxHgyUi9eQTMKCHtLLk/image"
         },
         {
             "title": "Chrysler PT Cruiser PT Cruiser 2.2 CDR Limited, 2003, Diesel, szyberdach",
@@ -40483,6 +40617,26 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sfpm6nh2m4b43-PL/image;s=750x1000"
+        },
+        {
+            "title": "Opel astra 2006 Gaz",
+            "price": "3 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-2006-gaz-CID5-ID15ggT4.html",
+            "location": "Lublin",
+            "date": "04 April 2025",
+            "description": "Witam opelek posiada parę rysek oraz troszkę rdzy na przednim nadkolu, ale posiada też mnóstwo plusów ,czysty środek el szyby ,el lusterka ,klimatyzację wspomaganie kierownicy ,ABS ESP, silnik 1,6 plus instalacją gazowa ważna do 2028 !!!! Zapraszam na oględzin",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2006",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "320 000 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4skaxocqhly83-PL/image;s=1200x1600"
         }
     ]
 }
