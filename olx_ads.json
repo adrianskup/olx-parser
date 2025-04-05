@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-05 23:29:24.730262",
+    "updated": "2025-04-05 23:40:06.765029",
     "ads": [
+        {
+            "title": "Toyota Avensis 1.8 16V klima Tempomat",
+            "price": "8 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-avensis-1-8-16v-klima-tempomat-CID5-ID15hVsF.html",
+            "location": "Ponikiew Duża",
+            "date": "05 April 2025 o 23:24",
+            "description": "Stan techniczny i wizualny dobry. Polisa OC i badanie techniczne ważne do stycznia 2026.",
+            "details": {
+                "Model": "Avensis",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "309 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "147 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sfxdegt2hd4b3-PL/image;s=1000x750"
+        },
         {
             "title": "Ford Focus C MAX  Pełne OC +AC 10.000",
             "price": "4 500 zł",
@@ -41427,6 +41452,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xuqxx83i4z9y1-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Na Sprzedaz Audi A6 C6 2.4LPG/Zamiana/Zadbany/Nowe Sprzeglo/",
+            "price": "7 990 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-audi-a6-c6-2-4lpg-zamiana-zadbany-nowe-sprzeglo-CID5-ID15gffw.html",
+            "location": "Łódź, Bałuty",
+            "date": "04 April 2025",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Audi A6 C6 z najlepszym niezawodnym silnikiem 2.4 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Łódź 91-355 ,Zgierska 186 \n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 08 do 20",
+            "details": {
+                "Model": "A6",
+                "Rok produkcji": "2007",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "314 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yr7xewj4thrj3-PL/image;s=750x1000"
         }
     ]
 }
