@@ -1,6 +1,52 @@
 {
-    "updated": "2025-04-05 20:41:04.635485",
+    "updated": "2025-04-05 20:46:29.957733",
     "ads": [
+        {
+            "title": "Renault Megane Scenic 2",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-megane-scenic-2-CID5-ID15hTKM.html",
+            "location": "Ruda",
+            "date": "05 April 2025 o 20:36",
+            "description": "Witam, sprzedam wygodne sprawne wozidło, 2 komplety kół. Auto odpala dobrze, silnik ładnie pracuje. Problemem jest że trzeba w czasie eksploatacji dolewać olej, z tąd wystawiam jako uszkodzone.",
+            "details": {
+                "Model": "Scenic",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "320 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "101 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ktwq91nckmjn3-PL/image;s=867x1156"
+        },
+        {
+            "title": "Zadbane rodzinne auto!",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/zadbane-rodzinne-auto-CID5-ID15aWGa.html",
+            "location": "Skępe",
+            "date": "05 April 2025 o 20:35",
+            "description": "Dzień dobry \n\n\n\nOferuję do sprzedaży zadbanego \n\n\n\nSzczegółowe informacje udzielam telefonicznie: \n\nTel: \n\n662\n\n141\n\n697",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "275 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
+        },
         {
             "title": "Audi A6 1.9 TDI - Klimatyzacja, Ważne opłaty, wymieniony rozrzad i zaw",
             "price": "3 700 zł",
@@ -39621,6 +39667,30 @@
                 "Możliwość finansowania": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjMwanY0MGl2N2JqZjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.s7mVQGSx0OzBn5bWKN-0ovFWEZIGoKWFcM57oAsBPa8/image"
+        },
+        {
+            "title": "BMW 330xd E46 Touring 2003 rok",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-330xd-e46-touring-2003-rok-CID5-ID14iW95.html",
+            "location": "Warszawa, Ursynów",
+            "date": "04 April 2025",
+            "description": "Witam, \n\nPosiadam na sprzedaż BMW E46 330xd z 2003 roku. Auto użytkowane przez 7 lat przez jednego właściciela, który kupił ją w Szwajcarii. Auto wymaga małych poprawek lakierniczych, mechanicznie bez zastrzeżeń. Napędy sprawne, prowadzi się bardzo dobrze. Idealny na zimę.\n\n\n\nZapraszam do kontaktu telefonicznego !!!",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "375 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "3 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "204 KM",
+                "Napęd": "4x4 (stały)",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jca3yom5shmn-PL/image;s=1000x750"
         }
     ]
 }
