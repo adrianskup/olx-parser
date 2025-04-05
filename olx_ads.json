@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-05 22:48:38.490432",
+    "updated": "2025-04-05 22:53:51.498934",
     "ads": [
+        {
+            "title": "Audi A6 Avant Skóra Klima",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a6-avant-skora-klima-CID5-ID15hVhg.html",
+            "location": "Ponikiew Duża",
+            "date": "05 April 2025 o 22:48",
+            "description": "Stan techniczny bardzo dobry. Polisa OC o badanie techniczne ważne do czerwca 2025.",
+            "details": {
+                "Model": "A6",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "343 000 km",
+                "Kolor": "Brązowy – Beżowy",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6v1qvt12ilx9-PL/image;s=1000x750"
+        },
         {
             "title": "Megane II 2003r. 1.6 16v benzyna 302tys.",
             "price": "4 999 zł",
