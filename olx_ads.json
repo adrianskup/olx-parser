@@ -1,6 +1,73 @@
 {
-    "updated": "2025-04-05 10:55:09.129142",
+    "updated": "2025-04-05 11:00:22.435302",
     "ads": [
+        {
+            "title": "Ford do orestaurowania",
+            "price": "1 234 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-do-orestaurowania-CID5-ID15hlsz.html",
+            "location": "Góry Małe",
+            "date": "05 April 2025 o 10:56",
+            "description": "Morze jest ktoś zainteresowany odrestałrowaniem tego auta , nie wiem z którego roku jest to auto ?\n\nCzekam na propozycje",
+            "details": {
+                "Model": "Pozostałe Ford",
+                "Rok produkcji": "1980",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "1 km",
+                "Kolor": "Brązowy – Beżowy",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ige3g5ly0t6g-PL/image;s=900x2000"
+        },
+        {
+            "title": "Renault Clio LIFT (3300zł do neg)",
+            "price": "3 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-clio-lift-3300zl-do-neg-CID5-ID15hlPO.html",
+            "location": "Ostrołęka",
+            "date": "05 April 2025 o 10:56",
+            "description": "Sprzedam Renault Clio Lift z silnikiem diesla 1.5 DCI. Skrzynia manualna. Rok produkcji 2002. Zarejestrowany w Polsce. Ważne ubezpieczenie OC i przegląd. Ogólnie jak na swoje lata wygląda ładnie, normalne ślady eksploatacji. Wnętrze czyste i zadbane. Blacharsko zdrowa bez rdzy. Podłoga i progi również. Niskie spalanie paliwa.\n\nWyposażenie:\n\n-Klimatyzacja\n\n-ABS\n\n-Centralny zamek\n\n-Kluczyki zapasowe\n\n-Airbagi\n\n-Elektryczne szyby i lusterka\n\n-Fabryczne radio CD\n\n-Wspomaganie kierownicy\n\n-Komputer pokładowy\n\nMożliwość sprawdzenia przed zakupem na dowolnej stacji diagnostycznej lub warsztacie. Cena 3300zł do negocjacji. Kontakt tylko telefoniczny 78**********48",
+            "details": {
+                "Model": "Clio",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "268 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 500 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fllleuxh4t2y1-PL/image;s=2000x1497"
+        },
+        {
+            "title": "Audi A4 Combi 1,9 TDi - 20 latek",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-combi-1-9-tdi-20-latek-CID5-ID15hlaN.html",
+            "location": "Warszawa, Bemowo",
+            "date": "05 April 2025 o 10:53",
+            "description": "Wysłużony 20 latek, sprawny-silnik nigdy mnie nie zawiodł. Przejechałem nim 230 tys. km od 2011 roku. Widać na nim niestety lekkie rysy i korozję w nadkolach.",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "396 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "116 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dxihmodxaris2-PL/image;s=2000x1500"
+        },
         {
             "title": "Audi A6C5 2.0ALT GAZ",
             "price": "3 500 zł",
@@ -23,6 +90,80 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n8n6sf16ugpx1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Nissan Almera Tino benzyna 84KW",
+            "price": "6 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-almera-tino-benzyna-84kw-CID5-ID14pkZV.html",
+            "location": "Kolonia Zamieńska",
+            "date": "05 April 2025 o 10:52",
+            "description": "Ładne rodzinne autko zadbane i garażowane od pierwszego dnia zakupu w 2018. Przegląd  ważny do września 2025, ubezpieczenie do października. Auto po serwisie filtrowo olejowym, wymieniona pompa wody i pasek, na bieżąco serwisowany od września przejechałem może 500 km.Wnętrze czyste i zadbane , wszystko sprawne. Elektryczne lusterka,szyby elektryczne przód i tył, oryginalna kamera cofania fantastycznie sprawdza się przy parkowaniu tyłem. Sprzedaje bo jeżdzę autem służbowym.",
+            "details": {
+                "Numer VIN": "VSKTBAV10U0177552",
+                "Model": "Almera Tino",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "215 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 769 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "116 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9nzfxnd0vmdq3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Corolla E12 1,4D4D",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-e12-1-4d4d-CID5-ID15hieq.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "05 April 2025 o 10:52",
+            "description": "Rok produkcji 2005 ,kupiony w polskim salonie, jestem właścicielem od 2014 r.\n\nPoniżej wymienione bądź regenerowane elementy\n\nEGR + chłodniczka spalin-nowe\n\nSkrzynia biegów - regeneracja\n\nAlternator - nowy\n\nAmortyzatory przód - nowe\n\nZbiornik paliwa - nowy\n\n\n\nWięcej informacji przez telefon.",
+            "details": {
+                "Model": "Corolla",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "341 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3tm4lcxkteym-PL/image;s=4032x3024"
+        },
+        {
+            "title": "Laguna 2 1.9 130 km 2007r",
+            "price": "6 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/laguna-2-1-9-130-km-2007r-CID5-ID14uMW7.html",
+            "location": "Koziegłowy",
+            "date": "05 April 2025 o 10:51",
+            "description": "Sprzedam moją prywatną Lagunę, jestem właścicielem od ponad 2 lat, poprzedni właściciel osobiście sprowadził ten pojazd z niemiec. Sprzedaję ponieważ kupiłem inny samochód. \n\nz grubszych napraw:\n\nstyczeń 2024 nowe sprzęgło i półosie\n\nmarzec 2024 całe zawieszenie przód + regeneracja maglownicy\n\nwrzesień 2024 tarcze klocki przód i tył\n\nw międzyczasie poduszki silnika rura od turbo i jakieś drobnostki.\n\nKlimatyzacja świeżo po naprawie\n\nAuto stoi na kołach alu z oponami letnimi Uniroyal ReinSport 5 225/45/17 po dwóch sezonach \n\nw komplecie zimówki na stalówkach NOKIAN WR D4 205/60/16 po trzech sezonach\n\nsilnik suchy bez wycieków pracuje równo ma moc pali ładnie zimny czy ciepły\n\nOC na 3 miesiące\n\nPT na rok świeżo zrobiony bez zastrzeżeń\n\nNa ten moment do wymiany rozrząd i olej ale to już zostawiam nowemu właścicielowi.\n\nzapraszam do kontaktu pod nr 7+8+1+7+8+7+0+2+8",
+            "details": {
+                "Model": "Laguna",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "313 100 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ro44wcgirw2k2-PL/image;s=2000x1500"
         },
         {
             "title": "Sprzedam Forda Fiesta",
@@ -27125,6 +27266,40 @@
                 "Moc silnika": "55 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x8u7b8yg9mou3-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Skoda Fabia Skoda Fabia Combi 1.4 / 2003 / pierwszy właściciel / Polski salon /ASO",
+            "price": "4 950 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-skoda-fabia-combi-1-4-2003-pierwszy-wlasciciel-polski-salon-aso-ID6GA3P8.html",
+            "location": "Płock",
+            "date": "04 April 2025",
+            "description": "Skoda Fabia Combi 1.4\nRocznik - 2003\nStan licznika - 312 300 km\nBenzyna\nPrzegląd - do lipca 2025 r.\nOC – do lipca 2025 r.\nSprzedaję samochód w dobrym stanie, po naprawach technicznych, pierwszy właściciel od nowości, kupiony w polskim salonie Skody, bezwypadkowy, serwisowany w ASO. Ostatnie udokumentowane prace: wymiana osłon przegubów - lewa zew. i prawa wew., uszczelniaczy półosi, uszczelnienie miski olejowej, czyszczenie adaptacja przepustnicy, wymiana akumulatora, tłumika końcowego, szczęk hamulcowych z odpowietrzeniem układu cylinderków, sprężynek do szczęk, cylinderków hamulcowych, regulacja hamulca ręcznego, wymiana paska PK i rolki napinacza, włącznika świateł stop, końcówek drążka kierowniczego P+L, łączników stabilizatora przód P+L, sprężyn zawieszenia przedniego, ustawienie geometrii kół, wymiana dyszy spryskiwaczy i wycieraczek, diagnostyka skrzyni biegów, uzupełnienie płynów, wymiana oświetlenia, polerowanie lamp, diagnostyka komputerowa.\nSamochód posiada pojemne wnętrze i duży bagażnik. Jest czysty i zadbany, jeździ nim kobieta niepaląca, bez zwierząt. W ofercie dodatkowo: koło zapasowe oraz dwa komplety opon: letnich i zimowych. Autko idealne na dojazdy do pracy lub uczelni. Tanie w utrzymaniu.\nSzczegóły\n· Oferta - od osoby prywatnej\n· Kategoria - osobowe\n· Numer VIN - Tak\n· Ma numer rejestracyjny - Tak\n· Marka pojazdu - Skoda\n· Model pojazdu – Fabia\n· Typ nadwozia - Combi\n· Generacja I (1999-2008)\n· Rok produkcji - 2003\n· Przebieg - 312 300 km\n· Pojemność skokowa - 1 390 cm3\n· Rodzaj paliwa - Benzyna\n· Skrzynia biegów - Manualna\n· Napęd - Na przednie koła\n· Liczba drzwi - 5\n· Liczba miejsc - 5\n· Kolor - srebrny diament metalizowany\n· Data pierwszej rejestracji w historii pojazdu - 24/07/2003\n· Numer rejestracyjny pojazdu - WP 26778\n· Zarejestrowany w Polsce - Tak\n· Stan - Używane\nWyposażenie:\n· Centralny zamek z kluczem zapasowym\n· ABS\n· Autoalarm\n· Wspomaganie kierownicy\n· Klimatyzacja manualna\n· Schowek klimatyzowany z podświetleniem\n· Podgrzewana szyba tylna\n· Poduszka powietrzna kierowcy\n· Poduszka powietrzna pasażera\n· Komplet opon: letnich i zimowych\n· Koło zapasowe\n· Tapicerka materiałowa\n· Radio\n· Stacja kaset\n· Wtyczka USB\n· Książka pojazdu\n· Instrukcja obsługi\nZapraszam do obejrzenia i kupna.\nProszę o kontakt telefoniczny, tel. \nWyświetl numer\n.",
+            "details": {
+                "Marka pojazdu": "Skoda",
+                "Model pojazdu": "Fabia",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "I (1999-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 390 cm3",
+                "Moc": "75 KM",
+                "Typ nadwozia": "Kombi",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "312 300 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Pierwszy właściciel (od nowości)": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak",
+                "Serwisowany w ASO": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdsOWN0cG5mbzE2di1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.T4B9hYIaAL8asdu4iMuQZ3V8e_QdTUcb6CeDASGZPDA/image"
         }
     ]
 }
