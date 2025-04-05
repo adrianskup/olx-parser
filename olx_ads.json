@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-05 17:46:52.250097",
+    "updated": "2025-04-05 17:52:34.979014",
     "ads": [
         {
             "title": "Fiat Doblo 1.3 JTD/Salon Polska/Tylko 215t.km/Bez Rdzy",
@@ -24,6 +24,51 @@
                 "Moc silnika": "84 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2p3ac76n4xwz2-PL/image;s=1024x768"
+        },
+        {
+            "title": "Citroen c5 1.6 Hdi",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c5-1-6-hdi-CID5-ID15hLHs.html",
+            "location": "Lublin",
+            "date": "05 April 2025 o 17:41",
+            "description": "Witam mam do sprzedania Citroena C5 auto sprawne jeżdżące, stan techniczny bardzo dobrym wizualnie do lekkich poprawek lakierniczych, więcej informacji udzielę telefonicznie.",
+            "details": {
+                "Model": "C5",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "351 247 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/123xaqycor07-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Leasing dla FIRM bez BIK i KRD",
+            "price": "10 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/leasing-dla-firm-bez-bik-i-krd-CID5-ID14YZk9.html",
+            "location": "Warszawa, Mokotów",
+            "date": "05 April 2025 o 17:38",
+            "description": "Leasing na auto dla FIRM bez BIK i KRD! \n\nSkorzystaj z wyjątkowych warunków i zdobądź wymarzone auto już dziś!\n\n\n\nLeasing dla FIRM (również startupów)\n\nBez sprawdzania BIK i KRD\n\nBez wkładu własnego\n\nMinimum formalności\n\nAuto już w 7 dni od złożenia wniosku!\n\n\n\nPowiedz nam, co jest dla Ciebie ważne przy wyborze auta, a my dobierzemy pojazd, który spełni Twoje oczekiwania! \n\n\n\nOferta dotyczy aut nowych i używanych.\n\nPonad 100 modeli aut z grupy Volkswagen.\n\nMarki: VOLKSWAGEN, SKODA, AUDI, SEAT, MAZDA.\n\n\n\nKontakt telefoniczny /7********64\n\nWhatsapp\n\nMessenger i FB - Autolease24",
+            "details": {
+                "Model": "Tiguan",
+                "Rok produkcji": "2024",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "SUV",
+                "Przebieg": "1 km",
+                "Kolor": "Biały",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pf2ux9f0y4683-PL/image;s=1000x684"
         },
         {
             "title": "Seat Toledo 2.0 tdi 140KM-Automat DSG-tylko 166tyś-Sprawny-Serwisowany",
