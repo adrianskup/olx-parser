@@ -1,6 +1,80 @@
 {
-    "updated": "2025-04-05 15:50:02.605636",
+    "updated": "2025-04-05 15:55:22.168586",
     "ads": [
+        {
+            "title": "Renault Trafić 6osób klimatyzacja",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-trafic-6osob-klimatyzacja-CID5-ID157iPW.html",
+            "location": "Warszawa, Wola",
+            "date": "05 April 2025 o 15:48",
+            "description": "Witam serdecznie sprzedam Renualt Trafic 6osób. Auto posiada 100%Sprawną klimatyzację ele szyby wsp kuerownicy. Trafić od strony mechanicznej w dobrym stanie silnik pali od strzału zimny czy ciepły nie posiada wycieków nie kopoci podczas przyspieszania, po wymianie silnika przebieg 280tys. Zawieszenie auta sztywne prowadzi się super nic nie puka podczas jazdy.  Blacharsko oraz lakierniczo tak samo w dobrym stanie progi oraz podłoga sa całe i zdrowe środek auta czysty zadbamy posiada aktualne opłaty Oc i przegląd Cena 9999zl",
+            "details": {
+                "Model": "Trafic",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minibus",
+                "Przebieg": "286 987 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Belgia",
+                "Moc silnika": "100 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1aabo3c5c8pb3-PL/image;s=1448x1086"
+        },
+        {
+            "title": "Skoda Fabia 1.4 benzyna 2006 hatchback",
+            "price": "3 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4-benzyna-2006-hatchback-CID5-ID15hECN.html",
+            "location": "Dziekanów Polski",
+            "date": "05 April 2025 o 15:47",
+            "description": "Auto sprawne, drugi właściciel, czujniki parkowania tył, klimatyzacja niesprawna, ubezpieczenie OC i przegląd ważne do lipca 2025",
+            "details": {
+                "Model": "Fabia",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "217 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k8off6be6kto2-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Avensis Lift, 2007 rok 2.2D – Otokomis! Gwarancji!",
+            "price": "3 590 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-avensis-lift-2007-rok-2-2d-otokomis-gwarancji-CID5-ID15hEMa.html",
+            "location": "Warszawa, Włochy",
+            "date": "05 April 2025 o 15:47",
+            "description": "Zapraszamy do OTOKOMIS-Oferujemy szeroki wybór starannie wyselekcjonowanych samochodów.\n\n\n\nSpecyfikacja pojazdu:\n\nMarka: Toyota\n\nModel: Avensis\n\nRok produkcji: 2007\n\nSilnik: 2.2 diesel \n\nMoc: 150\n\nUbezpieczenie OC: ważne\n\nPrzegląd techniczny: ważny \n\n\n\nDlaczego warto wybrać ten samochód?\n\n\n\nBardzo wygodny kombi również dynamiczny i kompaktowy. Jeździ skręca i hamuje.\n\nSilnik suchy ma moc nie dymi. Zawieszenie mi wybite bez luzów. \n\nBardzo ekonomiczny. Nie ma korozji. \n\n\n\nWyposażenie: alufelgi, klimatyzacja, Centralny zamek, Radio CD, Elektryczne lusterka, Elektryczne szyby, ABS, Wspomaganie kierownicy, wielofunkcyjna kierownica, podłokietnik, tempomat\n\n\n\nGodziny otwarcia:\n\nPoniedziałek – Sobota: 10:00 – 20:00\n\nNiedziela: 11:00 – 16:00\n\nLokalizacja: Nasz plac znajduje się na parkingu centrum handlowego Lopuszańska 22.\n\n\n\nKontakt: Zadzwoń pod numer 518xx168xx153 i umów się na jazdę próbną!\n\n\n\nZapraszamy!",
+            "details": {
+                "Model": "Avensis",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "490 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/607ve4klzk4f3-PL/image;s=1000x700"
+        },
         {
             "title": "Toyota Corolla 2003",
             "price": "4 000 zł",
@@ -76,6 +150,81 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jhdknhf86d321-PL/image;s=2048x1152"
+        },
+        {
+            "title": "Smart Forfour 1.1 2006",
+            "price": "3 499 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/smart-forfour-1-1-2006-CID5-ID15hAbR.html",
+            "location": "Jagodne",
+            "date": "05 April 2025 o 15:43",
+            "description": "Na sprzedaż Smart Forfour 1.1 2006 rok. \n\nPrzebieg 177 000km",
+            "details": {
+                "Numer VIN": "WME4540331B133291",
+                "Model": "Forfour",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "177 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 100 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "64 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1fsragl168f-PL/image;s=1156x868"
+        },
+        {
+            "title": "ACURA TSX 2.4 benzyna zadbana",
+            "price": "8 790 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/acura-tsx-2-4-benzyna-zadbana-CID5-ID15hEuz.html",
+            "location": "Zakroczym",
+            "date": "05 April 2025 o 15:43",
+            "description": "Witam \n\nSprzedam zadbaną Acure TSX 2005 Roku z najlepszą jednostką 2.4 benzyna \n\nAuto w bardzo dobrym stanie pod względem technicznym jak i mechanicznym i blacharskim. \n\nUtrzymany w pedantycznym stanie  \n\nŚrodek auta czysty i zadbany \n\nWszystkie naprawy robione na bieżąco w ostatnim czasie został wymieniony kompletny rozrząd oraz oleje wraz z filtrami\n\nOc ważne do 09-2025\n\nPrzegląd ważny do marca 2026\n\nNa wyposażeniu posiada ;\n\n- Wspomaganie kierownicy \n\n- Klimatyzacja \n\n-Halogeny \n\n- Elektryczne szyby \n\n- Podgrzewana przednia oraz tylna szyba.\n\n- Centralny zamek\n\n- Skórzana tapicerka \n\n-Radio \n\n-Elektryczne lusterka oraz \n\n- ABS\n\n-Grzane fotele \n\n-Wentylowane fotele\n\n-Radio duże \n\nWięcej informacji udzielę telefonicznie.\n\nZapraszam!",
+            "details": {
+                "Model": "TSX",
+                "Rok produkcji": "2005",
+                "Poj. silnika": "2 400 cm³",
+                "Paliwo": "Benzyna",
+                "Moc silnika": "190 KM",
+                "Przebieg": "299 000 km",
+                "Typ nadwozia": "Sedan",
+                "Kolor": "Szary",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kraj pochodzenia": "Inny",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7dy3gij3xu632-PL/image;s=1000x750"
+        },
+        {
+            "title": "Volkswagen Transporter t4",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-transporter-t4-CID5-ID15hEn7.html",
+            "location": "Marynin",
+            "date": "05 April 2025 o 15:41",
+            "description": "Do sprzedania Volkswagen Transporter T4 1995r ,przebieg 450 000,silnik 2.4 d. Auto sprawne, jeżdżące. Do sprawdzenia pompa paliwa.",
+            "details": {
+                "Model": "Transporter",
+                "Rok produkcji": "1995",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minibus",
+                "Przebieg": "450 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pdy2z6tdulf22-PL/image;s=768x1020"
         },
         {
             "title": "Nissan Micra 1.2 benzyna",
