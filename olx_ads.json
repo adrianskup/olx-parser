@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-05 16:49:41.725450",
+    "updated": "2025-04-05 16:55:03.687451",
     "ads": [
         {
             "title": "Sprzedam Toyota Avensis Verso",
@@ -35784,6 +35784,53 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r7ekq7ruh6hs1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Touran 1.9 TDI 105 km 2005 r bardzo ładny klima polecam",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/touran-1-9-tdi-105-km-2005-r-bardzo-ladny-klima-polecam-CID5-ID15gmW0.html",
+            "location": "Łomża",
+            "date": "04 April 2025",
+            "description": "witam serdecznie \n\nNa sprzedaż mam ładnego  vw tourana z roku 2004/2005 z najlepszym silnikiem 1,9 TDI 105 km . Samochód w bdb stanie blacharskim i mechanicznym karoseria zdrowa bez korozji lakier bardzo ładny na całym aucie jeden kolor progi i podłoga zdrowe . Mechanicznie super świeżo zmieniony rozrząd silnik idealnie pracuje i ma swoją moc turbo sprzęgło jak inne podzespoły działają bdb zawieszenie sztywne brak luzów prowadzi się pewnie i przyjemnie . Autko jest czyste bardzo zadbane w środku całe wyposażenie łącznie z klima działa poprawnie cena to 8900 zł tel 519#685#965",
+            "details": {
+                "Model": "Touran",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "359 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 999 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "105 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kyjdj5121k3x2-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Skoda Fabia 2 1.2 LPG kombi 2008r rozbity",
+            "price": "2 290 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-2-1-2-lpg-kombi-2008r-rozbity-CID5-ID14VgIa.html",
+            "location": "Warszawa, Wawer",
+            "date": "04 April 2025",
+            "description": "Silnik odpala, auto jezdzi.  Zawieszenie nie ucierpiało\n\nNowe opony\n\n\n\nDo momentu kolizji na bieżąco serwisowane, stan silnika skrzyni i zawieszenia idealny\n\nDo naprawy lub jako dawca części",
+            "details": {
+                "Model": "Fabia",
+                "Rok produkcji": "2008",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "218 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 198 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "70 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yrsv2mytaukv3-PL/image;s=2000x1500"
         }
     ]
 }
