@@ -1,6 +1,39 @@
 {
-    "updated": "2025-04-05 21:36:02.530721",
+    "updated": "2025-04-05 21:41:18.927398",
     "ads": [
+        {
+            "title": "Chrysler PT Cruiser PT Cruiser 2.2 CDR Limited, 2003, Diesel, szyberdach",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/chrysler-pt-cruiser-pt-cruiser-2-2-cdr-limited-2003-diesel-szyberdach-ID6HidnR.html",
+            "location": "Warszawa, Mokotów",
+            "date": "05 April 2025 o 21:34",
+            "description": "Samochód sprowadzony z Belgii w idealnym stanie w 2007 r. Od tego czasu garażowany i poddawany przeglądom technicznym raz w roku. Naprawy dotyczyły materiały eksploatacyjnych, np. wymiana klocków hamulcowych, amortyzatorów itp. Większy remont dotyczył blacharki, kiedy po konserwacji podwozia okazało się, że przy progach pojawiła się rdza.\nPT ma przyciemniane tylne szyby.\nSamochód jest bezwypadkowy, widoczne są jedynie obtarcia zderzaków. przy czym jeden z nich (przedni prawy) lekko odstaje.\nKażdego roku auto przechodziło bez żadnych uwag kontrole techniczne.\nWszystkie funkcje, jak działanie klimatyzacji, nawiewów, tempomatu, ABS są sprawne.\nWymienione zostało oryginalne radio.\nSamochód ma legendarnie ogromny bagażnik, którego pojemność można dowolnie modyfikować poprzez ustawienia foteli, ewentualnie ich demontaż.\nDo samochodu dołączam opony zimowe Fulda, używane w niewielkim stopniu przez dwa sezony.",
+            "details": {
+                "Marka pojazdu": "Chrysler",
+                "Model pojazdu": "PT Cruiser",
+                "Wersja": "2.2 CRD Limited",
+                "Kolor": "Fioletowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "2 148 cm3",
+                "Moc": "150 KM",
+                "Typ nadwozia": "Kompakt",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "177 g/km",
+                "Kraj pochodzenia": "Stany Zjednoczone",
+                "Przebieg": "213 562 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjAxYjA1cG5vY3g4bTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.tZNCdCVLwyVmEMgqvFTorg9Xn3Fh1lsngDOfwJ-LTkk/image"
+        },
         {
             "title": "Renault Espace Renault Espace 4 2.0T LPG, hak",
             "price": "6 700 zł",
