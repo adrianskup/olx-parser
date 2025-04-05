@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-05 04:49:31.424582",
+    "updated": "2025-04-05 04:54:28.031161",
     "ads": [
         {
             "title": "Sprzedam Opel 1.4 b+LPG",
@@ -72,6 +72,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m1so7clyuj2d1-PL/image;s=1156x520"
+        },
+        {
+            "title": "Fiat Panda 1,2 2005/2006 wspomaganie",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-2-2005-2006-wspomaganie-CID5-ID15glyv.html",
+            "location": "Czyżemin",
+            "date": "05 April 2025 o 04:40",
+            "description": "Sprzedam Pandę 1,2 2005 pierwsza rejestracja 2006 . Samochód świeżo po przeglądzie . Auto sprzedaję jako osoba prywatna , posiadam je od 4 lat .Więcej informacji telefonicznie .",
+            "details": {
+                "Numer VIN": "ZFA16900000548682",
+                "Model": "Panda",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "251 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 242 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tvjlu27ny02d1-PL/image;s=3024x4032"
         },
         {
             "title": "Sprzedam Seat Altea 1.6 benzyna",
@@ -18625,6 +18648,54 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ij38vh25ypbw-PL/image;s=1156x867"
+        },
+        {
+            "title": "Honda Jazz 1.4 benzyna 2003r KLIMATYZACJA",
+            "price": "5 200 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-jazz-1-4-benzyna-2003r-klimatyzacja-CID5-ID14R6KG.html",
+            "location": "Siedlce",
+            "date": "04 April 2025",
+            "description": "Witam. Na sprzedaż oferuje Hondę Jazz z najlepszym, bezawaryjnym silnikiem 1.4 benzyna na łańcuchu rozrządu. Auto pochodzi z 2003 roku. Mechanicznie wszystko sprawne. Wizualnie jak na zdjęciach. Przegląd 01.2026. OC 05.2025. \n\nWyposażenie:\n\n- SPRAWNA klimatyzacja,\n\n- Elektryczne szyby,\n\n- Elektryczne lusterka, \n\n- Podgrzewane lusterka, \n\n- Centralny zamek z pilotem i dwoma kluczykami. \n\nBezawaryjne auto za małe pieniądze, które jeszcze długo komuś posłuży. Zapraszam do kupna. Więcej informacji pod numerem telefonu.",
+            "details": {
+                "Model": "Jazz",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "230 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "88 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yngsnxlp2fxp3-PL/image;s=1020x459"
+        },
+        {
+            "title": "BMW E39 520I 150KM LPG/Dlugie Opłaty/",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e39-520i-150km-lpg-dlugie-oplaty-CID5-ID15fUNw.html",
+            "location": "Warszawa, Wilanów",
+            "date": "04 April 2025",
+            "description": "Witam\n\n\n\nPosiadam na sprzedaż BMW E39 520i z 1998 roku, wyposażone w instalację LPG.\n\n\n\nSilnik i skrzynia biegów, zawieszenie  wszystko działa bez zarzutu, auto jest codziennie użytkowane do dojazdów do pracy.\n\n\n\nWyposażenie i elektryka wszystko sprawne.\n\n\n\nFajne duże i pakowne  kombi idealne na codzień \n\n\n\nDługie opłaty:\n\n\n\nPrzegląd do 11.2025\n\nOC do 09.2025\n\nHomologacja na butlę LPG ważna przez kilka lat.\n\n\n\nCena do negocjacji przy oględzinach.\n\n\n\nZapraszam do kontaktu",
+            "details": {
+                "Model": "Seria 5",
+                "Rok produkcji": "1998",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "400 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/saprvlg5er2k1-PL/image;s=1024x768"
         }
     ]
 }
