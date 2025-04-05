@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-05 18:47:59.019402",
+    "updated": "2025-04-05 18:53:08.108706",
     "ads": [
         {
             "title": "Alfa Romeo 159, 2007 rok 1.9D– Otokomis! Gwarancji!",
@@ -51,6 +51,31 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qelr34t7x23q3-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Sprzedam ford focus 1.6 tdci 90km",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-ford-focus-1-6-tdci-90km-CID5-IDVCuQu.html",
+            "location": "Rawa Mazowiecka",
+            "date": "05 April 2025 o 18:42",
+            "description": "Witam sprzedam forda focusa sprawny klimatyzacja grzana przednia i tylna szyba el. Lusterka wspomaganie abs wiecej info pod nr tel 50*******99",
+            "details": {
+                "Model": "Focus",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "370 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "16 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wdv5rmnae4eh3-PL/image;s=4624x2084"
         },
         {
             "title": "Nissan Note  1.4 diesel",
