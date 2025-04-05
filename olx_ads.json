@@ -1,6 +1,179 @@
 {
-    "updated": "2025-04-05 10:44:05.740167",
+    "updated": "2025-04-05 10:49:41.656686",
     "ads": [
+        {
+            "title": "Mercedes A klasa 180CDI.",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mercedes-a-klasa-180cdi-CID5-ID15aetp.html",
+            "location": "Łódź, Śródmieście",
+            "date": "05 April 2025 o 10:45",
+            "description": "Mam do zaoferowania moje maleństwo :) którym bezawaryjnie śmigam od 4 lat,  przegląd i OC do lipca.",
+            "details": {
+                "Numer VIN": "WDD1690071J136213",
+                "Model": "A Klasa",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "274 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 992 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "80 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bna5cm2n3wt9-PL/image;s=1040x780"
+        },
+        {
+            "title": "Honda Civic 2006  możliwa zamiana warszawa",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-civic-2006-mozliwa-zamiana-warszawa-CID5-IDZBkkd.html",
+            "location": "Warszawa, Wola",
+            "date": "05 April 2025 o 10:45",
+            "description": "Witam sprzedam Hondę Civic 1,4 Benzyna. Przebieg 250tyś km.\n\nOC ważne do 07.2025, przegląd techniczny 05.2025. Data produkcji 2006. \n\n\n\nSamochód mimo przebiegu obecnie w bardzo dobrym stanie technicznym. Wizualnie posiada drobne ślady użytkowania.\n\n\n\nSILNIK - chodzi równo, cicho ma swoją moc\n\n\n\nSKRZYNIA BIEGOW - 6BIEGOW manual\n\n\n\n-el 4xszyby\n\n-el lusterka \n\n-klimatyzacja dwu strefowa kierowca pasażer\n\n-centralny zamek\n\n-pełny komputer pokładowy\n\nI wiele innych\n\n\n\nOPONY - Nokian Ładne \n\n\n\nFELGI - 16cali \n\n\n\nWNETRZE - welur, zadbany, suchy, nie widać po nim przebiegu auto posprzątane kompleksowo.\n\n\n\nWARUNKI SPRZEDAŻY - auto sprzedawane na fakturę vat-marża. Możliwa zamiana na inne auto. Możliwy transport na terenie Polski do zainteresowanej osoby do ustalenia szczegóły jestem elastyczny na propozycje. Zgadzam się na sprawdzenie auta w każdym serwisie na terenie Warszawy. Więcej informacji udzielę telefonicznie. Zapraszam do kontaktu TEL 88*******75",
+            "details": {
+                "Numer VIN": "SHHFK17406U004988",
+                "Model": "Civic",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "250 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "83 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zucrmkvw537d-PL/image;s=4000x2252"
+        },
+        {
+            "title": "Mazda  626  benzyna gaz",
+            "price": "5 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mazda-626-benzyna-gaz-CID5-ID15hl0e.html",
+            "location": "Biała",
+            "date": "05 April 2025 o 10:45",
+            "description": "Mazda  626  benzyna gaz Przegląd ubezpieczenie przegląd i Butla grudzień 2025 Silnik skrzynia pracuje bez zarzutu zapraszam do kontaktu",
+            "details": {
+                "Model": "626",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "399 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "136 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ujjvvmax12ve-PL/image;s=1000x750"
+        },
+        {
+            "title": "Mini Cooper one 2012 1.6D",
+            "price": "2 060 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mini-cooper-one-2012-1-6d-CID5-ID15hkEE.html",
+            "location": "Celinów",
+            "date": "05 April 2025 o 10:44",
+            "description": "Sprzedam mini cooper one z 2012 roku \n\n1.6 D, cena 20 600 do negocjacji,\n\nzarejestrowany i ubezpieczony, stan bardzo dobry, nowe opony, w ciągłym użytku \n\nWięcej informacji pod numerem telefonu 51*******45",
+            "details": {
+                "Model": "One",
+                "Rok produkcji": "2012",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "155 000 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xg7qp467ham73-PL/image;s=683x1000"
+        },
+        {
+            "title": "Honda Accord Honda Accord 2.0 Executive",
+            "price": "9 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/honda-accord-honda-accord-2-0-executive-ID6Hi9zc.html",
+            "location": "Żyrardów",
+            "date": "05 April 2025 o 10:43",
+            "description": "Samochód sprawny, gotowy do jazdy. Auto w ciągłej eksploatacji, olej i filtry wymieniane na bieżąco. Nowy akumulator, przegląd do 09.2025, OC do 01.2026. Posiadam potwierdzenia napraw wykonanych w ciągu ostatnich 5 lat. Auto na alufelgach 16 i oponach całorocznych w dobrym stanie, dodatkowo posiadam też opony letnie. Samochód do delikatnych poprawek wizualnych. Więcej informacji udzielę telefonicznie.",
+            "details": {
+                "Marka pojazdu": "Honda",
+                "Model pojazdu": "Accord",
+                "Wersja": "2.0 Executive",
+                "Kolor": "Szary",
+                "Liczba drzwi": "5",
+                "Rok produkcji": "2006",
+                "Generacja": "VII (2002-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 998 cm3",
+                "Moc": "155 KM",
+                "Typ nadwozia": "Sedan",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "196 g/km",
+                "Spalanie W Mieście": "10.9 l/100km",
+                "Spalanie Poza Miastem": "6.8 l/100km",
+                "Przebieg": "287 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF3MnA2eHg5czhjbzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.4Q4I9Eb6Uzrg6vT7CSNbufBYrHKH0vPPpw0S0Uu-QOk/image"
+        },
+        {
+            "title": "Citroen c4 1,6 hdi anglik zarejestrowany ladny",
+            "price": "2 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c4-1-6-hdi-anglik-zarejestrowany-ladny-CID5-ID15hkKB.html",
+            "location": "Tomaszów Mazowiecki",
+            "date": "05 April 2025 o 10:42",
+            "description": "Witam. Do sprzedania mam c4 w dieslu Anglik. Auto sprawne jeżdżące ubezpieczenie i przegląd do lipca . Do wymiany poduszki amortyzatorów bo coś stuka (tak powiedział mechanik ) poza tym wszystko sprawne. Autko jeździ bardzo fajnie jest dynamiczne i bardzo oszczędne . Na wszystkie pytania chętnie odpowiem telefonicznie.",
+            "details": {
+                "Model": "C4",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "280 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Wielka Brytania",
+                "Moc silnika": "120 KM",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/q41qjykzh14d3-PL/image;s=1000x750"
+        },
+        {
+            "title": "VW PASSAT 1,9 TDI Stan techniczny. i wizualny bardzo dobry i zadbany !",
+            "price": "8 400 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/vw-passat-1-9-tdi-stan-techniczny-i-wizualny-bardzo-dobry-i-zadbany-CID5-ID15hkuH.html",
+            "location": "Pionki",
+            "date": "05 April 2025 o 10:42",
+            "description": "Witam, posiadam na sprzedaż bardzo fajne autko  jakim jest  VW PASSAT highline w bardzo dobrym stanie tech.i wizualnym  jak na swoje latka. Passat od 2017 r. posiadał 1 właściciela w Polsce., Auto jest  czyste i zadbane,\n\n-rok prod. 2003 r.\n\n-kolor to piękny chaber metalik.\n\n-przebieg to  352320 tys.km.\n\n-poj.1.9  TDI DIEZEL  ( 130  koni )\n\n-silnik  to najlepsza i najbardziej poszukiwana jednostka napędowa w tych modelach ( 130 koni ) który  \n\n jest  ekonomiczny i dynamiczny ma siłę moc i przyśpieszenie -silnik pracuje cicho ,równo\n\n-w czasie jazdy nie słychać stuków , szumów i nie ściąga ,prowadzi się pewnie i komfortowo\n\n-lakier bez  rdzy i wgnieceń\n\n-środek jest  czysty , zadbany, \n\n-bagażnik czysty\n\n-autko bardzo ładnie się prezentuje \n\n-AUTKO POSIADA \n\n-wspomaganie kierownicy\n\n-poduszka powietrzna kierowcy\n\n-poduszka powietrzna pasażera\n\n-2 x poduszki boczne w siedzeniach\n\n-kierownica wielofunkcyjna\n\n-podgrzewane siedzenia\n\n-klimatronic-sprawny\n\n-elektryczne szyby przód\n\n-elektryczne szyby tył\n\n-elektryczne lusterka\n\n-centralny zamek\n\n-duże radio\n\n- felgi aluminiowe \n\n-przegląd aktualny do 13,06 2026 r\n\n-ubezpieczenie aktualne do 108.052025 r\n\n-oryginalne wklejki na tylnych błotnikach\n\n-stan tech i wizualny jak na ten rok oceniam na bardzo dobry i zadbany \n\n-wiadomo że autko nie jest nowe bo ma swoje latka i zawsze po swojemu trzeba coś przejrzeć i poprawić\n\n-jak zobaczysz i się przejedziesz to na pewno nim odjedziesz \n\n-a teraz co najgorsze dla kupującego to cena ; 8400 złotych -faktura marża\n\n-żaden opis kolorowy nie zastąpi krótkiej rozmowy\n\n-więcej informacji pod nr tel .6********63",
+            "details": {
+                "Model": "Passat",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "352 320 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 896 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "96 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4hfyan1mjiae-PL/image;s=2253x1268"
+        },
         {
             "title": "Hyundai Getz 1.6 benzyna",
             "price": "2 500 zł",
@@ -22,6 +195,49 @@
                 "Moc silnika": "105 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/467v8nzlw8o32-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford Fiesta *** ZADBANA *** 1.3 benzyna ***",
+            "price": "6 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-fiesta-zadbana-1-3-benzyna-CID5-ID15hkwM.html",
+            "location": "Koluszki",
+            "date": "05 April 2025 o 10:39",
+            "description": "Witam\n\nMam do sprzedania Forda Fiestę z 2006 roku. Silnik 1.3 benzyna. Auto czyste i zadbane. Posiada aktualne opłaty OC i przegląd. Do auta 2 komplety opon lato/zima. Na aucie nie widać oznak korozji. Udostępniam kanał, by obejrzeć auto od spodu. \n\nWyposażenie:\n\n* Klimatyzacja\n\n* El. Szyby\n\n* El. Lusterka\n\n* Wspomaganie kierownicy\n\n* Centralny zamek\n\n* AirBag\n\n* 2 komplety kluczyków\n\nNa wszelkie pytania odpowiem pod numerem tel: 782 ## 027 ## 754",
+            "details": {
+                "Model": "Fiesta",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "260 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 300 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k0naye9extyb2-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Toyota Aygo 2007 r. 1.0, długie opłaty, bez korozji",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-aygo-2007-r-1-0-dlugie-oplaty-bez-korozji-CID5-ID14zlXO.html",
+            "location": "Wołomin",
+            "date": "05 April 2025 o 10:39",
+            "description": "Auto nie wymaga żadnych nakładów finansowych na ten moment \n\nBadanie techniczne ważne do 01.05.2025 r.\n\nOC ważne do 28.08.2025 r.\n\n\n\nNie odpowiadam na SMSy i wiadomości olx - w przypadku zainteresowania proszę o kontakt telefoniczny",
+            "details": {
+                "Model": "Aygo",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "200 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l2wl8nwnyptn1-PL/image;s=2000x1500"
         },
         {
             "title": "Sprzedam Audi A4 B6",
@@ -6743,6 +6959,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r6p41248qunu3-PL/image;s=2000x900"
+        },
+        {
+            "title": "Opel Zafira 1.7 CDTI",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-7-cdti-CID5-ID14fV95.html",
+            "location": "Nowiny",
+            "date": "05 April 2025 o 06:22",
+            "description": "Witam. Sprzedam Opla Zafirę B. Uszkodzony silnik\n\nRok produkcji: 2010\n\nPrzebieg: 226000.\n\nPojemność: 1700.\n\nWszelkie informacje pod numerem tel: 6*9*9 8*4*9 1*6*2",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2010",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "226 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 700 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Francja",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dafvgrfu6ej41-PL/image;s=4080x1884"
         },
         {
             "title": "Citroen C4 Grand Picasso 2008r. 1.6 HDI 109KM. 7 osobowy. Stan Dobry.",
