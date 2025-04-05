@@ -1,6 +1,77 @@
 {
-    "updated": "2025-04-05 19:42:37.537988",
+    "updated": "2025-04-05 19:47:45.295802",
     "ads": [
+        {
+            "title": "Peugeot 407 2.2 Benz gaz automat",
+            "price": "2 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-407-2-2-benz-gaz-automat-CID5-ID15hRGl.html",
+            "location": "Warszawa, Mokotów",
+            "date": "05 April 2025 o 19:42",
+            "description": "Peugeot 407 \n\nSilnik 2.2 \n\nAutomat \n\nSkóry \n\nPrzebieg 400tys \n\nAktualne opłaty \n\nMechanik nie dokończył naprawy rozrządu....po kolizji głowica splanowana ,nowy rozrząd nie kończę już tego nie mam czasu sprzedaje jak stoi . Auto ładne równe.  Posiada ważne opłaty \n\nKontakt tylko telefoniczny pod numerem telefonu 690x090x143",
+            "details": {
+                "Model": "407",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "400 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 200 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2ur1zju9xt9e2-PL/image;s=1632x918"
+        },
+        {
+            "title": "Audi A3 8L 1.8t LPG",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a3-8l-1-8t-lpg-CID5-ID15hRs3.html",
+            "location": "Stanisławów",
+            "date": "05 April 2025 o 19:37",
+            "description": "Sprzedam Audi a3 8l 1.8T AUM z LPG STAG aktualnie po wymianie oleju rozrzad z pompa wody płyn chłodniczy hamulcowy  auto sprawne opłaty do październik więcej informacji udzielę telefonicznie 69*****20",
+            "details": {
+                "Model": "A3",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "451 980 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kvh6q8vktacl1-PL/image;s=2000x900"
+        },
+        {
+            "title": "Daewoo Lanos stan bardzo dobry.",
+            "price": "2 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/daewoo-lanos-stan-bardzo-dobry-CID5-ID15e5n3.html",
+            "location": "Warszawa, Bemowo",
+            "date": "05 April 2025 o 19:36",
+            "description": "Sprzedma Daewoo Lanos, zadbany, dobry, pierwszy właściciel. Wymienione sprzęgło, rozrząd, hamulce tył, opony wielosezonowe.",
+            "details": {
+                "Model": "Lanos",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "124 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 498 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2nbkhql79mhe3-PL/image;s=566x756"
+        },
         {
             "title": "Mazda 5 Bardzo dobry stan",
             "price": "9 000 zł",
@@ -9169,6 +9240,17 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qooslstb09sr2-PL/image;s=4032x3072"
+        },
+        {
+            "title": "Sprzedam Mercedes A140",
+            "price": "1 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-mercedes-a140-CID5-ID15hrhE.html",
+            "location": "Łopuchowo",
+            "date": "05 April 2025 o 12:17",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
         },
         {
             "title": "Volkswagen Polo 3D 1.4 benzyna !!! 2005 rok !!! Klima !!!",
@@ -38804,6 +38886,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/juc1lcgnjdoc1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Na sprzedaż VW Jetta 1.6 LPG/zamiana/nowe Zawieszenie/gwarancja/oszczę",
+            "price": "4 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-vw-jetta-1-6-lpg-zamiana-nowe-zawieszenie-gwarancja-oszcze-CID5-ID15gsBj.html",
+            "location": "Warszawa, Białołęka",
+            "date": "04 April 2025",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny VW Jetta z najlepszym niezawodnym silnikiem 1.6 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
+            "details": {
+                "Model": "Jetta",
+                "Rok produkcji": "2008",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "226 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "101 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wmumyh6m5gmx2-PL/image;s=960x1280"
         }
     ]
 }
