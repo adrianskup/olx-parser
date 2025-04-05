@@ -1,6 +1,78 @@
 {
-    "updated": "2025-04-05 04:38:45.133102",
+    "updated": "2025-04-05 04:49:31.424582",
     "ads": [
+        {
+            "title": "Sprzedam Opel 1.4 b+LPG",
+            "price": "2 350 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-1-4-b-lpg-CID5-ID15gCXH.html",
+            "location": "Rudki",
+            "date": "05 April 2025 o 04:42",
+            "description": "Astra w dobrym stanie silnik skrzynia ok, opłaty, przegląd ważny butla 5 lat ważna stan do poprawek blacharsko -lakierniczych, opony ok, stan używany.",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "333 333 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "60 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2evs73yijb823-PL/image;s=1224x1632"
+        },
+        {
+            "title": "Toyota Avensis T25 Kombi 2.0 D4D 2008r Skóry Nawigacja",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-avensis-t25-kombi-2-0-d4d-2008r-skory-nawigacja-CID5-ID14Kv65.html",
+            "location": "Błonie",
+            "date": "05 April 2025 o 04:40",
+            "description": "Sprzedam Toyote Avensis T25 z silnikiem diesla 2.0 d4d z 2008r. Techniczne auto sprawne, silnik pracuje prawidłowo, skrzynia czy sprzęgło również w zawieszeniu coś znajdzie się do poprawy. Wymaga kilku poprawek, do wymiany jest szyba czołowa, nie otwiera się klapa bagażnika. Bardzo bogato wyposażony w skórzana tapicerka, podgrzewane fotele, kierownica wielofunkcyjna, nawigacja, radio z dużym wyświetlaczem, alufelgi, elektryczne szyby, elektryczne lusterka, klimatyzacja i inne dodatki. Karoseria nie jest skorodowana ale posiada ślady użytkowania. Ubezpieczenie OC oraz przegląd ważny na kilka miesięcy. Cena raczej ostateczna. Zapraszam \n\n\n\nAdres Błonie ul Modlińska 8",
+            "details": {
+                "Model": "Avensis",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "330 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nqku0sl6x7921-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Skoda Octavia 1.9 tdi 110ps",
+            "price": "4 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-9-tdi-110ps-CID5-ID15h3TU.html",
+            "location": "Piotrków Trybunalski",
+            "date": "05 April 2025 o 04:40",
+            "description": "Dzień dobry, sprzedam Skodę Octavie pierwszej generacji,auto w dobrym stanie,wszystko sprawne,serwisowane.\n\nUżytkowane na co dzień.\n\nPo więcej informacji zapraszam do kontaktu.",
+            "details": {
+                "Model": "Octavia",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "231 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m1so7clyuj2d1-PL/image;s=1156x520"
+        },
         {
             "title": "Sprzedam Seat Altea 1.6 benzyna",
             "price": "8 500 zł",
@@ -18527,6 +18599,32 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpmdWZheHJ2ZG5qbzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.dRe4xP_GUzMighLA5LiVfABKsIj49731DU6GK9xs6G4/image"
+        },
+        {
+            "title": "Renault Clio 1.5 dci 68 KM",
+            "price": "10 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-clio-1-5-dci-68-km-CID5-ID13WiYx.html",
+            "location": "Łódź, Widzew",
+            "date": "04 April 2025",
+            "description": "Dzień dobry,\n\nNa sprzedaż Renault Clio 3 z 2010 r. Samochód wyposażony w silnik niezawodny i oszczędny 1.5 dci, który sprawdzą się w mieście jak i w dłuższych trasach. Średnie spalanie około 4l/100km. Nadwozie typu hatchback 5-cio drzwiowe. Świeżo po wymianie wszystkich filtrów i oleju. 12.2024 r. zrobiony kompletny serwis klimatyzacji. W aucie przed zimą zostały założone nowe opony wielosezonowe i zakupiony nowy akumulator.\n\nWyposazenie:\n\n- klimatyzacja manualna\n\n- elektrycznie sterowane szyby przednie\n\n- elektrycznie regulowane lusterka \n\n- ABS\n\n- ESP\n\n- Radio fabryczne\n\n- Tempomat\n\n- Centralny zamek z pilotem \n\n- Regulowana kolumna kierownicy\n\n-Dzielona kanapa tylna\n\n\n\nSamochód w pełni sprawny, naprawy były wykonywane na bieżąco. Posiada aktualny przegląd techniczny i OC. Możliwość obejrzenia pojazdu w Łodzi  po wcześniejszy umówieniu telefonicznym.",
+            "details": {
+                "Numer VIN": "VF1BR1G0H412054",
+                "Model": "Clio",
+                "Rok produkcji": "2010",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "133 200 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 461 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "68 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ij38vh25ypbw-PL/image;s=1156x867"
         }
     ]
 }
