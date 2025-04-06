@@ -1,6 +1,80 @@
 {
-    "updated": "2025-04-06 15:39:41.536341",
+    "updated": "2025-04-06 15:44:44.661045",
     "ads": [
+        {
+            "title": "Sprzedam BMW f11 2.0 184km",
+            "price": "495 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw-f11-2-0-184km-CID5-ID15iHqu.html",
+            "location": "Brzeście",
+            "date": "06 April 2025 o 15:40",
+            "description": "Sprzedam BMW seria 5.2014 rok 242tys przebiegu.",
+            "details": {
+                "Numer VIN": "WBA5g",
+                "Model": "Seria 5",
+                "Rok produkcji": "2014",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "242 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Moc silnika": "184 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2u57x3zzc12k1-PL/image;s=900x2000"
+        },
+        {
+            "title": "Volkswagen golf 5 1.9tdi",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-5-1-9tdi-CID5-ID15iH6U.html",
+            "location": "Lublin",
+            "date": "06 April 2025 o 15:37",
+            "description": "Sprzedam gofa 5 1.9 tdi\n\nW samochodzie pala sie kontrolki co widać na zdjeciach\n\nDwie poduszki silnika do wymiany. Tak to jezdzi chamuje.\n\nWiecej informacji pod tel. 603#959#709",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "369 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/egoowhqtabgh-PL/image;s=3060x4080"
+        },
+        {
+            "title": "Volvo 460 youngtimer",
+            "price": "9 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volvo-460-youngtimer-CID5-ID14abYr.html",
+            "location": "Lublin",
+            "date": "06 April 2025 o 15:37",
+            "description": "Volvo 460 z 1996r  z silnikiem 1.8i o mocy 102 koni mechanicznych z instalacją gazową. Przebieg udokumentowany 104tys. km.  Samochod wyposażony jest w  rzadką skrzynię automatyczną bezstopniową. Samochod klasyczny, youngtimer bardzo dobrze utrzymany jak na swoje 29lat. Karoseria zdrowa dobrze utrzymana, nadaje się do zarejestrowania na zabytek. \n\nAuto zostało sprowadzone w 2005 roku z Belgii, od tamtego momentu jeden właściciel. W aucie został wymienony niedawno olej w silniku a także w skrzyni, filtry, nowy pasek osprzetu, rozrząd, osuszacz klimy, końcówki kierownicze, tuleje na wachaczach, świece, przewody zapłonowe, kopułka z palcem rozdzielacza. Do samochodu dorzucam nową antenę wraz z silnikiem elektrycznym, a także oryginalne koła z kołpakami i oryginalne dywaniki gumowe. Przegląd waży do grudnia 2025r oc ważne do stycznia 2026r. Cena do negocjacji \n\nTel 51*******50",
+            "details": {
+                "Model": "460",
+                "Rok produkcji": "1996",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "104 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 785 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Belgia",
+                "Moc silnika": "102 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vpaxgfv3bni7-PL/image;s=768x1024"
+        },
         {
             "title": "Bmw e36 318is lpg mpakiet",
             "price": "6 200 zł",
@@ -7793,6 +7867,28 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hvmeu2d139fg2-PL/image;s=1000x750"
+        },
+        {
+            "title": "Clio 2006 r 1,2 klima wspomaganie zadbany stan polecam",
+            "price": "3 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/clio-2006-r-1-2-klima-wspomaganie-zadbany-stan-polecam-CID5-ID15cbk6.html",
+            "location": "Łomża",
+            "date": "06 April 2025 o 09:51",
+            "description": "Witam na sprzedaz mam zadbane male miejskie ekonomiczne auto reno clio z roku 2006 siknik 1,2 beznyna . Samoxhod w bdb stanie blacharsko zadbany bez rdzy progi i ppdloga w bdb stanie nadkola drzwi bez korozji lakier nigdzie nie luszczy sie wyglada dorbze . Samochod z dwoma kompletami kol jezdzi bdb silnik ladnie pracuje nie kopci nie zurzywa oleju pracuje cicho i rowno zawieszenie bez stukow prowadzi sie pewnie i przyjemnie. Autko czyste nie powycierane w srodku cena to 3999 zl tel 729#675#374",
+            "details": {
+                "Model": "Clio",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "320 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "55 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x8u7b8yg9mou3-PL/image;s=2000x1500"
         },
         {
             "title": "Skoda Felicia Diesel 1.9",
@@ -44089,30 +44185,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wcs7gaxl40qz2-PL/image;s=1600x1200"
-        },
-        {
-            "title": "Skoda Octavia 1,9 tdi",
-            "price": "9 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-9-tdi-CID5-ID15gIi6.html",
-            "location": "Łomża",
-            "date": "04 April 2025 o 15:44",
-            "description": "witam na sorzedaż ładna Skoda Octavia 1,9 tdi w ładnym stanie wszystko jest porobione rozrząd przy 265 000 km tak że można jeszcze długo nie zaglądać sprzęgło wymienione autko ma przejechane 290000 km jak na swoje lata średnio prowadzi się pewnie be żadnych niepokojących odgłosów  z wyposażenia klimatyzacja elktryczne szyby czujniki parkowania radio z nawigacją więcej info na tel 572=212=421",
-            "details": {
-                "Numer VIN": "tmbcs21z752077833",
-                "Model": "Octavia",
-                "Rok produkcji": "2005",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "390 000 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kcxc3t4gcst61-PL/image;s=3280x2464"
         }
     ]
 }
