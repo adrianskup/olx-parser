@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-06 16:49:16.912287",
+    "updated": "2025-04-06 16:54:22.819476",
     "ads": [
+        {
+            "title": "Golf IV 2000 r. 1.9 TDI wersja edition",
+            "price": "2 450 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/golf-iv-2000-r-1-9-tdi-wersja-edition-CID5-ID15iNjK.html",
+            "location": "Zielonka",
+            "date": "06 April 2025 o 16:46",
+            "description": "Sprzedam Golfa IV. Silnik 1.9 tdi 90 km wersja edition z hakiem.\n\nSprowadzony z Niemiec w 2010 r. (dołączam dokumentację). Od tamtego czasu użytkowany przez jedną osobę.\n\nAuto sprawne technicznie, odpala bez problemu, silnik dobrze pracuje. Oryginalny przebieg  363 tyś. Wszystkie naprawy i wymiany eksploatacyjne robione na bieżąco. Zawieszenie bez zastrzeżeń, klimatyzacja sprawna, podgrzewane lusterka. Podgrzewana tylna szyba. Central zamek sprawny (2 kluczyki). Zapas, lewarek w bagażniku.\n\nŚrodek nosi ślady użytkowania bez zniszczeń. \n\nNowy akumulator  zakupiony grudzień 2024r.\n\nKomplet letnich opon na felgach aluminiowych.\n\nPrzeglądy  przechodzi bez problemu, ważne OC.\n\nBlacharka i uszkodzenia zewnętrzne widoczne na zdjęciach.\n\nMinusy:\n\n- w ostatnich dniach przestał się otwierać bagażnik i lewe drzwi z tyłu.\n\n\n\nIdealny na pierwszy samochód lud dojazdy do pracy.",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "2000",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "363 236 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fsauojwbgx2i2-PL/image;s=4000x3000"
+        },
         {
             "title": "Ford Mondeo MK4 Kombi 2.0 Diesel manual",
             "price": "5 900 zł",
@@ -22,6 +47,78 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nqalmjh0j4h13-PL/image;s=4032x2268"
+        },
+        {
+            "title": "Mercedes A klasa 1.7 cdi LONG 2xPdc Sprawna Klima Zamiana",
+            "price": "4 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-a-klasa-1-7-cdi-long-2xpdc-sprawna-klima-zamiana-CID5-ID15iNIh.html",
+            "location": "Zgierz",
+            "date": "06 April 2025 o 16:45",
+            "description": "Merc A klasa\n\n2002r\n\n1.7 cdi \n\n230tys km\n\n\n\nTechnicznie bez zastrzeżeń. Zawieszenie hamulce wszystko ok. Wyposażenie sprawne Klima\n\nPdc przod tył\n\nWygodna wersja Long \n\nWizualnie wzglednie jak na foto\n\n\n\nPrzeglad I oc na 3 miesiace\n\nFaktura VAT marża kupujący zwolniony z opłaty skarbowej \n\n\n\nDo obejrzenia codziennie w okolicy Zgierza",
+            "details": {
+                "Model": "A Klasa",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "230 000 km",
+                "Kolor": "Srebrny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qvuvf327oejm2-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Mercedes Benz  benzyna, automat, kombi 1997r",
+            "price": "6 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-benz-benzyna-automat-kombi-1997r-CID5-ID15iNl2.html",
+            "location": "Wacławów",
+            "date": "06 April 2025 o 16:45",
+            "description": "Sprzedam Mercedesa w202, 1997r z silnikiem 1.8 benzyna. Przebieg 242.000\n\nAuto w dobrym stanie użytkowane na codzień. W moim\n\nposiadaniu od 5 lat, został sprowadzony z Niemiec. Samochód posiada klimatyzację, elektryczne lusterka przód.",
+            "details": {
+                "Numer VIN": "WDB2020781F692745",
+                "Model": "C Klasa",
+                "Rok produkcji": "1997",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "242 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "122 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3b9dolvrdm971-PL/image;s=1156x867"
+        },
+        {
+            "title": "Fiat Grande Punto 1.4 8v + LPG 2008 r.",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-1-4-8v-lpg-2008-r-CID5-ID15iNDf.html",
+            "location": "Łowicz",
+            "date": "06 April 2025 o 16:44",
+            "description": "Sprzedam Fiata Grnade Punto, silnik 1.4 8v + LPG. Rok produkcji 2008, przebieg 222 000 km. Samochód w dobrym stanie, w 2024 roku wymienione opony, w listopadzie 2024 wymieniony kompletny rozrząd, parownik od instalacji LPG oraz olej wraz ze wszystkimi filtrami. Butla LPG ważna do 2033 roku. Przegląd ważny do sierpnia 2025, OC do grudnia 2025. Samochód posiada sprawną klimatyzację.",
+            "details": {
+                "Numer VIN": "ZFA19900001385101",
+                "Model": "Grande Punto",
+                "Rok produkcji": "2008",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "222 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 368 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "77 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jmfai64ctaor3-PL/image;s=2000x1500"
         },
         {
             "title": "Skoda Fabia Do sprzedania skoda fabia I od pierwszego właściciela",
@@ -43767,129 +43864,6 @@
                 "Kierownica": "po prawej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/c3k0eh1j6siz-PL/image;s=1020x765"
-        },
-        {
-            "title": "Sprzedam samochód chevrolet aveo.",
-            "price": "6 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-chevrolet-aveo-CID5-ID15gMex.html",
-            "location": "Milanówek",
-            "date": "04 April 2025 o 16:54",
-            "description": "Sprzedam samochód chevrolet aveo 2007r.  Sprawny. OC i PT aktualne na rok. Klimatyzacja sprawna. Bez wkladu finansowego. Opony całoroczne.",
-            "details": {
-                "Model": "Aveo",
-                "Rok produkcji": "2007",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "149 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "1 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h6rhi3100a381-PL/image;s=459x1020"
-        },
-        {
-            "title": "Honda Accord 7 2003 rok benzyna 2.0",
-            "price": "5 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/honda-accord-7-2003-rok-benzyna-2-0-CID5-ID15gLYj.html",
-            "location": "Wieliszew",
-            "date": "04 April 2025 o 16:53",
-            "description": "Witam mam do sprzedania hondę Accord 7 jak widać na zdjęciach wychodzi rdza, ogólnie jeździ dobrze, jest problem z włączeniem pierwszego i wstecznego biegu pewnie do wymiany sprzęgło, przebieg ,340000 klimatyzacja dwustrefowa działa bez zarzutów na wszelkie pytania odpowiem telefonicznie",
-            "details": {
-                "Model": "Accord",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "340 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 987 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "156 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ccdrb0tkwuas1-PL/image;s=1496x2000"
-        },
-        {
-            "title": "Tata Indica LPG klimatyzacja",
-            "price": "2 999 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/tata-indica-lpg-klimatyzacja-ID6HhWF6.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "04 April 2025 o 16:53",
-            "description": "Dzien dobry,\nDo sprzedania posiadam tata indica z silnikiem 1.4 benzyna plus lpg. Auto kupione w Polskim salonie i mialo jednego wlascicela. Serwisowane na biezaco, na chwile obecna w pelni sprawne.\nwyposazenie:\n- klimatyzacja\n- 4xel.szyby\n- wspomaganie kierownicy\n- centralny zamek\n- ABS\n- isofix\n- radio CD\nButla gazowa wazna do 2034 roku\nPrzeglad wazny do 09.01.2026\nOC wazne do 11.202\nSprzedaz na podstawie FVmarza, kupujacy zwolniony z oplaty PCC3\nZapraszam",
-            "details": {
-                "Marka pojazdu": "Tata",
-                "Model pojazdu": "Indica",
-                "Wersja": "1.4 GLX",
-                "Kolor": "Srebrny",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2010",
-                "Rodzaj paliwa": "Benzyna+LPG",
-                "Pojemność skokowa": "1 405 cm3",
-                "Moc": "86 KM",
-                "Typ nadwozia": "Kompakt",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "153 g/km",
-                "Przebieg": "107 500 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1vYm03aHNmY3llZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.zhHa1IkfK-nUmX2nCaZ4AoO4mWio1yJ9sjY6uWB81Yg/image"
-        },
-        {
-            "title": "Renault Megane 1.4 Benzyna 5drzwi Piekny samochod Idealny",
-            "price": "4 999 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-megane-1-4-benzyna-5drzwi-piekny-samochod-idealny-CID5-ID15gLYe.html",
-            "location": "Tomaszów Mazowiecki",
-            "date": "04 April 2025 o 16:52",
-            "description": "Tel 693-/089-:;199\n\nWitam sprzedam bardzo ładne auto jakim jest Renaut Megane w wersji 5cio drzwiowej z silnikiem benzynowym 1.4 16v rok produkcji 2003 przebieg 237tys\n\n\n\nOgl stan samochodu określam jako bardzo dobry nie posiada żadnych oznak korozji oczywiscie prosze sie nie spodziewac nowego samochodu bo auto ma swoje ślady użytkowania ale prezentuje sie nadal pieknie co mozna dostrzec na załączonych zdieciach\n\n\n\nKlimatyzacja\n\n4x elektryczne szyby\n\nElektryczne lusterka\n\nCentr zamek\n\nRadio cd\n\nPodgrzewana tylnia szyba\n\n2x karta do odpalania\n\n\n\nCena 4999zł oczywiście do neg mozliwa rowniez zamiana",
-            "details": {
-                "Model": "Megane",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "237 000 km",
-                "Kolor": "Czarny",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "100 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zsm6gcy81gpt1-PL/image;s=1000x737"
-        },
-        {
-            "title": "Renault Megane 2 sedan 2004",
-            "price": "5 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-megane-2-sedan-2004-CID5-ID15gLV2.html",
-            "location": "Michów",
-            "date": "04 April 2025 o 16:50",
-            "description": "Sprzedam Renault Megane 2, mały przebieg 169900. Gaz jeszcze butla ważna do 2028r. Ubezpieczenie do 22.06.25r przegląd jest do 29.04.25r.\n\nOstatnio wymieniona została półoś+ łożysko prawe , lewe zakupione nie  zmienione. I jesze jest do wymiany łożysko w skrzyni biegów. Trochę wyje to łożysko. Klima działa, odgrzybiona 2024. Szyby wszystkie są otwierane elektrycznie.dzialaja. \n\nMoże ktoś jak umie porobić to małym kosztem można sobie podszykowac. Blacharka trzyma się ładnie. Auto na oponach zimowych dwa sezony i letnie po jednym sezonie. Więcej po numerem telefonu.",
-            "details": {
-                "Numer VIN": "VF1LM0C0H31498721",
-                "Model": "5",
-                "Rok produkcji": "2004",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "169 900 km",
-                "Kolor": "Zielony",
-                "Poj. silnika": "1 598 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "83 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fc8cmjnj8okl-PL/image;s=1164x1782"
         }
     ]
 }
