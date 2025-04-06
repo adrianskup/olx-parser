@@ -1,6 +1,78 @@
 {
-    "updated": "2025-04-06 05:32:53.098131",
+    "updated": "2025-04-06 05:42:21.131634",
     "ads": [
+        {
+            "title": "Renault Espace 2002 2.0T + LPG",
+            "price": "5 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-espace-2002-2-0t-lpg-CID5-ID153HoL.html",
+            "location": "Nałęczów",
+            "date": "06 April 2025 o 05:31",
+            "description": "Renault Espace 2002 \n\n2.0T + instalacja gazowa\n\nPrzebieg 342 800\n\n\n\nOd momentu kupna zrobione:\n\nRozrząd wymieniony przy 320 000\n\nPasek osprzętu \n\nJedna rolka na osprzęcie \n\nUszczelniacze na wałkach \n\nAlternator po regeneracji \n\nTuleje \n\nSprzęgło \n\nPompa sprzęgła \n\nWysprzeglik \n\n2x amortyzator przód\n\nosłony przeciwpyłowe\n\n2x poduszka z łożyskiem amortyzatora przód\n\ntarcze\n\nklocki\n\nzaciski tył\n\nwieszak wydechu środkowy \n\n\n\nDo zrobienia układ kierowniczy i filtry od instalacji gazowej \n\nKlima \n\nDo wymiany olej \n\nNa tylnych nadkolach ślady rdzy \n\nDo poprawy plastiki na drzwiach kierowcy i plastiki klapy bagażnika \n\nBrak przeglądu \n\n\n\nButla do 2026",
+            "details": {
+                "Model": "Espace",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "342 800 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "163 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w1h0a8sbfjkh-PL/image;s=750x1000"
+        },
+        {
+            "title": "Volkswagen Scirocco 1.4 160 koni 5900",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-scirocco-1-4-160-koni-5900-CID5-ID14eehB.html",
+            "location": "Łomża",
+            "date": "06 April 2025 o 05:30",
+            "description": "Witam serdecznie posiadam na sprzedaż po kolizji volkswagen Scirocco 160 przebiegu przy 120 robiony rozrząd silnik odpala po placu można się przejechać stan jak na foto silnik super skrzynia dobra  więcej informacji na temat auta udzielę telefonicznie \n\nMożliwość zamiany na inne autko \n\nOpłaty aktualne",
+            "details": {
+                "Model": "Scirocco",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "160 000 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "160 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e35t5xipm2442-PL/image;s=563x424"
+        },
+        {
+            "title": "Citroen C5 2.0 HDI 2006 r ładny stan",
+            "price": "6 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c5-2-0-hdi-2006-r-ladny-stan-CID5-ID15hrs5.html",
+            "location": "Łomża",
+            "date": "06 April 2025 o 05:30",
+            "description": "Witam serdecznie posiadam na sprzedaż zadbane autko jakim jest citroen C5 z 2006 roku silnik 2.0 HDi 130 koni autko w ładnym stanie bez żadnej korozji silnik pali na dotyk ma moc moc pneumatyczne zawieszenie także \n\nJeździ wzorowo wiadomo ma swoje lata więc zawsze się znajdzie jakąś Ryska itp \n\nNa wyposażeniu standardowym \n\nWspomaganie kierownicy \n\nCentral zamek \n\nAbs \n\nEl szyby \n\nEl lusterka \n\nKlimatyzacja \n\nKontrola trakcji \n\nKomputer pokładowy \n\nGrzane siedzenia \n\nTempomat \n\nKontrola trakcji \n\nCzujniki parkowania \n\nEl regulacja foteli \n\nNawigacja \n\nTelefon \n\nStabilizacja toru jazdy \n\nXenon",
+            "details": {
+                "Model": "C5",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "300 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "136 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xn9fn57qi3zw2-PL/image;s=868x1160"
+        },
         {
             "title": "Audi a3 1.9 tdi na dojazdy",
             "price": "4 850 zł",
@@ -40518,31 +40590,6 @@
                 "Skrzynia biegów": "Manualna"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5w4941rwx9m43-PL/image;s=1000x750"
-        },
-        {
-            "title": "Niezniszczalny* VW PASSAT 1.9 TDI* Przegląd na rok* DUŻY SERWIS* OC VI",
-            "price": "1 100 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/niezniszczalny-vw-passat-1-9-tdi-przeglad-na-rok-duzy-serwis-oc-vi-CID5-ID15eDUD.html",
-            "location": "Warszawa, Wawer",
-            "date": "04 April 2025 o 05:39",
-            "description": "Dzień dobry. \n\nSprzedam niezawodne auto jakim jest:\n\n\n\nVolkswagen PASSAT \n\n1.9 TDI 110 KM\n\nPrzegląd techniczny do 31-03-2026\n\nOC do 06-04-2025\n\nPo dużym serwisie na kwotę 3400 złotych w listopadzie 2024.\n\nJeździ, skreca i hamuje. \n\n\n\nSprzedaż prywatna na podstawie umowy kupna sprzedaży.",
-            "details": {
-                "Model": "Passat",
-                "Rok produkcji": "1997",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "566 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 896 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "110 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k3ut2e8hfhn01-PL/image;s=1020x765"
         }
     ]
 }
