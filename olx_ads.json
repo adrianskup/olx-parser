@@ -1,6 +1,54 @@
 {
-    "updated": "2025-04-06 08:49:56.126317",
+    "updated": "2025-04-06 08:55:23.451560",
     "ads": [
+        {
+            "title": "Peugeot 207 1.4 8V 2008R Klimatyzacja",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/peugeot-207-1-4-8v-2008r-klimatyzacja-CID5-ID15i5uW.html",
+            "location": "Łódź, Widzew",
+            "date": "06 April 2025 o 08:52",
+            "description": "Samochód sprowadzony z Niemiec do oplat \n\nStan bdb \n\nAuto bez rdzy\n\nPodłoga progi w bdb stanie \n\nKlimatyzacja sprawna \n\nNowy olej\n\nSilnik to najlepsza jednostka 1.4 8v bezawaryjna 75KM\n\nRozrzad ma przejechane 30 tys kilometrów \n\nDwa komplety kol\n\nDwa kluczyki\n\nSamochód bezwypadkowy \n\nPosiada orginalny lakier \n\nPomoc w rejestracji \n\nMożliwość transportu do klijenta",
+            "details": {
+                "Model": "207",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "191 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h4uiqg2n4ne82-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Seat Ibiza 1.2 Turbo Diesel sprawna klimatyzacja",
+            "price": "10 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-ibiza-1-2-turbo-diesel-sprawna-klimatyzacja-CID5-ID11uZYi.html",
+            "location": "Lidzbark",
+            "date": "06 April 2025 o 08:50",
+            "description": "Sprzedam Seata Ibizę kombi \n\nrok produkcji 2010 \n\nPrzebieg widoczny na zdjęciu \n\nSprawna klima \n\nsilnik 1.2 TD stan techniczny i wizualny bardzo dobry\n\n auto czyste i zadbane \n\nSamochód sprowadzony z zagranicy posiada komplet dokumentów do rejestracji po zakupie możliwe transport lawetą",
+            "details": {
+                "Model": "Ibiza",
+                "Rok produkcji": "2010",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "250 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u7yqwcf5p9t51-PL/image;s=1008x756"
+        },
         {
             "title": "Mitsubishi Carisma 1.6 Klima, KAT",
             "price": "3 500 zł",
@@ -72,6 +120,50 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/95awmbaulxwx1-PL/image;s=2048x1542"
+        },
+        {
+            "title": "Opel Zafira 1.7 cdi",
+            "price": "3 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-7-cdi-CID5-ID15i4YK.html",
+            "location": "Warszawa, Wilanów",
+            "date": "06 April 2025 o 08:44",
+            "description": "Witam mam do sprzedania Opela Zafira uszkodzonego przodem poza tym na chodzie dokumenty do rejestracji więcej informacji pod numerem telefonu",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "230 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 700 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "100 KM"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9cjvx711iw592-PL/image;s=1008x756"
+        },
+        {
+            "title": "Fiat Croma.. ładny egzemplarz! Niski przebieg!",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-croma-ladny-egzemplarz-niski-przebieg-CID5-ID15ffEH.html",
+            "location": "Pułtusk",
+            "date": "06 April 2025 o 08:44",
+            "description": "Sprzedam fiata Croma 2.2 benzyna z 2008roku z przebiegiem 194000km.. auto uważam że jest w bardzo dobrym stanie.. silnik ładnie pali i równo pracuje, zawieszenie też sztywne nie wybite, w środku czyste zadbane.. jest to bogata opcja wyposażenia, posiada solar dach, przyciemniane szyby, oryginalne alufelgi R16.. auto świetnie się prezentuje na żywo! Zainteresowanych zapraszam do kontaktu i jazdę próbną 509///533##617",
+            "details": {
+                "Numer VIN": "ZFA19400002103038",
+                "Model": "Croma",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "194 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "2 198 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kbjgr6ozywqi1-PL/image;s=1156x520"
         },
         {
             "title": "Mercedes A140/klima,alufelgi,nowy zbiornik lpg.",
@@ -25500,6 +25592,31 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img3NW45d3BvNHh5bS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._jl1KLauY0K-SuIXxMkf6ybDKzayMnFVfRyRfWVAW8E/image"
         },
         {
+            "title": "Opel Astra H 1.3 CDTI, Hatchback, 2009 r.",
+            "price": "7 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-h-1-3-cdti-hatchback-2009-r-CID5-ID15h8Wc.html",
+            "location": "Grubale",
+            "date": "05 April 2025",
+            "description": "Opel Astra H 1.3 CDTI\n\nDiesel\n\n90 KM\n\nPojemność/moc silnika 1248/66\n\nIlość miejsc 5\n\nKolor: srebrny\n\nRok produkcji: 2009\n\nData pierwszej rejestracji: 20.10.2009 r.\n\n\n\nWybrane wyposażenie:\n\n- Centralny zamek,\n\n- Wspomaganie kierownicy,\n\n- Autoalarm,\n\n- Elektrycznie otwierane szyby przednie,\n\n- Lusterka boczne ustawiane elektrycznie,\n\n- Poduszki powietrzne,\n\n- Klimatyzacja,\n\n- Radioodtwarzacz.\n\nTel. \n\n602\n\n677\n\n883",
+            "details": {
+                "Numer VIN": "W0L0AHL48A2004265",
+                "Model": "Astra",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "164 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 248 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l9bad1sbatjb3-PL/image;s=4080x3060"
+        },
+        {
             "title": "BMW serii 3 E90 318i 2008r 2.0B+Gaz  Stan Dobry",
             "price": "4 999 zł",
             "negotiable": false,
@@ -43113,28 +43230,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7lf3hhu03um62-PL/image;s=750x1000"
-        },
-        {
-            "title": "Skoda Octavia 1.9 tdi",
-            "price": "3 400 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-9-tdi-CID5-ID15c7C6.html",
-            "location": "Drzewica",
-            "date": "04 April 2025 o 08:55",
-            "description": "Sprzedam Skoda Octavia 1.9tdi.\n\nSprawny technicznie samochód.\n\nDwa komplety kol- lato zima",
-            "details": {
-                "Model": "Octavia",
-                "Rok produkcji": "2002",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "343 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xy5l1kwfmfwm2-PL/image;s=2000x4446"
         }
     ]
 }
