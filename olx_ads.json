@@ -1,6 +1,109 @@
 {
-    "updated": "2025-04-06 07:46:02.648434",
+    "updated": "2025-04-06 07:51:17.792845",
     "ads": [
+        {
+            "title": "Toyota Corolla 2003r. 1.6 kombi Klimatyzacja",
+            "price": "3 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-2003r-1-6-kombi-klimatyzacja-CID5-ID15hUfa.html",
+            "location": "Łódź, Bałuty",
+            "date": "06 April 2025 o 07:47",
+            "description": "Toyota Corolla kombi E12 kupiona w polskim salonie w 2003r. Silnik 1.6 100KM , kolor biały.\n\nCorolla posiada Klimatyzację, Elektryczne szyby i lusterka, wspomaganie, centralny zamek, ABS, komputer pokładowy, oryginalne radio, podłokietnik, relingi, ważne opłaty OC i przegląd.\n\nToyota zapala od razu jeździ super, ma ciche zawieszenie, dobrą blachę i hamulce.\n\nCorolla jest czysta i zadbana, mało pali i tanio jeździ, jest bezawaryjna jak to Toyota, fajne przyjemne auto.\n\nKontakt tylko tel!",
+            "details": {
+                "Model": "Corolla",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "250 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/13l2rq23g5w11-PL/image;s=4032x3024"
+        },
+        {
+            "title": "Hyundai i10 zadbany",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/hyundai-i10-zadbany-CID5-ID15i1g4.html",
+            "location": "Moszenki",
+            "date": "06 April 2025 o 07:45",
+            "description": "Sprzedam  auto w bardzo dobrym stanie . Świerże hamulce , olej i filtry. Rozrząd po wymianie , do auta dorzucam opony zimowe . W aucie nigdy nie było palone ... Sprawna klima . Auto czyste i zadbane  , idealne na dojazdy do pracy  ,małe spalanie   .",
+            "details": {
+                "Model": "i10",
+                "Rok produkcji": "2011",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "147 482 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 086 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/oxnsl99k9z512-PL/image;s=1200x1600"
+        },
+        {
+            "title": "Seat Ibiza Seat Ibiza 1.2 gaz",
+            "price": "7 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/seat-ibiza-seat-ibiza-1-2-gaz-ID6HeOO4.html",
+            "location": "Zgierz",
+            "date": "06 April 2025 o 07:44",
+            "description": "Na sprzedaż seata Ibiza 3\nrok 2007\nSilnik 1.2 benzyna z gazem ( instancja 7letnia )\n70km\nAuto wyposażone w\n-centralny zamek\n-wspomoaganie kierownicy\n-ABS\n-imobilazer\n-tempomat\n- elektryczne szyby\n- elektryczne lusterka\n-klimatyzacja automatyczna\n-radio JVC ( mogę dołożyć orginalne radio )\nDo auta dokładam 2 zestaw kół zimowych .\nWięcej informacji pod telefonem\nWyświetl numer",
+            "details": {
+                "Marka pojazdu": "Seat",
+                "Model pojazdu": "Ibiza",
+                "Wersja": "1.2 12V Reference",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2007",
+                "Generacja": "III (2002-2008)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 198 cm3",
+                "Moc": "70 KM",
+                "Typ nadwozia": "Auta miejskie",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "142 g/km",
+                "Spalanie W Mieście": "7 l/100km",
+                "Spalanie Poza Miastem": "5.0 l/100km",
+                "Przebieg": "224 335 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc5cWl4ejNrNmhjbTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.JIlysC9jLOiQ88LUMMFBSshTV0kAij2Ey8aOD4o_rpM/image"
+        },
+        {
+            "title": "sabinka 93  2.0T",
+            "price": "2 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sabinka-93-2-0t-CID5-ID15hXAk.html",
+            "location": "Wiskitki",
+            "date": "06 April 2025 o 07:42",
+            "description": "Witam, dziś wystawiam mojego saaba 93 2002r. 2,0T z LPG. aktualne opłaty i przegląd do października.\n\nSamochód jeździ, skręca i hamuje.",
+            "details": {
+                "Model": "9-3",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "280 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h00cpc6s5ffk-PL/image;s=2000x2667"
+        },
         {
             "title": "SAAB 9-5 3.0 V6 177 KM / 350 Nm - 2004 rok",
             "price": "8 900 zł",
@@ -20,6 +123,30 @@
                 "Skrzynia biegów": "Manualna"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fi7eay3gszai3-PL/image;s=1024x768"
+        },
+        {
+            "title": "Mitsubishi Colt 1.1 LPG",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mitsubishi-colt-1-1-lpg-CID5-ID15gQKJ.html",
+            "location": "Warszawa, Wawer",
+            "date": "06 April 2025 o 07:40",
+            "description": "Sprzedam Mitsubishi Colt 1.1 z LPG. \n\nAuto w pełni sprawne, jeździ na obu paliwach. \n\nW zawieszeniu nic nie puka, w zeszłym roku wymienione amortyzatory,  2 letni wydech. Auto posiada hak, wbity w dowód. \n\nSamochód na ładnych letnich oponach z 2021 roku na alufelgach, plus zimowy komplet kol 5 letnich na alufelgach. \n\nSilnik odpala bez problemu,  nie kopci.\n\nElektryczne szyby przód.\n\nOC ważne do 19.08.2025\n\nPrzegląd do 8.11.2025\n\nMa przetarcie na fotelu kierowcy \n\nProszę kontaktować się pod numerem telefonu albo najlepiej przez wiadomości OLX...",
+            "details": {
+                "Model": "Colt",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "288 000 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 124 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/97jz8r3lk3qa3-PL/image;s=1020x765"
         },
         {
             "title": "Na Sprzedaż Mazda 6 2.0B/6-bieg/klima/alu/zadbana/S-VT/super stan/zami",
@@ -42140,31 +42267,6 @@
                 "Kierownica": "po prawej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y0x7zaeinxmq2-PL/image;s=4000x3000"
-        },
-        {
-            "title": "Renault megane scenic 2. 0 benzyna",
-            "price": "4 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-megane-scenic-2-0-benzyna-CID5-ID15gcQE.html",
-            "location": "Lublin",
-            "date": "04 April 2025 o 07:47",
-            "description": "Witam sprzedam megane scenic 2.0 benzyna auto od początku w jednych rękach serwisowane na bieżącą. Więcej proszę o kontakt telefoniczny",
-            "details": {
-                "Model": "Scenic",
-                "Rok produkcji": "2004",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "156 700 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "140 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/esgjcrjepj4d-PL/image;s=1024x768"
         }
     ]
 }
