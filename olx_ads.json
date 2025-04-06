@@ -1,6 +1,57 @@
 {
-    "updated": "2025-04-06 20:53:27.626490",
+    "updated": "2025-04-06 20:58:50.090518",
     "ads": [
+        {
+            "title": "Mazda 3 Mazda 3",
+            "price": "5 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-3-mazda-3-ID6Hihn3.html",
+            "location": "Radom",
+            "date": "06 April 2025 o 20:49",
+            "description": "Mazda 3, rok 2006 r., pierwsza rejestracja w Polsce 2016 r., badania techniczne ważne do 1.07.2025 r., OC do 28.05.2025.\nDotychczas regularnie wymieniany olej i filtr. W sierpniu 2024 r. wymieniona chłodnica klimatyzacji oraz kompresor klimatyzacji.\nDo wymiany sprzęgło oraz do poprawek blacharsko - lakierniczych (widocznych na zdjęciach).\nProszę o kontakt po godzinie 18.",
+            "details": {
+                "Marka pojazdu": "Mazda",
+                "Model pojazdu": "3",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2006",
+                "Generacja": "I (2003-2009)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "105 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Przebieg": "240 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg3Z2N5Mm02cDJldy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Nk9oGJxHic0uQQEIngkn8bC9SUo6UscsCYfW14DaTfw/image"
+        },
+        {
+            "title": "Sprzedam Poloneza",
+            "price": "8 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-poloneza-CID5-ID154q5R.html",
+            "location": "Zgierz",
+            "date": "06 April 2025 o 20:47",
+            "description": "Witam. Mam na sprzedanie Poloneza 1,6, rocznik 1995. Samochód odpala. Opłaty aktualne. Od nowości jeden właściciel. Więcej informacji udzielę telefonicznie.",
+            "details": {
+                "Model": "1.6",
+                "Rok produkcji": "1995",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "65 136 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jj78vldljbix-PL/image;s=1000x750"
+        },
         {
             "title": "1.8 16v grand picasso 7 osobowy",
             "price": "9 999 zł",
@@ -23,6 +74,56 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/g54pznn6ucnv1-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Bogate wyposażenie Highline",
+            "price": "4 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bogate-wyposazenie-highline-CID5-ID15j3Fq.html",
+            "location": "Jartypory",
+            "date": "06 April 2025 o 20:45",
+            "description": "Sprzedam Passata b5.5. Auto jeździ skręca hamuje. Wymienione tarcze klocki przód, oba zaciski hamulcowe tył, 3 uchwytu wydechu, nowa szyba czołowa, nowy silnik wycieraczek wraz z mechanizmem, nowy wentylator nawiewu. Auto na wyposażeniu posiada klimatyzację, komputer pokładowy, xenon (zregenerowane odbłyśniki), podgrzewane fotele, solardach (sprawny) szyberdach. Auto ma problem z szarpaniem. Jadąc stałą prędkością auto poszarpuje, gdy przyspieszamy auto przyspiesza normalnie. Aktualny przegląd i OC. Auto użytkowane na codzień. Po więcej informacji zapraszam do kontaktu telefonicznego. Cena do rozsądnej negocjacji",
+            "details": {
+                "Model": "Passat",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "376 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 898 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b6wne0cdxpf9-PL/image;s=750x1000"
+        },
+        {
+            "title": "Mitsubishi Carisma 1.8gdi",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mitsubishi-carisma-1-8gdi-CID5-ID15j3g5.html",
+            "location": "Brzeziny",
+            "date": "06 April 2025 o 20:45",
+            "description": "Witam posiadam na sprzedaż samochód Mitsubishi Carisma 1.8gdi.Samochod jest sprawny i zadbany wymienione w nim było cale tylne zawieszenie \n\n-dolne wahacze \n\n-tuleje głównych wahaczy \n\n-łączniki stabilizatorów \n\n-górne wahacze \n\noraz w silniku \n\n-świeży rozrząd zmieniany 2tys temu razem z pompa wody i świecami.\n\nSa tez nowe opony  i nowe 4 kołpaki na koła.\n\nOpłaty na samochód są na cały rok,do grudnia 2026r. Samochód ma malo najechane ,sprowadzony z zagranicy w 2010roku  myślę że warty ceny.\n\nZainteresowanych zapraszam do kontaktu.",
+            "details": {
+                "Model": "Carisma",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "223 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Inny",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nufjsp5slzxi3-PL/image;s=1496x1496"
         },
         {
             "title": "Fusion automat lift 1.6 16v",
@@ -20842,32 +20943,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mlazfdlcvoog-PL/image;s=2560x1440"
-        },
-        {
-            "title": "Volvo V50 LIFT ładny stan",
-            "price": "9 990 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volvo-v50-lift-ladny-stan-ID6HidwP.html",
-            "location": "Garwolin",
-            "date": "05 April 2025 o 20:55",
-            "description": "Volvo V50 LIFT\nZarejestrowane 04.2025 przegląd. 04.2025 OC\n250tys.km przebieg\nOd pierwszego właściciela\nFul Opcja\nAbs\nAir bag\nTc\nKlimatyzacja\nWspomaganie\nEl szyby\nEl lusterka\nEl reg świateł\nHalogeny\nHak\nSkórzana tapicerka\nAlufelgi\nKomputer pokładowy\nRelingi\nRoleta\nPełen komplet dokumentów\nŚrodek bardzo dob zadbany nie poniszczony czysty kompletny\nWizualnie auto w świetnej kondycji lakier nie poniszczony bez oznak korozji\nNa bieżaco wszystko robione\nWięcej szczegółów pod numerem telefonu",
-            "details": {
-                "Marka pojazdu": "Volvo",
-                "Model pojazdu": "V50",
-                "Kolor": "Niebieski",
-                "Liczba drzwi": "5",
-                "Rok produkcji": "2008",
-                "Rodzaj paliwa": "Diesel",
-                "Pojemność skokowa": "1 560 cm3",
-                "Moc": "109 KM",
-                "Typ nadwozia": "Kombi",
-                "Skrzynia biegów": "Manualna",
-                "Przebieg": "250 000 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1qb210MTlwcGFkbzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.yWTrxYpZrmBwCyw1yALfCZDk7zAkNpegbuEhTjKe1pM/image"
         }
     ]
 }
