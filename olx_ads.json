@@ -1,6 +1,104 @@
 {
-    "updated": "2025-04-06 17:52:18.456823",
+    "updated": "2025-04-06 17:57:29.433024",
     "ads": [
+        {
+            "title": "Citroen C4 2.0 177 vts +LPG",
+            "price": "1 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c4-2-0-177-vts-lpg-CID5-ID15iTcy.html",
+            "location": "Łochów",
+            "date": "06 April 2025 o 17:52",
+            "description": "Witam sprzedam C4 z 2005 \n\nAuto z uszkodzonym silnikiem (pękł rozrząd w czasie jazdy) \n\nPiąty bieg wibruje z nie wiadomych przyczyn\n\nPrawy xenon pęknięty \n\nReszta ok",
+            "details": {
+                "Model": "C4",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "305 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "177 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sncipbzkp59l2-PL/image;s=2000x2664"
+        },
+        {
+            "title": "Opel Astra G 1.2",
+            "price": "3 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-g-1-2-CID5-ID15iSYe.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "06 April 2025 o 17:48",
+            "description": "Witam, sprzedam Opla Astrę G z silnikiem 1.2. Rocznik 1998. Auto służyło na dojazdy do pracy, przebieg auta oryginalny 196 583, stan auta adekwatny do wieku więc jeżeli szukasz stanu igły nie zawracajmy sobie głowy. W ostatnim czasie zrobimy serwis olejowo filtrowy. Auto posiada nowe opony wielosezonowe. Oc do września 2025 przegląd aktualny. Odpala od strzała jeździ skręca hamuje. Ma kilka widocznych obtarć i przetarty fotel kierowcy. Mechanicznie auto chodzi bez zarzutów. Aktualnie bez wkładu finansowego. Do obejrzenia w Warszawie na Pradze południe.",
+            "details": {
+                "Numer VIN": "W0L0TGF48X6050937",
+                "Model": "Astra",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "196 583 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 199 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "65 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jnhdnjj0ylq71-PL/image;s=750x1000"
+        },
+        {
+            "title": "Opel Astra H 1.4 benzyna",
+            "price": "6 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-h-1-4-benzyna-CID5-ID15iSHz.html",
+            "location": "Radom",
+            "date": "06 April 2025 o 17:48",
+            "description": "Witam\n\nPosiadam do sprzedania Opel Astra H 1.4 benzyna . Posiada przegląd techniczny ważny do 07.02.2026r.\n\nUbezpieczenie OC ważne do 02.02.2026r.\n\nSamochód bezwypadkowy. Stan techniczny dobry , wszelkie naprawy robione na bieżąco. \n\nPo dalsze informacje zapraszam do kontaktu \n\nNr. 73*****43",
+            "details": {
+                "Numer VIN": "W0L0AHL4858020804",
+                "Model": "Astra",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "217 425 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 364 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w6zhkekx0b8r1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Ford Galaxy, 2004 r., diesel,  sprawny",
+            "price": "3 400 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-galaxy-2004-r-diesel-sprawny-CID5-ID15iSsv.html",
+            "location": "Ksawerów",
+            "date": "06 April 2025 o 17:46",
+            "description": "Ford Galaxy, 1.9 TDI, 2004 r., samochód sprawny, klima działa. \n\nPrzegląd, ubezpieczenie OC aktualne.",
+            "details": {
+                "Model": "Galaxy",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "301 041 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 896 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "115 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2x2042ahwj7d-PL/image;s=521x1156"
+        },
         {
             "title": "Renault Megane 1.6 Hak ZAMIANA",
             "price": "6 500 zł",
@@ -22,6 +120,54 @@
                 "Moc silnika": "112 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cseaadrqr5vb2-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Audi A2 1.4 TDI klimatyzacja",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/audi-a2-1-4-tdi-klimatyzacja-CID5-ID13Pxm7.html",
+            "location": "Tomaszów Mazowiecki",
+            "date": "06 April 2025 o 17:45",
+            "description": "Witam sprzedam Audi A2 które posiadam od ponad 10 lat . Auto posiada sprawna klimatyzacje , stan blacharski bdb, elektryczne szyby przód , wspomaganie kierownicy , ABS, Airbag, elektryczne lusterka , radio , alufelgi . Silnik oraz skrzynia działaj prawidłowo . Zawieszenie bez stuków. Opony wielosezonowe. Rozrząd zrobiony 20 tys temu . Ładne hamulce . Po wymianie filtrów oraz oleju. PT luty 2026, OC-27.05.2025. Etui oraz książki . 2 komplety kluczyków .",
+            "details": {
+                "Model": "A2",
+                "Rok produkcji": "2001",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "285 400 km",
+                "Kolor": "Czarny",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "75 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/03o5yan68drn1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Toyota Aygo/1,0 VVTI benzyna/Klimatyzacja/ Idealna do jazdy",
+            "price": "7 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-aygo-1-0-vvti-benzyna-klimatyzacja-idealna-do-jazdy-CID5-ID15iSIp.html",
+            "location": "Dębe Wielkie",
+            "date": "06 April 2025 o 17:45",
+            "description": "SPRZEDAM!!!\n\n\n\nToyota Aygo 1.0 VVTI benz.68KM\n\nRok produkcji 2007\n\nPrzebieg 201000 km\n\nStan Bardzo Dobry \n\n3 drzwi.\n\nBez wkładu finansowego.\n\nIdealny do jazdy i na dojazdy \n\n\n\nSilnik pracuję bardzo dobrze.\n\nŚwieżo po wymianie oleju i filtrów \n\nSkrzynia biegów i sprzęgło działają prawidłowo.\n\nZawieszenie płynnie pokonuje nierówności.\n\nBardzo ładny lakier.\n\nŚrodek czysty i zadbany. \n\nWszystkie wymiany i naprawy robione na czas.\n\nKlimatyzacja działa.\n\n\n\nAktualny przegląd i ubezpieczenie\n\n\n\nSamochód używany nosi normalne ślady użytkowania.\n\n\n\nMożliwa zamiana \n\n\n\nProszę o kontakt 517##506##292",
+            "details": {
+                "Model": "Aygo",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "201 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "68 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zznsl2xoh9oq3-PL/image;s=699x489"
         },
         {
             "title": "Mazda mx-3 silnik 1.8 v6 -800zl.",
@@ -121,6 +267,32 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imxjd2Frd3MxdmthYTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.xYo-O6-GGEq0Lo1loEpGzKNgeIQmRUp-kSfYZ9EtAh0/image"
+        },
+        {
+            "title": "Samochody osobowe",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/samochody-osobowe-CID5-ID15iQVz.html",
+            "location": "Drzewica",
+            "date": "06 April 2025 o 17:42",
+            "description": "Witam . Mercedes benz 2.0 benzyna +lpg więcej informacji udzielę pod numerem 72*****66 cena do negocjacji",
+            "details": {
+                "Numer VIN": "WDB2100351A672645",
+                "Model": "E Klasa",
+                "Rok produkcji": "1998",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "310 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "137 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jrf0ebm67jjs-PL/image;s=867x1156"
         },
         {
             "title": "Suzuki Swift klimatyzacja",
@@ -19818,43 +19990,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rfvzu1h3r8b82-PL/image;s=765x1020"
-        },
-        {
-            "title": "Skoda Octavia Skoda Octavia II 1.9 TDI 105KM Bogate wyposażenie Serwisowany Salon PL",
-            "price": "7 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-octavia-skoda-octavia-ii-1-9-tdi-105km-bogate-wyposazenie-serwisowany-salon-pl-ID6HfN5I.html",
-            "location": "Łódź, Górna",
-            "date": "05 April 2025 o 17:53",
-            "description": "Sprzedam Skodę Octavie II z 2005 roku wyposażoną w trwałą i ekonomiczną jednostkę 1,9TDI o mocy 105KM. Samochód pochodzi z Polskiego salonu i był na bieżąco serwisowany. Wizualnie tak jak fotkach nosi normalne ślady użytkowania. Samochód posiada dość bogate wyposażenie i wszystko działa. Auto posiada aktualne ubezpieczenie OC i badanie techniczne do końca grudnia 2025. Technicznie wszystko w jak najlepszym porządku nic nie stuka nie puka. Do auta dokładam drugi komplet kół na zimówkach. Więcej informacji udzielę telefonicznie \nWyświetl numer\n.",
-            "details": {
-                "Marka pojazdu": "Skoda",
-                "Model pojazdu": "Octavia",
-                "Wersja": "1.9 TDI Elegance",
-                "Kolor": "Złoty",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2005",
-                "Generacja": "II (2004-2013)",
-                "Rodzaj paliwa": "Diesel",
-                "Pojemność skokowa": "1 896 cm3",
-                "Moc": "105 KM",
-                "Typ nadwozia": "Sedan",
-                "Rodzaj koloru": "Metalik",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "137 g/km",
-                "Spalanie W Mieście": "6 l/100km",
-                "Spalanie Poza Miastem": "4.0 l/100km",
-                "Kraj pochodzenia": "Polska",
-                "Przebieg": "349 900 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak",
-                "Serwisowany w ASO": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVlam41eXBmZjg5azItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.c6gy9O3wex5DdKKEQ3Lm_GjGDo9XLOM_pZfVwg9e4hw/image"
         }
     ]
 }
