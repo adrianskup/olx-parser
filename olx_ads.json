@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-06 07:51:17.792845",
+    "updated": "2025-04-06 07:56:30.459385",
     "ads": [
+        {
+            "title": "Opel Vectra 2007 r,kombi ,184 km,mocna,full opcja",
+            "price": "8 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-vectra-2007-r-kombi-184-km-mocna-full-opcja-CID5-ID14uv1v.html",
+            "location": "Warszawa, Ursynów",
+            "date": "06 April 2025 o 07:48",
+            "description": "Opel Vectra 10,2007 ,3,0 V6 ,184 km,przebieg 273 tys km,10 lat w Polsce ,blacha ok ,ma ryski i małe wgniotki na klapie ,progi podłoga zdrowa,silnik suchy ma moc ,wymienione filtry,olej,czyszczony EGR,brak klapek wirowych,ma dużą moc w trasie spala ok 7,5 litra ,skrzynia płynnie zmienia biegi,opcja sport,zawieszenie robione rok temu,spręzyny przód,amorki gazowe,hamulce wymieniono tarcze klocki przód,tył,fele 17 tki opony 225/50r17 ładne,środek zadbany,jest to najbogatsze wersja wyposażenia,8 się bag,biksenon skrętny,kamera przód,tył,nagrywa,szyber dach elektr.,klapa tył elektr.,skóra całościową,podgrzewane fotele,nawi kolorowa,OC do 01,2026,przegląd 06,2025,polecam jestem wlascicielem",
+            "details": {
+                "Model": "Vectra",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "275 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "3 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "184 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0lbaha6ozmdr1-PL/image;s=1020x768"
+        },
         {
             "title": "Toyota Corolla 2003r. 1.6 kombi Klimatyzacja",
             "price": "3 999 zł",
