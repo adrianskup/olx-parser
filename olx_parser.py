@@ -180,7 +180,7 @@ def get_olx_ads():
             location, date = parse_location_date(location_date)
             date = date if date else "01 January 2000"
             ad_date = convert_date_to_datetime(date)
-            if ad_date < datetime.datetime.now() - datetime.timedelta(days=3):
+            if ad_date < datetime.datetime.now() - datetime.timedelta(days=1):
                 continue
             ads.append({
                 "title": title, "price": price, "negotiable": negotiable,
@@ -220,7 +220,7 @@ def update_ads():
 
     now = datetime.datetime.now()
     filtered_ads = [ad for ad in ads_dict.values()
-                    if convert_date_to_datetime(ad["date"]) >= now - datetime.timedelta(days=2)]
+                    if convert_date_to_datetime(ad["date"]) >= now - datetime.timedelta(days=1)]
 
     filtered_ads.sort(key=lambda x: convert_date_to_datetime(x["date"]), reverse=True)
     save_data_to_json(filtered_ads)
