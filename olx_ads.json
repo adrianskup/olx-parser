@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-06 04:43:30.812472",
+    "updated": "2025-04-06 04:54:12.325646",
     "ads": [
+        {
+            "title": "Sprzedam samochód Peugeot 207 1.4 hdi rok 2007.",
+            "price": "5 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-peugeot-207-1-4-hdi-rok-2007-CID5-IDZXO9a.html",
+            "location": "Łomianki",
+            "date": "06 April 2025 o 04:46",
+            "description": "Witam sprzedam Peugeota 207 1.4 hdi 2007 rok. Samochód sprawny. Kierowca kobieta. Klimatyzacja w pełni sprawna i nabita. Na bieżąco jest wymieniany olej, filtry. Auto nie sprawiało żadnych problemów. Przegląd ważny do września OC ważne do lipca. Zmieniam tylko ze względu, iż potrzebuję 5-cio drzwiowy. Zapraszam do zakupu.",
+            "details": {
+                "Numer VIN": "VF3WA8HZC33763003",
+                "Model": "207",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "349 161 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 398 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "68 KM",
+                "Kierownica": "po prawej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rn8tkmc73j282-PL/image;s=1536x2048"
+        },
         {
             "title": "Volkswagen Polo",
             "price": "6 900 zł",
