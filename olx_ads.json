@@ -1,6 +1,199 @@
 {
-    "updated": "2025-04-06 11:43:26.828361",
+    "updated": "2025-04-06 11:49:02.918905",
     "ads": [
+        {
+            "title": "Volkswagen Polo 1.2",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-polo-1-2-CID5-ID14VvOC.html",
+            "location": "Zgierz",
+            "date": "06 April 2025 o 11:44",
+            "description": "Sprzedam Volkswagen Polo 1.2 benzyna auto w stanie bardzo dobrym silnik suchy bez wycieków pracuje równo i cicho zawieszenie bez stuków środek czysty \n\nKaruseria bez rdzy czy dziur \n\nUbezpieczenie oraz przegląd do 20/01/2026 \n\n\n\nWięcej informacji udzielę telefonicznie \n\n\n\nOgłoszenie grzecznościowe",
+            "details": {
+                "Model": "Polo",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "199 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/010t8znfw4tx1-PL/image;s=3024x4032"
+        },
+        {
+            "title": "Audi A4b6 2.0 alt",
+            "price": "5 400 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4b6-2-0-alt-CID5-ID14P6i6.html",
+            "location": "Skrzyszew",
+            "date": "06 April 2025 o 11:42",
+            "description": "Przedmiotem sprzedaży jest audi A4b6 2.0 alt z 2000 roku.  Przegląd ważny do 14.08.2025. OC 14.08.2025. wymieniony rozrząd na którym zostało zrobione około 10tys. Auto posiada normalne ślady eksploatacji. Aktualnie do wymiany czujnik poziomu oleju. Samochód jest obecnie na oponach zimowych. Są też do niego opony letnie na felgach aluminiowych widocznych na zdjęciu. Więcej informacji udzielę telefonicznie pod numerem telefonu 51*****64",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "214 461 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 997 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "131 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h75fip5fp4k83-PL/image;s=1040x585"
+        },
+        {
+            "title": "Peugeot 207 SW 1.4 VTi",
+            "price": "9 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-207-sw-1-4-vti-CID5-ID15ijbS.html",
+            "location": "Mysłaków",
+            "date": "06 April 2025 o 11:42",
+            "description": "Oferuję na sprzedaż Peugeot 207 SW z 2008 roku w dobrym stanie technicznym i wizualnym. Auto jest zadbane, regularnie serwisowane i gotowe do jazdy. W trakcie eksplantacji dokonywane były regularne naprawy. Między innymi naprawa silnika wynikająca z dużego poboru oleju, wymieniony ECU, wymieniony BSM. \n\n\n\nWyposażenie:\n\n- klimatyzacja automatyczna dwustrefowa\n\n- sterownie radiem z kierownicy\n\n- podgrzewane fotele - fotel pasażera nie podgrzewa się\n\n- automatyczne wycieraczki\n\n- panoramiczny dach\n\n- instalacja gazowa",
+            "details": {
+                "Numer VIN": "VF3WE8FSC34229605",
+                "Model": "207",
+                "Rok produkcji": "2008",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "204 169 km",
+                "Kolor": "Brązowy – Beżowy",
+                "Poj. silnika": "1 397 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "95 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/162pypmp67761-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Audi A3 8P 2004 rok 180km Klimatyzacja",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a3-8p-2004-rok-180km-klimatyzacja-CID5-ID15ijwU.html",
+            "location": "Ciechanów",
+            "date": "06 April 2025 o 11:42",
+            "description": "Witam, sprzedam audi a3 8p, 2004 rok, 2.0tdi 140km po mapie na ok 180km. \n\nMechanicznie sprawny, oleje i filtry wymieniane na czas.\n\nWizualnie do poprawek lakierniczych, ogniska korozji widoczne na zdjęciach.\n\nPT do 10.2025\n\nOC do 12.2025\n\nCeną do negocjacji.",
+            "details": {
+                "Model": "A3",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "322 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 968 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "140 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/517w28v5iqbu-PL/image;s=1000x750"
+        },
+        {
+            "title": "Sprzedam zadbane auto z małym przebiegiem",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-zadbane-auto-z-malym-przebiegiem-CID5-ID15ieLs.html",
+            "location": "Filipówka",
+            "date": "06 April 2025 o 11:41",
+            "description": "Witam sprzedam opla Merivę samochód bardzo zadbany sprowadzony w 2021 roku z Niemiec i od tamtej pory auto w jednych rękach dodatkowo komplet kół letnich na alufelgach Meriva ma przejechane 153 tys km w ostatnim czasie wymienione klocki przód i tył 500 km temu obsługa olejowa nabita klimatyzacja auto posiada rozrząd na łańcuszku",
+            "details": {
+                "Numer VIN": "w0l0xce7564093584",
+                "Model": "Meriva",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "153 215 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "80 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mv3bszbihzep-PL/image;s=1024x768"
+        },
+        {
+            "title": "1.8 benyna+ gaz Dwa komplety kół Zarejestrowany",
+            "price": "9 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/1-8-benyna-gaz-dwa-komplety-kol-zarejestrowany-CID5-ID15ijpN.html",
+            "location": "Węgrów",
+            "date": "06 April 2025 o 11:41",
+            "description": "Witam,\n\nsprzedam Peugeot 407 \n\n1.8 benzyna + gaz sekwencja\n\nRok produkcji 2005\n\n\n\nAuto Zarejestrowane i Ubezpieczone!!\n\nSilnik i zawieszenie w bardzo dobrej kondycji!\n\nBardzo ekonomiczny! \n\nDwa komplety opon z alufelgami \n\nSprawna klimatyzacja!\n\nRozrząd wymieniony przy 245 tyśkm \n\nButla gazowa ważna do końca 2029 roku!\n\n\n\nZapraszam na oględziny do Węgrowa!",
+            "details": {
+                "Model": "407",
+                "Rok produkcji": "2005",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "265 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ohebcdf625gz-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Yaris 1.0 2007r",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-yaris-1-0-2007r-CID5-ID15ijqd.html",
+            "location": "Warszawa, Targówek",
+            "date": "06 April 2025 o 11:41",
+            "description": "Sprzedam Toyotę Yaris 1.0 2006 rok. Samochód posiada klimatyzację, wspomaganie kierownicy, elektryczne szyby, centralny zamek, kamerę z przodu. Po wymianie sprzęgła, tarcz, klocków przód i tył, zawieszenia z przodu, spod zakonserwowany, na oponach wielosezonowych, bez korozji, środek czysty, zadbany, długie opłaty.",
+            "details": {
+                "Model": "Yaris",
+                "Rok produkcji": "2007",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "190 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "65 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dvs7ye5ld3p52-PL/image;s=2000x1500"
+        },
+        {
+            "title": "OpelAstra II -sprzedam",
+            "price": "2 200 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opelastra-ii-sprzedam-CID5-ID15ij5L.html",
+            "location": "Mława",
+            "date": "06 April 2025 o 11:41",
+            "description": "Sprzedam Opel Astra II,  rok 2003, silniki 1.2. ,75KM , z gazem. Do porawek lakierniczych. Więcej informacji pod nr tel.",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "320 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6e90ms5b9osl2-PL/image;s=1131x848"
+        },
         {
             "title": "Toyota Yaris diesel silnik 1.4 d4d rok produkcji 2005",
             "price": "7 500 zł",
@@ -51,6 +244,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lbq5z36568yc-PL/image;s=1599x777"
+        },
+        {
+            "title": "Skoda Fabia 1.4 16V benzyna + gaz",
+            "price": "7 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4-16v-benzyna-gaz-CID5-ID15iiMt.html",
+            "location": "Sierpc",
+            "date": "06 April 2025 o 11:34",
+            "description": "Witam, sprzedam SKODĘ FABIĘ z 2004 roku, 1.4 16V 75 KM benzyna + instalacja gazowa. Stan pojazdu bardzo dobry. Samochód sprawny, zadbany, użytkowany na bieżąco. Idealny na dojazdy do pracy. Średnie spalanie gazu na poziomie około 7,5 l/100 km.\n\nWyposażenie samochodu: klimatyzacja manualna (sprawna, odgrzybiona), wspomaganie kierownicy,\n\ncentralny zamek (otwierany z pilota), podgrzewane przednie fotele, kontrola trakcji (ASR), komputer pokładowy, elektrycznie otwierane szyby przednie, elektrycznie sterowane lusterka, podgrzewane lusterka, radio fabryczne, oryginalne felgi aluminiowe 14-calowe.\n\n\n\nAktualny przebieg - 258 tys. km.\n\nOC ważne do 28.07.2025 r.\n\nBadanie techniczne ważne do 24.07.2025 r.\n\n\n\nKontakt: 5-1-1-2-7-8-7-4-5",
+            "details": {
+                "Model": "Fabia",
+                "Rok produkcji": "2004",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "258 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 390 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qsalsdb503ih1-PL/image;s=2048x1536"
         },
         {
             "title": "Audi A4 b6 Avant 2.4",
@@ -43545,70 +43762,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1cdhnymh6vq92-PL/image;s=750x1000"
-        },
-        {
-            "title": "Vectra Gaz 1.8 Klimatyzacja",
-            "price": "3 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/oferta/vectra-gaz-1-8-klimatyzacja-CID5-ID15gs2u.html",
-            "location": "Żelków-Kolonia",
-            "date": "04 April 2025 o 11:46",
-            "description": "Witam \n\nOpel  Vectra \n\n1.8 Gaz\n\n2002r\n\nManual \n\nPrzebieg 220000 km\n\nHak\n\nBez korozji \n\n\n\nAuto super jeździ, malutko pali a jest bardzo przestronne i wygodne. \n\n\n\nPrzegląd I OC na rok.\n\n\n\nZapraszam do Żelkow Kolonia Siedlecka 18\n\n\n\n79*******43 \n\n51*******15",
-            "details": {
-                "Model": "Vectra",
-                "Rok produkcji": "2002",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "220 000 km",
-                "Kolor": "Srebrny",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yee6zjyfzzob-PL/image;s=1020x768"
-        },
-        {
-            "title": "Vectra Gaz 1.8 Klimatyzacja",
-            "price": "3 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/vectra-gaz-1-8-klimatyzacja-CID5-ID15gs2u.html",
-            "location": "Żelków-Kolonia",
-            "date": "04 April 2025 o 11:46",
-            "description": "Witam \n\nOpel  Vectra \n\n1.8 Gaz\n\n2002r\n\nManual \n\nPrzebieg 220000 km\n\nHak\n\nBez korozji \n\n\n\nAuto super jeździ, malutko pali a jest bardzo przestronne i wygodne. \n\n\n\nPrzegląd I OC na rok.\n\n\n\nZapraszam do Żelkow Kolonia Siedlecka 18\n\n\n\n79*******43 \n\n51*******15",
-            "details": {
-                "Model": "Vectra",
-                "Rok produkcji": "2002",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "220 000 km",
-                "Kolor": "Srebrny",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yee6zjyfzzob-PL/image;s=1020x768"
-        },
-        {
-            "title": "Golf 4 1.6 Sprzedam !",
-            "price": "2 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/oferta/golf-4-1-6-sprzedam-CID5-ID15grYw.html",
-            "location": "Tomaszów Mazowiecki",
-            "date": "04 April 2025 o 11:44",
-            "description": "Witam. Sprzedam widocznego na zdjęciach golfa 4 1.4 benzyna z 2001r.\n\nAuto sprawne w ciągłym użytku. Silnik dobrze odpala, pracuje równo, nie kopci ale trzeba uzupełniać płyn od wspomagania bo gdzieś ucieka. Zawieszenie w dobrym stanie, auto jedzie prosto bez wydawania nieporządanych dźwięków. Karoseria w bardzo ładnym stanie z delikatnymi nalotami korozji na dołach przednich błotników. Spód auta zdrowy, progi i podła bez dziur. Środek czysty zadbany, w aucie nigdy nie było palone. Na samochodzie ładne opony letnie.\n\n\n\nWyposażenie :\n\n\n\n-Abs\n\n-Airbag \n\n-El szyby\n\n-El lusterka \n\n-Klimatyzacja \n\n-Radio USB/AUX\n\n-Centralny zamek\n\n-Wspomaganie kierownicy\n\n\n\nOC 23.02.2026r. Przegląd 27.05.2025r.\n\nCena do negocjacji!",
-            "details": {
-                "Model": "Golf",
-                "Rok produkcji": "2000",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "252 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "1 600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/c9i2qhxfa1et-PL/image;s=867x1156"
         }
     ]
 }
