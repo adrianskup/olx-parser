@@ -1,6 +1,32 @@
 {
-    "updated": "2025-04-06 23:41:07.935247",
+    "updated": "2025-04-06 23:46:29.294493",
     "ads": [
+        {
+            "title": "PT Cruiser, czarny, 1,6 benzyna, manual, 2002r.",
+            "price": "2 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/pt-cruiser-czarny-1-6-benzyna-manual-2002r-CID5-ID15j7u4.html",
+            "location": "Milanówek",
+            "date": "06 April 2025 o 23:37",
+            "description": "Roczny akumulator, Opony wielosezonowe przejechały 1000 km. Samochód pali na dotyk, jeździ, ma ważny przegląd i ubezpieczenie. Ma hak. W silniku niestety coś stuka. Może panewka, może coś innego.",
+            "details": {
+                "Numer VIN": "1C8FEN8FX2U549846",
+                "Model": "PT Cruiser",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "150 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "85 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kym9nxnp8ytw-PL/image;s=2000x2673"
+        },
         {
             "title": "Renault Kangoo 1.9 diesel, niski przebieg!",
             "price": "3 300 zł",
