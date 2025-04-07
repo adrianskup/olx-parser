@@ -197,7 +197,7 @@ def get_olx_ads():
 
 def load_existing_data():
     try:
-        with open("olx_ads.json", "r", encoding="utf-8") as f:
+        with open("testtest.json", "r", encoding="utf-8") as f:
             data = json.load(f)
             return data.get("ads", [])
     except FileNotFoundError:
@@ -205,7 +205,7 @@ def load_existing_data():
 
 def save_data_to_json(ads):
     data = {"updated": str(datetime.datetime.now()), "ads": ads}
-    with open("olx_ads.json", "w", encoding="utf-8") as f:
+    with open("testtest.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 def update_ads():
