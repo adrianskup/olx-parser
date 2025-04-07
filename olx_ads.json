@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-07 20:35:05.599667",
+    "updated": "2025-04-07 20:38:33.191758",
     "ads": [
         {
             "title": "Citroën C3 Picasso Pierwszy właściciel w Polsce",
@@ -32,6 +32,37 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtpbW42MW9pa3N4NS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.y1KPxW-4Oy6SqvSPe1UOXh8ONHJdR2FreUsmQs4V1pA/image"
+        },
+        {
+            "title": "Volkswagen Passat Volkswagen Passat B6",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-volkswagen-passat-b6-ID6Hf6Vt.html",
+            "location": "Dęblin",
+            "date": "07 April 2025 o 20:32",
+            "description": "Sprzedam Volkswagen Passat B6 2.0TDI 2006r. Auto w moim posiadaniu od dwóch lat. Wcześniejszy właściciel miał go 12 lat (dostępna karta pojazdu). Samochód w ciągłej eksploatacji. Wszystkie naprawy robione na bieżąco. Oleje i filtry wymieniane systematycznie co 10 tysięcy km. OC ważne do 24.05.2025",
+            "details": {
+                "Marka pojazdu": "Volkswagen",
+                "Model pojazdu": "Passat",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2006",
+                "Generacja": "B6 (2005-2010)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 968 cm3",
+                "Moc": "140 KM",
+                "Typ nadwozia": "Sedan",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Przebieg": "312 500 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF1NWczMWhndzJzdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.4hTeE-vfxB5Rc2qlAnAUrMExnB9vw1vDfs5mgAldoCs/image"
         },
         {
             "title": "Citroen xsara picasso 1.8",
@@ -107,6 +138,28 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVzZHRoZGQ3NHNyYTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.TA7nxWojgmyurWNJhNtI7Rdam-wwlOmSdhETH_DAiPE/image"
         },
         {
+            "title": "Sprzedam Peugota 407",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-peugota-407-CID5-ID15kh54.html",
+            "location": "Białobrzegi",
+            "date": "07 April 2025 o 20:29",
+            "description": "Dzień dobry mam do sprzedania peugeot 407 1.6 hdi 2010 rok. Samochód ma już swoje lata ale cały czas jeździ nigdy mnie nie zawiódł Ma swoje mankamenty gdzieś zarysowany gdzieś delikatnie uderzony , nie jest to nowe auto. Caly czas jest w eksploatacji, w ostatnim czasie wymieniony kompletny rozrząd. OC i przegląd ważn. Resztę informacji udzielę telefonicznie.",
+            "details": {
+                "Model": "4007",
+                "Rok produkcji": "2010",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "294 800 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7i6pffbo32i73-PL/image;s=1000x750"
+        },
+        {
             "title": "Hyundai i30 2009",
             "price": "9 000 zł",
             "negotiable": true,
@@ -148,6 +201,29 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ivfzo4c39mte2-PL/image;s=1905x1429"
+        },
+        {
+            "title": "Opel astra H 1.6 benzyna, niezawodna! Oplaty gratis!",
+            "price": "8 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-h-1-6-benzyna-niezawodna-oplaty-gratis-CID5-ID15fYHu.html",
+            "location": "Grudusk",
+            "date": "07 April 2025 o 20:27",
+            "description": "Dzień dobry,\n\nSprzedam Astrę H 1.6 benzyna z 2005r. Stan auta oceniam na bardzo dobry. Mechanicznie wszystkie podzespoły działają bez zarzutu. Silnik pracuje równo i cicho, zawieszenie sztywne, dobrze się prowadzi.Wizualnie nosi normalne ślady użytkowania bez większych rys czy otarć, środek czysty i zadbany.\n\nWyposażenie:\n\nABS\n\nWspomaganie\n\nEl szyby \n\nEl lusterka\n\nKlimatyzacja\n\nTempomat\n\nIsofix\n\nCD radio\n\nAlufelgi\n\n2 kluczyki\n\nItd.\n\nCena zawiera opłaty celno-skarbowe, żadnych ukrytych kosztów!\n\nDostawa pod dom gratis!\n\nZapraszam: 6.6.3-2.2.6-0.0.0.",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "192 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "105 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9t186spvwhtd1-PL/image;s=1000x750"
         },
         {
             "title": "Opel Astra G 2.0 DI 1998",
@@ -671,6 +747,31 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw3cm5uYXQ4MHg2bC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fP4LjIbj_lwiLXypvMY3zWdbjRX4XxI6cSwsROG-8ww/image"
+        },
+        {
+            "title": "Opel Zafira A 1.8 benz.gaz.",
+            "price": "4 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-a-1-8-benz-gaz-CID5-ID15kfut.html",
+            "location": "Sołtyków",
+            "date": "07 April 2025 o 20:02",
+            "description": "Witam \n\nSprzedam Opla Zafira 1.8 benzyna gaz auto w dobrym stanie technicznym, wersja 7-osobowa, sprawna klimatyzacja, nowe opony. \n\nAuto posiada ważne ubezpieczenie oraz przegląd. \n\nWyposażenie: klimatyzacja, oryginalne radio, wszystkie szyby elektryczne, elektryczne lusterka, centralny zamek, światła przeciwmgłowe przednie i tylne, komputer pokładowy, tempomat, wspomaganie kierownicy, ABS ESP. \n\nSerdecznie zapraszam do kontaktu telefonicznego i jazdy próbnej.",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "290 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Belgia",
+                "Moc silnika": "125 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h190wemw7oo53-PL/image;s=640x480"
         },
         {
             "title": "Honda Civic 1.4 Benzyna 90 KM 2003R StanBDB",
@@ -21835,89 +21936,6 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/d15lqswp2j3m3-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Ford Fiest 1,4 benzyna , 80 KM, bardzo ładne auto",
-            "price": "9 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ford-fiest-1-4-benzyna-80-km-bardzo-ladne-auto-CID5-ID15j3hG.html",
-            "location": "Łęg Przedmiejski",
-            "date": "06 April 2025 o 20:37",
-            "description": "Witam sprzedam świetne miejskie auto którym jest Ford Fiesta VI MK6\n\n-1388 cm3 - pojemność\n\n-benzyna - rodzaj silnika\n\n-80KM- moc\n\n-2006r - rok\n\n-223000km- przebieg ( udokumentowany)\n\n-świeżo sprowadzony z Niemiec\n\n- bezwypadkowy\n\n\n\nTanie auto w utrzymaniu bez wkładu finansowego. Spalanie bardzo małe 4,5 L na 100km.\n\nSamochód prezentuje sie bardzo dobrze silnik pracuje równo, brak wycieków.\n\nŚrodek ładny pachnący nie zniszczony.\n\nLakier bardzo dobrze utrzymany bez przetarć lub wgniotek. Brak korozji, nadkola progi nie pordzewiałe. Hamownia w dobrym stanie, zawieszenie pracuje bardzo dobrze.\n\n\n\nZapraszam na oględziny i jazdę próbną:)",
-            "details": {
-                "Model": "Fiesta",
-                "Rok produkcji": "2006",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "223 790 km",
-                "Kolor": "Zielony",
-                "Poj. silnika": "1 388 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Moc silnika": "80 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gbbxjm84miyb2-PL/image;s=1000x750"
-        },
-        {
-            "title": "Opel Insignia Okazja !!",
-            "price": "9 999 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/opel-insignia-okazja-ID6Gfbea.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 April 2025 o 20:37",
-            "description": "Opel Insignia \n\nRok Produkcji 2015 \n\nUszkodzony jak na zdjęciach .",
-            "details": {
-                "Marka pojazdu": "Opel",
-                "Model pojazdu": "Insignia",
-                "Wersja": "2.0 CDTI Cosmo ecoFLEX S&S",
-                "Kolor": "Srebrny",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2015",
-                "Generacja": "A (2008-2017)",
-                "Rodzaj paliwa": "Diesel",
-                "Pojemność skokowa": "1 956 cm3",
-                "Moc": "140 KM",
-                "Typ nadwozia": "Kombi",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "104 g/km",
-                "Spalanie W Mieście": "5 l/100km",
-                "Spalanie Poza Miastem": "3.0 l/100km",
-                "Przebieg": "360 000 km",
-                "Stan": "Używany",
-                "Uszkodzony": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw4cjF0bG03cTJiajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.2mQODPQCon-MgKxySZKNU5Z-ral6Q2VBVqIP4wAjMoM/image"
-        },
-        {
-            "title": "Toyota Corolla E12 - 2003 r., (1,6 - benzyna, przebieg 285 tys.)",
-            "price": "3 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/toyota-corolla-e12-2003-r-1-6-benzyna-przebieg-285-tys-CID5-ID15j3e6.html",
-            "location": "Sulejówek",
-            "date": "06 April 2025 o 20:36",
-            "description": "Sprzedam Toyotę Corollę E12 (rocznik 2003):  \n\n\n\n- przebieg: ok. 285 tys., \n\n- silnik: 1,6 \n\n- benzyna,\n\n- OC: opłacone do połowy kwietnia, \n\n- przegląd: ważny do połowy maja.\n\n\n\nWyposażenie: poduszki powietrzne dla kierowcy i pasażera, ABS, EBD, elektryczne sterowanie szyb przednich, wspomaganie kierownicy, regulacja wysokości fotela kierowcy, składana tylna kanapa, centralny zamek, radio z bluetooth, kamerka cofania (trzeba doprowadzić kabel, bo został przerwany).\n\n\n\n3500 zł",
-            "details": {
-                "Model": "Corolla",
-                "Rok produkcji": "2003",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "285 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "110 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5h372s9vm6tb2-PL/image;s=2252x1558"
         }
     ]
 }
