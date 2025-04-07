@@ -1,6 +1,54 @@
 {
-    "updated": "2025-04-07 05:50:58.554549",
+    "updated": "2025-04-07 05:56:15.192164",
     "ads": [
+        {
+            "title": "Sprzedam A4  b7  z 2007, 177 kM",
+            "price": "10 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-a4-b7-z-2007-177-km-CID5-ID15j9GQ.html",
+            "location": "Ciechanów",
+            "date": "07 April 2025 o 05:48",
+            "description": "Mam do sprzedania Audi a4 b7 z 2007 roku o mocy 177 kM . Auto kupione przeze mnie  w 2022 roku, sprowadzone z Francji. Od momentu zakupu auto użytkowane tylko na niemieckich drogach. Przebieg ok 310000, auto w ciągłej eksploatacji. Od momentu zakupu zrobiony rozrząd z pompa, zregenerowana turbina, tarcze i klocki przód tył. Zważywszy, że jeżdżę autem w Niemczech do wszelkiego usterek podchodziłem bardzo poważnie i starałem się je robić na bieżąco. Aktualnie radio fabryczne zamienione na dotykowe (brak kieszeni mocującej, zamówiona nie pasowała a nie mam teraz czasu zamówić nowej) Stan auta  wizualny i techniczny uważam jako dobry cena 10000 zl. Wszelkich informacji udzie telefonicznie 50*****25.",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "310 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Francja",
+                "Moc silnika": "177 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k7pagms2jpjs3-PL/image;s=768x1020"
+        },
+        {
+            "title": "Toyota Corolla 2.0 D4-D, kombi",
+            "price": "5 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-corolla-2-0-d4-d-kombi-CID5-ID15j9Qp.html",
+            "location": "Kolonia Bystrzyca",
+            "date": "07 April 2025 o 05:48",
+            "description": "Nadszedł już czas rozstać się z Toyotą. Stan dobry, wiernie służyła nam przez parę ładnych lat. Cierpię na nadmiar samochodów i Toyota za mało jeździ. Kupiłem w salonie w Niemczech. Samochód normalnie eksploatowany. Automatyczne szyby i klimatyzacja. Myślę że jeszcze posłuży. Blacha w stanie bardzo dobrym.",
+            "details": {
+                "Model": "Corolla",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "315 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "2 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/23qm9uvwmkt73-PL/image;s=1156x517"
+        },
         {
             "title": "Seat Ibiza 3 2002r",
             "price": "2 200 zł",
@@ -21249,87 +21297,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/p8setv86vefd1-PL/image;s=1000x750"
-        },
-        {
-            "title": "Sprzedam mercedesa",
-            "price": "9 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-mercedesa-CID5-ID14oTFN.html",
-            "location": "Cegłów",
-            "date": "06 April 2025 o 05:55",
-            "description": "Sprzedam Mercedesa klasa C z niezawodnym silnikiem 2.2 diesel z przebiegiem 313 tyś przebiegu w czarnym kolorze. Auto garażowane. Normalne ślady użytkowania. Dobre opony letnie jak i zimowe na felgach. Wymieniony akumulator świece żarowe Olej co 10 tyś km wraz z kompletem filtrów. Przegląd 2025.07.04, OC 28.04.2025. Świeżo po regeneracji wtrysków.",
-            "details": {
-                "Model": "C Klasa",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "314 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "2 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Włochy",
-                "Moc silnika": "143 KM",
-                "Napęd": "Na tylne koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yb6rtqut8dkj3-PL/image;s=1020x765"
-        },
-        {
-            "title": "Renault Thalia 2005r. 1.4 Benzyna+Gaz/Klima/Zadbana/Polski Salon",
-            "price": "4 950 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-thalia-2005r-1-4-benzyna-gaz-klima-zadbana-polski-salon-CID5-ID14ibj1.html",
-            "location": "Warszawa, Mokotów",
-            "date": "06 April 2025 o 05:54",
-            "description": "Sprzedam Renault Thalia 1.4 Benzyna z gazem z 2005 roku, auto bardzo zadbane i bez rdzy, wizualnie jak na zdjęciach, drobne ślady użytkowania adekwatne do wieku, środek czysty i nie poniszczony, auto serwisowane na bieżąco, na rozrządzie przejechano 30 tys. także pojeździ jeszcze, nowe przewody i świece, nowy elektrozawór od gazu, sworznie nowe, nowe przewody hamulcowe ,hamulec  ręczny nowe łożyska przód i inne, oleje i filtry zmieniane na bieżąco, pracuje równo na benzynie i na gazie, bardzo niskie spalanie gazu, średnie 7 litrów, na trasie idzie zejść do 5 litrów gazu, zawieszenie sztywne, hamulce w stanie bardzo dobrym, sprzęgło bez uwag, klimatyzacja sprawna, do samochodu dwa oryginalne kluczyki, na aucie ładne opony wielosezonowe, na wyposażeniu między innymi, radio, klimatyzacja, centralny zamek z pilota, szyby elektryczne, lusterka elektryczne, komputer pokładowy i inne, homologacja gazu do 2030 r., ubezpieczenie do maja 2025r. , przegląd techniczny do października 2025r.",
-            "details": {
-                "Numer VIN": "VF1LB0BC533178249",
-                "Model": "Thalia",
-                "Rok produkcji": "2005",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "259 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 400 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "75 KM"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pk4d7t2k8oya2-PL/image;s=1024x768"
-        },
-        {
-            "title": "Mazda 6 Mazda 6 2004",
-            "price": "7 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-6-mazda-6-2004-ID6GY9EN.html",
-            "location": "Radom",
-            "date": "06 April 2025 o 05:52",
-            "description": "Witam,\nSprzedam zadbaną, garażowaną Mazdę 6 z 2004 roku. Do samochodu dwa komplety opon, letnie na alufelgach oraz zimowe na felgach stalowych. Przegląd ważny do 25 września 2025, auto sprawne, wynaga jedynie wizyty u elektryka na wymianę czytnika światła stop. Po więcej szczegółów zapraszam pod numerem \nWyświetl numer",
-            "details": {
-                "Marka pojazdu": "Mazda",
-                "Model pojazdu": "6",
-                "Wersja": "1.8 Comfort",
-                "Kolor": "Srebrny",
-                "Liczba drzwi": "4",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2004",
-                "Generacja": "I (2002-2008)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 798 cm3",
-                "Moc": "120 KM",
-                "Typ nadwozia": "Sedan",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "152 g/km",
-                "Spalanie W Mieście": "9 l/100km",
-                "Spalanie Poza Miastem": "4.0 l/100km",
-                "Przebieg": "150 621 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJnZmJ2empkbnphaTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.uX69Ajp8MMj8tCO5_aUlPMDenQM38MTZVjXItLGUp5Y/image"
         }
     ]
 }
