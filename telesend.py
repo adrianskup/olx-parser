@@ -10,7 +10,7 @@ with open('olx_ads.json', 'r') as f:
 ads = data.get("ads", [])
 
 TELEGRAM_BOT_TOKEN = "8079356951:AAHCpC7ZNUyLacLHBPOjxL09hRVUsYRfBRU"
-TELEGRAM_CHAT_ID = "-4763866055"
+TELEGRAM_CHAT_ID = "-1002590092233"
 SENT_ADS_FILE = 'sent_ads.json'
 MARKET_PRICES_FILE = 'market_prices.json'
 
