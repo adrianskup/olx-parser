@@ -1,6 +1,56 @@
 {
-    "updated": "2025-04-07 03:57:28.964959",
+    "updated": "2025-04-07 04:40:16.029647",
     "ads": [
+        {
+            "title": "Audi A 6 C5 w rodzinie od 17 lat",
+            "price": "5 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a-6-c5-w-rodzinie-od-17-lat-CID5-ID15j8Eb.html",
+            "location": "Okalewo",
+            "date": "07 April 2025 o 04:31",
+            "description": "Witam posiadam na sprzedaż Audi a 6 c5 w rodzinie od 17 lat auto jak na swój wiek silnik pracuje bez zarzutu tylko blacharka trochę już widoczna widać to na zdjęciach poglądowych więcej informacji udzielę pod numerem tel 50*******78",
+            "details": {
+                "Model": "A6",
+                "Rok produkcji": "2001",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "288 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Szwecja",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y6oqdbpj70941-PL/image;s=1000x750"
+        },
+        {
+            "title": "Sprzedam mitsubishi",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-mitsubishi-CID5-ID13QNtm.html",
+            "location": "Potworów",
+            "date": "07 April 2025 o 04:26",
+            "description": "Witam. Sprzedam Mitsubishi Space Star 1.8 benzyna. 112 km. W kraju pierwszy właściciel od 30.06.2015r. Wyposażenie:   ABS, sprawna klimatyzacja, x elektryczne szyby, radio. Przebieg oryginalny.Przegląd do 25.05.2025r. Następna wymiana oleju w czerwcu. PPo wymianie klocków hamulcowych, nowy akumulator, końcówki drążków, sworznie, łączniki. Stan dobry",
+            "details": {
+                "Model": "Space Star",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "215 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 834 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "112 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ztkxejg0hzkd-PL/image;s=3456x4608"
+        },
         {
             "title": "Ford mondeo mk4 kombi 1.8 TDCI 125KM 2008r.",
             "price": "9 900 zł",
