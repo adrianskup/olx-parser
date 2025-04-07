@@ -1,6 +1,55 @@
 {
-    "updated": "2025-04-07 05:45:27.894022",
+    "updated": "2025-04-07 05:50:58.554549",
     "ads": [
+        {
+            "title": "Seat Ibiza 3 2002r",
+            "price": "2 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-ibiza-3-2002r-CID5-ID14H7g8.html",
+            "location": "Warszawa, Wawer",
+            "date": "07 April 2025 o 05:41",
+            "description": "Do sprzedania seat Ibiza z 2002r w dobrym stanie, 3 drzwiowy, na zimówkach , przegląd do listopada, OC opłacone na 3 miesiące, dwa lata temu wymienione sprzęgło , wahacze, drążki kierownicze,  nowy rozrusznik, linki hamulca ręcznego, olej i filtry, do zrobienia jest mechanizm podnoszenia szyby LP, klima chłodzi ale nie raz zaczyna grzać, auto w ciągłym użyciu, sprawuje się naprawdę dobrze, jeśli nie odbieram tel proszę pisać, oddzwonię",
+            "details": {
+                "Model": "Ibiza",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "197 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "1 198 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "64 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/csm3i10oc28t3-PL/image;s=1125x2000"
+        },
+        {
+            "title": "Opel Vectra C GTS 1.8",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-vectra-c-gts-1-8-CID5-ID11Vmg4.html",
+            "location": "Łódź, Górna",
+            "date": "07 April 2025 o 05:39",
+            "description": "Witam \n\nSprzedam opla Vectrę najlepiej w całości\n\n\n\nSprawa wygląda tak- w ubiegłym  samochód przeszedł sporo napraw i zyskał sporo nowych części (dokument do wglądu) . Z usterek to  przy włączaniu  falują obroty i pali się kontrolka poduszek, trochę brakuje mu mocy więc auto albo na części w całości albo do naprawy. Może być to pierdoła jednak nie zagłębiałem się już w temat  OC i pt aktualne  , silnik 1.8  trochę uszkodzeń lakierniczych (auto ma już swoje lata więc wiadomo że nie będzie idealnie) \n\nAuto dla osoby która lubi pogrzebać przy samochodzie bądź która potrzebuje auto na części , ze względu na zakup drugiego auta nie naprawiałem usterki wyżej wymienionej już \n\n\n\n auto odjedzie na kołach , po kilku minutach obroty się stabilizują i działa jak należy",
+            "details": {
+                "Numer VIN": "W0L0ZCF6838133335",
+                "Model": "Vectra",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "284 591 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 796 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/48sqkw0fiy6o2-PL/image;s=1020x459"
+        },
         {
             "title": "BMW E46 1.8 Śliczny z Niemiec*KLIMA*Alu*Serwis*ZOBACZ 2004r",
             "price": "6 900 zł",
