@@ -1,6 +1,131 @@
 {
-    "updated": "2025-04-07 07:31:43.509457",
+    "updated": "2025-04-07 07:42:24.538108",
     "ads": [
+        {
+            "title": "Astra 1.4 Benzyna",
+            "price": "5 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/astra-1-4-benzyna-CID5-ID150Ed3.html",
+            "location": "Świdnik",
+            "date": "07 April 2025 o 07:38",
+            "description": "Witam sprzedam ładną astre,silnik po remoncie stan techniczny i wizualny bardzo dobry. Klimatyzacja sprawna,auto do jazdy.Więcej inf.tel.",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "221 500 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 399 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/amyhyw3dej0c2-PL/image;s=1152x560"
+        },
+        {
+            "title": "Audi A6 avant 2.5tdi 163ps automat skóry zadbane wnętrze alu 18cali",
+            "price": "2 950 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a6-avant-2-5tdi-163ps-automat-skory-zadbane-wnetrze-alu-18cali-CID5-ID15jdlp.html",
+            "location": "Łuków",
+            "date": "07 April 2025 o 07:38",
+            "description": "Audi sprawne silnik nie dymi bardzo dobrze przyspiesza ważne opłaty i badania rolety w boczkach xenon skóry 2002r. Auto z usterką elektryczną sterownika- w niezależnych momentach po nagrzaniu auto nie kręci nie odpala nie reaguje na rozruch wtedy gdy nie podświetla sie kierunek wyboru trybu jazdy na wyświetlaczu. Po kilkunastu minutach pojawia się podświetlenie P oraz N i auto normalnie uruchamia się i jedzie bez problemu,  ważne badania i ubezpieczenie. Autem można wracać na kołach\n\n\n\nŁuków woj lubelskie łapiguz 89",
+            "details": {
+                "Model": "A6",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "434 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "2 497 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Moc silnika": "163 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hfnk5ps0rblq1-PL/image;s=1500x1500"
+        },
+        {
+            "title": "** CITROEN BERLINGO 2 1.6 HDI 2010r okazja najtaniej **",
+            "price": "5 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-berlingo-2-1-6-hdi-2010r-okazja-najtaniej-CID5-ID15je9g.html",
+            "location": "Pułtusk",
+            "date": "07 April 2025 o 07:35",
+            "description": "tanie berlingo 1.6 hdi\n\n\n\nkupiony i rejestracja 03.2010,produkcja 2009\n\n\n\npali jezdzi normalnie , wszystkie płyny na miejscu\n\n\n\ndo założenia zderzak i atrapka , lampy całe świecą normalnie\n\n\n\nokazyjna cena",
+            "details": {
+                "Model": "Berlingo",
+                "Rok produkcji": "2010",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Minibus",
+                "Przebieg": "22 222 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "110 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qp0xcbzabec11-PL/image;s=3648x2736"
+        },
+        {
+            "title": "VW Beetle 1.9 TDI 2004rok klima!",
+            "price": "5 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/vw-beetle-1-9-tdi-2004rok-klima-CID5-ID15je5K.html",
+            "location": "Jabłonowo-Maćkowięta",
+            "date": "07 April 2025 o 07:35",
+            "description": "Witam do sprzedania posiadam VW beatle 1.9tdi 101koni 2004rok,klimatyzacja sprawna,el,szyby,el.lusterka,centralny zamek,2 kluczyki scyzoryk,przebieg 285tys,nowy przegląd,opony wielosezonowe auto bez wkładu wiele.zainwestowano ostatnio, autko ma ślady użytkowania rysy itd.",
+            "details": {
+                "Model": "Beetle",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "285 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "101 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3usbjvgp7sxg2-PL/image;s=540x1170"
+        },
+        {
+            "title": "Audi A6 Audi A6, bezwypadkowe z oryginalnym przebiegiem.",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a6-audi-a6-bezwypadkowe-z-oryginalnym-przebiegiem-ID6HaRql.html",
+            "location": "Łuków",
+            "date": "07 April 2025 o 07:29",
+            "description": "Na sprzedaż audi A6 bezwypadkowe z oryginalnym przebiegiem 340 tys km\nW naszej rodzinie od 2006 roku. Sprowadzony z zagranicy jako trzylatek.\nMasa faktur i dokumentów z całego okresu użytkowania.\nZapraszam do kontaktu.",
+            "details": {
+                "Marka pojazdu": "Audi",
+                "Model pojazdu": "A6",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "C5 (1997-2004)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 900 cm3",
+                "Moc": "130 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Przebieg": "340 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNlZmVsaTBpdnBidjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.DyvW1US5--QtbWTCYs7OitDOShLWbKXQlou32eDQyAU/image"
+        },
         {
             "title": "Opel Corsa 2004 Benzyna + Gaz",
             "price": "2 500 zł",
@@ -49,6 +174,30 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sznmc32yh6mb-PL/image;s=1542x2048"
+        },
+        {
+            "title": "E46 compact 320i mpakiet, bogate wyposażenie",
+            "price": "9 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/e46-compact-320i-mpakiet-bogate-wyposazenie-CID5-ID15jdGS.html",
+            "location": "Skaryszew",
+            "date": "07 April 2025 o 07:26",
+            "description": "Witam, sprzedam e46 compact, auto w bardzo dobrym stanie technicznym i wizualnym. Silnik to 2.0b, skrzynia automatyczna. \n\nKompakt jest bardzo dobrze wyposażony, posiada min. Fotochromatyczne lusterka, elektrycznie sterowane fotele sportowe wraz z pamięcią i elektrycznym sterowaniem lędźwi, nawigacja z tunerem tv, lepsze audio, pełen Mpakiet wewnętrzny i zewnętrzny, xenon i wiele innych. \n\nSamochód jest sprowadzony, do opłat.\n\nWięcej informacji pod numerem telefonu lub w wiadomości olx",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2001",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "190 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 995 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na tylne koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lvlg0wqdhj7f1-PL/image;s=563x1000"
         },
         {
             "title": "Audi A6 C5 2.4 Benzyna/gaz",
@@ -122,6 +271,26 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rpuwvuhrtodg2-PL/image;s=1040x780"
+        },
+        {
+            "title": "Sprzedam Opel Astra H",
+            "price": "8 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-astra-h-CID5-ID15jdna.html",
+            "location": "Pasieki",
+            "date": "07 April 2025 o 07:23",
+            "description": "Sprzedam Opel Astra H 2005 r z gazem założonym w 2018 r. Pojemność 1.6 moc 77 kw przebieg 337 tys.\n\nStan bardzo dobry \n\nPrzegląd do 04.10.2025\n\nOC ważne \n\nWięcej informacji pod nr telefonu po godz. 15 \n\n6 0 0 4 8 6 9 0 4  \n\newentualnie 5 3 9 1 1 4 9 7 3\n\nCena 8500 do negocjacji",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2005",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "336 km",
+                "Kolor": "Inny kolor",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/eb6s4fgp6dm43-PL/image;s=1080x1904"
         },
         {
             "title": "Opel Meriva 2004",
@@ -21012,144 +21181,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc5cWl4ejNrNmhjbTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.JIlysC9jLOiQ88LUMMFBSshTV0kAij2Ey8aOD4o_rpM/image"
-        },
-        {
-            "title": "sabinka 93  2.0T",
-            "price": "2 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sabinka-93-2-0t-CID5-ID15hXAk.html",
-            "location": "Wiskitki",
-            "date": "06 April 2025 o 07:42",
-            "description": "Witam, dziś wystawiam mojego saaba 93 2002r. 2,0T z LPG. aktualne opłaty i przegląd do października.\n\nSamochód jeździ, skręca i hamuje.",
-            "details": {
-                "Model": "9-3",
-                "Rok produkcji": "2002",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "280 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "150 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h00cpc6s5ffk-PL/image;s=2000x2667"
-        },
-        {
-            "title": "SAAB 9-5 3.0 V6 177 KM / 350 Nm - 2004 rok",
-            "price": "8 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/saab-9-5-3-0-v6-177-km-350-nm-2004-rok-CID5-ID155M5A.html",
-            "location": "Wilga",
-            "date": "06 April 2025 o 07:41",
-            "description": "Na sprzedaż komfortowy i dynamiczny Saab 9-5 z silnikiem V6 o mocy 177 KM i momencie obrotowym 350 Nm.\n\nPrzebieg: 260 000 km\n\nW moich rękach od kilku lat - regularnie serwisowany i utrzymywany w bardzo dobrym stanie.\n\n\n\nStan techniczny:\n\n\n\nSilnik w bardzo dobrym stanie\n\n\n\nNowa dwumasa i sprzęgło - wymienione w zeszłym roku.\n\n\n\nSprawna klimatyzacja dwustrefowa.\n\n\n\nZawieszenie bez luzów - auto prowadzi się pewnie i komfortowo.\n\n\n\nNowe opony klasy średniej - zapewniają dobrą przyczepność i komfort jazdy.\n\n\n\nFaktury na wykonane naprawy\n\n\n\nWyposażenie:\n\n\n\nKierownica multifunkcyjna - wygodne sterowanie.\n\n\n\nTempomat - komfort na długich trasach.\n\n\n\nSkórzana tapicerka - elegancja i wygoda.\n\n\n\nOryginalne alufelgi - świetny wygląd i trwałość.\n\n\n\nDwustrefowa klimatyzacja - pełna kontrola temperatury.\n\n\n\n4 elektryczne szyby i elektryczne lusterka - komfort i wygoda.\n\n\n\nFotochromatyczne lusterko wsteczne - redukcja oślepiania.\n\n\n\nKomputer pokładowy - pełna kontrola parametrów jazdy.\n\n\n\nHalogeny - lepsza widoczność w trudnych warunkach.\n\n\n\nPrzyciemnione szyby - styl i prywatność.\n\n\n\nPodgrzewane fotele - komfort w chłodne dni.\n\n\n\nDodatkowe informacje:\n\n\n\nAuto bezwypadkowe.\n\n\n\nNiskie spalanie jak na V6 - tylko 6,5 l/100 km!\n\n\n\nPrzestronne wnętrze i duży bagażnik.\n\n\n\nSprzedaję ze względu na zmianę na nowszy model.",
-            "details": {
-                "Model": "9-5",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "260 000 km",
-                "Kolor": "Czarny",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fi7eay3gszai3-PL/image;s=1024x768"
-        },
-        {
-            "title": "Mitsubishi Colt 1.1 LPG",
-            "price": "4 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mitsubishi-colt-1-1-lpg-CID5-ID15gQKJ.html",
-            "location": "Warszawa, Wawer",
-            "date": "06 April 2025 o 07:40",
-            "description": "Sprzedam Mitsubishi Colt 1.1 z LPG. \n\nAuto w pełni sprawne, jeździ na obu paliwach. \n\nW zawieszeniu nic nie puka, w zeszłym roku wymienione amortyzatory,  2 letni wydech. Auto posiada hak, wbity w dowód. \n\nSamochód na ładnych letnich oponach z 2021 roku na alufelgach, plus zimowy komplet kol 5 letnich na alufelgach. \n\nSilnik odpala bez problemu,  nie kopci.\n\nElektryczne szyby przód.\n\nOC ważne do 19.08.2025\n\nPrzegląd do 8.11.2025\n\nMa przetarcie na fotelu kierowcy \n\nProszę kontaktować się pod numerem telefonu albo najlepiej przez wiadomości OLX...",
-            "details": {
-                "Model": "Colt",
-                "Rok produkcji": "2004",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "288 000 km",
-                "Kolor": "Zielony",
-                "Poj. silnika": "1 124 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "75 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/97jz8r3lk3qa3-PL/image;s=1020x765"
-        },
-        {
-            "title": "Na Sprzedaż Mazda 6 2.0B/6-bieg/klima/alu/zadbana/S-VT/super stan/zami",
-            "price": "6 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-mazda-6-2-0b-6-bieg-klima-alu-zadbana-s-vt-super-stan-zami-CID5-ID15i18S.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 April 2025 o 07:39",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Mazda 6 z najlepszym niezawodnym silnikiem 2.0 benzyna. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, bardzo dużo inny nowych części,\n\nsilnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego na dzień dzisiejszy, zapraszamy \n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- podgrzewana Tylna Szyba\n\n- klimatyzacja\n\n- uchwyt na napoje\n\n- Elektryczne lusterka\n\n- centralny zamek z pilota\n\n- radio Bluetooth \n\n- i wiele innych\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Modlińska 325a Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20",
-            "details": {
-                "Model": "6",
-                "Rok produkcji": "2006",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "204 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "146 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bwvnc6og7mt11-PL/image;s=750x1000"
-        },
-        {
-            "title": "Mercedes Benz B170",
-            "price": "7 999 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/mercedes-benz-b170-CID5-ID13892R.html",
-            "location": "Gębarzów",
-            "date": "06 April 2025 o 07:38",
-            "description": "Mam do sprzedania Mercedes Benz B170 1.7 z 2006 roku Benzyna. OC i przegląd aktualne. Letnie opony nowe. Zimowe opony gratis. Zapraszam do oględzin i kontaktu.",
-            "details": {
-                "Model": "B Klasa",
-                "Rok produkcji": "2006",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "330 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 699 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kierownica": "po prawej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e0axtrqxxo273-PL/image;s=1001x684"
-        },
-        {
-            "title": "Honda Accord VI 1,8 vtec 2001r",
-            "price": "3 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/honda-accord-vi-1-8-vtec-2001r-CID5-ID156MeH.html",
-            "location": "Pruszków",
-            "date": "06 April 2025 o 07:35",
-            "description": "Sprzedam Honda Accord benzyna -gaz sekwencyjny.Pierwsza rejestracja 01/2002. W kraju 06/2017.Zabezpieczona podłoga,wymienione tylne hamulce ,tarcze,tylne zaciski zregenerowane, wymiana sprzęgła komplet,regeneracja maglownicy. Uszczelniona i dobita klima.Książka napraw.OC,przegląd 07/2025 Blacharka stan dobry,ślady parkingowe.Alufelgi 16. Nowy akumulator.Auto na chodzie,silnik do naprawy.\n\nWięc informacji priv",
-            "details": {
-                "Model": "Accord",
-                "Rok produkcji": "2001",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "320 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 850 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Inny",
-                "Moc silnika": "100 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po prawej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s6sf9k4lp87p-PL/image;s=1500x1500"
         }
     ]
 }
