@@ -26,6 +26,11 @@ jobs:
           echo "=== Запуск парсера ==="
           python olx_parser.py  # Без записи в debug.log
 
+      - name: Запуск telesend.py
+        run: |
+          echo "=== Запуск telesend.py ==="
+          python telesend.py  # Запуск вашего скрипта, который отправляет объявления в Telegram
+
       - name: Настройка Git
         run: |
           git config --global user.name "github-actions"
