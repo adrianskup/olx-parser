@@ -1,6 +1,30 @@
 {
-    "updated": "2025-04-07 23:42:15.930068",
+    "updated": "2025-04-07 23:47:34.734801",
     "ads": [
+        {
+            "title": "Opel Astra H kombi fl cosmo 1.8 benzyna 140km",
+            "price": "9 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-h-kombi-fl-cosmo-1-8-benzyna-140km-CID5-ID15dbp3.html",
+            "location": "Warszawa, Bemowo",
+            "date": "07 April 2025 o 23:37",
+            "description": "Witam. \n\nNa sprzedaż opel astra h kombi 2008r.\n\nWersją cosmo po fl 1.8 benzyna 140km.\n\nPrzebieg 258000. \n\nAuto w moim posiadaniu 3 lata.\n\nNa bieżąco serwisowany. \n\nW lutym wymienione zaciski klocki tarcze. Olej co 12k km.\n\nWyposażenie to pełna skóra,  grzane fotele przód, nawigacja, klimatyzazacja, ksenony, el. szyby przód i lusterka, poduszki i kurtyny, dwa komplety opon, alufelgi 16. \n\nW razie pytań proszę dzwonić.  \n\nAuto do obejrzenia na Bemowie - Warszawa.",
+            "details": {
+                "Model": "Astra",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "258 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "140 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gmqksngtyumk1-PL/image;s=2000x1126"
+        },
         {
             "title": "Subaru Legacy 2.0 uszkodzony silnik",
             "price": "3 000 zł",
