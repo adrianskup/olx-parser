@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-07 20:50:38.664673",
+    "updated": "2025-04-07 20:56:05.683068",
     "ads": [
+        {
+            "title": "Fiat Panda 1.2 Gaz Wspomaganie Elektryka 2007r",
+            "price": "3 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-2-gaz-wspomaganie-elektryka-2007r-CID5-ID15ki93.html",
+            "location": "Pabianice",
+            "date": "07 April 2025 o 20:50",
+            "description": "Witam do sprzedania Fiat Panda 2007r z silnikiem 1.2 benzyna z instalacją gazową ważnà do 2026r Gaz  Silnik pracuje prawidłowo lecz czasami potrafi chodzić na 3 garach czasami na 4 .skrzynia,przegło ok Zawieszenie nie puka nie stuka.Blacharsko w dobrym stanie progi całe ok .Auto posiada opłaty oraz przegląd.Więcej informacji udzielę telefonicznie.Pozdrawiam",
+            "details": {
+                "Model": "Panda",
+                "Rok produkcji": "2007",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "167 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "1 242 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "60 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k16p7fafbzsy1-PL/image;s=1080x2340"
+        },
         {
             "title": "mini cooper one 1,6 benzyna + lpg",
             "price": "3 000 zł",
@@ -24,6 +49,95 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pp60k8h9p5601-PL/image;s=2000x2667"
+        },
+        {
+            "title": "Opel astra 1.6 8v LPG",
+            "price": "1 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-1-6-8v-lpg-CID5-ID15ki1n.html",
+            "location": "Radom",
+            "date": "07 April 2025 o 20:47",
+            "description": "Witam mam do sprzedania Opla Astrę 1.6 z gazem 2002r, auto sprawne na chodzie, przegląd wyszedł, OC do 21.04.2025\n\nAuto do poprawek blacharsko-lakierniczych, klapa oraz drzwi pasażera wgniecione, błotnik lewy przedni skorodowany\n\nWięcej informacji pod numerem telefonu.",
+            "details": {
+                "Numer VIN": "W0L0TGF4835067262",
+                "Model": "Astra",
+                "Rok produkcji": "2002",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "276 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 598 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "85 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9ckchkolnumm3-PL/image;s=1000x451"
+        },
+        {
+            "title": "Opel Astra Opel Astra H 1.6 LPG 2005",
+            "price": "9 200 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-astra-opel-astra-h-1-6-lpg-2005-ID6HiziZ.html",
+            "location": "Garwolin",
+            "date": "07 April 2025 o 20:47",
+            "description": "Sprzedam Opla Astrę H z 2005 roku, silnik benzynowy 1.6 + LPG, co czyni auto bardzo oszczędnym w codziennej eksploatacji. Samochód jest w dobrym stanie technicznym i wizualnym, regularnie serwisowany, idealnie sprawdza się jako pierwsze auto lub na dojazdy do szkoły i pracy.\nW ostatnim czasie wymieniony akumulator, alternator, tylne klocki, tarcze oraz zaciski, chłodnica, termostat, pompa wody oraz zbiornik płynu. Lakier w dobrym stanie – wiadomo, kilka drobnych rysek i wgnieceń. Wnętrze czyste i zadbane. Posiadam dwa komplety opon.\nPrzegląd ważny do: 24.03.2026\nOC ważne do: 21.01.2026\nZapraszam do kontaktu i na jazdę próbną – auto dostępne od ręki.",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Astra",
+                "Wersja": "1.6",
+                "Kolor": "Granatowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Generacja": "H (2004-2014)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "105 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.6 l/100km",
+                "Spalanie Poza Miastem": "5.4 l/100km",
+                "Przebieg": "320 100 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFhMmFqMGV4aWM1NS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.B8ErC0lmqfN0aYcIu70NoCKR2QvgpFaFJZXu5mzFgD8/image"
+        },
+        {
+            "title": "Skoda Superb Skoda SuperB",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-superb-skoda-superb-ID6Hg8Uh.html",
+            "location": "Pabianice",
+            "date": "07 April 2025 o 20:46",
+            "description": "Auto sprowadzone w 2010 roku, pierwszy właściciel w Polsce. Serwisowane i garażowane.\nW razie pytań proszę dzwonić.",
+            "details": {
+                "Marka pojazdu": "Skoda",
+                "Model pojazdu": "Superb",
+                "Wersja": "1.9 TDI Comfort",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "4",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "I (2001-2008)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 896 cm3",
+                "Moc": "130 KM",
+                "Typ nadwozia": "Sedan",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "7 l/100km",
+                "Spalanie Poza Miastem": "4.0 l/100km",
+                "Przebieg": "409 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZtNmFsb3MyZjFiOTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.D_NoOEQV-EKVolGN_OafFprFNalVv4_RMOGnFFCPssg/image"
         },
         {
             "title": "Audi A3 8P 1.6 lpg",
@@ -21696,81 +21810,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6oa18dt7dxgx1-PL/image;s=1000x750"
-        },
-        {
-            "title": "Renault Scenic lift",
-            "price": "2 600 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-scenic-lift-CID5-ID15j3YA.html",
-            "location": "Kondrajec",
-            "date": "06 April 2025 o 20:56",
-            "description": "Sprzedam renault Scenic 1 lift samochód pracuje na benzynie jak i na gazie . Mechanicznie bez zarzutu a wizualnie wiadomo jak na 25 letnie auto . Widoczne ogniska rdzy na zdjęciach . Ubezpieczenie i przegląd do styczna 2026 oraz opony letnie obecnie na zimówkach .",
-            "details": {
-                "Model": "Scenic",
-                "Rok produkcji": "2000",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "330 000 km",
-                "Kolor": "Inny kolor",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "136 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k8ihcl5ojz1c2-PL/image;s=1156x534"
-        },
-        {
-            "title": "Citroen Xantia 1.6 88KM - bez wkładu klasyk na co dzień",
-            "price": "5 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/citroen-xantia-1-6-88km-bez-wkladu-klasyk-na-co-dzien-CID5-ID15j3WT.html",
-            "location": "Warszawa, Bemowo",
-            "date": "06 April 2025 o 20:55",
-            "description": "Na sprzedaż Citroen Xantia 1.6 88KM z 1997 roku. Samochód wyjątkowo wygodny, ciężko znaleźć tak wygodne zawieszenie nawet we współczesnych autach.\n\n\n\nSamochód mechanicznie doinwestowany. Zawieszenie hydropneumatyczne po dużych serwisach w ostatnich latach.\n\nKupiłem ją w 2021 roku z przebiegiem 175 500 km od znajomego.\n\n\n\nNajważniejsze naprawy na przestrzeni ostatnich 40 000 km:\n\n168 000 - rozrząd z pompą wody, sfera konżektora\n\n170 000 - uszczelnienie pompy LHM\n\n174 000 - wymiana oleju w skrzyni, nowe sprzęgło z łożyskiem, uszczelniacz wału, uszczelniacz skrzyni, kable, świece, obróbka głowicy i bloku, panewki główne, oporowe i korbowodowe, uszczelki pod tuleje cylindrowe, podpory wału, głowicy, kolektora wydechowego, simmering wałka rozrządu, czujnik ciśnienia oleju\n\n176 000 - hamulce przednie, silnik krokowy\n\n184 000 - opony letnie Nokian iLine (2022 r.), regeneracja taśmy airbag w kierownicy\n\n198 000 - wymiana 4 sfer i płynu LHM\n\n207 000 - uszczelnienia, wymiana czujnika ABS\n\n209 000 - wymiana sworzni wahaczy przednich i końcówek drążków kierowniczych, geometria\n\n\n\nOprócz tego oczywiście bieżące wymiany płynów.\n\n\n\nPrzegląd do 01.02.2026\n\nOC do 23.09.2025, została do zapłacenia ostatnia rata około 250 zł.\n\n\n\nMechanicznie auto w bardzo dobrym stanie. Największym mankamentem jest rozszczelniona klimatyzacja, którą należałoby uszczelnić i nabić. Dopóki się nie rozszczelniła kompresor był sprawny i mroziła.\n\n\n\nLakierniczo zmęczona, jak to prawie 30-letnie auto służące do codziennej jazdy. Nie jest najładniejsza, ale sprawna :) Blacharsko całkiem nieźle - podłoga zdrowa, progi do wyczyszczenia i zabezpieczenia. Największym mankamentem tych aut było łączenie słupka C z progiem (widoczne na zdjęciach), które tutaj jest praktycznie zdrowe. Mały nalot do oczyszczenia.\n\n\n\nPrzez 2 lata zrobiłem nią ponad 30 000 bezproblemowych kilometrów. Ostatnie dwa lata służyła jako drugie auto na weekendy - ciężko mi się było z nią rozstać. Przez ten czas zrobiła jakieś 2 500 km. Teraz pojawiło mi się trzecie auto i z jednego muszę zrezygnować, padło na Xantię. \n\n\n\nNagrania auta sprzed około 2 lat można znaleźć na YT u mniej i bardziej znanych youtuberów.\n\n\n\nPo więcej informacji zapraszam do kontaktu telefonicznego.\n\n\n\nHandlarzom proponującym ułamek ceny z góry dziękuję.",
-            "details": {
-                "Numer VIN": "VF7X12B00072B2507",
-                "Model": "Xantia",
-                "Rok produkcji": "1997",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "209 442 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 580 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "88 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ycmk8gqscaaq2-PL/image;s=5712x4284"
-        },
-        {
-            "title": "Kia sportage zdrowa rama",
-            "price": "6 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/kia-sportage-zdrowa-rama-CID5-ID15j3Rz.html",
-            "location": "Gózdek",
-            "date": "06 April 2025 o 20:54",
-            "description": "Witam \n\nZaletą pojazdu jest zdrowa rama oraz sprawne napędy 4x4.\n\nMinusem jest pozostała blacharka oraz silnik. Problemem jest zła dawka paliwa. Na benzynie i na gazie czuć nieprzepalone paliwo. Jeździ, ale na gazie strzela w tłumik, aż go rozerwało",
-            "details": {
-                "Model": "Sportage",
-                "Rok produkcji": "1996",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Terenowy",
-                "Przebieg": "160 000 km",
-                "Kolor": "Czerwony",
-                "Poj. silnika": "2 000 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Włochy",
-                "Moc silnika": "128 KM",
-                "Napęd": "4x4 (dołączany ręcznie)",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mhieuqc4qcgo-PL/image;s=1156x651"
         }
     ]
 }
