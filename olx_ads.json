@@ -1,6 +1,78 @@
 {
-    "updated": "2025-04-07 22:36:30.813794",
+    "updated": "2025-04-07 22:45:18.545844",
     "ads": [
+        {
+            "title": "Seat Ibiza II FL pierwszy właściciel",
+            "price": "2 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-ibiza-ii-fl-pierwszy-wlasciciel-CID5-ID14yQYu.html",
+            "location": "Legionowo",
+            "date": "07 April 2025 o 22:37",
+            "description": "Sprzedam ibizę z 2000r, od nowości u mnie, jak na 25 letnie auto to jeszcze trzyma się kupy, jeździ, skręca, hamuje, choć ząb czasu trochę ją nadgryzł :), blachy i podłoga bez rdzy,OC jest do lipca, przeglądu brak, poświęcając trochę wolnego czasu można przywrócić dawny blask, ingerencji mechaników nie wymaga, tylko do poprawek wizualnych.  Więcej informacji  pod tel.",
+            "details": {
+                "Model": "Ibiza",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "196 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "75 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/64s6fafudzuc-PL/image;s=574x1020"
+        },
+        {
+            "title": "TANIO sprzedam Citroën C1 !",
+            "price": "6 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/tanio-sprzedam-citroen-c1-CID5-ID151gnt.html",
+            "location": "Warszawa, Białołęka",
+            "date": "07 April 2025 o 22:36",
+            "description": "Citroën C1 to idealne miejskie auto, które powstało w wyniku współpracy trzech marek: Peugeot, Toyota i Citroën. Łączy w sobie francuską stylistykę, japońską niezawodność i europejską funkcjonalność.\n\n\n\nPierwsza rejestracja w Niemczech – auto było tam użytkowane przed sprowadzeniem do Polski.\n\nUżywane codziennie przez kobietę – nigdy nie zawiódł, odpala bez problemu, nie sprawia kłopotów.\n\nBrak korozji – auto nie ma rdzy, co w tej klasie wiekowej jest dużym atutem.\n\nŚlady użytkowania – kilka wgnieceń i otarć, które były już w momencie zakupu.\n\nPlamy od słońca na dachu – kosmetyczna wada lakieru, nie wpływa na komfort jazdy.\n\nCałoroczne opony – nie trzeba wymieniać sezonowo, gotowe na każdą pogodę.\n\nOdpadające literki z emblematu – można dokupić nowe i przywrócić oryginalny wygląd.\n\nW 2020 roku wymieniony tłumik i akumulator\n\n\n\nOC i badania techniczne ważne",
+            "details": {
+                "Model": "C1",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "194 086 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "50 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m3vh2p95djje2-PL/image;s=2089x1584"
+        },
+        {
+            "title": "Mazda 6 2.0 Benzyna 2004",
+            "price": "4 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mazda-6-2-0-benzyna-2004-CID5-ID15d972.html",
+            "location": "Legionowo",
+            "date": "07 April 2025 o 22:31",
+            "description": "Sprzedam mazde 6 z silnikiem benzynowym 2.0 . Silnik odpala bez najmniejszych problemów ma swoją moc , pracuje równo . \n\nSkrzynia oraz sprzęgło w bardzo dobrym stanie .  \n\nZawieszenie bardzo dobrze zbiera nierówności w drodze , auto na codzien użytkowane na dzień dzisiejszy bez wkładu finansowego , opłaty aktualne zapraszam do kontaktu",
+            "details": {
+                "Model": "6",
+                "Rok produkcji": "2004",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "303 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 998 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nkzk4uerskj21-PL/image;s=750x1000"
+        },
         {
             "title": "Citroen xara picasso 2.0 automat niski przebieg !",
             "price": "4 400 zł",
