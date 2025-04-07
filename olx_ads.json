@@ -1,6 +1,61 @@
 {
-    "updated": "2025-04-07 17:47:41.813000",
+    "updated": "2025-04-07 17:49:28.707361",
     "ads": [
+        {
+            "title": "Ford Focus MK2 kombi",
+            "price": "9 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-focus-mk2-kombi-CID5-ID15k3XV.html",
+            "location": "Nowy Pożóg",
+            "date": "07 April 2025 o 17:42",
+            "description": "sprzedam ford focus MK2 kombi 2 kluczyki nowy akumulator działa klima  podgrzewaną szyba",
+            "details": {
+                "Numer VIN": "WF0SXXGCDS9P13700",
+                "Model": "Focus",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "205 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zwtd61b1snhu2-PL/image;s=768x1024"
+        },
+        {
+            "title": "Skoda Fabia nowe opony akumulator i hamulce w pełni sprawny",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-nowe-opony-akumulator-i-hamulce-w-pelni-sprawny-ID6HivL7.html",
+            "location": "Pabianice",
+            "date": "07 April 2025 o 17:42",
+            "description": "Auto na chodzie w pełni sprawne , zawieszenie sztywne silnik suchy , ostatnio wymienione: Hamulce opony na cało roczne akumulator przepustnica wtryski .\nubezpieczenie i przegląd ważne do sierpnia 2025.Reszte informacji udzielę telefonicznie .",
+            "details": {
+                "Marka pojazdu": "Skoda",
+                "Model pojazdu": "Fabia",
+                "Wersja": "1.2 12V Classic",
+                "Kolor": "Bordowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "I (1999-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 198 cm3",
+                "Moc": "64 KM",
+                "Typ nadwozia": "Auta miejskie",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "7.7 l/100km",
+                "Spalanie Poza Miastem": "5.1 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "290 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im05YWp5MHpjN3ZrMDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.oArIjmd2luDW76pruqRX9JLP6caPmddLH974tONL-ig/image"
+        },
         {
             "title": "Peugeot 607 2.0 HDI 107KM",
             "price": "3 500 zł",
@@ -20914,55 +20969,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fpssajvjpy8c-PL/image;s=1000x697"
-        },
-        {
-            "title": "Opel Astra G 1.2",
-            "price": "3 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-g-1-2-CID5-ID15iSYe.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "06 April 2025 o 17:48",
-            "description": "Witam, sprzedam Opla Astrę G z silnikiem 1.2. Rocznik 1998. Auto służyło na dojazdy do pracy, przebieg auta oryginalny 196 583, stan auta adekwatny do wieku więc jeżeli szukasz stanu igły nie zawracajmy sobie głowy. W ostatnim czasie zrobimy serwis olejowo filtrowy. Auto posiada nowe opony wielosezonowe. Oc do września 2025 przegląd aktualny. Odpala od strzała jeździ skręca hamuje. Ma kilka widocznych obtarć i przetarty fotel kierowcy. Mechanicznie auto chodzi bez zarzutów. Aktualnie bez wkładu finansowego. Do obejrzenia w Warszawie na Pradze południe.",
-            "details": {
-                "Numer VIN": "W0L0TGF48X6050937",
-                "Model": "Astra",
-                "Rok produkcji": "1998",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "196 583 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 199 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "65 KM",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jnhdnjj0ylq71-PL/image;s=750x1000"
-        },
-        {
-            "title": "Opel Astra H 1.4 benzyna",
-            "price": "6 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-h-1-4-benzyna-CID5-ID15iSHz.html",
-            "location": "Radom",
-            "date": "06 April 2025 o 17:48",
-            "description": "Witam\n\nPosiadam do sprzedania Opel Astra H 1.4 benzyna . Posiada przegląd techniczny ważny do 07.02.2026r.\n\nUbezpieczenie OC ważne do 02.02.2026r.\n\nSamochód bezwypadkowy. Stan techniczny dobry , wszelkie naprawy robione na bieżąco. \n\nPo dalsze informacje zapraszam do kontaktu \n\nNr. 73*****43",
-            "details": {
-                "Numer VIN": "W0L0AHL4858020804",
-                "Model": "Astra",
-                "Rok produkcji": "2004",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "217 425 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 364 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "90 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w6zhkekx0b8r1-PL/image;s=750x1000"
         }
     ]
 }
