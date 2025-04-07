@@ -1,6 +1,55 @@
 {
-    "updated": "2025-04-07 19:39:06.023217",
+    "updated": "2025-04-07 19:44:14.576451",
     "ads": [
+        {
+            "title": "Bmw e46 2.2 benzyna + LPG",
+            "price": "6 100 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-2-2-benzyna-lpg-CID5-ID15kexA.html",
+            "location": "Ksawerów",
+            "date": "07 April 2025 o 19:42",
+            "description": "Na sprzedaż BMW E46 M54B22 z instalacją gazową, auto z 2003r z wykupionym ubezpieczeniem do stycznia 2026 i przeglądem do września  2025. Data 1 rejestracji- 28.03.2003 Auto ma moc, posiada bardzo zadbany środek. 1000km temu został wymieniony olej tarcze i klocki przód tył, rozrusznik i akumulator, ostatnio robione było zawieszenie z przodu wymienione tuleje wahaczy, łączniki stabilizatora, niestety w niektórych miejscach już zaczyna brać rdza (widoczne na zdjęciach) Ma problem z odpalaniem na ciepłym silniku (trzeba dodawać gazu i odpala), ostatnio zaczęłobyć słychać najprawdopodobniej podporę wału. Cena jak najbardziej do negocjacji",
+            "details": {
+                "Numer VIN": "WBAEV11010KK49291",
+                "Model": "Seria 3",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "372 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "2 172 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "170 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
+        },
+        {
+            "title": "Daewoo Lanos stan bardzo dobry.",
+            "price": "2 490 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/daewoo-lanos-stan-bardzo-dobry-CID5-ID15e5n3.html",
+            "location": "Warszawa, Bemowo",
+            "date": "07 April 2025 o 19:36",
+            "description": "Sprzedma Daewoo Lanos, zadbany, dobry, pierwszy właściciel. Wymienione sprzęgło, rozrząd, hamulce tył, opony wielosezonowe.",
+            "details": {
+                "Model": "Lanos",
+                "Rok produkcji": "1998",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "124 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 498 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2nbkhql79mhe3-PL/image;s=566x756"
+        },
         {
             "title": "Sprzedam Golf plus 1.9tdi",
             "price": "9 200 zł",
@@ -22,6 +71,30 @@
                 "Moc silnika": "105 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rk3qetsju6rr-PL/image;s=1000x750"
+        },
+        {
+            "title": "Sprzedam bmw e39 520i LPG 2000r",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw-e39-520i-lpg-2000r-CID5-ID15kdn9.html",
+            "location": "Magnuszew",
+            "date": "07 April 2025 o 19:32",
+            "description": "Sprzedam bmw e39 520i LPG 2000r M52B20TU auto sprawne jeżdżące silnik pracuje cicho i równo na benzynie jak i na gazie silnik nie kopci nie pobiera oleju blacharsko nie jest najgorzej podłoga i progi całe jedynie prawa tylnia strona progu na wgniecenie i jest w słabszym stanie na karoserii jakieś rysy i wgniotki znajdą się z minusów to pali się kontrolka ABS i pęknięta szyba czołowa mechaniczne auto sprawne ostatnio wynienone zostały tarcze i klocki hamulcowe przód drążki kierownicze zrobiona zbieżność wachacz przód przegub wału w zawieszeniu nic nie stuka nie ściąga nie bije prowadzi się dobrze auto posiada klimatyzacje dwustrefowa el szyby el lusterka wspomaganie kierownicy poduszki powietrzne kierownice multifunkcyjną tempomat skurzana tapicerka podgrzewanie zewnętrznych klamek el szyberdach centralny zamek z pilota bagażnik otwierany z pilota domykanie szyb z pilota aktualne OC i PT katalizatory na miejscu więcej informacji udzielę telefonicznnie",
+            "details": {
+                "Model": "Seria 5",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "380 000 km",
+                "Kolor": "Szary",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cvmtgmtdw2bk-PL/image;s=3060x4080"
         },
         {
             "title": "Mini Cooper R 50 2005",
@@ -21375,79 +21448,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZ5cmpzYnFraDEwbTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.XeI6VqmAlTo1Ojvgg7piCI4fmHet_Fv7Odgm4Kvy35I/image"
-        },
-        {
-            "title": "Citroen C4 Picasso",
-            "price": "6 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/citroen-c4-picasso-CID5-ID15j0e1.html",
-            "location": "Warszawa, Żoliborz",
-            "date": "06 April 2025 o 19:42",
-            "description": "Citroen C4 Picasso po stłuczce - nie ucierpiał układ jezdny!\n\nPrzegląd techniczny, ubezpieczenie, pół roku po gruntownym przeglądzie. \n\nWymaga wymiany kilku części karoserii do osiągnięcia bardzo dobrego stanu, ale jeździć można od zaraz.\n\n\n\nChętnie udzielę więcej informacji telefonicznie lub przy umówionych oględzinach w Grodzisku Mazowieckim.",
-            "details": {
-                "Model": "C4 Picasso",
-                "Rok produkcji": "2011",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "277 000 km",
-                "Kolor": "Brązowy – Beżowy",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0b2pt6c4wd8u1-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Opel Astra H 2008 r. Hatchback",
-            "price": "8 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-h-2008-r-hatchback-CID5-ID14EaBW.html",
-            "location": "Łódź, Polesie",
-            "date": "06 April 2025 o 19:42",
-            "description": "Ogłoszenie grzecznościowe. W imieniu znajomych wystawiam na sprzedaż samochód osobowy Opel Astra H rocznik 2008, pierwsza rejestracja 11.03.2009 r., kolor szary, w dokumentach szampański, zakupiony w polskim salonie. Przebieg 186.976 km. Silnik benzynowy o pojemności 1,6l i 115km. Pali za każdym razem i całkiem żwawo porusza się po drodze. Może z zewnątrz nie jest to rewelacja - dlatego cena jest znacznie niższa od innych ogłoszeń (lekki wgniot maski, obtarcia tylnego zderzaka i widoczne doraźne malowanie na tylnym lewym błotniku) ale wnętrze jest w bardzo dobrym stanie. Na bieżąco robione były wszelkie wymiany eksploatacyjne, czyli oleje, filtry, elementy układu hamowania i zawieszenia. Do wglądu książki serwisowe i rachunki z ostatnich kilku lat oraz wydruki z HistoriaPojazdu.gov.pl.\n\nPrzegląd ważny do 7.01.2026 r. Przed wystawieniem ogłoszenia przeprowadzona pełna diagnostyka w salonie TRAX ul. Maratońska w Łodzi (były dealer Opla) - diagnoza: do wymiany grzałka drugiej sondy lambda (czujnik kontroli emisji spalin) - koszt 1250zł (auto jeździ). O naprawie zdecyduje kupujący, ewentualnie możemy się umówić na naprawę i odbiór już gotowego. W komplecie instrukcje i dwa kluczyki. Ewentualne pytanie proszę na telefon.",
-            "details": {
-                "Numer VIN": "W0L0AHL4898012640",
-                "Model": "Astra",
-                "Rok produkcji": "2008",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "186 976 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "1 598 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "115 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k5u3qe0obwdp3-PL/image;s=3024x4032"
-        },
-        {
-            "title": "Jeep Grand Cherokee 3,6L 106000 do negocjacji",
-            "price": "1 006 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/jeep-grand-cherokee-3-6l-106000-do-negocjacji-CID5-ID15fe3e.html",
-            "location": "Mącznik",
-            "date": "06 April 2025 o 19:41",
-            "description": "Dzień dobry \n\n\n\nSprzedam auto : \n\nJeep Grand Cherokee WK2 \n\nAuto sprawne zarejestrowane , \n\nbez wkładu finansowego \n\nPrzebieg 30 tys km \n\nDobrze wyposażone \n\nPojemność 3,6 l \n\nW razie pytań proszę o kontakt\n\nAuto dobrze wyposażone : \n\n\n\nSystem zdalnego uruchamiania\n\nAlarm bezpieczeństwa\n\nSterowanie systemem audio montowanym na kierownicy\n\nUniwersalny otwieracz drzwi garażowych\n\nZestaw wskaźników ze stronami wyświetlacza Off-Road\n\nRadio HD™\n\nJEEP GRAND CHEROKEE LAREDO 4X4\n\nPrzyczepa holownicza Grupa IV 995 USD\n\nKolor zewnętrzny: Bezbarwny lakier zewnętrzny Billet Silver Metallic\n\nCzarny kolor wnętrza\n\nCzarne zamszowo skórzane siedzenia z czarnymi przeszyciami\n\nKoło zapasowe pełnowymiarowe\n\nSilnik: 3,6 l V6 24 V VVT Engine Upg I z ESS Przekładnia: 8–biegowa automatyczna 850RE Przekładnia\n\nWzmocnione chłodzenie silnika\n\nZawieszenie z tylnym układem poziomowania ładunku\n\nAlternator 180 A Sun and Sound Group \n\n9 głośników ze wzmacniaczem i subwooferem\n\nZaawansowane wielostopniowe przednie poduszki powietrzne\n\nWzmacniacz 506 W\n\nDodatkowe boczne kurtyny powietrzne z przodu i z tyłu\n\nAktywny system kontroli hałasu\n\nDodatkowe boczne poduszki powietrzne montowane na przednich siedzeniach\n\nElektryczny szyberdach\n\nPoduszka powietrzna chroniąca kolana kierowcy\n\nProTech II 875 USD\n\nSystem mocowania fotelika dziecięcego LATCH-Ready\n\nZaawansowany układ wspomagania hamulców\n\nSystem Quadra-Trac I® 4WD\n\nPełna prędkość do przodu-ostrzeżenie o kolizji Plus\n\nKamera cofania ParkView®\n\nOstrzeżenie o opuszczeniu pasa ruchu Plus\n\nAsystent parkowania Parksense® z funkcją Stop\n\nWykrywanie martwego pola i ruchu poprzecznego\n\nBezkluczykowy system Enter 'n Go™\n\n\n\nLusterko wsteczne dzień/noc\n\nSystem antykradzieżowy Sentry Key®\n\nKontrola prędkości\n\nHamowanie Ready-Alert\n\nElektroniczna kontrola stabilności\n\nAsystent ruszania pod górę\n\nWyświetlacz monitorowania ciśnienia w oponach\n\nKompaktowe koło zapasowe\n\nFUNKCJE WNĘTRZA\n\nUconnect® 4 z 7-calowym wyświetlaczem\n\nApple CarPlay®\n\nGoogle Android Auto™\n\nCentrum multimedialne z 2 portami USB i portem AUX\n\nZintegrowane sterowanie głosowe z Bluetooth®\n\n6 głośników\n\nKlimatyzacja z dwustrefową automatyczną regulacją temperatury\n\nKierownica obszyta skórą\n\nGałka zmiany biegów obszyta skórą\n\nPrzednie i tylne lampy wewnętrzne LED\n\nPodświetlane Uchwyty na kubki\n\nSzkło z filtrem przeciwsłonecznym o głębokim odcieniu\n\nPremiumowy zestaw wskaźników z obrotomierzem\n\nPodświetlane wejście\n\n12-woltowe gniazdo zasilania pomocniczego\n\nWYPOSAŻENIE OPCJONALNE (może zastąpić wyposażenie standardowe)\n\nLakier zewnętrzny Billet Silver Metallic Clear-Coat Pakiet preferowany przez klienta 2BM 5050 USD\n\nCzarne zamszowo - skórzane  siedzenia z czarnymi przeszyciami\n\n4G LTE Wi–Fi Hot Spot\n\nUconnect® 4C NAV z 8,4-calowym wyświetlaczem\n\n115-woltowe gniazdo zasilania pomocniczego\n\nPodgrzewane przednie siedzenia\n\nPodgrzewana kierownica\n\nElektrycznie otwierana klapa bagażnika \n\nCENA CAŁKOWITA: ZAKUPU AUTA W USA  * 45 450 USD",
-            "details": {
-                "Numer VIN": "XXXXXXXXXXXXXXXXXXX",
-                "Model": "Grand Cherokee",
-                "Rok produkcji": "2021",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "30 450 km",
-                "Kolor": "Szary",
-                "Poj. silnika": "3 600 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
-                "Kraj pochodzenia": "Stany Zjednoczone",
-                "Moc silnika": "296 KM",
-                "Napęd": "4x4 (dołączany automatycznie)",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/341j3t57e3j41-PL/image;s=1000x750"
         }
     ]
 }
