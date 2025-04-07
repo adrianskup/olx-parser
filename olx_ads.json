@@ -1,6 +1,55 @@
 {
-    "updated": "2025-04-07 22:45:18.545844",
+    "updated": "2025-04-07 22:50:34.102794",
     "ads": [
+        {
+            "title": "Sprzedam audi A4b5",
+            "price": "2 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a4b5-CID5-ID15kkGZ.html",
+            "location": "Ostrów Mazowiecka",
+            "date": "07 April 2025 o 22:43",
+            "description": "Witam serdecznie sprzedam audi A4b5 z niezawodnym silnikiem benzynowym 1600 cm'. Samochód po pierwszym lifcie, posiada klimatronik, oryginalne radio, alufelgi, hak, elektryczne szyby przód, elektryczne lusterka. Auto idealne na dojazdy do pracy jak i codziennego użytku. Podana cena jest oczywiście ceną do małej negocjacji  zapraszam do kontaktu",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2000",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "380 595 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "101 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
+        },
+        {
+            "title": "Ford Focus MK2 2008r",
+            "price": "8 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-focus-mk2-2008r-CID5-ID15egic.html",
+            "location": "Warszawa, Ursus",
+            "date": "07 April 2025 o 22:42",
+            "description": "Sprzedam Forda Focusa 1.6TDCi z 2008r W bardzo dobrym stanie \n\n\n\nWyposażenie:\n\n- 2 kluczyki\n\n- centralny zamek z pilota\n\n- elektryczne szyby przednie\n\n- klimatyzacja\n\n- ABS\n\n-koła zima\n\n\n\nTO: 2025-12-23\n\nCT: 2025-05-15",
+            "details": {
+                "Numer VIN": "WF0PXCGCDP8A60723",
+                "Model": "Focus",
+                "Rok produkcji": "2008",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "293 093 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 600 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sf5mjs9g6p5g2-PL/image;s=5712x4284"
+        },
         {
             "title": "Seat Ibiza II FL pierwszy właściciel",
             "price": "2 000 zł",
