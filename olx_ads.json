@@ -1,6 +1,42 @@
 {
-    "updated": "2025-04-07 23:53:01.082465",
+    "updated": "2025-04-07 23:58:21.988384",
     "ads": [
+        {
+            "title": "Citroën C5 2.0HDI 138KM Exclusive Serwis",
+            "price": "4 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c5-2-0hdi-138km-exclusive-serwis-ID6HiBqD.html",
+            "location": "Warszawa, Wawer",
+            "date": "07 April 2025 o 23:51",
+            "description": "Sprzedam\nCitroen C5 2.0HDI 138KM Wersja Exclusive\nSamochód w doskonałym stanie technicznym(serwisowany FV do wglądu)\nPo wymianie: Rozrządu,kompresora klimatyzacji,wahaczy,wentylatora i inne...\nBogate wyposażenie w pełni sprawne.\nWażne opłaty(przegląd i ubezpieczenie)",
+            "details": {
+                "Marka pojazdu": "Citroën",
+                "Model pojazdu": "C5",
+                "Wersja": "II 2.0 HDi Exclusive",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2007",
+                "Generacja": "II (2004-2008)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 997 cm3",
+                "Moc": "138 KM",
+                "Typ nadwozia": "Sedan",
+                "Rodzaj koloru": "Perłowy",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "7.8 l/100km",
+                "Spalanie Poza Miastem": "5.0 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "210 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak",
+                "Serwisowany w ASO": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl2OWpzNXQydXpjdzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.GUuN62uKoGy6CIkHtKFDnEWAL8wOlVT_o2u_iwUj2a4/image"
+        },
         {
             "title": "Opel Astra H kombi fl cosmo 1.8 benzyna 140km",
             "price": "9 990 zł",
