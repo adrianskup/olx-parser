@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-07 23:30:47.686160",
+    "updated": "2025-04-07 23:42:15.930068",
     "ads": [
+        {
+            "title": "Subaru Legacy 2.0 uszkodzony silnik",
+            "price": "3 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/subaru-legacy-2-0-uszkodzony-silnik-CID5-ID15klgq.html",
+            "location": "Wolica",
+            "date": "07 April 2025 o 23:33",
+            "description": "Uszkodzony / zatarty silnik. Dotychczas sprawny. Przegląd tech. do 11.kwietnia 2025 jak na zdjęciu. Stan jak na zdjęciach. Auto na oponach zimowych. W komplecie opony letnie po 2 sezonach. Cena do negocjacji.",
+            "details": {
+                "Model": "Legacy",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "310 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 994 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "165 KM",
+                "Napęd": "4x4 (stały)",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hu05s97gsmbw-PL/image;s=1828x1810"
+        },
         {
             "title": "Volkswagen Golf Super VW Golf VI generacji w idealnym stanie",
             "price": "7 500 zł",
@@ -10305,6 +10330,31 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gfxefvk0kr4e-PL/image;s=1500x2000"
+        },
+        {
+            "title": "Wszystkie części Renault vel satis 2.2dci 150 koni",
+            "price": "300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/wszystkie-czesci-renault-vel-satis-2-2dci-150-koni-CID5-ID14XJdr.html",
+            "location": "Skaryszew",
+            "date": "07 April 2025 o 15:01",
+            "description": "Witam sprzedam wszystkie części do auta widocznego na zdjęciu Renault vel satis 2.2 150 koni 2003 rok wszystko sprawne. Jeżeli potrzebujesz jakieś części proszę o kontakt telefoniczny, pozdrawiam",
+            "details": {
+                "Model": "Vel Satis",
+                "Rok produkcji": "2003",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "280 000 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "2 200 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "150 KM",
+                "Napęd": "Na tylne koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fe936br0dwi-PL/image;s=1024x768"
         },
         {
             "title": "Renault Clio 1,2",
@@ -21406,32 +21456,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yiamv8tle4zb2-PL/image;s=4000x3000"
-        },
-        {
-            "title": "PT Cruiser, czarny, 1,6 benzyna, manual, 2002r.",
-            "price": "2 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/pt-cruiser-czarny-1-6-benzyna-manual-2002r-CID5-ID15j7u4.html",
-            "location": "Milanówek",
-            "date": "06 April 2025 o 23:37",
-            "description": "Roczny akumulator, Opony wielosezonowe przejechały 1000 km. Samochód pali na dotyk, jeździ, ma ważny przegląd i ubezpieczenie. Ma hak. W silniku niestety coś stuka. Może panewka, może coś innego.",
-            "details": {
-                "Numer VIN": "1C8FEN8FX2U549846",
-                "Model": "PT Cruiser",
-                "Rok produkcji": "2002",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "150 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 598 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "85 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kym9nxnp8ytw-PL/image;s=2000x2673"
         }
     ]
 }
