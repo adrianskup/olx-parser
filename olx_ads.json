@@ -1,6 +1,35 @@
 {
-    "updated": "2025-04-07 19:49:53.797793",
+    "updated": "2025-04-07 19:55:13.192106",
     "ads": [
+        {
+            "title": "Volkswagen Transporter volkswagen transporter t5 2005 1.9 diesel",
+            "price": "6 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-transporter-volkswagen-transporter-t5-2005-1-9-diesel-ID6Hg8HE.html",
+            "location": "Radom",
+            "date": "07 April 2025 o 19:47",
+            "description": "volkswagen transporter t5 2005 1.9 diesel\nPrzebieg 397 883 km\nDwumasa do wymiany\nSamochód jezdzi, skręca, hamuje\nDo poprawek blacharskich jak na foto\nPo więcej info proszę dzwonić\nWażne oc i ac",
+            "details": {
+                "Marka pojazdu": "Volkswagen",
+                "Model pojazdu": "Transporter",
+                "Kolor": "Biały",
+                "Liczba drzwi": "4",
+                "Liczba miejsc": "2",
+                "Rok produkcji": "2005",
+                "Generacja": "T5",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 896 cm3",
+                "Moc": "85 KM",
+                "Typ nadwozia": "Minivan",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Przebieg": "397 883 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im41djBkMnlrenZ5MTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.b0y5nN96d6bh5KbgXLh74BjG3dHh_lhpWiU_wJeSbLk/image"
+        },
         {
             "title": "Chevrolet Rezzo 2.0 Benzyna 2007 rej 2008",
             "price": "3 790 zł",
@@ -24,6 +53,78 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/haq1b2kcrkfu-PL/image;s=4080x3060"
+        },
+        {
+            "title": "Golf 5 1.9 tdi 90KM 5D",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/golf-5-1-9-tdi-90km-5d-CID5-ID15kdYx.html",
+            "location": "Zbuczyn",
+            "date": "07 April 2025 o 19:45",
+            "description": "Witam serdecznie na mojej aukcji sprzedam golfa 5 z 2004 roku autko jeździ skręca hamuje nie jest w stanie idealny potrzebuje kosmetyki słabe progi zaprawka na drzwiach i w dachu w prawym rogu silnik skrzynia ok długie opłaty czasami jak słabo wciśnie się sprzęgło to słychać lekki zgrzyt przy włączaniu wstecznego może to być spowodowane założeniem pompki sprzęgła z passata B6 była troszkę inna biegi do przodu ok wszelkie info dotyczące autka pod nr tel. Faktura vat- marża",
+            "details": {
+                "Model": "Golf",
+                "Rok produkcji": "2004",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "370 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Belgia",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/plgwpz5nayqb-PL/image;s=1040x780"
+        },
+        {
+            "title": "Opel Zafira 1,8 benzyna+ gaz",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-8-benzyna-gaz-CID5-ID14GPCE.html",
+            "location": "Grójec",
+            "date": "07 April 2025 o 19:45",
+            "description": "Sprzedam samochód marki Opel Zafira 1,8 benzyna - gaz. Auto jest z 2003 roku, jeździ, skręca , hamuje.\n\nPosiada nowa butlę gazową, hak, koło dojazdowe. Cena do małej negocjacji.",
+            "details": {
+                "Model": "Zafira",
+                "Rok produkcji": "2003",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "324 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 800 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/v9nn81t2ya8r2-PL/image;s=1800x4000"
+        },
+        {
+            "title": "Ford Fiesta mk6 1.4 Ghia",
+            "price": "3 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-fiesta-mk6-1-4-ghia-CID5-ID15keJ5.html",
+            "location": "Legionowo",
+            "date": "07 April 2025 o 19:43",
+            "description": "Dzień dobry,\n\n Posiadam na sprzedaż samochód marki Ford, a mianowicie Fiestę MK6 pochodzącą z rocznika 2002 w pakiecie wyposażenia Ghia z silnikiem benzynowym 1.4 deklarującym moc na poziomie 80km. Auto aktualnie założone ma; 15-calowe felgi marki MOMO wraz z zimowymi oponami. Na przedniej osi są to gumy Nokian, na tylnej zaś Krisalp; dorzucę jeszcze komplet felg stalowych z oponami letnimi.\n\nDo auta są dwa kluczyki. Blacharsko samochód jest w dobrym stanie (jedynie drobny nalot w lewym progu przy drzwiach kierowcy) oraz posiada aktualne OC jak i przegląd.\n\n\n\n Jestem właścicielem samochodu od 3 lat, poprzednią właścicielką była przyjaciółka rodziny, która jeździła nim 2 lata. Auto do tej pory służyło mi do codziennych dojazdów do pracy i zaliczyło parę dalszych wypadów. Podczas podróży w Bieszczady (ok. 400km) ekonomiczną jazdą, według wyliczeń auto spaliło niecałe 5 litrów benzyny na 100km.\n\n Z uwagi na swój wiek, samochód nie jest w idealnym stanie, jednak jest to na pewno ekonomiczne i niezawodne auto, które dobrze się zestarzało.\n\n\n\n Warto wspomnieć jeszcze o występujących dźwiękach z podwozia w tylnych partiach auta na wybojach nieznanego pochodzenia (wymienione zostały tylne amortyzatory przez poprzednią właścicielkę).\n\n\n\nW wyposażenie pojazdu wchodzą m.in.:\n\nElektryczne przednie szyby\n\nElektryczne lusterka\n\nKlimatyzacja (sprawna)\n\nPodgrzewana tylna szyba\n\n15-calowe aluminiowe felgi marki MOMO\n\n\n\nPo więcej informacji proszę o kontakt poprzez wiadomości OLX czy też telefonicznie.",
+            "details": {
+                "Model": "Fiesta",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "190 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 388 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "80 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lc4nq9ycsyex1-PL/image;s=3024x4032"
         },
         {
             "title": "Bmw e46 2.2 benzyna + LPG",
@@ -21406,52 +21507,6 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kzq83gppflbc-PL/image;s=1280x576"
-        },
-        {
-            "title": "Opel Zafira 1.8 7-os 2004r",
-            "price": "4 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-8-7-os-2004r-CID5-ID15j0uk.html",
-            "location": "Antoniew",
-            "date": "06 April 2025 o 19:52",
-            "description": "Opel Zafira 1.8 \n\nRok 2024\n\nBenzyna + gaz (do10.2025)\n\nNa oponach całorocznych\n\nPrzebieg 278,5 tys km\n\nPrzegląd do 12.2026\n\nPolisa OC do 03.2026\n\nWymienione klocki hamulcowe 03.2025\n\nWymiana oleju i filtrów 03.2025\n\nSprowadzony z Niemiec w 2015. Użytkowany jako drugi samochód w rodzinie.",
-            "details": {
-                "Model": "Zafira",
-                "Rok produkcji": "2024",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "278 500 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "1 800 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Moc silnika": "130 KM",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tc20tvboln1u3-PL/image;s=920x1992"
-        },
-        {
-            "title": "Audi A3 2.0 TDI 8p",
-            "price": "7 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/audi-a3-2-0-tdi-8p-CID5-ID15gPbo.html",
-            "location": "Grójec",
-            "date": "06 April 2025 o 19:51",
-            "description": "Witam, sprzedam Audi A3 z silnikiem diesla 2.0 TDI,ma moc przyspiesza dobrze \n\nZawieszenie sztywne \n\nBlacharsko tragedii nie ma,drobne rysy się znajdzie,jak na swój wiek \n\nSkręca I hamuję \n\nWnętrze czyste \n\nAktualne przegląd na rok\n\nOC do czerwca \n\nW razie pytań proszę dzwonić",
-            "details": {
-                "Model": "A3",
-                "Rok produkcji": "2003",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "330 000 km",
-                "Kolor": "Inny kolor",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "170 KM",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gaf4jhkn2ab41-PL/image;s=522x1160"
         }
     ]
 }
