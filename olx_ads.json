@@ -1,6 +1,87 @@
 {
-    "updated": "2025-04-07 19:55:13.192106",
+    "updated": "2025-04-07 20:00:26.892902",
     "ads": [
+        {
+            "title": "Fiat Punto 55SX.",
+            "price": "2 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-punto-55sx-CID5-ID15kfe9.html",
+            "location": "Skierniewice",
+            "date": "07 April 2025 o 19:53",
+            "description": "Witam,\n\nSprzedam Fiata Punto 1,1 55 SX\n\nSamochód w dobrym stanie na dojazdy do pracy.\n\nPrzegląd ważny do 21.10.205.\n\nOC ważne do 19.10.2025.\n\nProszę o kontakt wyłącznie telefoniczny, po godzinie 16.",
+            "details": {
+                "Numer VIN": "ZFA17600000724232",
+                "Model": "Punto",
+                "Rok produkcji": "1996",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "126 776 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 108 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "55 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/utypwkmkbilo-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota Avensis Toyota Avensis",
+            "price": "3 690 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-avensis-toyota-avensis-ID6HeXyl.html",
+            "location": "Zwoleń",
+            "date": "07 April 2025 o 19:51",
+            "description": "Witam sprzedam toyote avensis stan wizualny jak na zdjęciach, ale autko sprawne cały czas eksploatowane bardzo oszczędne jeśli chodzi o spalanie, gaz sekwencja, przebieg 397 tys, więcej informacji pod numerem telefonu.",
+            "details": {
+                "Marka pojazdu": "Toyota",
+                "Model pojazdu": "Avensis",
+                "Wersja": "1.6 VVT-i Terra Plus",
+                "Kolor": "Zielony",
+                "Liczba drzwi": "4",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2002",
+                "Generacja": "I (1997-2002)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "110 KM",
+                "Typ nadwozia": "Sedan",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "9 l/100km",
+                "Spalanie Poza Miastem": "5.0 l/100km",
+                "Przebieg": "396 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhoNzczd2ZxdnI0NzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.mjEGuMnheyo9cAUhGR9Y4YffmI6jGQ4EGTYafWdT5Cg/image"
+        },
+        {
+            "title": "Toyota AYGO 1.0 2006r.",
+            "price": "3 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-aygo-1-0-2006r-CID5-ID15keHR.html",
+            "location": "Legionowo",
+            "date": "07 April 2025 o 19:51",
+            "description": "Sprzedam Toyotę Aygo rok 2006, silnik 1.0\n\nSamochód można obejrzeć w Legionowie po wcześniejszym umówieniu.\n\nJest to ogłoszenie grzecznościowe więc proszę dzwonić tylko i wyłącznie na nr telefonu 50*****45 - proszę dzwonić po godz. 16.00",
+            "details": {
+                "Model": "Aygo",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "209 815 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5efa2bvlc99p2-PL/image;s=1153x2048"
+        },
         {
             "title": "Volkswagen Transporter volkswagen transporter t5 2005 1.9 diesel",
             "price": "6 500 zł",
@@ -21486,27 +21567,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im42bjl2cGlkdjNiajMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.0rIAH23Hf5GqVqjJNeAtwpmWh3KW6FdIUoli-oDWeSc/image"
-        },
-        {
-            "title": "Mercedes A klasa 1.9 benzyna + LPG Długie opłaty, dobry stan, Warto",
-            "price": "2 990 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mercedes-a-klasa-1-9-benzyna-lpg-dlugie-oplaty-dobry-stan-warto-CID5-ID15cZp3.html",
-            "location": "Łódź, Bałuty",
-            "date": "06 April 2025 o 20:00",
-            "description": "Witam posiadam na sprzedaż Mercedesa A klasę z silnikiem 1.9 benzyna + LPG 125km, Długie opłaty. Bardzo dynamiczny a zarazem ekonomiczny. Mercedes jak na swoje lata w bardzo dobrym stanie, nie wymaga wkładu finansowego. Jeździ na benzynie i gazie, zawieszenie nie posiada żadnych luzów. Opony wielosezonowe w dobrym stanie.\n\nUbezpieczenie oraz przegląd techniczny ważny aż do 10.09.2025r \n\nAuto idealnie nadaje się na dojazdy do pracy/szkoły czy do rozwożenia jedzenia. Blacharsko prezentuje się okej, Polecam. Więcej informacji udzielę telefonicznie",
-            "details": {
-                "Model": "A Klasa",
-                "Rok produkcji": "1999",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Hatchback",
-                "Przebieg": "290 000 km",
-                "Kolor": "Szary",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kzq83gppflbc-PL/image;s=1280x576"
         }
     ]
 }
