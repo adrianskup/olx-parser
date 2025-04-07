@@ -98,7 +98,7 @@ for ad in ads:
     market_key = f"{model}-{year}"
     if market_key in market_prices and price_number:
         market_price = market_prices[market_key]
-        if price_number < market_price * 0.6:  # если 0.6, то на 40% дешевле
+        if price_number < market_price * 0.5:  # если 0.6, то на 40% дешевле если 0.3 то на 70% дешевле
             message = f"🔥 <b>Cheap Car Found!</b>\nModel: {model}\nYear: {year}\nPrice: {price_text}\n<a href='{ad_link}'>View Listing</a>"
             send_to_telegram(message)
 
@@ -107,3 +107,15 @@ for ad in ads:
 
 # Сохраняем обновленный список отправленных объявлений
 save_sent_ads(sent_ads)
+
+# Функция для отправки изменений на GitHub
+def push_to_github():
+    os.system("git config --global user.name 'github-actions'")
+    os.system("git config --global user.email 'github-actions@github.com'")
+    os.system("git add sent_ads.json")
+    os.system("git add market_prices.json")
+    os.system('git commit -m "Автоматическое обновление объявлений" || echo "No changes to commit"')
+    os.system("git push")
+
+# Пушим изменения на GitHub
+push_to_github()
