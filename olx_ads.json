@@ -1,6 +1,31 @@
 {
-    "updated": "2025-04-07 22:50:34.102794",
+    "updated": "2025-04-07 22:55:38.303551",
     "ads": [
+        {
+            "title": "Sprzedam Audi a4 b6 Avant",
+            "price": "6 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a4-b6-avant-CID5-ID155FUR.html",
+            "location": "Rypin",
+            "date": "07 April 2025 o 22:50",
+            "description": "Sprzedam Audi a4 b6 Avant,stan ogólny dobry,po remoncie zawieszenie,prowadzi się dobrze i przyjemnie,nowe amortyzatory przód i tył,nowe lampy z przodu ( stare słabo swiecily)dobrze przyspiesza silnik chodzi równo,nowy akumulator,do poprawy drzwi od pasazera z tyłu,nie przeszkadza w użytkowaniu.podrawiam",
+            "details": {
+                "Model": "A4",
+                "Rok produkcji": "2002",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "303 000 km",
+                "Kolor": "Żółty – Złoty",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4jz5le1iocpe-PL/image;s=768x1024"
+        },
         {
             "title": "Sprzedam audi A4b5",
             "price": "2 500 zł",
