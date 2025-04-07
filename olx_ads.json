@@ -1,6 +1,179 @@
 {
-    "updated": "2025-04-07 17:00:02.485321",
+    "updated": "2025-04-07 17:04:10.740825",
     "ads": [
+        {
+            "title": "Sprzedam Renault Megane Scenic II",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-renault-megane-scenic-ii-CID5-ID14PoY6.html",
+            "location": "Żyrardów",
+            "date": "07 April 2025 o 16:59",
+            "description": "Sprzedam Renault Megane Scenic II z roku 2006. \n\nAuto posiada:\n\nKlimatyzację\n\nElektryczne szyby \n\nRadio \n\nElektryczny zamek \n\nWicej informacji podam pod nr tel \n\n51*******47 \n\nNie odpisuje na smsy i prosze o kontakt po godz 14.00.",
+            "details": {
+                "Model": "Scenic",
+                "Rok produkcji": "2006",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "323 000 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2b71mirkixyi1-PL/image;s=2000x2667"
+        },
+        {
+            "title": "Bmw E46 compact 2.0 benzyna",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-compact-2-0-benzyna-CID5-ID15k1o2.html",
+            "location": "Gościniec",
+            "date": "07 April 2025 o 16:59",
+            "description": "Witam, sprzedam bmw e46 compact 2.0 benzyna 143km. Silnik zdrowy ładnie pracuje, nic nie stuka nic nie puka. \n\nLakier również w dobrym stanie, nie porysowany,brak rdzy. Auto zadbane w środku jak i na zewnątrz. \n\nChętnej osobie więcej informacji udzielę telefonicznie.",
+            "details": {
+                "Model": "Seria 3",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Coupe",
+                "Przebieg": "233 300 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "2 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "143 KM",
+                "Napęd": "Na tylne koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m1x7jwbh95ym3-PL/image;s=750x1000"
+        },
+        {
+            "title": "Fiat Panda 1.1 sprawna klima",
+            "price": "2 950 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-1-sprawna-klima-CID5-ID15k1ni.html",
+            "location": "Żyrardów",
+            "date": "07 April 2025 o 16:59",
+            "description": "Sprzedam samochód osobowy fiat panda 1.1 w bardzo dobrym stanie. Auto jeździ bez zarzutu, cały czas jest nim jedzone, nie stał także jest gotowy do dalszego użytkowania. Ostatni przegląd przeszedł bez problemu, nic na tę chwilę nie wymaga wymiany. Posiada sprawną klimatyzację, brak wspomagania kierownicy (fabrycznie nie posiadał) . OC do 11.11.2025, PT do 7.11.2025. cena do negocjacji, tel. 7 2 1  1 3 7  5 5 3",
+            "details": {
+                "Numer VIN": "ZFA16900000615846",
+                "Model": "Panda",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "307 000 km",
+                "Kolor": "Czerwony",
+                "Poj. silnika": "1 108 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "54 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uwfdkiafp2c53-PL/image;s=1024x768"
+        },
+        {
+            "title": "Mazda 6 * 2009 * lift * 2.2d * 172tys* alu* xenon *polskora * Warszawa",
+            "price": "7 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mazda-6-2009-lift-2-2d-172tys-alu-xenon-polskora-warszawa-CID5-ID15k1ec.html",
+            "location": "Warszawa, Śródmieście",
+            "date": "07 April 2025 o 16:58",
+            "description": "Mazda 6 2009 lift 2.2d manual 172tys z papierem xenon szyber poskory mechanicznie w pelni sprawna lekko uszkodzona\n\nmozliwy transport po zakupie \n\nWarszawa",
+            "details": {
+                "Model": "6",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "172 000 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "2 200 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/btzui35atqqw2-PL/image;s=1600x1200"
+        },
+        {
+            "title": "Renault Megane Renault Megane I 1.6 16V Zadbane",
+            "price": "4 200 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-megane-renault-megane-i-1-6-16v-zadbane-ID6GWh25.html",
+            "location": "Wołomin",
+            "date": "07 April 2025 o 16:57",
+            "description": "Witam sprzedam Renault Megane I z super niezawodnym silnikiem 1.6 16V\nPrzegląd techniczny aktualny do 26.04.2025 oraz opłacone OC do 10.10.2025\nSamochód serwisowany na bieżąco jak też użytkowany\nWymienione elementy:\nRok temu wymieniona tylna belka zawieszenia z kompletnymi hamulcami i łozyskami kół,\nrozrząd kpl 223000km 26.06.2021\nsprzegło kpl.\nświecie i cewki,\nprzewody hamulcowe sztywne tył wymienione na nowe miedziane\noraz dużo więcej elementów o których w tej chwili nie pamiętam ale podam zainteresowanym\nWyposażenie dość bogate jak na te auto i rok\nABS\nCentralny zamek\nWspomaganie kierownicy\n4 elektryczne szyby\nRadio z CD z sterowaniem przy kierownicy\nKomputer pokazujący spalanie\nKlimatyzacja sprawna wymieniany był parownik kilka lat temu- chłodzi bardzo dobrze\nPoduszki czołowe i boczne\nOświetlenie wnętrza pojazdu wymienione żarówki na ledowe co poprawiło widoczność wnętrza w nocy\nProgi i podłoga bez dziur oryginał\nZapraszam do kontaktu i oględzin",
+            "details": {
+                "Marka pojazdu": "Renault",
+                "Model pojazdu": "Megane",
+                "Wersja": "1.6 Privilege",
+                "Kolor": "Bordowy",
+                "Liczba drzwi": "2",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2001",
+                "Generacja": "I (1996-2002)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "107 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "165 g/km",
+                "Spalanie W Mieście": "9 l/100km",
+                "Spalanie Poza Miastem": "5.0 l/100km",
+                "Przebieg": "252 500 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFpam8zMTNieWpwcTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.FcHNAH4HqsC87iApWxV58pUO-gZj8-X5Y9Qfg8e_dC8/image"
+        },
+        {
+            "title": "OBNIZKA!! S60 2.4 170KM LPG Idealny stan BEZWYPADKOWY Harman Kardon",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/obnizka-s60-2-4-170km-lpg-idealny-stan-bezwypadkowy-harman-kardon-CID5-ID15bTn0.html",
+            "location": "Warszawa, Ochota",
+            "date": "07 April 2025 o 16:56",
+            "description": "Obniżka!!\n\n\n\nWitam do sprzedania śliczne bezwypadkowe Volvo S60 2.4  170 koni mechanicznych stan jest absolutnie kolekcjonerski A auto pięknie się prezentuje brakuje mu tylko felg która mam za Warszawą mogę dorzucić za to są nowe opony piękne skóry wszystko widać na zdjęciach jutro zrobię lepsze klimatyzacja pełna elektryka fotele z 3 pamięciami ,nagłośnienie Harman Kardon 14 głośników i subwoofer,pięknie gra, wszystko sprawne klimatyzacja takze pełna elektryka,podgrzewane fotele autem się cudownie płynie mało pali jako ciekawostka auto jest z polskiego salonu i jeździło w b.o.r. dlatego jest bardzo zadbane i doinwestowane więcej informacji telefonicznej zapraszam serdecznie",
+            "details": {
+                "Model": "S60",
+                "Rok produkcji": "2000",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "300 km",
+                "Kolor": "Zielony",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "170 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8arysdxi5zzo2-PL/image;s=1020x768"
+        },
+        {
+            "title": "Honda Jazz 1.4 klimatyzacja Oryginalny Lakier IDEALNY STAN bez korozji",
+            "price": "7 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/honda-jazz-1-4-klimatyzacja-oryginalny-lakier-idealny-stan-bez-korozji-CID5-ID155hIW.html",
+            "location": "Sierpc",
+            "date": "07 April 2025 o 16:55",
+            "description": "Dzień dobry \n\nNa sprzedaż wystawiam auto marki Honda Jazz z najlepszym silnikiem benzynowym o pojemności 1.4 na łańcuchu.\n\nHonda serwisowana w ASO Honda \n\nUwaga ! \n\nAuto nigdy nie było naprawiane blacharsko ani lakierniczo !\n\nLakier jest oryginalny na każdym Elemencie możliwość weryfikacji na miejscu .\n\nStan samochodu jest mega perfekcyjny pod każdym względem \n\nAuto  bez korozji bez rys itp .\n\nKlimatyzacja sprawna  odgybiana systematycznie \n\nAuto jest po serwisie \n\nWnętrze auta jest również w stanie perfekcyjnym ! \n\nZapraszam osoby które szukaja taniego auta w idealnym stanie \n\nZachęcam również do sprawdzenie auta na stacji diagnostycznej w celu potwierdzenia perfekcyjnego stanu auta przez diagnoste \n\nDo auta posiadam 2 komplety kól lato I zima na felgach w bardzo dobrym stanie \n\nUwaga! \n\nOpis jest zgodny ze stanem auta. \n\nOgłoszenie bez wycieczki \n\nSzanujmy swój czas I pieniądze  \n\nMożliwość udostępnienia filmu z pomiarem grubości lakieru \n\nPozdrawia i Zapraszam",
+            "details": {
+                "Model": "Jazz",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "206 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "83 KM",
+                "Napęd": "Na przednie koła"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kauplb6tr1tg2-PL/image;s=2000x1500"
+        },
         {
             "title": "Honda Accord 2.2 diesel",
             "price": "7 500 zł",
@@ -44,6 +217,25 @@
                 "Kierownica": "po prawej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dx3c5o3ig49u1-PL/image;s=1020x768"
+        },
+        {
+            "title": "Trabant z dokumentami",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/trabant-z-dokumentami-CID5-ID15jZlP.html",
+            "location": "Ożarów Mazowiecki",
+            "date": "07 April 2025 o 16:53",
+            "description": "Sprzedam trabanta z dokumentami, ubezpieczony. Samochód do renowacji. Więcej informacji pod numerem telefonu 60*******66",
+            "details": {
+                "Rok produkcji": "1990",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "1 km",
+                "Kolor": "Niebieski",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/doz1tjbb84in2-PL/image;s=2000x1500"
         },
         {
             "title": "Passat b5 1.6 lpg klima",
@@ -195,6 +387,29 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRtczAxZ3locTEzMDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.YY_VnLQlY-E2_f_GpoX-b7zen45HO7OWA9-9R1v-QCk/image"
+        },
+        {
+            "title": "Volkswagen Touran 2005",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-touran-2005-CID5-ID15k05o.html",
+            "location": "Łomianki",
+            "date": "07 April 2025 o 16:47",
+            "description": "Witam \n\nNa sprzedaż VW Touran 2005r \n\n1.9tdi 105 konia konia \n\nBEZ RELINGÓW WIDOCZNYCH NA ZDJECIACH !!!!\n\nSamochod jeździ skręca hamuje po niewielkiej kolizji \n\nNa auto niestety wlazła ruda więc trzeba by je trochę poprawić tu i tam w czym klapa raczej do wymiany mi nie chce się z nią bawić \n\nSamochod po regeneracj turbiny\n\n wymienione hamulce  włożony nowy alternator \n\nPrzegląd ważny do 25.04.2025\n\nOc ważne do 04.04.2026 płatność rozłożona na 4 raty pierwsza jest już opłacona \n\nPrzebieg widoczny na zdjęciu i cały czas rośnie \n\nW razie pytań proszę o kontakt w wiadomości nie zawsze mogę rozmawiać  \n\nNie interesują mnie umowy inblanco",
+            "details": {
+                "Model": "Touran",
+                "Rok produkcji": "2005",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "344 661 km",
+                "Kolor": "Szary",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "105 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xonvdxf03l3o1-PL/image;s=1500x2000"
         },
         {
             "title": "Opel Meriva 1.6 LPG",
