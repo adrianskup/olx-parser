@@ -1,6 +1,51 @@
 {
-    "updated": "2025-04-08 04:52:29.262645",
+    "updated": "2025-04-08 04:57:40.331412",
     "ads": [
+        {
+            "title": "Volvo s60 automat",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volvo-s60-automat-CID5-ID152axy.html",
+            "location": "Zgierz",
+            "date": "08 April 2025 o 04:48",
+            "description": "Na sprzedaż volvo s60 2.4 benzyna z gazem. Auto odpala, jeździ niestety grzeje się. Skrzynia automat, zmienia biegi bez problemu płynnie, blacha igła\n\nAktualne opłaty OC i przegląd\n\nwiecej info pod nr tel",
+            "details": {
+                "Model": "S60",
+                "Rok produkcji": "2001",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "300 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "2 400 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Kierownica": "po lewej"
+            },
+            "image_url": null
+        },
+        {
+            "title": "Ford Focus 1.8 benzyna",
+            "price": "9 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-focus-1-8-benzyna-CID5-ID15knj5.html",
+            "location": "Kutno",
+            "date": "08 April 2025 o 04:48",
+            "description": "Sprzedam auto, Ford Focus 1.8 benzyna , rok 2009 , OC i przegląd do marca 2026 , w aucie wszystko wymieniane na bierząco\n\nA",
+            "details": {
+                "Model": "Focus",
+                "Rok produkcji": "2009",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "333 000 km",
+                "Kolor": "Czarny",
+                "Poj. silnika": "1 798 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "92 KM",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3vww5u9vejfi3-PL/image;s=750x1000"
+        },
         {
             "title": "renault twingo 1,5 DCi -klimatyzacja -BEZWYPADKOWY",
             "price": "6 900 zł",
@@ -21581,31 +21626,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fl9pf0ub02c82-PL/image;s=3000x2539"
-        },
-        {
-            "title": "Bmw e46 318d automat",
-            "price": "7 600 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/bmw-e46-318d-automat-CID5-ID14PbHA.html",
-            "location": "Burzec",
-            "date": "07 April 2025 o 04:55",
-            "description": "Witam sprzedam swoje prywatne BMW E46 318d\n\nAutko w pełni sprawne jeździ skręca hamuje.\n\nposiada radio Android dzięki czemu łączy się z telefonem (CarPlay, Androidauto)\n\nNowe lampy soczefkowe z ringami firmy Depo ( pełna homologacja)\n\nPosiada kamerkę cofania\n\ndzialajacy tempomat\n\n2x elektryczne szyby\n\nOpony letnie i zimowe z felgami (2komplety felg)\n\nW zapasie posiadam klocki tył i przód, amortyzator przód lewy, oryginalne radio, stare lampy przednie.\n\nOlej wymieniany 2,700km temu\n\nW samochodzie została wylosowana „ekologia” egr, wyrzucone klapki wirowe i podniesioną moc do 156km na hamowni.\n\nOczywiście egr zaślepiony.\n\nAuto posiada jak wbity w dowód",
-            "details": {
-                "Numer VIN": "WBAEL71080PL55944",
-                "Model": "Seria 3",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "366 366 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 995 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Automatyczna",
-                "Kraj pochodzenia": "Belgia",
-                "Moc silnika": "165 KM",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/glp4qz1nvzb63-PL/image;s=1000x563"
         }
     ]
 }
