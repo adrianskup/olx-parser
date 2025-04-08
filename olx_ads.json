@@ -1,6 +1,32 @@
 {
-    "updated": "2025-04-08 05:50:38.308371",
+    "updated": "2025-04-08 05:56:11.350648",
     "ads": [
+        {
+            "title": "Sprzedam Peugeot 207sw",
+            "price": "5 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-peugeot-207sw-CID5-ID14IJml.html",
+            "location": "Warszawa, Ochota",
+            "date": "08 April 2025 o 05:46",
+            "description": "Po zakupie innego samochodu ten już nie jest mi potrzebny więc sprzedam za 5000\n\nNa sprzedaż Peugeot 207sw z 2008 roku o przebiegu 192000 km\n\nDach panoramiczny \n\nElektryczne lusterka \n\nElektryczne szyby \n\nPodgrzewane fotele \n\nWspomaganie kierownicy \n\nABS \n\nCentralny zamek \n\nKlimatyzacja manualna działająca \n\nRadio oryginalne \n\n2 komplety kluczyków jeden z pilotem drugi zapasowy\n\nW ostatnim czasie wymieniony akumulator \n\nNowe sprzęgło \n\nWymiana przednich sprężyn \n\nWszystko dziala\n\nPrzebieg oryginalny \n\nPrzednie opony wielosezonowe\n\nPo wymianie oleju oraz filtrów \n\nNa wszystko jest faktura \n\nSamochód w ciągłej eksploatacji wszystko działa \n\nZ uwagi że pracuję do godziny 17 i nie mogę odbierać połączeń telefonicznych proszę pisać na OLX lub tel.po 18\n\nHandlarzom i innym debilom oferującym za auto jakies śmieszne pieniądze dziękuję tyle to na złomie dostanę \n\nNie jest to samochód po taksówce jak wiele osób myśli \n\nBadania techniczne do stycznia 2026\n\nOC do czerwca 2025\n\nWszystko jest na zdjeciach\n\nMoże komuś się przyda",
+            "details": {
+                "Numer VIN": "VF3WE5FWC34028203",
+                "Model": "207",
+                "Rok produkcji": "2008",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Kombi",
+                "Przebieg": "192 000 km",
+                "Kolor": "Biały",
+                "Poj. silnika": "1 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Finlandia",
+                "Moc silnika": "120 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wugp15shke3m-PL/image;s=480x1040"
+        },
         {
             "title": "PANDA 1.1 B klimatyzacja,  przebieg 51 tyś km ...",
             "price": "6 900 zł",
@@ -21518,31 +21544,6 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e35t5xipm2442-PL/image;s=563x424"
-        },
-        {
-            "title": "Ford  S Max,2.0 Tddi, 2006 rok,Klima zarejestrowany",
-            "price": "5 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ford-s-max-2-0-tddi-2006-rok-klima-zarejestrowany-CID5-ID155KOy.html",
-            "location": "Lublin",
-            "date": "07 April 2025 o 05:54",
-            "description": "Sprzedam Forda S Max którego właścicielem jestem od półtora roku.  Zarejestrowane na mnie przegląd kończy się na dniach, Oc+AC do 13/05/25. W aucie wymieniłem dużo części przez ostatni czas. Jeździ, pali skręca i hamuje . Wszystko sprawne łącznie z klimą która była nabita.  Oleje i płyny wymieniane na czas. Niestety w ostatnim czasie jak jest ciepło coś szwankuje pali jeździ ale jak jest ciepło gaśnie podczas jazdy jakiś czujnik. Sprzedaje jako uszkodzone.  Do poprawek lakierniczych chodź ładnie się prezentuje.  Cena Ostateczna i proszę nie pisać z propozycjami.  Cena ostateczna proszę uszanować swój i mój czas. Auto jeździ, hamuje i nawet skręca.  Można przyjechać mogę wysłać film jak pracuje.  Auto dla majsterkowicza",
-            "details": {
-                "Model": "S-Max",
-                "Rok produkcji": "2006",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Minivan",
-                "Przebieg": "550 000 km",
-                "Kolor": "Srebrny",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Uszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "136 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/aujh0drw8cmm2-PL/image;s=768x1024"
         }
     ]
 }
