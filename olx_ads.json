@@ -1,6 +1,57 @@
 {
-    "updated": "2025-04-08 04:40:51.721269",
+    "updated": "2025-04-08 04:52:29.262645",
     "ads": [
+        {
+            "title": "renault twingo 1,5 DCi -klimatyzacja -BEZWYPADKOWY",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-twingo-1-5-dci-klimatyzacja-bezwypadkowy-CID5-ID15kneJ.html",
+            "location": "Łódź, Górna",
+            "date": "08 April 2025 o 04:44",
+            "description": "Witam auto od 3 lat w Polsce \n\n- pierwsza rej 12-06-2009r\n\n- BEZWYPADKOWE  w pełni sprawne\n\n- klimatyzacja sprawna \n\n- alu-felgi + felgi stalowe\n\n- fotele isofix\n\n- el szyby i lusterka\n\n- 2x kluczyk + pilot\n\n- 4x airbag\n\n- radio CD sterowane w kierownicy \n\n- wsp ,abs\n\n- OC ważne 1-mc firmowe\n\n- PT ważne do 10-2025r\n\n- ZAPRASZAMY ul.przybyszewskiego 31    tel 791xx226xx053",
+            "details": {
+                "Numer VIN": "VF1CN0E0541531844",
+                "Model": "Twingo",
+                "Rok produkcji": "2009",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "239 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 500 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Niemcy",
+                "Moc silnika": "64 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tom0sm1sxc0k1-PL/image;s=4032x2268"
+        },
+        {
+            "title": "Skoda Octavia 1.9 TDI",
+            "price": "2 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-9-tdi-CID5-ID14ye9u.html",
+            "location": "Skaryszew",
+            "date": "08 April 2025 o 04:35",
+            "description": "Sprzedam Skodę Octavię 1.9 TDI rok 2007, przebieg 45 tyś. Jeździ, skręca, hamuje. Silnik pali na dotyk nawet przy -20, ogólnie jeździ. \n\nZ minusów: blacha co widać na zdjęciach, drzwi prawy tył się nie otwierają, prawy przód nie działa centralny, lewy przód urwana linka od szyby. Problem z drzwiami pęknięty przewód na łączeniu drzwi (już to robiłem dwa lata temu, ale uszkodziły się ponownie) nie trzyma siłownik klapy bagażnika. Sprzedaje jako uszkodzony. OC i przegląd aktualne",
+            "details": {
+                "Model": "Octavia",
+                "Rok produkcji": "2007",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "450 000 km",
+                "Kolor": "Srebrny",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Uszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "101 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u62aswrkfgsn3-PL/image;s=2040x1530"
+        },
         {
             "title": "Honda Civic VII 1.6 benzyna",
             "price": "5 100 zł",
