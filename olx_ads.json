@@ -1,6 +1,33 @@
 {
-    "updated": "2025-04-09 07:49:50.585064",
+    "updated": "2025-04-09 07:56:51.850094",
     "ads": [
+        {
+            "title": "Opel Meriva",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-meriva-ID6H8vgI.html",
+            "location": "Płock",
+            "date": "09 April 2025 o 07:48",
+            "description": "Syndyk masy upadłości sprzeda samochód osobowy Opel Meriva rok prod. 2004\nWięcej informacji od poniedziałku do piątku 8 - 16 pod nr tel. \nWyświetl numer\n lub mailowo\nsyndyk-plock@wp.pl",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Meriva",
+                "Kolor": "Granatowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2004",
+                "Generacja": "I (2002-2010)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 796 cm3",
+                "Moc": "125 KM",
+                "Typ nadwozia": "Minivan",
+                "Skrzynia biegów": "Manualna",
+                "Przebieg": "400 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF0Nno1ejZ5aHF1NzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.t3H3_WKgZY8eZr6F2uVx3gvg3xtKWqHj4MxSBRQ_epM/image"
+        },
         {
             "title": "Seat Leon 1.8 + LPG sekwencja",
             "price": "4 200 zł",
@@ -23,6 +50,55 @@
                 "Napęd": "Na przednie koła"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gzebt3qo9sfl1-PL/image;s=1160x653"
+        },
+        {
+            "title": "Na Sprzedaz Subaru Tribeca 3.0LPG Automat/7 Osobowy/Pakowny/Nowe Amory",
+            "price": "7 490 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-subaru-tribeca-3-0lpg-automat-7-osobowy-pakowny-nowe-amory-CID5-ID15lwgQ.html",
+            "location": "Łódź, Bałuty",
+            "date": "09 April 2025 o 07:45",
+            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękna i niezawodny Subaru z najlepszym niezawodnym silnikiem 3.0 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Łódź 91-355 ,Zgierska 186 \n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 08 do 20",
+            "details": {
+                "Model": "Tribeca",
+                "Rok produkcji": "2007",
+                "Paliwo": "LPG",
+                "Typ nadwozia": "Minivan",
+                "Przebieg": "184 000 km",
+                "Kolor": "Brązowy – Beżowy",
+                "Poj. silnika": "3 000 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Automatyczna",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/63ol4qtquqp4-PL/image;s=750x1000"
+        },
+        {
+            "title": "Audi A6 2002 rok C5",
+            "price": "3 150 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/audi-a6-2002-rok-c5-CID5-ID15lw7h.html",
+            "location": "Siedlce",
+            "date": "09 April 2025 o 07:45",
+            "description": "Do sprzedania audi a6 c5\n\nSilnik i zawieszenie chodzi dobrze tak, że można śmiało wsiadać i jechać.\n\nMinusy: Wisi podsufitka, szyby się zacinają, środek trochę zaniedbany, szyba czołowa lekko pęknięta, blacharka jak widać na zdjęciach\n\nPrzegląd do listopada 2025.\n\nOc do czerwca 2025\n\nPrzebieg 350000\n\nWystawiam fakturę vat marża\n\nKupujący zwolniony z opłaty skarbowej",
+            "details": {
+                "Numer VIN": "WAUZZZ4BX3N011217",
+                "Model": "A6",
+                "Rok produkcji": "2002",
+                "Paliwo": "Diesel",
+                "Typ nadwozia": "Sedan",
+                "Przebieg": "351 100 km",
+                "Kolor": "Inny kolor",
+                "Poj. silnika": "1 900 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Kraj pochodzenia": "Polska",
+                "Moc silnika": "130 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1r8e5gijnn1o1-PL/image;s=4032x3024"
         },
         {
             "title": "ford mondeo uszkodzony",
@@ -49,6 +125,53 @@
                 "Kierownica": "po lewej"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4fkwsbk5g7z63-PL/image;s=2000x2667"
+        },
+        {
+            "title": "Fiat Punto 1.4b /Klimatyzacja/",
+            "price": "7 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-punto-1-4b-klimatyzacja-CID5-ID15fBqF.html",
+            "location": "Lublin",
+            "date": "09 April 2025 o 07:44",
+            "description": "Do sprzedania Fiat Punto. Samochód po dużym serwisie. W ostatnim miesiącu nowe kpl sprzęgło, olej w skrzyni , regeneracja maglownicy. Rok temu nowe tarcze klocki , zawieszenie kayaby. Silnik stan bardzo dobry pali na dotyk równo i cicho pracuje. Skrzynia pracuje delikatnie. Sprzęgło nowe więc bardzo dobrze. Sprawna klimatyzacja. Elektryczne szyby wspomaganie + city. Progi podłoga jak nowe. Możliwość sprawdzenia auta na stacji diagnostycznej. Auto nie posiada rdzy. \n\n\n\nUbezpieczenie OC do 10.2025r\n\nPrzegląd do 04.2026r",
+            "details": {
+                "Model": "Punto",
+                "Rok produkcji": "2006",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "218 000 km",
+                "Kolor": "Niebieski",
+                "Poj. silnika": "1 400 cm³",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "78 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/871x8n6djo3q3-PL/image;s=1160x653"
+        },
+        {
+            "title": "Nissan Micra K12 1.3 16v 90km / klimatyzacja/",
+            "price": "4 099 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-micra-k12-1-3-16v-90km-klimatyzacja-CID5-ID15fBWf.html",
+            "location": "Lublin",
+            "date": "09 April 2025 o 07:44",
+            "description": "Do sprzedania nissan Micra. Samochód w lutym 2025r sprowadzony z Niemiec. Zarejestrowany opłacony. Auto sprawne jeżdżące. Silnik w super stanie na łańcuchu. Pali na dotyk równo pracuje nie dymi mocny zrywny. Sprawna klimatyzacja klimatronik. Elektryczne szyby i lusterka. Auto fabrycznie było niebieskie zostało przemalowane. Progi podłoga w bardzo dobrym stanie fabryka. Ładne opony zimowe na alufelgach 15. Samochód posiada komputer pokładowy. \n\n\n\nUbezpieczenie OC do 02.2026r\n\nPrzegląd 02.2026r \n\n\n\nSamochód jest zarejestrowany na mnie.",
+            "details": {
+                "Model": "Micra",
+                "Rok produkcji": "2003",
+                "Paliwo": "Benzyna",
+                "Typ nadwozia": "Hatchback",
+                "Przebieg": "262 000 km",
+                "Kolor": "Niebieski",
+                "Stan techniczny": "Nieuszkodzony",
+                "Skrzynia biegów": "Manualna",
+                "Moc silnika": "90 KM",
+                "Napęd": "Na przednie koła",
+                "Kierownica": "po lewej"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/948bmwqca0i52-PL/image;s=1160x653"
         },
         {
             "title": "SAAB 9-5 3.0 V6 177 KM / 350 Nm - 2004 rok",
@@ -18496,131 +18619,6 @@
                 "Moc silnika": "101 KM"
             },
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dkd6myw8vk2m3-PL/image;s=1156x867"
-        },
-        {
-            "title": "Sprzedam mercedesa",
-            "price": "9 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-mercedesa-CID5-ID14oTFN.html",
-            "location": "Cegłów",
-            "date": "08 April 2025 o 07:55",
-            "description": "Sprzedam Mercedesa klasa C z niezawodnym silnikiem 2.2 diesel z przebiegiem 313 tyś przebiegu w czarnym kolorze. Auto garażowane. Normalne ślady użytkowania. Dobre opony letnie jak i zimowe na felgach. Wymieniony akumulator świece żarowe Olej co 10 tyś km wraz z kompletem filtrów. Przegląd 2025.07.04, OC 28.04.2025. Świeżo po regeneracji wtrysków.",
-            "details": {
-                "Model": "C Klasa",
-                "Rok produkcji": "2004",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "314 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "2 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Włochy",
-                "Moc silnika": "143 KM",
-                "Napęd": "Na tylne koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yb6rtqut8dkj3-PL/image;s=1020x765"
-        },
-        {
-            "title": "Super Stan Peugeot 407SW 2.2 16V + Gaz JBL Klima Serwis Hak",
-            "price": "8 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/super-stan-peugeot-407sw-2-2-16v-gaz-jbl-klima-serwis-hak-CID5-ID151rH1.html",
-            "location": "Łódź, Bałuty",
-            "date": "08 April 2025 o 07:51",
-            "description": "Witam , do sprzedania mam Peugeota 407SW w Super Stanie . Mały  przebieg jak na swoje lata .\n\n\n\nBardzo zadbany egzemplarz .\n\nNie wymagający żadnego wkładu finansowego . Tylko wsiadać i jeździć .\n\nNowe badanie techniczne. \n\n\n\nAuto w bardzo bogatej wersji wyposażenia m.in. \n\n- półskórzana tapicerka ,\n\n- el. Reg. Fotele \n\n- podgrzewane fotele \n\n- el. Reg i składane lusterka \n\n- lusterko wsteczne przyciemniane \n\n- nagłośnienie fabryczne JBL z subwooferem w bagażniku ,\n\n- czujniki parkowania tył ( sprawne )\n\n- klimatyzacją dwustrefową ( sprawna )\n\n- alufelgi 17\" z bardzo ładnymi oponami z 2021 roku \n\n-  z hakiem .\n\n\n\nSilnik 2.2 16V to bezawaryjna jednostka napędowa , w połączeniu ze skrzynią 6 - biegową, naprawdę daje dużo frajdy z jazdy . \n\nZ instalacją gazową jeździ się bardzo ekonomicznie .\n\n\n\nZostał sprowadzony do Polski ze Szwecji w 2020 roku , więc jeździ po polskich drogach dopiero od 5 lat , dzięki czemu nie jest zmęczonym egzemplarzem jak większość aut w naszym kraju .\n\n Z pełną dokumentacja serwisowa z zagranicy .\n\nW 2020 roku od razu po sprowadzeniu założona instalacja gazowa w Łodzi w firmie NaGaz Stefanowski. Butla ważna jeszcze 5 lat .\n\nW ostatnich latach wymienione na nowe zostały :\n\nKompletny rozrząd przy 245 tys.km. więc jest spokój na parę lat . (55tys do następnej wymiany )\n\nSprzęgło wymienione przy 220 tys.km.\n\nSilnik suchutki - bez wycieków ( świeżo wymienione uszczelki pokrywy zaworów )\n\nNowe tarcze i klocki 2 lata temu ( nadal są w super stanie )\n\nNowy wyświetlacz centralny ( problem w tym modelu ) tu już tego problemu nie ma .\n\nOpony mają po ok 7mm bieżnika ( więc bardzo dużo ).\n\nW zeszłym roku nowy końcowy tłumik ( dzięki czemu bardzo cichutko chodzi)\n\nŚwiezo zregenerowane klapy w nagrzewnicy ( wada w tym modelu)\n\n\n\nBardzo ładny egzemplarz w żadko spotykanym błekitnym kolorze .\n\nNapewno długo jeszcze posłuży nowemu właścicielowi .",
-            "details": {
-                "Model": "407",
-                "Rok produkcji": "2004",
-                "Paliwo": "LPG",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "261 000 km",
-                "Kolor": "Niebieski",
-                "Poj. silnika": "2 200 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "163 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9zp48eel18lg2-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Toyota Avensis 2.0 Benzyna",
-            "price": "6 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/toyota-avensis-2-0-benzyna-CID5-ID15kt2z.html",
-            "location": "Łódź, Polesie",
-            "date": "08 April 2025 o 07:50",
-            "description": "Toyota Avensis 2.0 benzyna \n\nRok produkcji 2004r.\n\nMoc 147 KM\n\nPrzebieg 303456 km\n\nBogata wersja wyposażenia SOL \n\nOc ważne do 20.06.2025r.\n\nPrzegląd ważny do 07.03.2026r.\n\n\n\nWięcej informacji pod nr. tel. 60*******90",
-            "details": {
-                "Numer VIN": "SB1BJ56L30E025096",
-                "Model": "Avensis",
-                "Rok produkcji": "2004",
-                "Paliwo": "Benzyna",
-                "Typ nadwozia": "Sedan",
-                "Przebieg": "303 456 km",
-                "Kolor": "Żółty – Złoty",
-                "Poj. silnika": "1 998 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "108 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rxd6jpai99l53-PL/image;s=3972x2406"
-        },
-        {
-            "title": "Toyota Corolla 2.0 diesel",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/toyota-corolla-2-0-diesel-CID5-ID12Hb3b.html",
-            "location": "Warszawa, Praga-Północ",
-            "date": "08 April 2025 o 07:50",
-            "description": "Toyota Corolla z roku 2003. \n\nDrugi właściciel. Samochod bezwypadkowy. Klimatyzacja. Regularne przeglądy. Wszystko sprawne nadaje się do jazdy bez wkładów finansowych. Jak na swoje lata samochód w bardzo dobry stanie.  Oponami lato/zima. \n\nIdealny dla początkujących kierowców. \n\nPolecam \n\n\n\n51*****30",
-            "details": {
-                "Model": "Pozostałe Toyota",
-                "Rok produkcji": "2003",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "300 000 km",
-                "Kolor": "Biały",
-                "Poj. silnika": "20 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Polska",
-                "Moc silnika": "110 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po prawej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ngdj6x9k1jgo-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Sprzedam Passat b5",
-            "price": "5 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-passat-b5-CID5-ID15ksVT.html",
-            "location": "Sochaczew",
-            "date": "08 April 2025 o 07:50",
-            "description": "Wyposazenie:\n\nFotele podgrzewane\n\nTempomat\n\nKamera cofania\n\nKlimatronik\n\nRadio Android \n\n4x elektryczne szyby\n\nDwa klucze\n\nOC do 08.2025\n\nBadanie do 03.2026\n\nTel. 88*******40",
-            "details": {
-                "Model": "Passat",
-                "Rok produkcji": "2001",
-                "Paliwo": "Diesel",
-                "Typ nadwozia": "Kombi",
-                "Przebieg": "382 000 km",
-                "Kolor": "Czarny",
-                "Poj. silnika": "1 900 cm³",
-                "Stan techniczny": "Nieuszkodzony",
-                "Skrzynia biegów": "Manualna",
-                "Moc silnika": "101 KM",
-                "Napęd": "Na przednie koła",
-                "Kierownica": "po lewej"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2e5cq61e3tmk2-PL/image;s=2000x4444"
         }
     ]
 }
