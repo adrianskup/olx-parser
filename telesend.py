@@ -98,7 +98,7 @@ for ad in ads:
     market_key = f"{model}-{year}"
     if market_key in market_prices and price_number:
         market_price = market_prices[market_key]
-        if price_number < market_price * 0.5:  # если 0.6, то на 40% дешевле если 0.3 то на 70% дешевле
+        if price_number < market_price * 0.4:  # если 0.6, то на 40% дешевле если 0.3 то на 70% дешевле
             message = f"🔥 <b>JEST!</b>\nModel: {model}\nROK: {year}\nCENA: {price_text}\n<a href='{ad_link}'>Zobać</a>"
             send_to_telegram(message)
 
