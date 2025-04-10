@@ -1,6 +1,38 @@
 {
-    "updated": "2025-04-10 19:21:20.818409",
+    "updated": "2025-04-10 19:21:57.312899",
     "ads": [
+        {
+            "title": "Audi A4",
+            "price": "9 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HhAJ3.html",
+            "location": "Łódź, Widzew",
+            "date": "10 April 2025 o 19:17",
+            "description": "Sprzedam Audi A4 Avant 1.8 T Quattro. Stan dobry, jak widać na zdjęciach ślady korozji w niektórych miejscach , małe przecierki przy nadkolach, na przedniej szybie z prawej strony na dole widoczna rysa, w środku podsufitka nie wytrzymała czasu :) oraz tył fotela kierowcy odklejony w części, radio działa, natomiast po włączeniu silnika pokazuje się komunikat \"phone\". Mechanicznie - auto jeździ bez problemu na gazie i benzynie (co jakiś czas zapali się check i gaśnie tak jest od ok 1,5 roku) niedawno wymieniony akumulator, cewki, świece, regeneracja alternatora, olej silnikowy. Nowy zbiornik gazu, wymieniony reduktor gazu.\nOpłaty ważne do maja 2025.\nDorzucam komplet opony letnich- przejeździły 1 sezon letni.\nSprzedaję ponieważ to 3 samochód w rodzinie.\nTel.\nWyświetl numer\nCena 9000 zł brutto bez negocjacji . Faktura Vat 23%",
+            "details": {
+                "Marka pojazdu": "Audi",
+                "Model pojazdu": "A4",
+                "Wersja": "Avant 1.8T Quattro",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2002",
+                "Generacja": "B6 (2000-2004)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 781 cm3",
+                "Moc": "190 KM",
+                "Typ nadwozia": "Kombi",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "4x4 (dołączany automatycznie)",
+                "Spalanie W Mieście": "12.3 l/100km",
+                "Spalanie Poza Miastem": "7.5 l/100km",
+                "Przebieg": "372 048 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink3emhucjkxcnhvdDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.vgBcWVI6vbjIhxZ0aAiuJKFFlnmOznZJaFSFXAlaG0w/image"
+        },
         {
             "title": "Volkswagen passat 1.9",
             "price": "7 500 zł",
