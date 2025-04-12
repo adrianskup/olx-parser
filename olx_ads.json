@@ -1,6 +1,70 @@
 {
-    "updated": "2025-04-12 19:38:55.002906",
+    "updated": "2025-04-12 19:51:39.912075",
     "ads": [
+        {
+            "title": "Sprzedam VW Sharan 1.8T",
+            "price": "5 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-vw-sharan-1-8t-CID5-ID15oGkk.html",
+            "location": "Wrzeczko",
+            "date": "12 April 2025 o 19:47",
+            "description": "Sprzedam VW Sharan 2002r. Jeździ skręca hamuje. A tak poważnie to: korpus turbo wymieniony w 2021r. Maglownica po regeneracji, końcówka roku 2024. Jest gwarancja 12 miesięcy na maglownice. Półośki nowe (lewa i prawa kompletnie). Układ hamulcowy wymieniony tył klocki przód tarcze oraz klocki. Po małym błędzie użytkowania lewa przednia tarcza hamulcowa do przetoczenia. Auto zarejestrowane na 7 osób i tyle foteli. Środkowy rząd foteli z isofix.  Klimatyzacja sprawna. \n\nHak (Westfalia) odpinany.\n\nDywaniki welurowe oraz gumowe.\n\nAuto stoi na oponach zimowych, letnie są na drugim komplecie felg. \n\nNa prawych drzwiach przednich oraz tylnych schodzi bezbarwny. Auto nie jest w stanie idealnym posiada oznaki lekkiej rdzy, odpryski oraz zarysowania. Po wiecej informacji zapraszam telefonicznie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/15wxhzuxqwrx-PL/image;s=1000x750"
+        },
+        {
+            "title": "Skoda Octavia Skoda octavia. 1.9 TDI pierwszy właściciel",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-octavia-skoda-octavia-1-9-tdi-pierwszy-wlasciciel-ID6H9ArI.html",
+            "location": "Skierniewice",
+            "date": "12 April 2025 o 19:37",
+            "description": "Samochód posiada zapłacone oc w grudniu 2024r. Badanie techniczne zrobione w styczniu 2025.\nDo samochodu dokładam koła letnie alufelgi, Pokrowce na siedzenia.\nSamochód w ciągłej eksploatacji.",
+            "details": {
+                "Marka pojazdu": "Skoda",
+                "Model pojazdu": "Octavia",
+                "Wersja": "1.9 TDI Elegance",
+                "Kolor": "Granatowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2000",
+                "Generacja": "I (1996-2011)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 896 cm3",
+                "Moc": "110 KM",
+                "Typ nadwozia": "Sedan",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "6 l/100km",
+                "Spalanie Poza Miastem": "4.0 l/100km",
+                "Przebieg": "400 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhyOW01NGo2ZmV5di1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.B-ij1EkIdT9i_4kDe0R5rtJtamX8AjoLhB4cirwndmM/image"
+        },
+        {
+            "title": "Volkswagen Golf IV 1.4",
+            "price": "1 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-iv-1-4-CID5-ID15oFRJ.html",
+            "location": "Mysłaków",
+            "date": "12 April 2025 o 19:35",
+            "description": "Sprzedam Golfa 4, auto jeździ skręca hamuje, za tą cenę nie wymagaj cudów. Przegląd do listopada,oc do stycznia. Samochód idealny do pracy na dojazdy lub w koło komina, grzane fotele, sprawna klimatyzacja, sensor deszczu, Elektryczne szyby. Progi trzymają się kupy, podłoga zdrowa, przednie błotniki tam rdza szaleje. Przydało by się wymienić przewody zapłonowe bo na razy poszarpuje tak pozatym bez wkładu na dzień dzisiejszy. Do zestawu pełny bak paliwa...",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8b1k2vl4qf1q1-PL/image;s=1500x2000"
+        },
+        {
+            "title": "Peugeot 107 1.0 B",
+            "price": "7 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-107-1-0-b-CID5-ID15oG0a.html",
+            "location": "Przyłęk",
+            "date": "12 April 2025 o 19:35",
+            "description": "Stan techniczny i wizualny bardzo dobry, zadbany, klimatyzacja, wspomaganie kierownicy, centralny zamek, dwa komplety kół, dwa komplety dywaników - gumowe i welurowe. W razie jakichkolwiek pytań proszę o kontakt telefoniczny 7.9.8.2.8.9.0.2.9",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wsa8hhs76g8v3-PL/image;s=2000x1500"
+        },
         {
             "title": "Opel Signum 1.9 cdti",
             "price": "2 000 zł",
@@ -11,6 +75,17 @@
             "description": "Sprzedam Opel Signum 1.9 cdti, uszkodzony, po wypadku. Silnik odpala, auto jeździ.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jlelwd62sknf-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Zafira A rocznik 2000 1.8",
+            "price": "3 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-a-rocznik-2000-1-8-CID5-ID15oFFW.html",
+            "location": "Lubartów",
+            "date": "12 April 2025 o 19:31",
+            "description": "Opel Zafira rocznik 2000. Pojemność silnika 1.8, benzyna.\n\nSamochod sprawny, od dwòch lat nieużywany, garażowany. \n\nPreferowany kontakt telefoniczny.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a3qakm43fh4k3-PL/image;s=1658x1152"
         },
         {
             "title": "Renault Scenic 2",
@@ -7185,6 +7260,17 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vgvvggbmxgfc3-PL/image;s=768x1020"
         },
         {
+            "title": "BMW E46 316i 1.9 116KM !!! LIFT !!! Bardzo ładny egzemplarz !!!",
+            "price": "8 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-316i-1-9-116km-lift-bardzo-ladny-egzemplarz-CID5-ID14GWKp.html",
+            "location": "Mikówiec",
+            "date": "12 April 2025 o 12:13",
+            "description": "Witam,\n\nPosiadam na sprzedaż bardzo ładny egzemplarz E46 zadbany i naprawdę bardzo dobrze jeżdżący. Poszanowane i przede wszystkim nie zajeżdżony. Naprawy wykonywane na bieżąco auto służyło na dojazdy do pracy głównie. Poprzedni właściciel posiadał też inne auto na codzień. \n\nFajny egzemplarz za niewielkie pieniądze.\n\nZapraszam do kontaktu telefonicznego !!!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6ythhs3wsmwg1-PL/image;s=1000x750"
+        },
+        {
             "title": "Seat Altea 2.0 tdi 140KM !!! 2005 rok !!! Alu !!! Klima !!!",
             "price": "5 900 zł",
             "negotiable": true,
@@ -13324,129 +13410,6 @@
             "description": "Trzy drzwi jak na zdjęciu stan bdb. Odbiór osobisty",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qeit0plb1ybq3-PL/image;s=1000x750"
-        },
-        {
-            "title": "Daihatsu Terios 4×4 1999 rok pojemność silnika 1.3 benzyna",
-            "price": "6 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/daihatsu-terios-44-1999-rok-pojemnosc-silnika-1-3-benzyna-CID5-ID15nWvX.html",
-            "location": "Lublin",
-            "date": "11 April 2025 o 19:50",
-            "description": "Sprzedam w bardzo dobrym stanie Daihatsu Teriosa z 1999 roku pojemność silnika 1300 benzyna .\n\n\n\nDaihatsu w limitowanej wersji  , wyprodukowane przez firme na dzień święta myśliwych jako Hubertus\"\n\n\n\nDaihatsu zarejestrowany w Kraju od 2021 roku.\n\n\n\nA był sprowadzony z Niemiec od starszego Pana .\n\n\n\nJestem pierwszym właścicielem w Kraju.\n\n\n\nDaihatsu z orginalnym przebiegiem 138 tys .\n\n\n\nPosiadam książkę serwisową z orginalnym przebiegiem.\n\n\n\nDaihatsu bezwypadkowy.\n\n\n\nPosiada podstawowe wyposażenie między innymi:\n\n\n\nWspomaganie kierownicy \n\nNapęd 4×4 dołanczany na tej samej zasadzie co Suzuki Jummy.\n\nRegulacja kierownicy \n\n4×Airbag\n\nRadio CD \n\nHak odpinany\n\n\n\nDaihatsu posiada znakomitą jednostkę silnika Toyoty o pojemności 1300 benzyna, silnik jest bez awaryjny i oszczędny zużywa 6 L/100 km benzyny . pracuje równo i cicho nie pobiera oleju nie dymi i prawidłową trzyma swoją moc.\n\n\n\nDaihatsu posiada w orginalnym stanie fabrycznym blacharke , co widać na zdjęciach , ponieważ ma jeszcze fabryczne orginalne emblematy Hubertusa.\n\n\n\nDaihatsu posiada również pierwszy lakier fabryczny , który też jest zadbany.\n\n\n\nDaihatsu w wewnacz jest zadbany .\n\n\n\nPo sprowadzeniu Daihatsu z Niemiec zrobiona została konserwacja podwozia , progi , nadkola nie posiadają nigdzie rdzy.\n\n\n\nDaihatsu świetnie sprawdza się w terenie , jest lekki i nie zawodny , pojedzie wszędzie , po prostu udane auto .\n\nDaihatsu znakomicie sprawdza się w terenie i również na trasie .\n\n\n\nMożna powiedzieć że różni się tylko wyglądem od Suzuki Jummy , ale po za tym wszystkie funkcje pełni Daihatsu takie same.\n\n\n\nDaihatsu nie wymaga żadnego wkładu finansowego , ponieważ jest to auto czyste - zadbane i garażowane.\n\n\n\nOpłaty do czerwca  2025;roku.\n\n\n\nSerdecznie polecam i zapraszam.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ltgf9br0736c2-PL/image;s=1280x960"
-        },
-        {
-            "title": "Citroen C4 1.4 16v LPG",
-            "price": "6 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/citroen-c4-1-4-16v-lpg-CID5-ID15k6eL.html",
-            "location": "Łomża",
-            "date": "11 April 2025 o 19:48",
-            "description": "Do sprzedania citroen c4 z silnikiem 1.4 16v 90 konnym. Silnik odpala ładnie , cicho i równo pracuje . \n\nAuto ostatnio mocno doinwestowane, wymieniony był cały kompletny rozrząd. \n\nInstalacja lpg sekwencja stag , sprawna , przełącza się sama i auto pracuje na niej tak samo dobrze jak na benzynie. \n\n\n\nTechnicznie auto doinwestowane i gotowe do drogi. \n\nZawieszenie bez luzów, auto idealnie się prowadzi i nic nie stuka . \n\nStoi na dobrych oponach . \n\nKlimatyzacja sprawna . \n\n\n\nBlacharsko auto bez korozji , progi i podłoga ładne . \n\nJakieś delikatne miejskie ślady użytkowania ( małe ryski itp.) \n\nOc do 18.04.2025\n\nPrzeglad do 05.12.2005 \n\nButla lpg do 2028r \n\nŁadne i zadbane auto które jeszcze długo posłuży nowemu właścicielowi, \n\nZapraszam na oględziny i jazdę próbną.\n\nNr vin VF7LAKFUC74481439\n\nNR REJ BIA70620\n\n1 REJ 19.05.2006",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i9ao038gyqx32-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Renault Twingo II 1.2 16v benzyna 2007r. niski przebieg !",
-            "price": "8 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-twingo-ii-1-2-16v-benzyna-2007r-niski-przebieg-CID5-ID147XLC.html",
-            "location": "Sochaczew",
-            "date": "11 April 2025 o 19:46",
-            "description": "Witam !\n\nSprzedam samochód Renault Twingo II z ekonomicznym i niezawodnym silnikiem benzynowym 1.2 16v o mocy 75KM. Auto wyprodukowane w 2007r.\n\nSprowadzone do Polski w 2012r. 2 właściciel w Polsce. Przebieg auta wynosi 155.000km. Skrzynia manualna 5-biegowa. \n\nSamochód generalnie w bardzo dobrym stanie, lakier zadbany, blacharsko jak na swoje lata trzyma się bardzo dobrze !\n\nNa karoserii brak jest śladów korozji. Wnętrze pojazdu zadbane, kierownica nie powycierana.\n\nAuto wyposażone w klimatyzacje automatyczną , sprawną !!\n\nNa dzień dzisiejszy mechanicznie wszystko sprawne, hamulce działają bez zarzutu, zawieszenie ok .\n\nSilnik nie był myty, nie zauważyłem żadnych wycieków.\n\nWszystkie naprawy przeprowadzane na bieżąco. Posiadam faktury za naprawy z ubiegłych lat.\n\nOpony w bdb stanie.\n\nWyposażenie m.in. :\n\n-radio CD/AUX\n\n-hak\n\n-centralny zamek\n\n-klimatyzacja automatyczna\n\n-6x airbag\n\n-isofix\n\n-autoalarm\n\n-komputer pokładowy\n\n-wspomaganie kierownicy\n\n-elektryczne szyby\n\n-elektryczne lusterka\n\n-ABS\n\nPrzegląd techniczny do 09.12.2025r., polisa OC aktualna, opłacana ratalnie.\n\nWięcej informacji udzielę telefonicznie. Możliwość sprawdzenia auta na dowolnej stacji diagnostycznej na terenie Sochaczewa. Do auta komplet dokumentów i 2 kluczyki . Cena podlega negocjacji. Zapraszam !",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7csmho85j2fd1-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Volkswagen Polo Volkswagen Polo",
-            "price": "7 300 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-polo-volkswagen-polo-ID6HhJur.html",
-            "location": "Ostrołęka",
-            "date": "11 April 2025 o 19:45",
-            "description": "Sprzedam Volkswagen Polo 1.2 benzyna 54 KM. Rocznik 2006, wersja GOAL. Skrzynia biegów manualna\nKlimatyzacja\n4 x elektryczne szyby\nCentralny zamek\nCzujniki cofania\nPrzyciemniana tylna szyba oraz tyle szyby pasażerów\nPrzebieg 245 000\nAuto posiada aktualna polisę OC oraz aktualny przegląd techniczny\nSpalanie w granicach 5l/100km\nSamochód sprawny, gotowy do jazdy\nDokładam komplet opon letnich\nCena 7 300 zł",
-            "details": {
-                "Marka pojazdu": "Volkswagen",
-                "Model pojazdu": "Polo",
-                "Kolor": "Czarny",
-                "Liczba drzwi": "5",
-                "Rok produkcji": "2006",
-                "Generacja": "IV (2001-2009)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 198 cm3",
-                "Moc": "54 KM",
-                "Typ nadwozia": "Kompakt",
-                "Skrzynia biegów": "Manualna",
-                "Przebieg": "245 000 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imp0eW81Yzdrc3Y3YzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.tZ-p4tSMC__bdPlNgdRuGUO5OrhuqntoFvB_EVd1KUw/image"
-        },
-        {
-            "title": "Nissan Primera 2.2 dci !!! 2004 rok !!! Navi !!! Climatronic !!!",
-            "price": "2 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/nissan-primera-2-2-dci-2004-rok-navi-climatronic-CID5-ID1484BX.html",
-            "location": "Warszawa, Ursynów",
-            "date": "11 April 2025 o 19:44",
-            "description": "Witam, \n\n\n\nPosiadam na sprzedaż Nissana Primera 2.2 dCi z 2004 roku.\n\n\n\nAuto użytkowane na co dzień. W bardzo dobrym stanie technicznym. Klima sprawna. Podgrzewane fotele. Navi bogate wyposażenie. Do poprawek blacharskich. Jeździ bardzo dobrze i jest oszczędne. \n\n\n\nZapraszam do kontaktu telefonicznego !!!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jplec31hmobz2-PL/image;s=1000x750"
-        },
-        {
-            "title": "Volkswagen Touran 1.9 TDI !!! 105 KM !!! 2005 rok !!! Klima !!!",
-            "price": "7 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/volkswagen-touran-1-9-tdi-105-km-2005-rok-klima-CID5-ID15k5nn.html",
-            "location": "Piaseczno",
-            "date": "11 April 2025 o 19:43",
-            "description": "Witam,\n\nPosiadam na sprzedaż Volkswagena Tourana 1.9TDI 105 KM z 2005 roku\n\nAuto w bardzo bardzo dobrym stanie technicznym i blacharskim bez rdzy.\n\nWnętrze czyste i zadbane. Sprzęgło działa prawidłowo biegi zmieniają się płynnie. Klimatyzacja działa. Wnętrze bardzo ładne nie zniszczone czy podarte.\n\nRozrząd robiony przy 267000 km\n\n(Obecnie 303000 km)\n\nEgzemplarz godny polecenia !!!\n\n\n\nZapraszam do Kontaktu telefonicznego !!!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dcmpvloicm9w2-PL/image;s=1000x750"
-        },
-        {
-            "title": "Volkswagen Passat VW passat B5",
-            "price": "2 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-vw-passat-b5-ID6HgY3I.html",
-            "location": "Łódź, Górna",
-            "date": "11 April 2025 o 19:43",
-            "description": "Dzień dobry\nDo sprzedania passat B5 w stanie widocznym na zdjęciach. Widoczne wgniecenie maski, w niektórych miejscach zchodzi klar. Auto z niewielkim przebiegiem jak na ten wiek. Akumulator na gwarancji i opony wielosezeonowe jak nowe. Auto po wymianie świec, cewki zapłonowej, rozrządu i elementów eksploatacyjnych (klocki, olej) w ostatnim czasie. Na zimnym silniku pracuje bardzo ładnie, gdy się nagrzeje delikatnie szarpie podczas jazdy, ze względu na sprzedaż nie naprawiam już tego. Blacha pancerna , bez śladów korozji. Autko napewno jeszcze komuś posłuży przez kilka lat. Sprzedaję w imieniu taty, który użytkował je rzadko, i bez problemowo mu służyło. Ubezpieczenie i przegląd do maja tego roku. Cena zaniżona w stosunku do innych Vw z tego rocznika ze względu na opisane mankamenty,\nPozdrawiam i zachęcam do kupna",
-            "details": {
-                "Marka pojazdu": "Volkswagen",
-                "Model pojazdu": "Passat",
-                "Kolor": "Zielony",
-                "Liczba drzwi": "4",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "1996",
-                "Generacja": "B5 (1996-2000)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 598 cm3",
-                "Moc": "101 KM",
-                "Typ nadwozia": "Sedan",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Kraj pochodzenia": "Niemcy",
-                "Przebieg": "199 000 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRhaHdrbGtlMHg5Ny1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ZTUDaIErGbagVsf2dJeuVnARWO57xhj2gdG-ueLPIZI/image"
-        },
-        {
-            "title": "Open Astra G 1.4 benzyna + LPG !!! 2008 rok !!! Hak !!!",
-            "price": "7 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/open-astra-g-1-4-benzyna-lpg-2008-rok-hak-CID5-ID15nTfp.html",
-            "location": "Piaseczno",
-            "date": "11 April 2025 o 19:39",
-            "description": "Witam, \n\nPosiadam na sprzedaż Opla Astra G z 2008 roku. Silnik 1.4 benzyna + LPG. \n\nAuto w bardzo dobrym stanie technicznym, sprzęgło, zawieszenie oraz hamulce w nienagannym stanie. \n\nWnętrze nie zniszczone. \n\nUżytkowany na dojazdy do pracy.\n\nSamochód tani w eksploatacji.\n\nBez wkładu finansowego, ostatnio wymieniony akumulator.\n\n\n\nZapraszam do kontaktu telefonicznego !!!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8v3qhg6g097g1-PL/image;s=1000x750"
         }
     ]
 }
