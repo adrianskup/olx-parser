@@ -1,6 +1,49 @@
 {
-    "updated": "2025-04-21 10:43:38.872642",
+    "updated": "2025-04-21 10:45:47.415445",
     "ads": [
+        {
+            "title": "Sprzedam hyundai",
+            "price": "3 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-hyundai-CID5-ID15uTK4.html",
+            "location": "Piotrków Trybunalski",
+            "date": "21 April 2025 o 10:39",
+            "description": "Witam sprzedam hyundai matriksa auto z roku 2005r auto sprawne do jazdy zrobione nowe sprzęgło  samochód  na bieżąco robiony   więcej informacji udzielamy telefonicznie przegląd ważny do lutego 2026rok oc ważne do lutego 2026",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m6zlzp9fj3q2-PL/image;s=2000x2656"
+        },
+        {
+            "title": "Suzuki Jimny Suzuki Jimny uszkodzony",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/suzuki-jimny-suzuki-jimny-uszkodzony-ID6HknZt.html",
+            "location": "Lublin",
+            "date": "21 April 2025 o 10:39",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Suzuki",
+                "Model pojazdu": "Jimny",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "4",
+                "Rok produkcji": "2011",
+                "Generacja": "III (1998-2018)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 328 cm3",
+                "Moc": "85 KM",
+                "Typ nadwozia": "SUV",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "4x4 (dołączany ręcznie)",
+                "Kraj pochodzenia": "Niemcy",
+                "Przebieg": "220 000 km",
+                "Stan": "Używany",
+                "Uszkodzony": "Tak",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFhNnFmNDAyMjdnbDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.wb0zvyolBATBuAOPutOZylAZWS3m5IXLJBQi5fuQD7Q/image"
+        },
         {
             "title": "Audi a3 1.6 Benzyna+LPG 2001",
             "price": "2 500 zł",
@@ -11,6 +54,17 @@
             "description": "Sprzedam Audi a3 8l\n\nRok 2001 \n\nSilnik 1.6+LPG ważność butli się skończyła \n\nAuto do lekkich poprawek mechanicznych ogólnie auto jeżdżące i użytkowane codziennie.\n\nAuto posiadam od 2014r sprowadzone z niemiec i nigdy mnie nie zawiodło. Na więcej informacji odpowiem telefonicznie.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hcmwgtks5u9x-PL/image;s=750x1000"
+        },
+        {
+            "title": "Audi A4 B5 1999 lifting",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b5-1999-lifting-CID5-ID15uT1U.html",
+            "location": "Kozienice",
+            "date": "21 April 2025 o 10:38",
+            "description": "Audi które ma już swoje lata . jakieś ryski , wgniecenia i parę mankamentów .\n\nAuto stoi na alufelgach 15 (zima) w zestawie dorzucam 17 (lato) . Ocynk, gwintowane zawieszenie , świeży rozrząd i przewody zapłonowe \n\n Z minusów to kończące się sprzęgło ale to już zostawiam nowemu właścicielowi .\n\nUbezpieczenie do 15 maja 2025 . Więcej informacji pod telefonem",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/502bge1j2bky1-PL/image;s=750x1000"
         },
         {
             "title": "Opel Astra 1.6 105KM",
