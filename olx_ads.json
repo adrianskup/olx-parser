@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-23 10:44:22.928921",
+    "updated": "2025-04-23 10:45:46.296700",
     "ads": [
         {
             "title": "Mazda 323F 2.0 Benzyna,Gaz,Zamiana,Opłaty,Klima,Sprawny,Wwa,KOMIS GREEN LIGHT",
@@ -29,6 +29,42 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndzbXUwemJlb2FrNS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ucy9c_DLB3gyGSmO8EOFYaB_zal3ombWd49lAZmiOhs/image"
+        },
+        {
+            "title": "Seat Leon Seat Leon 1P 150 KM",
+            "price": "9 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/seat-leon-seat-leon-1p-150-km-ID6HkPyE.html",
+            "location": "Warszawa, Rembertów",
+            "date": "23 April 2025 o 10:36",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Seat",
+                "Model pojazdu": "Leon",
+                "Wersja": "2.0 FSI Stylance",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2007",
+                "Generacja": "II (2005-2012)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 984 cm3",
+                "Moc": "150 KM",
+                "Typ nadwozia": "Kompakt",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "190 g/km",
+                "Spalanie W Mieście": "11.1 l/100km",
+                "Spalanie Poza Miastem": "6.1 l/100km",
+                "Kraj pochodzenia": "Niemcy",
+                "Przebieg": "252 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak",
+                "Tuning": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB5c2pybjR3ZzVidy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8d5Fq4rhBvPhyS6a9GHZY3OH5Dc6i1aFiSZkcVkeZAk/image"
         },
         {
             "title": "Opel Astra OPEL Astra H w dobrym stanie technicznym",
