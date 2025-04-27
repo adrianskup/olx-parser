@@ -1,6 +1,37 @@
 {
-    "updated": "2025-04-27 16:42:09.909997",
+    "updated": "2025-04-27 16:42:46.938361",
     "ads": [
+        {
+            "title": "Peugeot 207 1.6HDI Panorama Climatronic ALU 17”",
+            "price": "8 999 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-207-1-6hdi-panorama-climatronic-alu-17-ID6HivGn.html",
+            "location": "Warszawa, Bielany",
+            "date": "27 April 2025 o 16:37",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Peugeot",
+                "Model pojazdu": "207",
+                "Wersja": "110 HDi FAP (Blue Lion) Sport",
+                "Kolor": "Czarny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2006",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 560 cm3",
+                "Moc": "109 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "120 g/km",
+                "Spalanie W Mieście": "5.8 l/100km",
+                "Spalanie Poza Miastem": "3.8 l/100km",
+                "Przebieg": "225 150 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImcxejR1b2NjMXd6ai1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.qzOfBuIpMaDCYU3xiB3V3a0sCYgqt1qEZswr7C3TSZU/image"
+        },
         {
             "title": "Peugeot 307 2.0 benzyna + LPG",
             "price": "2 400 zł",
