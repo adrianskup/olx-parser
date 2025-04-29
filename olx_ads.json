@@ -1,5 +1,5 @@
 {
-    "updated": "2025-04-29 14:41:58.473072",
+    "updated": "2025-04-29 14:42:55.472712",
     "ads": [
         {
             "title": "Seat Ibiza",
@@ -36,6 +36,40 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjAydXUxOXg1eGJ6dzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.h42YhEE8oakWaUoYFgU36tRfVozHUn-Ujz6X4IbfjOQ/image"
+        },
+        {
+            "title": "Opel Signum Opel Signum 3.2 v6 pierwszy właściciel w Kraju stan Bardzo Dobry",
+            "price": "8 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-signum-opel-signum-3-2-v6-pierwszy-wlasciciel-w-kraju-stan-bardzo-dobry-ID6GNi6e.html",
+            "location": "Małęczyn Stary",
+            "date": "29 April 2025 o 14:35",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Signum",
+                "Wersja": "3.2 Elegance ActiveSelect",
+                "Kolor": "Inny kolor",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "3 175 cm3",
+                "Moc": "211 KM",
+                "Typ nadwozia": "Kompakt",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Automatyczna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "15 l/100km",
+                "Spalanie Poza Miastem": "7.0 l/100km",
+                "Kraj pochodzenia": "Szwajcaria",
+                "Przebieg": "220 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRnbGdpa2hqOXdhbTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.rmKh1JSuaIlDquiP-rlB-5xpGzChvAV3ueUj2WxP84o/image"
         },
         {
             "title": "BMW Seria 3 klima Alu Gwarancja w cenie ! Warszawa #VWKL",
@@ -266,6 +300,17 @@
             "description": "Sprzedam Nissana Micra K12,  pojemność silnika 1,2, moc 65KM. \n\nAuto używane przez nas 13 lat, jesteśmy drugim właścicielem. Pierwszy właściciel kupił auto w salonie.\n\nKlimatyzacja.\n\nDelikatnie wgniecione tylne prawe drzwi.\n\nSpalanie gazu w zależności od jazdy w granicach 7.5-8.5 litra / 100 km.\n\nW środku auto zadbane, bardzo ekonomiczne i dobrze sprawuje się w mieście.\n\n\n\nPolecam.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/60marxqz26ij1-PL/image;s=4032x3024"
+        },
+        {
+            "title": "Seat Ibiza 1.4 mpi Gaz",
+            "price": "1 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-ibiza-1-4-mpi-gaz-CID5-ID15xKlw.html",
+            "location": "Warszawa, Targówek",
+            "date": "29 April 2025 o 14:12",
+            "description": "Seat Ibiza 1.4 z gazem, silnik jest w dobrym stanie , bez wycieków , pali na dotyk, na gazie chodzi i na benzynie idealnie, małe spalenie około 7 litrów gazu, \n\nKlimatyzacja , alarm , idealnie na dostawy",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8rs4e2yq04yi3-PL/image;s=750x1000"
         },
         {
             "title": "Ford Focus Ghia*1.6 benzyna*klimatyzacja .",
