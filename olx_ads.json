@@ -1,6 +1,90 @@
 {
-    "updated": "2025-04-30 13:44:32.877330",
+    "updated": "2025-04-30 13:56:53.556103",
     "ads": [
+        {
+            "title": "Toyota Yaris",
+            "price": "6 300 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-ID6GEKRE.html",
+            "location": "Piaseczno",
+            "date": "30 April 2025 o 13:47",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Toyota",
+                "Model pojazdu": "Yaris",
+                "Wersja": "1.0 Base",
+                "Kolor": "Czerwony",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Generacja": "II (2005-2011)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "998 cm3",
+                "Moc": "65 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "6 l/100km",
+                "Spalanie Poza Miastem": "4.0 l/100km",
+                "Przebieg": "205 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5eXJ5bW84YWR6Ny1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jfSvA6e1f6J9Q5m7FeQF2iMbNo4BWGYg2H7ENsz7nfs/image"
+        },
+        {
+            "title": "Sprzedam renault laguna 2 2005 r.1.9 dci",
+            "price": "3 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-renault-laguna-2-2005-r-1-9-dci-CID5-ID14NoIp.html",
+            "location": "Skrzynno",
+            "date": "30 April 2025 o 13:46",
+            "description": "Sprzedam renault laguna 1.9 dci 2005 r. przebieg 286000 km uszkodzony  tylny prawy błotnik i drzwi porysowane.Auto w dobrym stanie technicznym.Zainteresowanych proszę o kontakt tel.6********51 nie odpowiadam na SMS.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sov0vjkbd2yn3-PL/image;s=765x1020"
+        },
+        {
+            "title": "Peugeot 807 2.0 hdi 8 osobowy xenon",
+            "price": "3 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-807-2-0-hdi-8-osobowy-xenon-CID5-ID15CRCv.html",
+            "location": "Płock",
+            "date": "30 April 2025 o 13:45",
+            "description": "Pierwszy wlasciciel. Auto do poprawek lakierniczych. Wersja  8 osobowa. Elektrycznie otwierane tylne drzwi. Światła xenonowe.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/05sh2qtrrh2k1-PL/image;s=1126x2000"
+        },
+        {
+            "title": "Opel Corsa Opel Corsa C 1.2 2003 rok",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-corsa-opel-corsa-c-1-2-2003-rok-ID6HmdIn.html",
+            "location": "Warszawa, Mokotów",
+            "date": "30 April 2025 o 13:43",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Corsa",
+                "Wersja": "1.2 16V Comfort",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "C (2000-2006)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 199 cm3",
+                "Moc": "75 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.2 l/100km",
+                "Spalanie Poza Miastem": "4.9 l/100km",
+                "Przebieg": "260 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFseDlxZzNuMjlydTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.2B1CNHINbGHVBIGhRXnLVMBfBYKGnpnMdlNtVIggD5I/image"
+        },
         {
             "title": "Opel Astra H Kombi 1.7",
             "price": "1 750 zł",
@@ -51,6 +135,17 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndnZnFrcjBxbTdyNzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.fk6XYIAt7u4MrDgUYsQt29fl5vsUq-Q387qLGR4xeRY/image"
+        },
+        {
+            "title": "Bmw e39 520i LPG xenon/Rolety/nowe lpg/Oplaty na rok/",
+            "price": "7 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/bmw-e39-520i-lpg-xenon-rolety-nowe-lpg-oplaty-na-rok-CID5-ID13Xz4h.html",
+            "location": "Piaseczno",
+            "date": "30 April 2025 o 13:36",
+            "description": "Witam na sprzedaż bmw e39 z lpg mega duży plus to nowa roczna instalacja lpg Firmy stag.\n\nMega bogata historia serwisowa wszystko udokumentowane faktury na prawie 15 tys zl co świadczy o jego idealnym stanie \n\nIm\n\nWzzystkie uszczelki silnika miski itp \n\nNowe paski\n\nSwiece \n\nCewki \n\nRegularne wymiany filtrów i płynów nawet hamulcowego \n\nNowe tarcze klocki piasty \n\nNowe sprzęgło \n\nŁączniki \n\nNowy orginalny czujnik walu\n\nAuto super wyposażone\n\nXenony \n\nRolety tył\n\n4 elektryczne szyby I lusterka\n\nCentralny zamek \n\n10 poduszek powietrznych\n\nOpony zimowe \n\nAlufelgi \n\nCentralny zamek \n\nAuto super utrzymane blacharka bardzo ładna jak na e39.\n\nProgi bez dziur tak samo podłoga.\n\nNie pala się żadne błędy \n\nAuto jedzie super ma moc nie dymi silnik chodzi cicho I równo.\n\nNa lpg i benzynie chodzi tak samo.\n\nZawieszenie sztywne nie wybite \n\nHamulce ładne nie biją \n\nAuto gotowe do jazdy\n\nNa auto wystawiam fakturę kupujący zwolniony z pcc3 Możliwość zamiany lub zostawienia auta w rozliczeniu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yhzepsmm9t2u1-PL/image;s=2000x1500"
         },
         {
             "title": "Audi A3 *** 1.9 diesel *** 2003 r. *** W pełni sprawny ***",
@@ -10611,48 +10706,6 @@
                 "Serwisowany w ASO": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpqNzltNW1sdXpqMDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.d3ZmFz7rcPtgtTxtPfviHB5uvbFyXG5LN1-7180v4HE/image"
-        },
-        {
-            "title": "Opel Corsa D 2008r 1,2 Benz+gaz Rezerwacja",
-            "price": "1 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-corsa-d-2008r-1-2-benz-gaz-rezerwacja-CID5-ID15C6rg.html",
-            "location": "Michałów-Grabina",
-            "date": "29 April 2025 o 13:55",
-            "description": "Opel Corsa 2008 benzyna z gazem. Od 10 lat w jednych rękach, 208 tyś przebiegu, butla ważna 7 lat, serwisowana na bieżąco, ostatnio wymieniony kompresor od klimatyzacji (1200zł), tłumik. Skręca, jeździ, hamuje, schodzi bezbarwny lakier. Nieporęt pod Warszawą. 72***********22",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vol7btlkakk61-PL/image;s=1020x768"
-        },
-        {
-            "title": "Volkswagen Golf VW Golf IV 1.9 TDI kombi",
-            "price": "4 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-vw-golf-iv-1-9-tdi-kombi-ID6HlUKL.html",
-            "location": "Szynkielew",
-            "date": "29 April 2025 o 13:55",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Volkswagen",
-                "Model pojazdu": "Golf",
-                "Kolor": "Niebieski",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2001",
-                "Generacja": "IV (1997-2006)",
-                "Rodzaj paliwa": "Diesel",
-                "Pojemność skokowa": "1 896 cm3",
-                "Moc": "90 KM",
-                "Typ nadwozia": "Kombi",
-                "Rodzaj koloru": "Metalik",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "140 g/km",
-                "Przebieg": "441 919 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY4cGFwNG1jenhxdTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.aI0238b4-gsaClBvTW-rdKLEVJQsOlRMtcchjfmEvUI/image"
         }
     ]
 }
