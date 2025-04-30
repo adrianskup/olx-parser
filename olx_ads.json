@@ -1,6 +1,81 @@
 {
-    "updated": "2025-04-30 17:50:39.102869",
+    "updated": "2025-04-30 17:57:57.942479",
     "ads": [
+        {
+            "title": "Sprzedam Citroen Saxo 2000",
+            "price": "2 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-citroen-saxo-2000-CID5-ID15tij2.html",
+            "location": "Pruszków",
+            "date": "30 April 2025 o 17:54",
+            "description": "Citroen Saxo. Rok prod. 2000. Przebieg 139 400 km.\n\nStan dobry. Nowy akumulator i rozrusznik. W ubiegłym roku wymieniony układ hamulcowy, pompa wspomagania. Elektryczne szyby, klimatyzacja, otwierany i zamykany przy pomocy pilota. \n\nNadwozie z bardzo niewielkimi objawami korozji. Korozja podłogi, na zimę trzeba podłogę poprawić.Składana,dzielona kanapa tylna. Komplet opon letnich i zimowych\n\nPrzegląd techniczny i ubezpieczenie do lutego 2026\n\nTel. .",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2vko6iydnv022-PL/image;s=1536x2048"
+        },
+        {
+            "title": "Volkswagen Golf 1.6 benzyna/lpg",
+            "price": "3 950 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-1-6-benzyna-lpg-CID5-ID15D27O.html",
+            "location": "Góra Kalwaria",
+            "date": "30 April 2025 o 17:53",
+            "description": "Sprzedaję Golfa 4 z 1999 roku z silnikiem benzyna/gaz pracuje świetnie, zawieszenie jest w dobrym stanie. Aktualne ubezpieczenie i przegląd techniczny instalacja LPG butla ważna jeszcze dwa lata dwa komplety opon samochód jeździ na oleju 5w30 wymieniany co 10000km. Cena do negocjacji. Na swoe lata jest bardzo dobry stan.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/f3048ei87run1-PL/image;s=1008x756"
+        },
+        {
+            "title": "Nissan micra 1.2 automat",
+            "price": "9 799 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/nissan-micra-1-2-automat-CID5-ID15xZcH.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "30 April 2025 o 17:52",
+            "description": "Samochód jest w idealnym stanie i. bez uszkodzeń",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4afy6t208mpd1-PL/image;s=960x1280"
+        },
+        {
+            "title": "Toyota Yaris Toyota Yaris 1.5 TS prywatny sprzedawca",
+            "price": "7 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-toyota-yaris-1-5-ts-prywatny-sprzedawca-ID6HkmnK.html",
+            "location": "Warszawa, Śródmieście",
+            "date": "30 April 2025 o 17:51",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Toyota",
+                "Model pojazdu": "Yaris",
+                "Wersja": "1.5 TSport",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2004",
+                "Generacja": "I (1999-2005)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 497 cm3",
+                "Moc": "106 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.8 l/100km",
+                "Spalanie Poza Miastem": "5.7 l/100km",
+                "Przebieg": "275 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF1Nm5nNmt5cjhibjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ezhdEI-24t7f5ysvPaiDOBtmteFezTBZvpfLIgTbZ14/image"
+        },
+        {
+            "title": "Peugeot 407sw 2004r. 1.6 HDi",
+            "price": "3 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-407sw-2004r-1-6-hdi-CID5-ID15D25u.html",
+            "location": "Łuków",
+            "date": "30 April 2025 o 17:48",
+            "description": "Sprzedam Peugeot 407sw 2004r. 1.6 HDi 110km Auto posiada aktualne OC I przegląd, klimatyzację, el. Szyby, el. Lusterka, wspomaganie, ABS, airbag, alufelgi, halogeny, chromowane relingi, więcej informacji udziele tel.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k5jfjz388gz7-PL/image;s=2000x1500"
+        },
         {
             "title": "WV Touran 2005r 7-o os. automat DSG",
             "price": "6 990 zł",
@@ -11,6 +86,28 @@
             "description": "Touran czarny\n\nmam do sprzedania czarnego VW Touran 2005r. przebieg (na liczniku) 322741km w kraju od 2012r. 7-o osobowy, automat DSG + ogrzewanie postojowe (webasto), klimatyzacja tempomat, duże radio z NAVI\n\n poprzedni właściciel w czerwcu 2024r wymienił uszkodzony silnik na taki z przebiegiem 178000kmi (ma nie złego ,,kopa\" mam porównanie z moim Touranem który po hamowni wywalił 167KM!z nową ,,mapą\") z czarny nie wiele mu ustępuje )nowym rozrządem i kompletną dwumasą(sprzęgłem) \n\nw październiku 2024r został uszkodzony dotychczasowy mój Touran z 2013r ponieważ nie mogłem zostać bez samochodu a, ten ,,czarny \" (szukałem obojętnie jakiego samochodu,marki, rocznika,koloru, pod warunkiem że był to TOURAN) jako jedyny był w mojej okolicy i cena była taka na jaką mogłem sobie pozwolić i doinwestować żeby bezpiecznie jeździć ze 2-3 lata \n\nwymieniłem  uszkodzoną przekładnie kierowniczą na regenerowaną, na NOWE tarcze klocki zaciski przód prawa + lewa strona, amortyzatory + gniazda tył P+L , 5 siedzeń od po lifta (potrzebny elektryk żeby ogarnąć podłączenie siedzeń bo nie pasują wtyczki) a co do stanu blacharskiego to do każdego elementu można mieć jakieś uwagi, ale jak na 20-to letni samochód stan dla mnie akceptowalny podstawa to mechanika i bezpieczeństwo a reszta to ,,się zrobi później\" auto jest na oponach Viking 195/65/15 produkcji niemieckiej ( nie chińszczyzna)w pakiecie 4-y szt. zimowe \n\nza dopłatą 300zł dożuce 4-y felgi aluminiowe z oponami michelin 205/60/16 + przednia dolna część  zderzaka z 2006r \n\n,,wsadziłem\" ponad 3-y tysiące ...przecież miałem jakiś czas nim jeździć...los chciał inaczej\n\nchciałem sprzedać tego poprzedniego uszkodzonego bez naprawiania ale oferowano mi 10000zł a to była cena nie do zaakceptowania postanowiłem jednak ,,Turanka\" przywrócić do żywotności ...trochę to trwało... (naprawa wyniosła 14000zł) dziś już ,,śmiga\"\n\nw czerwcu kończy się przegląd mogę podjechać na wskazaną przez kupującego stacje diagnostyczną, jak ,,nie przejdzie\" przeglądu ja ponoszę koszt...jestem 101% przekonany że auto przejdzie przegląd\n\n\n\nczarny do obejrzenia w Izabelinie 05-080 . 7km od granic Warszawy lub gdzie wskaże  kupujący  (po ustaleniu kosztów dojazdu 40zł godzina + 50zł/100km cała Polska)\n\npozdrawiam i zachęcam do kupna \n\n Piotr\n\nps. na wszystkie pytania odpowiem 6o6 456 lll o cenie końcowej tylko taka forma zapytania \n\npropozycje typu 5-6 ,,tysi \"proszę sobie darować NIE oddam za taką sumę",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nbj6u90fk2ra2-PL/image;s=2000x1125"
+        },
+        {
+            "title": "Renault Scenik 2006r. 1.6 LPG",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-scenik-2006r-1-6-lpg-CID5-ID15D1WJ.html",
+            "location": "Łuków",
+            "date": "30 April 2025 o 17:44",
+            "description": "Sprzedam Renault Scenik 2006r. 1.6 LPG Auto posiada aktualne OC I przegląd, klimatyzację, el. Szyby, el. Lusterka, wspomaganie, ABS, airbag, halogeny, tempomat, nowe opony zimowe, więcej informacji udziele tel.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/z2nlld8xr8pj1-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Skoda Fabia 1.4 benz. Klima-sprawna ,Możliwa zamiana",
+            "price": "3 990 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4-benz-klima-sprawna-mozliwa-zamiana-CID5-ID15D1Vx.html",
+            "location": "Dzierzgowo",
+            "date": "30 April 2025 o 17:44",
+            "description": "Stan silnikowy i techniczny dobry ,auto prowadź się dobrze nic nie stuka nie puka ,Klima -sprawna ele-szyby x4 ,kamera cofania ,itp,  Po wymianie rozrządu przejechanie około 30tys km, po wymianie sprzęgła około 10tys km,OC do sierpnia 2025 Badania techniczne do Grudnia 2025, przy zamianie cena wyższa",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4oy3m087dmcm1-PL/image;s=2000x1500"
         },
         {
             "title": "Opel Combo 1.4 Śliczne z Niemiec*KLIMA*Zadbane*ZOBACZ 2008r",
@@ -149,6 +246,17 @@
                 "Serwisowany w ASO": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF6MWF4bGk5bGw5NS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.SUzbtdxBD7iumJZU4Hlr0P512sKsrJWfgKNPXID2DYY/image"
+        },
+        {
+            "title": "Skoda fabia 1.2 benzyna",
+            "price": "4 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-2-benzyna-CID5-ID15D1GW.html",
+            "location": "Jaktorów",
+            "date": "30 April 2025 o 17:38",
+            "description": "Sprzedam skodę Fabia z 2005 roku, kolor srebrny\n\n\n\nSilnik 1,2 Benzyna o mocy 64 KM\n\n\n\nCentralny zamek, 2 poduszki powietrzne, 2 komplety kluczyków \n\n\n\nPrzebieg 164 000km\n\n\n\nBez korozji, technicznie bardzo dobry \n\n\n\nPrzegląd do 07.2025, ubezpieczenie ważne do 15.07.2025\n\n\n\nZapraszam do zakupu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/4osf5f432g19-PL/image;s=567x1008"
         },
         {
             "title": "Audi A3 1.6*Śliczna z Niemiec*5-Drzwiowa*Alu*KLIMA*Zobacz 2003r",
@@ -10715,60 +10823,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjluY2ZuODg0Y25iejEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.QqkXTeQeXnVdIuQyDyTDPITizmc4GgeVU559_GThmiY/image"
-        },
-        {
-            "title": "Renault Twingo ##Super Stan##Zobacz Zdjęcia##",
-            "price": "6 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/renault-twingo-super-stan-zobacz-zdjecia-ID6Hm5hi.html",
-            "location": "Konstantynów Łódzki",
-            "date": "29 April 2025 o 17:53",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Renault",
-                "Model pojazdu": "Twingo",
-                "Kolor": "Srebrny",
-                "Liczba drzwi": "3",
-                "Liczba miejsc": "4",
-                "Rok produkcji": "2007",
-                "Generacja": "II (2007-2014)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 149 cm3",
-                "Moc": "58 KM",
-                "Typ nadwozia": "Auta małe",
-                "Rodzaj koloru": "Metalik",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Kraj pochodzenia": "Niemcy",
-                "Przebieg": "165 000 km",
-                "Stan": "Używany",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak",
-                "Serwisowany w ASO": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im05cDB1aDZ3b2M1ZDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.urVysa_K6xCnMZyxGB5RYZ3YQYrmtboOewaxw-cjChA/image"
-        },
-        {
-            "title": "Fiat Panda 1.1 B Gaz Sekwencja 2005 r kpl.dokumentacja sprawny",
-            "price": "3 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-1-b-gaz-sekwencja-2005-r-kpl-dokumentacja-sprawny-CID5-ID15gQ0m.html",
-            "location": "Trablice",
-            "date": "29 April 2025 o 17:52",
-            "description": "Fiat Panda \n\nRok 2005\n\nSilnik 1.1 b \n\nGaz sekwencja  Butla 2032 r\n\nBadanie techniczne lipiec 2025\n\nOC lipiec 2025 \n\nPrzebieg 180 tys \n\nKompletna dokumentacja 4 kluczyki \n\nSilnik pracuję poprawnie \n\nBlacharka  zdrowa Progi podłoga ok \n\nWnętrze czyste zadbane \n\nWersja podstawowa  bez klimy i wspomagania \n\nOpony zima \n\n4 Nowe amortyzatory \n\nWięcej informacji tel \n\nFaktura VAT marża \n\n\n\nSkup samochodów radom100 \n\n\n\nWięcej informacji tel",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nnnj2a4t52x21-PL/image;s=1156x521"
-        },
-        {
-            "title": "Hyundai i30 ii 1.6 crdi diesel",
-            "price": "7 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/hyundai-i30-ii-1-6-crdi-diesel-CID5-ID15r6Zk.html",
-            "location": "Tłuszcz",
-            "date": "29 April 2025 o 17:51",
-            "description": "Witam mam do sprzedania samochód osobowy marki Hyundai i30 ii generacji wersja z silnikiem diesla.\n\n\n\nNic nie było naciągane ani szykowane do zdjęć , deska cała, pasy nie wystrzelone .\n\nPrzed kolizja w perfekcyjnym stanie.\n\nOleje wymieniane co 8-9 tys km.\n\nOstatnia wymiana 3 dni przed kolizja (50 km)",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h6abuxny0oea1-PL/image;s=2000x1500"
         }
     ]
 }
