@@ -1,6 +1,113 @@
 {
-    "updated": "2025-05-04 18:42:08.324340",
+    "updated": "2025-05-04 18:52:16.935410",
     "ads": [
+        {
+            "title": "Mercedes-Benz Klasa C Mercedes-Benz W202 Elegance 2.2 CDI | 1999 | Granatowy | AUTOMAT",
+            "price": "5 300 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mercedes-benz-klasa-c-mercedes-benz-w202-elegance-2-2-cdi-1999-granatowy-automat-ID6Hmw1r.html",
+            "location": "Błonie",
+            "date": "04 May 2025 o 18:48",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Mercedes-Benz",
+                "Model pojazdu": "Klasa C",
+                "Kolor": "Granatowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "1999",
+                "Generacja": "W202 (1993-2001)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "2 151 cm3",
+                "Moc": "102 KM",
+                "Typ nadwozia": "Sedan",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Automatyczna",
+                "Napęd": "Na tylne koła",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "462 906 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5ybTh4OHR3MjQ1ZzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.FP8Nb6Oyj7FrmLz0Qz4u9NfZNUS5CS3akd1bPSisZA4/image"
+        },
+        {
+            "title": "Opel zafira 1.8 benzyna gaz z hakiem",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-8-benzyna-gaz-z-hakiem-CID5-ID15xhYI.html",
+            "location": "Wola Osińska",
+            "date": "04 May 2025 o 18:43",
+            "description": "Sprzedam samochód Opel zafira. Zarejestrowany na 7 osób. W pełni sprawny w dobrym stanie mechanicznym. Do poprawek lakierniczych.\n\nZainteresowanych proszę o kontakt, napewno się dogadamy :)",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/axi6b2xf4cdp1-PL/image;s=751x1000"
+        },
+        {
+            "title": "Seat Toledo 1.9 tdi 110 km",
+            "price": "2 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/seat-toledo-1-9-tdi-110-km-CID5-ID15FSlL.html",
+            "location": "Nadbrzeż",
+            "date": "04 May 2025 o 18:43",
+            "description": "Mechanicznie sprawny.  Sprzęgło i rozrząd robione w tamtym roku. Blacharsko jak na zdjęciach. Przebieg 407 000. W jednych rękach 10 lat. Opłaty i przegląd do 03.2026",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pqxp8zlp76vz2-PL/image;s=1020x765"
+        },
+        {
+            "title": "Sprzedam Peugeot 308",
+            "price": "4 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-peugeot-308-CID5-ID15FS43.html",
+            "location": "Nowa Wrona",
+            "date": "04 May 2025 o 18:41",
+            "description": "Witam. Sprzedam Peugeot 308 z 2009 roku. Auto ma uszkodzony  silnik. Wszelkie pytania techniczne proszę kierować pod nr 51*****06.\n\nDo obejrze",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i7f3x79c1u0t3-PL/image;s=1600x900"
+        },
+        {
+            "title": "Ford Focus C-Max Ford Focus C-Max",
+            "price": "6 250 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-c-max-ford-focus-c-max-ID6HmuZ5.html",
+            "location": "Nadarzyn",
+            "date": "04 May 2025 o 18:41",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Ford",
+                "Model pojazdu": "Focus C-Max",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 798 cm3",
+                "Moc": "125 KM",
+                "Typ nadwozia": "Minivan",
+                "Rodzaj koloru": "Metalik",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Kraj pochodzenia": "Niemcy",
+                "Przebieg": "263 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im85bmZ2a2RzOWxuNDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ZkwYUeUr6zEQnXnFVRIjTvDF1hPo56CcJLAEei3nV2s/image"
+        },
+        {
+            "title": "Sprzedam Tyoyota Rav4",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-tyoyota-rav4-CID5-ID15AvUJ.html",
+            "location": "Drzewoszki Małe",
+            "date": "04 May 2025 o 18:41",
+            "description": "Sprzedam Toyota Rav 4 2003  2.0 Silnik odpala lecz  wydaje dziwny dzwiek. Sprzedaje jako uszkodzone.więcej informacji pod nr telefonu 79*****06",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ewfizruyden8-PL/image;s=1024x768"
+        },
         {
             "title": "Jaguar S-Type lift 3.0 gaz 238km",
             "price": "4 999 zł",
@@ -11,6 +118,17 @@
             "description": "Witam. Sprzedam Kociaka na chodzie, ale wymagającego wkładu, bądź na części. Nowy akumulator wtryski gazu, hamulce. Huczy most, cieknie chłodnica  i parę innych. pierwszy właściciel w Polsce, Przegląd na rok, OC 2miesiace. Więcej inf pod nr 51*****51 Cena do uzgodnienia.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2i7npv88bv423-PL/image;s=4080x1830"
+        },
+        {
+            "title": "Mitsubishi space runner 2.4 GDI. Gotowy do każdy. Sprawna klimatyzacja",
+            "price": "2 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mitsubishi-space-runner-2-4-gdi-gotowy-do-kazdy-sprawna-klimatyzacja-CID5-ID15FSaM.html",
+            "location": "Kozubszczyzna",
+            "date": "04 May 2025 o 18:39",
+            "description": "Witam. Sprzedam space runner 2.4 GDI. Samochód w pełni sprawny technicznie z ważnymi ponad 2 miesiące opłatami. Bardzo pojemny. \n\nMa moc jak trzeba. \n\nSprawna klimatyzacja \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/khtno0awvbof3-PL/image;s=1500x2000"
         },
         {
             "title": "Opel Meriva Opel Meriva 1.6 benz",
@@ -56,6 +174,17 @@
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ma3t35udm2k02-PL/image;s=750x1000"
         },
         {
+            "title": "Seat Cordoba 1.4 lpg",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-cordoba-1-4-lpg-CID5-ID15FS0V.html",
+            "location": "Jasieniec",
+            "date": "04 May 2025 o 18:36",
+            "description": "Sprzedam Seata Cordobę 1.4 z instalacją gazową firmy BRC.\n\nPrzegląd techniczny ważny do 27.01.2026r\n\nOC ważne do 05.08.2025r\n\nAuto idealne na dojazdy do pracy bądź jako pierwsze auto.\n\n\n\nCena do rozsądnej negocjacji.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sg99sx16x4v21-PL/image;s=2958x1860"
+        },
+        {
             "title": "Sprzedam Renault Lagune z 2002.Roku 2.0T Benzyna+Gaz 163KM",
             "price": "4 390 zł",
             "negotiable": true,
@@ -65,6 +194,17 @@
             "description": "Witam \n\nSprzedam zadbaną Renault Lagune z 2002.Roku z silnikiem 2.0T Benzyna+Gaz o mocy 163KM \n\nStan auta oceniam na dobry pod względem technicznym jak i mechanicznym i blacharskim, progi oraz podłoga cała. Środek czysty i zadbany. Ładnie pracuje na benzynie jak i na gazie. W ostatnim czasie został wymieniony rozrząd przy 270tys ,oleje wraz z filtrami 8tys temu, oraz kompletne przednie zawieszenie \n\nKlimatyzacja sprawna \n\nOC ważne do Sierpnia \n\nPrzegląd ważny do Sierpnia \n\nButla ważna do 2030.Roku \n\nNa wyposażeniu posiada;\n\n-Wspomaganie kierownicy \n\n-Klimatyzacja sprawna \n\n-Alufelgi \n\n-Elektryczne szyby \n\n-Elektryczne lusterka \n\n-Grzane fotele \n\n-Elektryczne fotele \n\n-Wielofunkcyjna kierownica \n\n-Radio oryginalne \n\n-Podgrzewana przednia i tylna szyba\n\n-Dwa komplety kluczyków \n\n-Halogeny \n\n-Centralny zamek i wiele innych.\n\nWięcej informacji udzielę telefonicznie",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gxx3nte4o35r-PL/image;s=1000x750"
+        },
+        {
+            "title": "Punto mega stan niski przebieg szyberdach hak",
+            "price": "5 700 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/punto-mega-stan-niski-przebieg-szyberdach-hak-CID5-ID15FS0m.html",
+            "location": "Siedlce",
+            "date": "04 May 2025 o 18:35",
+            "description": "Fiat Punto 1.2 8v 103 tys przebiegu \n\nAuto użytkowane przez starszą osobę kilkanaście lat.\n\nRozrząd wymieniony przy 100 tys .km\n\nSzyberdach \n\nRadio .\n\nC.zamek\n\nAlufelgi \n\nWspomaganie kierownicy city\n\nHak \n\nAuto jedzie jak nowe jest utrzymany w stanie bdb prowadzi się super .\n\nProgi nadkola stan wzorowy można mierzyć miernikiem itp bezwypadkowy sprzęt idealny dla młodego kierowcy jak i starszej osoby .\n\nOpłaty do września .\n\nNegocjacje symboliczne \n\nAuto w cenie średniego roweru a nie jest to zgnilec ani złom ...\n\nKontakt tylko telefoniczny.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fgjc429faf5k2-PL/image;s=1024x768"
         },
         {
             "title": "Renaul Laguna oplaty na rok Lpg bez wkladu",
@@ -13167,148 +13307,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJvdWNpam1yMGYydy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0ZFqB8Mq8AIrpsmiLpThgjvZPWpU3K7_htx0dMXPHvw/image"
-        },
-        {
-            "title": "Mercedes-Benz Klasa A Salon Polska, gaz",
-            "price": "8 800 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/mercedes-benz-klasa-a-salon-polska-gaz-ID6GT0jJ.html",
-            "location": "Grębków",
-            "date": "03 May 2025 o 18:51",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Mercedes-Benz",
-                "Model pojazdu": "Klasa A",
-                "Kolor": "Granatowy",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2007",
-                "Generacja": "W169 (2004-2012)",
-                "Rodzaj paliwa": "Benzyna+LPG",
-                "Pojemność skokowa": "1 498 cm3",
-                "Moc": "95 KM",
-                "Typ nadwozia": "Kompakt",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Kraj pochodzenia": "Polska",
-                "Przebieg": "265 000 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN4N2d2YjRpZ2dsOC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jftnrWisKLDrpNJBK2LhSMkS_ObZxQsO83qLRWgc7sc/image"
-        },
-        {
-            "title": "Peugeot 207 1.4 benzyna+gaz 2007 rok",
-            "price": "6 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/peugeot-207-1-4-benzyna-gaz-2007-rok-CID5-ID14PzcF.html",
-            "location": "Abramów",
-            "date": "03 May 2025 o 18:50",
-            "description": "Na sprzedaż posiadam Peugeota 207 z silnikiem 1.4 benzyna+gaz. Samochód sprawny technicznie. Więcej informacji pod numerem telefonu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/18kk7mk635go3-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Skoda Octavia 1.6 115 km benzyna.",
-            "price": "9 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-6-115-km-benzyna-CID5-ID15EYML.html",
-            "location": "Nasielsk",
-            "date": "03 May 2025 o 18:50",
-            "description": "Witam sprzedam Skodę Octavia II 1.6 benzyna samochód w pełni sprawny zadbany jak na swoje lata.\n\nSilnik pracuje równo bez wycieków. Skrzynia ze sprzęgłem działa prawidłowo.Zawieszenie bez luzów.\n\nŚrodek czysty zadbany bez plam i przetarć.\n\n\n\n- Wspomaganie kierownicy\n\n- Elektryczne szyby\n\n- Poduszki powietrzne\n\n- Centralny zamek\n\n- Elektryczne lusterka \n\n- klimatyzacja [sprawna]\n\n- Halogeny\n\n- Czujniki parkowania tył\n\n\n\nUbezpieczenie jak i przegląd długo ważne.\n\n\n\nTel. 5.0.1 6.8.3 9.7.0",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7pbyjfwi6nu11-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Volvo V70 Volvo V70 II benzyna gaz 140 km manualna skrzynia biegów",
-            "price": "4 999 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volvo-v70-volvo-v70-ii-benzyna-gaz-140-km-manualna-skrzynia-biegow-ID6HePEu.html",
-            "location": "Marki",
-            "date": "03 May 2025 o 18:49",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Volvo",
-                "Model pojazdu": "V70",
-                "Wersja": "2.4",
-                "Kolor": "Inny kolor",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2003",
-                "Generacja": "II (1999-2007)",
-                "Rodzaj paliwa": "Benzyna+LPG",
-                "Pojemność skokowa": "2 435 cm3",
-                "Moc": "140 KM",
-                "Typ nadwozia": "Kombi",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Spalanie W Mieście": "12 l/100km",
-                "Spalanie Poza Miastem": "7.0 l/100km",
-                "Kraj pochodzenia": "Belgia",
-                "Przebieg": "410 000 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Bezwypadkowy": "Tak",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZjNWUxcW03eXEwOTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.i-gFyT1HlQC5VrcAdyxQu9ClLSwrt642gA-2gIAZR9E/image"
-        },
-        {
-            "title": "Volkswagen Golf rok 2001",
-            "price": "7 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-rok-2001-CID5-ID15EZ7n.html",
-            "location": "Tłuszcz",
-            "date": "03 May 2025 o 18:48",
-            "description": "Witam \n\nSprzedam Volkswagen Golf IV .\n\nRok 2001\n\nBenzyna 1.4 16V  \n\nPRZEBIEG 242119\n\nOpłaty aktualne \n\nWyposażenie:\n\n-klimatronik\n\n- 4 x szyby elektryczne\n\n- 6x poduszka powietrzna \n\n- szyberdach elektryczny \n\n-radio bluetooth \n\n-zestaw głośnomówiący \n\n-podgrzewane fotele\n\n- hak\n\n-ABS,ESP\n\nWiecej informacji pod nr tel .5*********81",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3le3vr4xs6373-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Na Sprzedaż Chevrolet Aveo/1.6lpg/2007r/dobry stan/zadbane/zamiana",
-            "price": "3 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-chevrolet-aveo-1-6lpg-2007r-dobry-stan-zadbane-zamiana-CID5-ID15EZfJ.html",
-            "location": "Warszawa, Włochy",
-            "date": "03 May 2025 o 18:48",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nOferujemy usluge dostarczenie auta pod dom.\n\n\n\nPrzyjmujemy auto w rozliczeniu !!!\n\n\n\nMożliwość kupienia samochodu w systemie ratalnym.\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Chevrolet Aveo z najlepszym niezawodnym silnikiem 1.6LPG. Stan auta oceniam na bardzo dobry, ostatnio wymienione oleje oraz filtry, klocki. zawieszenie w bardzo dobrym stanie.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na Ryżowa 4, Warszawa.\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\n\n\nCodziennie od 10 do 20\n\n\n\nNiniejsze ogłoszenie nie stanowi oferty ani zapewnienia, w szczególności rozumieniu art. 66 § 1 i art. 556 indeks 1 Kodeksu cywilnego. Zastrzegamy sobie prawo do doprecyzowania oraz korekt omyłek.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e6kr13k3jihd1-PL/image;s=960x1280"
-        },
-        {
-            "title": "pilna sprzedaż do negocjacji.ubezpieczenie do połowy maja.",
-            "price": "5 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/pilna-sprzedaz-do-negocjacji-ubezpieczenie-do-polowy-maja-CID5-ID15zKP5.html",
-            "location": "Warszawa, Włochy",
-            "date": "03 May 2025 o 18:47",
-            "description": "sprzedaż do negocjacji.ubezpieczenie do połowy",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zpqez75ltu7b3-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Sprzedam Toyota Yaris",
-            "price": "4 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-toyota-yaris-CID5-ID15Cfik.html",
-            "location": "Bełchatów",
-            "date": "03 May 2025 o 18:45",
-            "description": "Na sprzedaż Toyota Yaris z 2001 roku z silnikiem 1.3 Auto w bardzo dobrym stanie technicznym (normalne ślady użytkowania). Opony dwa komplety, zimowe, letnie na felgach.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jp4l2dkn0e0r-PL/image;s=2000x1500"
-        },
-        {
-            "title": "przestronny Mercedes vaneo automat po serwisie, 2m ladunkowe , zamiana",
-            "price": "9 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/przestronny-mercedes-vaneo-automat-po-serwisie-2m-ladunkowe-zamiana-CID5-ID15EZ3B.html",
-            "location": "Radom",
-            "date": "03 May 2025 o 18:44",
-            "description": "Auto w świetnym stanie\n\nSprowadzony z Niemiec\n\nKsiążka serwisowa\n\nW Polsce zrobione zaledwie 30tys km\n\n\n\nNowe: rozrusznik\n\nTurbosprężarka\n\nAmortyzatory\n\nŁączniki\n\nMocowania mcpersonow\n\nFiltry oleje\n\nRegeneracja wtryskiwaczy 2tys zł\n\nUszczelniony dolot\n\nSamochód czysty zadbany\n\nBardzo niskie spalanie\n\nZdecydowanie większa przestrzeń ładunkowa niż np w Renault Kangoo, Peugeot partner, Fiat doblo, czy Citroen berlingo",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/be1c6n59wa5f1-PL/image;s=1000x730"
         }
     ]
 }
