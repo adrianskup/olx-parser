@@ -1,6 +1,67 @@
 {
-    "updated": "2025-05-05 11:07:46.752867",
+    "updated": "2025-05-05 11:12:26.708365",
     "ads": [
+        {
+            "title": "Honda civic 2004r.",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-civic-2004r-CID5-ID14CLDG.html",
+            "location": "Pokrzywnica",
+            "date": "05 May 2025 o 11:08",
+            "description": "Sprzedam honda civic 2004r. 1.4 benzyna +gaz. Ważne opłaty i przeglad. Zainteresowanych proszę o kontakt telefoniczny.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ok6zz1mkj6gh2-PL/image;s=1152x864"
+        },
+        {
+            "title": "Toyota Avensis sol 2.0 D4D 116 km bezwypadkowy",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/toyota-avensis-sol-2-0-d4d-116-km-bezwypadkowy-CID5-ID15Glcx.html",
+            "location": "Warszawa, Włochy",
+            "date": "05 May 2025 o 11:07",
+            "description": "Toyota Avensis 2.0 diesel D4D.\n\nNiezawodne, wygodne auto, z bardzo niskim spalaniem 5-6l na 100km.\n\nW pełni sprawne, zadbane. Wiadomo że z racji wieku posiada pewne rysy itp. \n\nNa całej karoserii znajduje się oryginalny lakier.\n\nMożna wsiadać i jechać na drugi koniec Polski. Odpala bez problemu w największej mrozy.\n\nKlimatyzacja automatyczna w pełni sprawna. Jak na tamte lata Bogart wyposażenie.\n\nOC i przegląd techniczny do stycznia 2026r.\n\nAuto serwisowane, ostatnio wymienione zostały tarcze i klocki z przodu, klocki z tyłu, przegub i łożyska z przodu.\n\nWięcej informacji udzielę telefonicznie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mmv2ovgma923-PL/image;s=1020x768"
+        },
+        {
+            "title": "Opel Insignia 2011r . Silnik 1.8 benzyna/LPG",
+            "price": "8 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-insignia-2011r-silnik-1-8-benzyna-lpg-CID5-ID15DwCO.html",
+            "location": "Halinów",
+            "date": "05 May 2025 o 11:05",
+            "description": "Dzień dobry, mam do sprzedania Opel Insignia 1.8 benzyna/LPG , uszkodzony silnik, reszta wszystko sprawne!\n\nWięcej informacji udzielam telefonicznie!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yw6hw3iagwyt1-PL/image;s=765x1020"
+        },
+        {
+            "title": "Chevrolet Lacetti 1.4 B stan bardzo dobry, niski przebieg",
+            "price": "9 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/chevrolet-lacetti-1-4-b-stan-bardzo-dobry-niski-przebieg-ID6Hmzmy.html",
+            "location": "Nowy Dwór Mazowiecki",
+            "date": "05 May 2025 o 11:05",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Chevrolet",
+                "Model pojazdu": "Lacetti",
+                "Wersja": "1.4 SE / Star",
+                "Kolor": "Szary",
+                "Liczba drzwi": "5",
+                "Rok produkcji": "2010",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 399 cm3",
+                "Moc": "95 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "171 g/km",
+                "Przebieg": "110 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN1NHBmenUyejFlZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Bu9T8bjH9vpPS_nJQAKAphRyRutMU6Px5ylGyNTdpDw/image"
+        },
         {
             "title": "Opel Zafira",
             "price": "3 999 zł",
@@ -35,6 +96,51 @@
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Impra2pyMjk2aXpwODMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.zRUE1XpWt5-TK39PKInY1vKJloFtlUPe4O7LWVyQ80k/image"
         },
         {
+            "title": "Volskwagen passat 1.8 Pb + Gaz",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volskwagen-passat-1-8-pb-gaz-CID5-ID15FJ3Y.html",
+            "location": "Lublin",
+            "date": "05 May 2025 o 11:03",
+            "description": "Witam na sprzedaż Passat 1.8 Pb+gaz stan mechaniczny auta bardzo dobry na dzień dzisiejszy można wsiadać jechać. Wyglądowo też całkiem spoko zderzak do wymiany przedni i tylna klapa jak by ktoś bardzo chciał stoi na kołach 18 cali lato \n\nZimowe są też 15 cali. Ubezpieczenie 09.09 przegląd 07.08 \n\nZ minusów do zrobienia \n\nPodsufitka \n\nI szyby bo się nie otwierają",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ttwc788m7t901-PL/image;s=750x1000"
+        },
+        {
+            "title": "Renault Megane Salon Polska, bardzo dobry stan",
+            "price": "5 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-megane-salon-polska-bardzo-dobry-stan-ID6HmyAv.html",
+            "location": "Warszawa, Ursynów",
+            "date": "05 May 2025 o 11:03",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Renault",
+                "Model pojazdu": "Megane",
+                "Wersja": "II 1.6 Confort Authentique",
+                "Kolor": "Inny kolor",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "II (2002-2008)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "115 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.8 l/100km",
+                "Spalanie Poza Miastem": "5.6 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "180 000 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Bezwypadkowy": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVnYmhyeTNzOWNjZDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.CCPm1p0IHixoahei93o3dr_uUx04ebJiCf72lI_yoFY/image"
+        },
+        {
             "title": "Kia Carens 2,0 2007 lpg",
             "price": "9 500 zł",
             "negotiable": true,
@@ -44,6 +150,37 @@
             "description": "Dzień dobry.\n\nMam do sprzedania auto Kia Carens z 2007 roku. Samochód z silnikiem benzynowym + LPG.\n\nAuto sprawne, wersja 5- osobowy. Przegląd jest ważny do 30.09.2025 r., ubezpieczenie do 23. 07. 2025 r. Opony wielosezonowe w bardzo dobrym stanie. \n\nCENA DO NEGOCJACJI.\n\nZapraszam do kontaktu.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vwpxjclfx1st-PL/image;s=1362x1836"
+        },
+        {
+            "title": "Seat Leon Seat Leon 1.9 TDI",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/seat-leon-seat-leon-1-9-tdi-ID6Hfi59.html",
+            "location": "Gończyce",
+            "date": "05 May 2025 o 10:59",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Seat",
+                "Model pojazdu": "Leon",
+                "Wersja": "1.9 TDI Signo",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2003",
+                "Generacja": "I (1999-2005)",
+                "Rodzaj paliwa": "Diesel",
+                "Pojemność skokowa": "1 896 cm3",
+                "Moc": "110 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "6 l/100km",
+                "Spalanie Poza Miastem": "4.0 l/100km",
+                "Przebieg": "350 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRoc3hqd2Y1bXozbC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.N13L6ke98YiDAU5QkDD-Km0sP6DV8kXlCv0oxLWjYw4/image"
         },
         {
             "title": "Mini cooper s r56 rok2009 1.6 benzyna uszkodzony",
@@ -12943,61 +13080,6 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjMxcHVlZnlnZDZtZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.hYY8Tqq8zVfndQHdeRDImSgS1ZPDHDyfST6zlDiBptY/image"
-        },
-        {
-            "title": "Suzuki Swift 2005",
-            "price": "7 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/suzuki-swift-2005-CID5-ID15FlPn.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "04 May 2025 o 11:10",
-            "description": "Sprzedam Suzuki Swift rok 2005  wyposażony w silnik 1.3 moc 92km benzyna 5-drzwiowy.  Samochód w dobrym stanie sprawny technicznie. Przegląd robiony 27.02.2025 OC ważne do 25.06.2025. \n\nNiedawno wymienione tylne amortyzatory i klocki hamulcowe przednie. \n\n\n\nWyposażenie: \n\nABS \n\nElektryczne szyby \n\nElektryczne lusterka \n\nMultifunkcyjna kierownica \n\nCentralny zamek z pilota \n\nWspomaganie kierownicy \n\nFabryczne radio \n\n\n\nCena: 7500zł \n\nMożliwość obejrzenia: Praga-Południe Warszawa \n\n\n\nPo więcej informacji zapraszam do kontaktu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ptu6efp9ru8i3-PL/image;s=1512x872"
-        },
-        {
-            "title": "Peugeot 1007 1.4hdi klimatyzacja sprawna",
-            "price": "4 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/peugeot-1007-1-4hdi-klimatyzacja-sprawna-CID5-ID15zONZ.html",
-            "location": "Lublin",
-            "date": "04 May 2025 o 11:09",
-            "description": "Niski przebieg, sprawna klimatyzacja,  czujniki parkowania Tempomat. Idealne autko do miasta chociaż dalsze trasy też nie były straszne. \n\nOpłaty aktualne \n\nSamochód w pełni sprawny,  zawieszenie nie wybite. Z racji wieku znajda się skazy na lakierze lecz nie jest skorodowany.\n\nWnętrze czyste, zadbane. \n\nNiskie spalanie w granicach 3.5-4.5l /100km.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5bm63lntycxu1-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Mini cuper automat proszę czytać opis",
-            "price": "3 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mini-cuper-automat-prosze-czytac-opis-CID5-ID15Dtjx.html",
-            "location": "Radom",
-            "date": "04 May 2025 o 11:09",
-            "description": "Witam sprzedam Mini Cuper automat silnik 1.6 benzyna rok 2004 auto ma problem ze skrzynią biegów objawia się to w taki sposób że po wciśnięciu na D nie ma reakcji na bieg wsteczny normalnie działa  ,silnik w bardzo dobrym stanie oraz zawieszenie  bogate wyposażenie mało spotykane opłaty pół roku cena 3000zł więc informacji priv",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/c8wexyhwjtf81-PL/image;s=2000x1128"
-        },
-        {
-            "title": "Sprzedam Fiat Panda 2",
-            "price": "3 100 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-fiat-panda-2-CID5-ID15FiBo.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "04 May 2025 o 11:08",
-            "description": "Sprzedam Fiat Panda 2 1.1 benzyna.\n\nSilnik pracuje równo nie dymi i nie kopci.\n\nzamontowano radio samochodowe i dobre głośniki z tylu. Zamontowano gniazdo zapalniczki samochodowej.\n\nPT.    do 24-03-2026\n\nOC.  do 27-09-2025\n\n\n\nAuto idealnie na dostawę.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/im6gsopov6dp-PL/image;s=1500x2000"
-        },
-        {
-            "title": "VW Golf Kombi 1.9TDI",
-            "price": "6 759 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/vw-golf-kombi-1-9tdi-CID5-ID15oU65.html",
-            "location": "Ostrołęka",
-            "date": "04 May 2025 o 11:08",
-            "description": "Witam\n\nMam do sprzedania niezawodnego VW Golfa IV 1.9TDI . Samochód ma nalatane 350tyś., ale nadal jest niezawodny. Trzy lata temu został pozbawiony rudej tzn. Zrobione wszystkie progi, także jeszcze wiele lat dobrobytu z tym samochodem może nabywcę czekać. Miesiąc temu wymieniona został turbina, samochód jest w ciągłej eksploatacji, od 2009 jeździ nim mój teść. Pojazd Cały czas był garażowany. Przegląd zrobiny był w lutym, ubezpieczenie również, czyli wszystko aktualne.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yvnda87gwzbi1-PL/image;s=1536x2048"
         }
     ]
 }
