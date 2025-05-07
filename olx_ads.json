@@ -1,6 +1,50 @@
 {
-    "updated": "2025-05-07 07:48:07.364452",
+    "updated": "2025-05-07 07:55:19.104952",
     "ads": [
+        {
+            "title": "Opel Meriva 1,8 2004r , Klima , Zadbana",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-meriva-1-8-2004r-klima-zadbana-CID5-ID14M0op.html",
+            "location": "Łódź, Bałuty",
+            "date": "07 May 2025 o 07:51",
+            "description": "Sprzedam Opla Merive 1,8 z 2004 roku. W bardzo dobrym stanie technicznym i wizualnym.\n\n\n\nUbezpieczenie oc 31-07-2025 r. przegląd ważny do 29.05.2025r,\n\nAuto serwisowane na bieżąco ,sprawne\n\n\n\nWyposażenie to m.in:\n\n\n\n• Klimatyzacja automatyczna (Klimatronic)\n\n• Wspomaganie kierownicy\n\n• ASR (kontrola trakcji)\n\n• Tapicerka w idealnym stanie\n\n• Elektrycznie ustawiane lusterka, podgrzewane\n\n• Elektryczne szyby\n\n• Airbag\n\n• ESP (stabilizacja toru jazdy)\n\n• Centralny zamek na pilota\n\n• Immobilizer\n\n• Radio\n\n• Komputer pokładowy",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8qgm9rduiqfb3-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Sprzedam Nissan almera lift 2004 rok orginał przebieg 170kkm",
+            "price": "1 499 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-nissan-almera-lift-2004-rok-orginal-przebieg-170kkm-CID5-ID13jFK9.html",
+            "location": "Marki",
+            "date": "07 May 2025 o 07:48",
+            "description": "Dzień dobry\n\n\n\nsprzedam samochód 2004 roku, 1.5benzyna więcej stoi jak jezdzi. Zakupiony w 2019 roku od osoby prywatnej, starszej osoby z orginalnym przebiegiem 154000 km. Do tej pory rocznie robił samochód około 2-3 k km. Ja posiadam auto służbowe, a moja partnerka pracuje z domu. Stąd przebieg.\n\n\n\nAuto cały czas użytkowane użytkowane. Serwisoany, oleje filtry co rok. Zawieszenie nie wybite. Na obecną chwile ślizga się sprzęgło i zaciśnięte tylnie zaciski, trochę podhamowuje odczywalnie. Ale auto na chodzie i zawożi do sklepu. Cena do symbolicznej niego. Podrapana i po odzierana. Autko ma 20 lat. Opłaty na rok.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/f21p8swpvcib1-PL/image;s=1536x2048"
+        },
+        {
+            "title": "Skoda Fabia I - 1.4 MR’05 Sportline. Rocznik 2006",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-i-1-4-mr05-sportline-rocznik-2006-CID5-ID15I5Ee.html",
+            "location": "Warszawa, Mokotów",
+            "date": "07 May 2025 o 07:46",
+            "description": "Skoda Fabia I - 1.4 MR’05 Sportline. Rocznik 2006\n\n\n\n- Przebieg - 163tys km\n\n- Hatchback - 5drzwiowy\n\n- Benzyna \n\n- 16V\n\n- 55/75 kW/KM\n\n- Opony 165/60R14 (2 komplety zima i lato)\n\n- Komplet firmowych felg Skody (rozmiar 15)",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ecyaic2ky59b1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Audi A4 B5 1.8 klima",
+            "price": "3 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b5-1-8-klima-CID5-ID15I6UO.html",
+            "location": "Grójec",
+            "date": "07 May 2025 o 07:46",
+            "description": "Witam \n\nSprzedam Audi A4B5 1.8 z 1998r. Auto mechanicznie sprawuje się dobrze zawieszenie sztywne nie wybite silnik pracuje prawidłowo. Środek czysty oraz zadbany. OC i przegląd do maja 2026r. \n\nWyposażenie \n\nElektryczne szyby \n\nClimatronik \n\nWspomaganie kierownicy \n\nCentralny zamek \n\nABS \n\nRadio \n\nElektryczne lusterka \n\nWięcej informacji udzielę telefonicznie",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l9dmet3p4iqz-PL/image;s=1288x1482"
+        },
         {
             "title": "Peugeot 807 2.0hdi 136km#z Niemiec po opłatach#fajny stan,bogata wersi",
             "price": "9 900 zł",
@@ -13376,59 +13420,6 @@
                 "Uszkodzony": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBkM28yc29oZWk4YzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.RHzEECT_E_0vPd4oFw8ZfXFYBg29_bM5I5tjrsb83pE/image"
-        },
-        {
-            "title": "Skoda fabia 1.4 active combi",
-            "price": "6 300 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4-active-combi-CID5-ID15GYS5.html",
-            "location": "Opoczno",
-            "date": "06 May 2025 o 07:54",
-            "description": "Sprzedam Skoda Fabia 1.4 active  kombi  2006 rok więcej informacji pod nr tel.6********10",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nn2hyp5c001s3-PL/image;s=3072x4080"
-        },
-        {
-            "title": "Renault Clio Renault Clio/Benzyna 1.6/Grzane fotele/Klima",
-            "price": "7 300 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/renault-clio-renault-clio-benzyna-1-6-grzane-fotele-klima-ID6Hckci.html",
-            "location": "Piaseczno",
-            "date": "06 May 2025 o 07:54",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Renault",
-                "Model pojazdu": "Clio",
-                "Wersja": "1.6 16V Extreme",
-                "Kolor": "Czarny",
-                "Liczba drzwi": "3",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2006",
-                "Generacja": "III (2005-2012)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 598 cm3",
-                "Moc": "110 KM",
-                "Typ nadwozia": "Auta małe",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Emisja CO2": "160 g/km",
-                "Spalanie W Mieście": "9 l/100km",
-                "Spalanie Poza Miastem": "5.0 l/100km",
-                "Przebieg": "173 000 km",
-                "Stan": "Używany"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZvZnY5dHp4NWwxajEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ppe7CU1My-U-mGlv2z3EbEqHJVtLqPU3HRvPY38JgVE/image"
-        },
-        {
-            "title": "Sprzedam Citroen Xsara Picasso",
-            "price": "3 200 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-citroen-xsara-picasso-CID5-ID10qTll.html",
-            "location": "Łódź, Śródmieście",
-            "date": "06 May 2025 o 07:52",
-            "description": "Citroen Xsara Picasso 16 z2005 auto posiada ABS ESP elektryczne szyby grzane lusterka centralny zamek szyber dach panoramiczny climataronik tylnią roletę przebieg 208000 tyś. W aucie wymienny był rozrząd przy 192500 sprzęgło olej z filtrami. Przegląd i OC do lipca. Samochód ma wgniotke na tylniej klapie co jest na zdjęciu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/is120mqk1lw32-PL/image;s=459x1020"
         }
     ]
 }
