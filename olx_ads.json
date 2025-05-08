@@ -1,6 +1,67 @@
 {
-    "updated": "2025-05-08 07:29:48.325082",
+    "updated": "2025-05-08 07:41:28.581751",
     "ads": [
+        {
+            "title": "Opel Corsa C czerwony",
+            "price": "2 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-c-czerwony-CID5-ID15IYDM.html",
+            "location": "Warszawa, Białołęka",
+            "date": "08 May 2025 o 07:33",
+            "description": "Opel w stanie dobrym jak na zdjęciach, brak klimatyzacji, mały przebieg tylko 69 tysięcy km .",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8f7g561leca13-PL/image;s=750x1000"
+        },
+        {
+            "title": "Kia ceed kombi 2.0 crdi 140 km - przegląd na rok do przodu.",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/kia-ceed-kombi-2-0-crdi-140-km-przeglad-na-rok-do-przodu-CID5-ID15ilY5.html",
+            "location": "Zakroczym",
+            "date": "08 May 2025 o 07:30",
+            "description": "Pierwszy właściciel. opona wielosezon. Do poprawek lakierniczych. Do 2018 roku serwisowany w autoryzowanym serwisie Kia Łowicz. \n\n\n\nPrzegląd do 25 kwietnia 2026!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1uhski3zlm0j1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Signum Opel Signum z gazem",
+            "price": "7 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-signum-opel-signum-z-gazem-ID6HkNJP.html",
+            "location": "Radom",
+            "date": "08 May 2025 o 07:30",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Signum",
+                "Kolor": "Srebrny",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2004",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 796 cm3",
+                "Moc": "122 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Automatyczna",
+                "Napęd": "Na przednie koła",
+                "Przebieg": "297 358 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ0OGszamI5am45dDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.AUPNkZVSwI7vyzd5VdXlUsI4hRfB--XObQwhynoq_Fo/image"
+        },
+        {
+            "title": "Ford c max 2005 r 2.0 TDCi 6800zl",
+            "price": "6 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-c-max-2005-r-2-0-tdci-6800zl-CID5-ID159sZ8.html",
+            "location": "Łomża",
+            "date": "08 May 2025 o 07:29",
+            "description": "Witam serdecznie posiadam na sprzedaż zadbane autko jakim jest ford focus C-Max z 2005 roku silnik 2.0 TDCi z autko w dobrym stanie użytkowane na codzien wszystkie opłaty aktualne zawieszenie sztywne nie wybite ładnie się prowadzi jak i prezentuje nie wymaga żadnych nakładów finansowych autko bardzo doinwestowane mam na to fv silnik pali na dotyk ma pełno moc \n\nNa wyposażeniu standardowym \n\nWspomaganie kierownicy \n\nCentral zamek \n\nAbs \n\nEl szyby \n\nEl lusterka \n\nKlimatyzacja \n\nKontrola trakcji\n\nKomputer pokładowy \n\nGrzane siedzenia skórzana tapicerka \n\nEl regulacja foteli \n\n8pp",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0q4r5tvn0qa93-PL/image;s=868x1160"
+        },
         {
             "title": "Fiat Bravo 1.9 JTD 120km",
             "price": "8 990 zł",
@@ -11,6 +72,34 @@
             "description": "Witam, na sprzedaż Fiat Bravo z 2007 roku z silnikiem diesla o pojemności 1.9 i mocy 120km. Auto sprawne jeżdżące silnik chodzi rowno ma moc, nie kopci i nie pobiera oleju. Alufelgi 17 cali zawieszenie sztywne. Lakier ładny bez rdzy. OC i bt aktualne. Więcej informacji pod numerem telefonu lub w wiadomości prywatnej. Mogę zamienić na inne auto z dopłatą w obie strony.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mw4e58agcgyf-PL/image;s=1600x1200"
+        },
+        {
+            "title": "Renault Laguna Renault Laguna II",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-laguna-renault-laguna-ii-ID6HeDNV.html",
+            "location": "Brodnica",
+            "date": "08 May 2025 o 07:23",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Renault",
+                "Model pojazdu": "Laguna",
+                "Kolor": "Złoty",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2005",
+                "Generacja": "II (2001-2007)",
+                "Rodzaj paliwa": "Benzyna+LPG",
+                "Pojemność skokowa": "1 998 cm3",
+                "Moc": "135 KM",
+                "Typ nadwozia": "Kombi",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Przebieg": "314 080 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxtNzNvdnNzOWdvZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.VjX-9lgiOsGrYy8MiQRoeFcFWcT6IK5APgzpdjB7taY/image"
         },
         {
             "title": "Mazda 3  101 tyś KM 1.6 Bezyna 2008 Bemowo",
@@ -1291,6 +1380,17 @@
                 "Serwisowany w ASO": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZxbGo5NjlvZmQ5ci1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RVRSaXsthldDvuVdvq44CVrh3wJrkMViVh7ufPCQMwc/image"
+        },
+        {
+            "title": "Fiat Grande Punto",
+            "price": "7 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-CID5-ID15eTur.html",
+            "location": "Warszawa, Żoliborz",
+            "date": "08 May 2025 o 01:21",
+            "description": "Sprzedam Fiat Grande Punto 2011 rok, 1.2 gaz-benzyna. \n\nZużycie gazu wynosi 6-7 litrów na 100 km, samochód jest bardzo ekonomiczny.\n\nUbezpieczenie ważne do 06.2025, przegląd techniczny do 07.2025\n\nPrzebieg 374 000\n\nSkrzynia Biegów Manualna\n\nŚwieżo wymieniony generator, klocki i tarcze hamulcowe, rozrusznik.\n\nSamochód w bardzo dobrym stanie zarówno technicznym jak i wizualnym, idealny do miasta, nie wymaga wkładu finansowego.\n\nZapraszam do kontaktu 73*****07",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/988ygduenr45-PL/image;s=750x1000"
         },
         {
             "title": "Renault Clio 2 1.2 LPG niski przebieg",
@@ -14295,131 +14395,6 @@
             "description": "Witam \n\nSprzedam Audi A4B5 1.8 z 1998r. Auto mechanicznie sprawuje się dobrze zawieszenie sztywne nie wybite silnik pracuje prawidłowo. Środek czysty oraz zadbany. OC i przegląd do maja 2026r. \n\nWyposażenie \n\nElektryczne szyby \n\nClimatronik \n\nWspomaganie kierownicy \n\nCentralny zamek \n\nABS \n\nRadio \n\nElektryczne lusterka \n\nWięcej informacji udzielę telefonicznie",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l9dmet3p4iqz-PL/image;s=1288x1482"
-        },
-        {
-            "title": "Peugeot 807 2.0hdi 136km#z Niemiec po opłatach#fajny stan,bogata wersi",
-            "price": "9 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/peugeot-807-2-0hdi-136km-z-niemiec-po-oplatach-fajny-stan-bogata-wersi-CID5-ID15I6Gc.html",
-            "location": "Siedlce",
-            "date": "07 May 2025 o 07:41",
-            "description": "Peugeot 807\n\nRok:2007\n\n2.0 hdi 136km\n\nAuto w świetnym stanie technicznym jak I wizualnym. \n\nŚwieżo sprowadzone z Niemiec \n\nPodana cena zawiera kompletne opłaty \n\nKoszt rejestracji to 160zł \n\nAuto bogato wyposażone \n\nWięcej informacji udzielę telefonicznie \n\nZapraszam do obejrzenia auta",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qi6ow08o1r822-PL/image;s=1020x765"
-        },
-        {
-            "title": "Fiat PUNTO 2 Lift",
-            "price": "2 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/fiat-punto-2-lift-CID5-ID15vovY.html",
-            "location": "Pabianice",
-            "date": "07 May 2025 o 07:40",
-            "description": "Dzień dobry.\n\n\n\nMam do sprzedania samochód Fiat Punto 2 Lift z 2004 roku. Samochód posiada instalacje gazową. Korzystałem z niego 7 lat, nigdy mnie nie zawiódł. Od roku mam zakupiony drugi samochód i już rzadko z niego korzystam. Sporadycznie jeździłem nim przez ostatnią zimę. \n\n\n\nDo naprawy podłoga z tyłu.\n\n\n\nPrzegląd techniczny do 17.09.2025\n\nUbezpieczenie do 08.11.2025\n\nButla gazowa do 31.08.2025\n\n\n\nZachęcam do zakupu. \n\n\n\nPozdrawiam :)",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/avio4tlw16oc2-PL/image;s=1469x1042"
-        },
-        {
-            "title": "Sprzedam nietuzinkowe Audi a3 8l",
-            "price": "4 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-nietuzinkowe-audi-a3-8l-CID5-ID15I6qL.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "07 May 2025 o 07:39",
-            "description": "Witam serdecznie, mam do zaoferowania Audi A3 8l z pancerną jednostką 1.9 TDi. Odpala w każdej możliwej porze, nie ma problemu z rozruchem. Auto ma wiele lat co widać na zdjęciach, jest dziura w błotku prawym przednim, oraz widoczne ślady korozji na drzwiach kierowcy, oraz pasażera. Z rzeczy, które wiem że są do zrobienia w aucie to na pewno pompa wysokiego ciśnienia paliwa nadaje się do regeneracji, niestety jest na niej wyciek, oraz sworzeń wahacza koła prawy przód. Autem zrobiłem sporo kilometrów od momentu zakupu, obecnie przez zmianę zamieszkania jest mi on zbędny - do pracy mam za blisko na podjeżdżanie autem z silnikiem diesla. \n\nRozrząd wymieniony 30 tysięcy temu, oleje, filtry zrobione w październiku zeszłego roku. Klocki tarcze wymienione w zeszłym roku. \n\nZapraszam do oględzin",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vh424xdlep1a1-PL/image;s=1000x750"
-        },
-        {
-            "title": "Fiat Punto",
-            "price": "9 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/fiat-punto-ID6HlDyx.html",
-            "location": "Warszawa, Targówek",
-            "date": "07 May 2025 o 07:37",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Fiat",
-                "Model pojazdu": "Punto",
-                "Kolor": "Biały",
-                "Liczba drzwi": "3",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2008",
-                "Generacja": "II FL (2003-)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 368 cm3",
-                "Moc": "77 KM",
-                "Typ nadwozia": "Kompakt",
-                "Skrzynia biegów": "Manualna",
-                "Kraj pochodzenia": "Niemcy",
-                "Przebieg": "190 000 km",
-                "Stan": "Używany",
-                "Zarejestrowany w Polsce": "Tak",
-                "Pierwszy właściciel (od nowości)": "Tak",
-                "Ma numer rejestracyjny": "Tak",
-                "Serwisowany w ASO": "Tak",
-                "Tuning": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndlaGsxMGcyajV5dTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.bcN8Ym2yXZWLQ8wTzbx9uVVBJL5cP07N9F9DQ262oxc/image"
-        },
-        {
-            "title": "Audi a4 s line 2.5 diesel po wymianie rozrządu",
-            "price": "9 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/audi-a4-s-line-2-5-diesel-po-wymianie-rozrzadu-CID5-ID10NPR0.html",
-            "location": "Falenty Nowe",
-            "date": "07 May 2025 o 07:35",
-            "description": "Witam mam do sprzedania Audi A4 2.5 s line sprowadzone z Niemiec auto w pełni sprawne czyste zadbane silnik skrzynia pracują bardzo dobrze prowadzi się fajnie nie wymga wkładu finansowego siadać I jechać więcej informacji pod nr tel Zapraszam I polecam",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/navvl5vcrp9e3-PL/image;s=756x1008"
-        },
-        {
-            "title": "Renault Laguna III 2009",
-            "price": "10 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-laguna-iii-2009-CID5-ID14JG7d.html",
-            "location": "Warszawa, Ursus",
-            "date": "07 May 2025 o 07:32",
-            "description": "Auto kupione w Polskimi salonie, rok produkcji 2009, przebieg 300 tyś km , silnik 2.0 diesel, moc 150 koni mechanicznych. Olej wymieniany co 11-13tys km. Auto ma swoje lata więc ma też rysy i jakieś wgniecenia , na fotelach kierowcy i pasażera jest pęknięta eko skóra.. Użytkuję je od 2015 roku, auto nie brało udziału w wypadku. Posiada hak, czujniki cofania, elektryczne szyby i lusterka, dwie karty do otwierania drzwi, koło zapasowe, brak DPF . Ubezpieczenie do stycznia 2026, przegląd do 12.11.2025.  Auto jeździ, pali, do obejrzenia w Warszawie w dzielnicy Ursus. Zapraszam do kontaktu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/12r6c3wl5s7w1-PL/image;s=1600x828"
-        },
-        {
-            "title": "Sprzedam Volkswagena Golfa IV 1.9 TDI Combi",
-            "price": "4 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-volkswagena-golfa-iv-1-9-tdi-combi-CID5-ID15HYgi.html",
-            "location": "Łódź, Bałuty",
-            "date": "07 May 2025 o 07:32",
-            "description": "Witam, posiadamy na sprzedaż niezawodnego Volkswagena Golfa w Combi z najlepszym solidnym silnikiem 1.9 Diesel. Auto rocznik 2003, skrzynia manualna. Przebieg około 197 tysięcy km. Silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry i klocki. Silnik jest dość ekonomiczny, na trasie 5,5-6L w mieście  około 7L, a wraz z tym daje dużo frajdy z jazdy. Zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego. Przegląd techniczny w styczniu, ubezpieczenie w lutym. Mankamenty wizualne widać na zdjęciach.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n- dwa zestawy kluczy.\n\nOpłaty ważne\n\nOC Ważne\n\n\n\nW przypadku chęci kontaktu numer 53*******44 lub 60*******71.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8v4b3u755u643-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Toyota Yaris seat leon 1.9 tdi 2010r",
-            "price": "7 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-seat-leon-1-9-tdi-2010r-ID6HjVVh.html",
-            "location": "Brzeziny",
-            "date": "07 May 2025 o 07:30",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Toyota",
-                "Model pojazdu": "Yaris",
-                "Kolor": "Szary",
-                "Liczba drzwi": "5",
-                "Liczba miejsc": "5",
-                "Rok produkcji": "2009",
-                "Generacja": "II (2005-2011)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 329 cm3",
-                "Moc": "100 KM",
-                "Typ nadwozia": "Auta małe",
-                "Skrzynia biegów": "Manualna",
-                "Przebieg": "152 000 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBpYWZtdXNyc3Y5ZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.3oQvFLDOaTPv80Lufm95PngaVadZLYE1JtvkcJJhndU/image"
         }
     ]
 }
