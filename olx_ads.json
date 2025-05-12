@@ -1,5 +1,5 @@
 {
-    "updated": "2025-05-12 16:13:34.847313",
+    "updated": "2025-05-12 16:17:55.443748",
     "ads": [
         {
             "title": "Honda Accord VII",
@@ -33,6 +33,17 @@
             "description": "Pali na dotyk, silnik suchy. Ładne felgi z oponami Goodyear. OC oraz przegląd na rok. Przyjmujemy auta w rozliczeniu. \n\nZakręt ul. Szkolna 1. 05-077",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2ni1vchnpxop3-PL/image;s=1600x1200"
+        },
+        {
+            "title": "Toyota Yaris 1.0 benzyna",
+            "price": "1 200 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-yaris-1-0-benzyna-CID5-ID15N5S1.html",
+            "location": "Antoninów",
+            "date": "12 May 2025 o 16:07",
+            "description": "Sprzedam toyotę Yaris rok 1999 więcej informacji pod numerem 79*****77",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qexfh6lfdm62-PL/image;s=1600x1200"
         },
         {
             "title": "Opel Astra Opel Astra III 1.7 CDTI Cosmo",
@@ -13085,36 +13096,6 @@
             "description": "Sprzedam Audi A3 1,6 FSI.\n\nStan dobry.\n\nKontakt tylko telefoniczny. Więcej informacji telefonicznie  79*****51.\n\nAuto w użytku \n\nNowy akumulator, sprawna klimatyzacja.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/traktpgvdw1w3-PL/image;s=1920x1027"
-        },
-        {
-            "title": "Fiat Punto Fiat Punto Clasic",
-            "price": "8 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/fiat-punto-fiat-punto-clasic-ID6HnB7U.html",
-            "location": "Warszawa, Włochy",
-            "date": "11 May 2025 o 16:16",
-            "description": "Описание не указано",
-            "details": {
-                "Marka pojazdu": "Fiat",
-                "Model pojazdu": "Punto",
-                "Wersja": "1.2 8V Classic",
-                "Kolor": "Szary",
-                "Liczba drzwi": "5",
-                "Rok produkcji": "2010",
-                "Generacja": "I (1994-1999)",
-                "Rodzaj paliwa": "Benzyna",
-                "Pojemność skokowa": "1 242 cm3",
-                "Moc": "60 KM",
-                "Typ nadwozia": "Kompakt",
-                "Skrzynia biegów": "Manualna",
-                "Napęd": "Na przednie koła",
-                "Spalanie W Mieście": "7.3 l/100km",
-                "Spalanie Poza Miastem": "4.7 l/100km",
-                "Przebieg": "191 424 km",
-                "Stan": "Używany",
-                "Ma numer rejestracyjny": "Tak"
-            },
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVhdmRhOHozNmpmZjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.txyoG_BGOxgSi_-VAkhHGgUu8DSK9Eci-8Excw5OG5U/image"
         }
     ]
 }
