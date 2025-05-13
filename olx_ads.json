@@ -1,6 +1,62 @@
 {
-    "updated": "2025-05-13 11:39:07.771649",
+    "updated": "2025-05-13 11:47:54.067665",
     "ads": [
+        {
+            "title": "Opel Astra",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-astra-ID6Ho0nl.html",
+            "location": "Lublin",
+            "date": "13 May 2025 o 11:40",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Astra",
+                "Wersja": "III 1.6 Enjoy",
+                "Kolor": "Beżowy",
+                "Liczba drzwi": "5",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2007",
+                "Generacja": "H (2004-2014)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 598 cm3",
+                "Moc": "115 KM",
+                "Typ nadwozia": "Kompakt",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Emisja CO2": "158 g/km",
+                "Spalanie W Mieście": "8.8 l/100km",
+                "Spalanie Poza Miastem": "5.3 l/100km",
+                "Kraj pochodzenia": "Polska",
+                "Przebieg": "180 200 km",
+                "Stan": "Używany",
+                "Zarejestrowany w Polsce": "Tak",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE3ejdzdzk1eG9yaC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.L3XVEW0I62XwgVgBsF1QpfkMta5WmZsLAvniR-cHNu0/image"
+        },
+        {
+            "title": "Saab 9-3 ARC 2.0 Turbo Benzyna Automat – Zadbany – Klimatyzacja, Skóry",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/saab-9-3-arc-2-0-turbo-benzyna-automat-zadbany-klimatyzacja-skory-CID5-ID15BPWV.html",
+            "location": "Warszawa, Wola",
+            "date": "13 May 2025 o 11:37",
+            "description": "Sprzedam zadbanego Saaba 9-3 w  bardzo bogatej wersji wyposażenia ARC.\n\nAuto z mocnym silnikiem benzynowym turbo oraz automatyczną skrzynią biegów.\n\n\n\nWyposażenie m.in.:\n\n\n\nDwustrefowa klimatyzacja (sprawna)\n\nPodgrzewane fotele\n\nSkórzana tapicerka\n\nWiele innych dodatków\n\nSamochód jest w bardzo dobrej kondycji jak na swój wiek:\n\n\n\nBlacha zdrowa\n\nSilnik, skrzynia biegów oraz zawieszenie pracują bardzo dobrze\n\nKlimatyzacja działa bez zarzutu\n\nAuto zadbane, bez większych oznak zużycia.\n\nOpłaty ważne na długo:\n\n\n\nOC do 07.12.2025\n\nPrzegląd techniczny do 25.05.2025\n\nWięcej informacji udzielę telefonicznie. Zapraszam do kontaktu!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/844dm6fxola31-PL/image;s=1280x960"
+        },
+        {
+            "title": "Skoda Fabia 1,4 TDI # uszkodzony silnik #",
+            "price": "2 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4-tdi-uszkodzony-silnik-CID5-ID15NRY7.html",
+            "location": "Łódź, Górna",
+            "date": "13 May 2025 o 11:33",
+            "description": "Sprzedam Skoda Fabia z 2008 roku 1,4 TDI. Auto ma prawdopodobnie uszkodzony silnik bo bardzo kopci. Przed usterką auto zadbanie w dobrym stanie mechanicznym i blacharskim, po wymianie rozrządu i napraw eksploatacyjnych . Odbiór laweta. \n\n\n\nUbezpieczenie OC 29.07.2025\n\n\n\nNa więcej pytań odpowiem telefonicznie",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uxjxoyk4sog2-PL/image;s=1000x750"
+        },
         {
             "title": "Mazda 5",
             "price": "10 000 zł",
@@ -32,6 +88,37 @@
                 "Ma numer rejestracyjny": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRndDdhMGk5enhwajEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.aDzJszJYwTyy8mPDd9OSFcwDED8VVDna_XIS7okX4d8/image"
+        },
+        {
+            "title": "Opel Corsa 2 Corsy 1.2 cena za 2",
+            "price": "5 200 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-corsa-2-corsy-1-2-cena-za-2-ID6Hmrkr.html",
+            "location": "Korytów A",
+            "date": "13 May 2025 o 11:32",
+            "description": "Описание не указано",
+            "details": {
+                "Marka pojazdu": "Opel",
+                "Model pojazdu": "Corsa",
+                "Wersja": "1.2 16V Comfort",
+                "Kolor": "Błękitny",
+                "Liczba drzwi": "3",
+                "Liczba miejsc": "5",
+                "Rok produkcji": "2001",
+                "Generacja": "C (2000-2006)",
+                "Rodzaj paliwa": "Benzyna",
+                "Pojemność skokowa": "1 199 cm3",
+                "Moc": "75 KM",
+                "Typ nadwozia": "Auta małe",
+                "Skrzynia biegów": "Manualna",
+                "Napęd": "Na przednie koła",
+                "Spalanie W Mieście": "8.2 l/100km",
+                "Spalanie Poza Miastem": "4.9 l/100km",
+                "Przebieg": "320 000 km",
+                "Stan": "Używany",
+                "Ma numer rejestracyjny": "Tak"
+            },
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFqNGx5bzY4Z2gzajEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.qf_e49mj6bWAX2d2rrn_62PdEwFQ5Y65qDWr1-I4W50/image"
         },
         {
             "title": "Mercedes-Benz Klasa C Mercedes-Benz C 180 (W202) LPG +HAK, Stan BDB, PT 01/2026, OC 08/2025",
@@ -13909,72 +13996,6 @@
                 "Serwisowany w ASO": "Tak"
             },
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZseXJ4N25pb2wxOS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4o3qLkIYy1Z9LvLtivuKiDl7raxNWeGNBeTsUDemqP4/image"
-        },
-        {
-            "title": "Dodge Avenger 2.0 Diesel/2010 Rok/Dostawa pod dom/Gwarancja/Zamiana/",
-            "price": "4 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/dodge-avenger-2-0-diesel-2010-rok-dostawa-pod-dom-gwarancja-zamiana-CID5-ID14u52K.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "12 May 2025 o 11:45",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękny i niezawodny Dodge Avenger wyprodukowany w 2010 Roku z najlepszym niezawodnym silnikiem 2.0 Diesel, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA (z dynamiczna kontrola stabilnosci i kontroli jazdy)\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n- Aktywne zaglowki przednie\n\n-Tempomat\n\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n\n- Mozliwosc ustawienia max predkosci w komputerze, ktorej samochod nie pozwoli nam przekroczyc\n\n- podgrzewane lusterka\n\n- sterowanie radiem z kierownicy\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- dwustrefowy klimatronik\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/r4r8vyr5sl4s1-PL/image;s=750x1000"
-        },
-        {
-            "title": "Fiat Doblo Cargo 1.3D // 2008 // Dostawczy // Super Stan // Zamiana //",
-            "price": "6 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/fiat-doblo-cargo-1-3d-2008-dostawczy-super-stan-zamiana-CID5-ID15MJNH.html",
-            "location": "Warszawa, Ursynów",
-            "date": "12 May 2025 o 11:45",
-            "description": "Samochód zarejestrowany w kraju z ważnymi opłatami !!\n\n\n\nOferujemy usługę dostarczenia auta pod dom. \n\n\n\nDzień dobry dziś mamy dla państwa do zaprezentowania bardzo fajnego i ekonomicznego Fiata Doblo z silnikiem diesla o pojemności 1.3 M-jet i mocy 75 koni mechanicznych. Idealny dostawczak dla wymagających i ceniących sobie komfort. Silnik odpala na dotyk pracuje równo i prawidłowo. Zawiesznie nie wybite prowadzi się pewnie i komfortowo. Cena oczywiście podlega negocjacji. \n\n\n\nNa wyposażeniu samochodu :\n\n\n\n- centralny zamek\n\n- ⁠radio CD \n\n- ⁠wspomaganie kierownicy \n\n- regulowana kierownica \n\n- ⁠ABS \n\n- ESP\n\n\n\nSamochód posiada ważne ubezpieczenie OC oraz przegląd techniczny do października 2025 !!!\n\n\n\nChętnie zamienimy !\n\n\n\nMamy dużo aut w podobnych cenach!\n\n\n\nZnajdujemy się przy ul Puławskiej 427 w Warszawie na parkingu centrum handlowego Ursynów obok stacji kontroli pojazdów.\n\n\n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego autka ! \n\n\n\nKończy Ci sie ubezpieczenie lub przegląd? \n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nRezerwacja wybranego modelu mozliwa jedynie poprzez wplate zadatku !\n\n\n\nSKUPUJEMY WSZYSTKIE MARKI SAMOCHODÓW! \n\nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nGodziny otwarcia\n\nPoniedzialek-Sobota 10:00-20:00\n\nNiedziela 10:00-16:00 \n\nZapraszamy do kontaktu przez olx i telefonicznego 73*******09",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b0aqc7alzf0g-PL/image;s=1020x768"
-        },
-        {
-            "title": "Autokomis TopCar!Skoda Octavia Tour 1.9 TDI Hak/bdstan/Majówka Otwarto",
-            "price": "2 290 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/autokomis-topcar-skoda-octavia-tour-1-9-tdi-hak-bdstan-majowka-otwarto-CID5-ID15xBai.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "12 May 2025 o 11:43",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Skoda Octavia Tour wyprodukowana w 2001 Roku z najlepszym niezawodnym silnikiem 1.9 Diesel, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorów \n\n- podgrzewane lusterek\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- dwustrefowy klimatronik\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3on7ojkf9x0l3-PL/image;s=750x1000"
-        },
-        {
-            "title": "Volkswagen polo 1.4 mpi z gazem",
-            "price": "5 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/volkswagen-polo-1-4-mpi-z-gazem-CID5-ID15B0c9.html",
-            "location": "Ostrów Mazowiecka",
-            "date": "12 May 2025 o 11:43",
-            "description": "Witam do sprzedania posiadam volkswagena Polo z silnikiem 1.4 mpi z gazem samochód technicznie w pełni sprawny posiada klimatyzację. Do poprawek lakierniczych stąd taka cena.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hdxc5gjne4rq1-PL/image;s=750x1000"
-        },
-        {
-            "title": "Opel Astra h 2007",
-            "price": "6 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-h-2007-CID5-ID15MJpn.html",
-            "location": "Mińsk Mazowiecki",
-            "date": "12 May 2025 o 11:40",
-            "description": "Sprzedam Opel Astra h z 2007 roku benzyna 1.4. Ub do czerwca przegląd do wrzesnia tego roku . W ostanim czasie zrobiony rozrzad , wymienione sprezyny, sonda , sprzegło robione w pażdzierniku 2024 roku. Na bieżąco serwisowany .",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/47vjpf024lul3-PL/image;s=765x1020"
-        },
-        {
-            "title": "Citroen c3 1.4 benzyna",
-            "price": "2 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/citroen-c3-1-4-benzyna-CID5-ID15MJsZ.html",
-            "location": "Mszano",
-            "date": "12 May 2025 o 11:40",
-            "description": "Witam mam do sprzedania mam Citroen C3 z silnikiem 1.4 benzyna  auto doinwestowane zrobiony rozrząd 7 tyś temu Stan techniczny samochodu oceniam na bardzo dobry,zawieszenie hamulce oraz sprzęgło w doskonałej  kondycji. Skrzynia działa bez zarzutów. Silnik suchy bez wycieków pracuje wzorowo Stan blacharski jak na zdjęciach progi w słabym stanie ogólnie do poprawek blacharsko lakierniczych .Środek czysty w miarę zadbany \n\nZ wyposażenia posiada \n\n\n\nKlimatronik\n\nWspomaganie kierownicy\n\nCentralny zamek\n\nElektryczne szyby\n\nRadio/CD\n\nAirbagi\n\nABS\n\nNr tel 518…389…631",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lubarvl9f7x01-PL/image;s=1000x750"
         }
     ]
 }
