@@ -1,6 +1,72 @@
 {
-    "updated": "2025-05-27 16:54:21.189724",
+    "updated": "2025-05-27 17:07:45.613095",
     "ads": [
+        {
+            "title": "Honda Accord 2003r",
+            "price": "2 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/honda-accord-2003r-CID5-ID160nLF.html",
+            "location": "Lublin",
+            "date": "27 May 2025 o 16:59",
+            "description": "Witam. Do sprzedania Honda Accord 2003r 2.0 benzyna/gaz. Stan widoczny na zdjęciach.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xbiwcaakgdx72-PL/image;s=2000x1500"
+        },
+        {
+            "title": "VW Golf 4 1.9 tdi",
+            "price": "1 400 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/vw-golf-4-1-9-tdi-CID5-ID160nUT.html",
+            "location": "Pruszków",
+            "date": "27 May 2025 o 16:58",
+            "description": "Sprzedam golf 4 w stanie nagannym.\n\n\n\nGolf na wraka lub do zrobienia kto tam lubi.\n\n\n\nPosiada OC przeglądu brak.\n\n\n\nFelgi 17 trochę pianki i szpachli i hak.\n\n\n\nCena ostateczna.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i544fx6gly2i1-PL/image;s=1020x768"
+        },
+        {
+            "title": "Peugeot 206 1.1 benzyna 2005 r klima red sport",
+            "price": "2 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-206-1-1-benzyna-2005-r-klima-red-sport-CID5-ID160nFl.html",
+            "location": "Błonie",
+            "date": "27 May 2025 o 16:57",
+            "description": "Peugeot 206 1.1 benzyna 2005 r klima red sport\n\n\n\nElektryczne szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System EBD\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n- podgrzewane lusterka\n\n- klimatronik\n\nOryginalny  przebieg 178000\n\nNowy akumulator \n\nZadbany sprawny \n\n4-5 l na 100\n\npszeglond do 02.10 2025\n\nubezpieczenie do 19.01.2026\n\nZapraszam!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mt0u5ohg1h8h1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Polonez Caro",
+            "price": "8 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/polonez-caro-ID6GL5BU.html",
+            "location": "Tomaszów Mazowiecki",
+            "date": "27 May 2025 o 16:57",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVocnhjeDFyenExZjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.yvvJbiPT5ph61QbbnYStXVN5NDlkNjnTqLFErReFRHk/image"
+        },
+        {
+            "title": "Sprzedam Citroen Jumper 1.9 TD, 1999r",
+            "price": "2 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-citroen-jumper-1-9-td-1999r-CID5-ID15UuBR.html",
+            "location": "Aleksandrów",
+            "date": "27 May 2025 o 16:53",
+            "description": "Samochód obecnie uszkodzony. Aktualne badanie techniczne oraz ubezpieczenie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dgno5zsmguaw-PL/image;s=1032x774"
+        },
+        {
+            "title": "Peugeot 307cc uszkodzony",
+            "price": "5 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-307cc-uszkodzony-CID5-ID160nhU.html",
+            "location": "Nowinki",
+            "date": "27 May 2025 o 16:52",
+            "description": "Sprzedam Peugeot 307cc przegląd oraz OC aktualne\n\nProszę dzwonić pod nr 5 0 4 8 9 0 0 9 4",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9mbehcc6yi2h3-PL/image;s=2000x1500"
+        },
         {
             "title": "Suzuki Swift 2016",
             "price": "8 900 zł",
@@ -22,6 +88,17 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd4ODRiemlubjFrMDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.fYGyKWbWlMBCnsDPLy_awRTIATLlS3JleTTZmERmZ0s/image"
+        },
+        {
+            "title": "Renault Laguna LPG doinwestowana w bardzo dobrym stanie",
+            "price": "5 999 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-laguna-lpg-doinwestowana-w-bardzo-dobrym-stanie-ID6HfXsQ.html",
+            "location": "Sękocin Nowy",
+            "date": "27 May 2025 o 16:49",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo1a2s0cWt0MThyNzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Ka1CFAERSx-lKs4xXj5hvX3PPbFX5JHR_CaMUwr-qq0/image"
         },
         {
             "title": "Toyota corolla e12 2.0 d4d",
@@ -8888,127 +8965,6 @@
             "description": "Sprzedam samochód osobowy marki Opel Corsa 1.2 75 km Twinport. \n\n\n\nWięcej informacji pod telefonem.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xafr32dwvpm23-PL/image;s=1000x753"
-        },
-        {
-            "title": "Skoda Fabia 2004 1.2  [Stan Techniczny Idealny!]",
-            "price": "4 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/skoda-fabia-2004-1-2-stan-techniczny-idealny-CID5-ID15ZsQv.html",
-            "location": "Warszawa, Śródmieście",
-            "date": "26 May 2025 o 17:07",
-            "description": "Na sprzedaż oferuję niezawodną i ekonomiczną Skodę Fabię Kombi z 2004 roku – wersja 1.2 V12 benzyna, idealna na miasto i dłuższe trasy. Auto pochodzi z prywatnej ręki – jestem drugim właścicielem w kraju od nowości. Sprzedaję, ponieważ auto kupiłem dla partnerki, ale okazało się dla niej zbyt duże. \n\n\n\n-Nowy alternator oraz akumulator\n\n\n\nStan techniczny auta bardzo dobry – samochód nie wymaga żadnego wkładu finansowego.Do drobnych poprawek blacharsko-lakierniczych.\n\n\n\n-Silnik 1.2 benzyna – ekonomiczny i dynamiczny\n\n-Centralny zamek + 2 oryginalne kluczyki\n\n-Elektryczne szyby\n\n-Radio\n\n-Wspomaganie kierownicy\n\n-Blokada antykradzieżowa Bear Lock\n\n-Serwisowany na bieżąco – książka serwisowa + raport historii pojazdu\n\n-OC ważne do 30.06.2025\n\n-Przegląd techniczny do 20.06.2025\n\n\n\nSilnik pracuje cicho i równo, bez zarzutów.\n\nZawieszenie w idealnym stanie, bez stuków oraz puków, na pewno komuś jeszcze bardzo długo posłuży. Cena do lekkiej negocjacji na miejscu. Zapraszam do kontaktu, a Handlarzom z góry dziękuję.\n\n\n\n578xxx010xxx305",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5384arfqqb8a1-PL/image;s=756x1008"
-        },
-        {
-            "title": "Golf 5 do sprzedania",
-            "price": "4 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/golf-5-do-sprzedania-CID5-ID15ZsrE.html",
-            "location": "Prądzewo-Kopaczewo",
-            "date": "26 May 2025 o 17:06",
-            "description": "Jak w tytule sprzedam Golfa 5. 3 drzwi 2006 1.9 diesel.  OC do 15.07 przegląd skończył się 2 maja. Jak na Golfa wygląda przyzwoicie.  Zainteresowanych zapraszam do oglądania i kontaktu telefonicznego.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dxfsxvlnzugx1-PL/image;s=397x299"
-        },
-        {
-            "title": "Opel Astra kombi 1.7 CDTI 2005",
-            "price": "2 200 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-kombi-1-7-cdti-2005-CID5-ID15ZsGz.html",
-            "location": "Warszawa, Śródmieście",
-            "date": "26 May 2025 o 17:05",
-            "description": "Sprzedam Opel Astra 1.7 CDTI 2005. Stan jak na zdjęciach Serwisowany na bieżąco. OC do lutego 2026r. Przebieg 352 tyś km. Uszkodzona skrzynia biegów(koszty naprawy 2000-3000zł). Sprzedaje, bo kupiłem nowe auto. Samochód stoi na parkingu na Śródmieściu. Cena do negocjacji.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/78zsfl6jrl9x2-PL/image;s=1800x4000"
-        },
-        {
-            "title": "Mitsubishi Colt 1.3 LPG",
-            "price": "2 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mitsubishi-colt-1-3-lpg-CID5-ID15YHqS.html",
-            "location": "Łódź, Widzew",
-            "date": "26 May 2025 o 17:04",
-            "description": "Sprzedam Mitsubishi Colt 1.3 benzyna+ lpg\n\nZ 2005 R\n\n\n\nKlimatyzacja \n\nElektryczne szyby \n\nCentralny zamek \n\nSpalanie lpg 6,5 - 7  l/100km\n\nSilnik na łańcuszku rozrządu \n\nLpg ważne do 2029\n\nPrzegląd do 2025-08-07\n\nOC do 2025-10-31\n\n2 kluczyki\n\n\n\nAuto użytkuję około 5 lat.\n\nSamochód jeżdżący, bez rdzy, bez szpachli, posiada kilka rysek na lakierze i jest kilka rzeczy do naprawy ale autem można śmiało wracać.\n\n\n\nPo więcej informacji można pisać na OLX lub telefonicznie",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1jvls558aawd2-PL/image;s=768x1024"
-        },
-        {
-            "title": "BMW e46 2.0 D 136 koni 6 lat w jednym domu !",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/bmw-e46-2-0-d-136-koni-6-lat-w-jednym-domu-CID5-ID15Rbht.html",
-            "location": "Skaryszew",
-            "date": "26 May 2025 o 17:01",
-            "description": "Witam mam państwu do zaoferowania BMW e46 2.0 Diesel 136 koni mechanicznych . Samochód w stanie dobrym do jazdy do kosmetycznych poprawek . W ostatnim czasie wymienione koło pasowe z rolkami paskiem i pompa wody . Mechanicznie nie ma nic do roboty . \n\nWyposażenie :\n\n- climatronic \n\n- wielofunkcyjna kierownica \n\n- radio Bluetooth\n\nOC do Stycznia 2026 roku \n\nStoi na alufelgach lato zima stalówka widać na ostatnim zdjęciu. Samochód w domu od 6 lat bez poważniejszych napraw nigdy nie zawiódł !! Zapraszam do kontaktu naprawdę warto !! 51*****36",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bxazu6fwvk052-PL/image;s=750x1000"
-        },
-        {
-            "title": "Bmw e46 benzyna",
-            "price": "4 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/bmw-e46-benzyna-CID5-ID15Zihl.html",
-            "location": "Radom",
-            "date": "26 May 2025 o 17:00",
-            "description": "Witam mam na sprzedaż BMW e46 1.6 \n\nbenzyna+lpg \n\nRok 2003\n\nFaluje na obrotach i pompa wody jest pęknięta",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5l3otmkmyuci-PL/image;s=750x1000"
-        },
-        {
-            "title": "BMW seria 1. 2.0 diesel. Polift",
-            "price": "8 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/bmw-seria-1-2-0-diesel-polift-CID5-ID15ZrJ0.html",
-            "location": "Radom",
-            "date": "26 May 2025 o 16:57",
-            "description": "Do sprzedania posiadam mój prywatny samochód jakim jest BMW seria 1 POLIFT z silnikiem 2.0 diesel 177KM. \n\n Auto posiadam od 2019 roku, wcześniej zostało sprowadzone z Niemiec. Samochodem zrobiłam ponad 100tyś km i nigdy nie było poważnych usterek. Auto jest bardzo zrywne i dynamiczne, aktualny przebieg to niecałe 350tyś km. \n\nW ostatnim czasie wymienione zostały wszystkie płyny i filtry oraz wymiana żarników w lampach. \n\nW zeszłym roku robione było:\n\n- wymiana uszczelek rury\n\n- wymiana uszczelki pokrywy zaworów\n\n- wymiana uszczelki wtryskiwaczy \n\n-  wymiana uszczelki EGR\n\n- wymiana uszczelki głowicy + regeneracja głowicy\n\n- wymiana świec żarowych\n\n- wymiana czujnika temperatury\n\n\n\nDo zrobienia na już jest wymiana klocków + tarcz. \n\nSłychać stuki w zawieszeniu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/d5b86rqc6l0k1-PL/image;s=1536x2048"
-        },
-        {
-            "title": "Skoda Fabia II 1,6B sprężyny komplet",
-            "price": "350 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/skoda-fabia-ii-1-6b-sprezyny-komplet-CID5-ID15ZrQn.html",
-            "location": "Warszawa, Ursynów",
-            "date": "26 May 2025 o 16:56",
-            "description": "Sprzedam komplet sprężyn do Skoda Fabia II. Sprężyny założone były w samochodzie wersji kombi 1,6 105KM 2008 rok.\n\n\n\nSprężyny są utwardzone, zapewniają bardzo dobrą kontrolę nad pojazdem zarówno na krętych jak i prostych drogach.\n\nSądząc po stanie, nie były długo użytkowane - kupiłem samochód z założonymi i wymieniłem je z uwagi na częstą jazdę po nierównościach, co w połączeniu z utwardzonym zawieszeniem nieznacznie zmniejszało komfort jazdy.\n\n\n\nCena 350 zł\n\nMożliwość odbioru osobistego - Warszawa Ursynów\n\nlub\n\nwysyłki po wcześniejszym pokryciu kosztu przesyłki/kuriera.\n\n\n\nTelefon kontaktowy - 50*****36",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j7unwmbkstgc2-PL/image;s=4160x3120"
-        },
-        {
-            "title": "Toyota Avensis Toyota Avensis kombi",
-            "price": "6 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-avensis-toyota-avensis-kombi-ID6HpTul.html",
-            "location": "Ząbki",
-            "date": "26 May 2025 o 16:56",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNuZ29uczFvd3N0NTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.AQJhjW22tC3gOCugZ9jY2AGczurWaX80HzINWT_eSBY/image"
-        },
-        {
-            "title": "Bmw e90 320d 2005r.",
-            "price": "10 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/bmw-e90-320d-2005r-CID5-ID15XgCq.html",
-            "location": "Łódź, Górna",
-            "date": "26 May 2025 o 16:55",
-            "description": "Witam, sprzedam BMW e90 320 2005r. \n\n\n\nSamochód z bardzo ekonomicznym spalaniem, z takich podstawowych rzeczy posiada nawigację, multikierownicę, 6 biegową skrzynia, system start stop, zawieszenie gwintowane, założone dystanse, posiadam dwa komplety felg i kół ( na zimę 17, na lato 18\n\nWizualnie w dobrym stanie wewnątrz widoczne wytarcia które powstały podczas codziennego użytkowania, z zewnątrz niewielkie dwa odpryski lakieru, brak obtarć czy wgnieceń jedynie na 4 zdj widać delikatnie załamujące się światło.\n\nUbezpieczenie dopiero co zapłacone w maju tego roku. \n\n\n\nSamochód sprzedaje jako uszkodzony ponieważ w maju po ostatniej trasie miał problem z odpalaniem. Auto koniec końców odpala ale są widoczne spaliny. Wstępnie na miejscu po podłączeniu komputera mechanik ustalił, że jest prawdopodobnie jeden cylinder ma mniejszą kompresję i spaliny zamiast uciekać do wydechu to uciekają do silnika,\n\nzapchany dpf, prawdopodobnie trzeba wymienić egr, jakiś zawór i odme.\n\nWyświetlił się też błąd od hamulcy, i mechanik sprawdzając powiedział, że uciekł płyn więc może to być kwestia przewodu. Parę tygodni przed całą sytuacją sprzątając auto musiałam oprzeć się o pokrętło od nawigacji i się oberwało i przestało reagować na kliknięcia, sama nawigacja działa. \n\n\n\nOsobiście wymieniałam w nim pompę wody w styczniu.\n\nCena do negocjacji, ponieważ i tak planowałam zmianę samochodu na coś nowszego i z ewentualnie mocniejszym silnikiem.\n\n\n\nJESTEM RÓWNIEŻ ZAINTERESOWANA WYMIANA Z DOPŁATĄ Z MOJEJ STRONY!!!\n\n(Na bmw, Audi lub Mercedes z dopłatą do 40;tys najlepiej coś w diesel )\n\n\n\nProszę dzwonić,\n\njeśli nie odbieram proszę napisać sms, oddzwonię.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k9rhfj8swhyv-PL/image;s=582x438"
-        },
-        {
-            "title": "Peugeot 607 Peugeot 607 2.7HDi 204KM",
-            "price": "10 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-607-peugeot-607-2-7hdi-204km-ID6HmXaj.html",
-            "location": "Warszawa, Wola",
-            "date": "26 May 2025 o 16:55",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijk5NjVzYXpkcW1sdDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.S6ts-217XslbFpgaD8dCyyxFT1hbVHtC_xvK0W8BKu4/image"
         }
     ]
 }
