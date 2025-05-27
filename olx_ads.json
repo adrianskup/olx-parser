@@ -1,6 +1,50 @@
 {
-    "updated": "2025-05-27 17:49:26.785889",
+    "updated": "2025-05-27 17:56:38.047605",
     "ads": [
+        {
+            "title": "Sprzedam opel astra gtc",
+            "price": "2 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-astra-gtc-CID5-ID160qDm.html",
+            "location": "Ciecierzyn",
+            "date": "27 May 2025 o 17:48",
+            "description": "Sprzedam opla astre gtc 2008r. 1.8 benzyna uszkodzony.silnik bez wycieków chłodnica cała,klimatyzacja sprawna ,uszkodzone lewe dwa błotniki i lewe koło środek zadbany,sprzedam w całości.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ygjvfd5ria7q1-PL/image;s=765x1020"
+        },
+        {
+            "title": "Passata B5 kombi 1.9",
+            "price": "8 400 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/passata-b5-kombi-1-9-CID5-ID160qJw.html",
+            "location": "Ostrołęka",
+            "date": "27 May 2025 o 17:47",
+            "description": "Witam sprzedam passata B5 kombi \n\nSilnik 1.9 o mocy 116KM\n\nSilnik pracuje równo i cicho , jest suchy. Ma swoją moc \n\nBlacharsko brak korozji.\n\nKlimatyzacja sprawna.\n\nZawieszenie ok brak luzów.\n\nCHamulec ok. \n\nNowe lampy przód \n\nAuto zadbane jak na swoje lata.\n\nTel. 6 68 108 996",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0yraw9x7lqzm-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Mazda 6 w bardzo dobrym stanie",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mazda-6-w-bardzo-dobrym-stanie-CID5-ID160qKU.html",
+            "location": "Lublin",
+            "date": "27 May 2025 o 17:45",
+            "description": "Witam mam do sprzedania mazde 6 w bardzo dobrym stanie . Nie ma nic do wymiany ani do naprawy.Rok temu była instalowana nowa instalacja gazowa , jest ekonomiczna więc może służyć pod taksówkę.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7ay3yqd35vep1-PL/image;s=769x1026"
+        },
+        {
+            "title": "Sprzedam Kia Shuma",
+            "price": "3 800 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-kia-shuma-CID5-ID15YNgz.html",
+            "location": "Warszawa, Ursus",
+            "date": "27 May 2025 o 17:44",
+            "description": "Sprzedam samochód Kia Shuma samochód w dobrym stanie. Dobrze jedzie, silnik pracuje równo, oleju nie pobiera, nie dymi. Jest Klima. \n\n Są niektóre momenty jak w każdym starym samochodzie. Gotowy do jazdy. Zapraszam do obejrzenia. \n\nOc wazne do lipca",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fgmooy76g6fx2-PL/image;s=1170x1513"
+        },
         {
             "title": "Sprzedam PEUGEOT 308",
             "price": "9 800 zł",
@@ -11,6 +55,28 @@
             "description": "ogłoszenie jest aktualne!\n\n\n\nWitam! Oferuję Państwu Peugot 308 z 2008r.\n\nPosiada:\n\n-Dach panoramiczny\n\n-Tempomat\n\n-Manualną skrzynie biegów \n\n-Paliwo benzyna+gaz\n\nW celu uzyskania dokładniejszych informacji bardzo proszę o telefon.\n\n50*******47",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a1jubq2xlyrl2-PL/image;s=3264x1836"
+        },
+        {
+            "title": "Sprzedam Opel Antara",
+            "price": "10 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-antara-CID5-ID160qB3.html",
+            "location": "Warszawa, Ursus",
+            "date": "27 May 2025 o 17:43",
+            "description": "Wszystkie informacje pod numerem tel 50*****71",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ygcd6h6zfh9e-PL/image;s=461x1000"
+        },
+        {
+            "title": "Volvo V50",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volvo-v50-ID6Hn7Hg.html",
+            "location": "Łódź, Widzew",
+            "date": "27 May 2025 o 17:43",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU0NjVsa2o2aHJhZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Pref-koRXT3bS4jkufIU6IGlJNz7keUgbv5cH2FETZo/image"
         },
         {
             "title": "|Kia Sorento|2.5|Automat|Tempomat|Grzane Fotele|Skóry|Klima|4x4|2006|",
@@ -9031,50 +9097,6 @@
             "description": "Witam do sprzedania Mercedes ml 270 cdi z 2002 roku wersja lift blacharsko wygląda  dobrze spód zdrowy  w aucie do zrobienia uszczelka pod głowicą  głowica zdjęta wszystkie części są leżo w aucie ogólnie w tamtym roku wymienione zawieszenie hamulce . Tel 72*****96",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k2gb3ab57zb7-PL/image;s=1000x750"
-        },
-        {
-            "title": "Skoda Fabia 1.2, Klima",
-            "price": "5 000 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-1-2-klima-ID6HoCkr.html",
-            "location": "Lublin",
-            "date": "26 May 2025 o 17:54",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRrZmF1aHRxemszdjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.z202xO-wO9uWIvOIHAPClZSU0hNBniUba55MiI7QW3M/image"
-        },
-        {
-            "title": "Opel Vectra C 1.8 LPG",
-            "price": "9 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-vectra-c-1-8-lpg-CID5-ID15Zwxb.html",
-            "location": "Nowy Dwór Mazowiecki",
-            "date": "26 May 2025 o 17:54",
-            "description": "Sprzedam zadbaną Vectrę z 2006 roku. \n\nAuto bez jakichkolwiek oznak korozji \n\n\n\nUbezpieczenie do listopada 2025\n\nPrzegląd do maja 2026\n\nSilnik pracuje jak zegarek \n\nNowe amortyzatory przód\n\nButla ważna do 2034 roku \n\nKlimatyzacja sprawna \n\nBardzo dobre opony wielosezonowe z 2023 roku \n\nWnętrze bardzo zadbane i świeże \n\nNie ma żadnych palących kontrolek błędów itp\n\n\n\nWyposażenie:\n\n -Czujnik parkowania przód tył \n\n -Hak holowniczy \n\n -Podgrzewane fotele \n\n -Alufelgi \n\n -Centralny zamek \n\n -Elektryczne lusterka z funkcją składania \n\n -Elektryczne szyby \n\n -Nawigacja \n\n -Tepomat",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hyk2m8b9wvxc-PL/image;s=2268x4032"
-        },
-        {
-            "title": "Mazda 2 1.4 Lpg, klima bez rdzy",
-            "price": "4 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mazda-2-1-4-lpg-klima-bez-rdzy-CID5-ID15XoUC.html",
-            "location": "Sochaczew",
-            "date": "26 May 2025 o 17:51",
-            "description": "Sprzedam Mazdę 2 2005 rok, z instalacją gazową, użytkuję ten samochód od dwóch lat, wszystko naprawiane na bieżaco, bardzo oszczędne auto, instalacja gazowa pracuje bez zarzutu, klimatyzacja świeżo po przeglądzie i uszczelnieniu.\n\n\n\nWyposażenie \n\nKlimatyzacja\n\nElektryczne ustawianie lusterek\n\nElektrycznie otwierane szyby przód tył\n\nABS \n\nWielofunkcyjna kierownica\n\nCentralny zamek na pilota",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cn1ej507pss61-PL/image;s=1024x768"
-        },
-        {
-            "title": "Honda Accord vii kombi 2.2 i-cdti",
-            "price": "7 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/honda-accord-vii-kombi-2-2-i-cdti-CID5-ID15Zwkv.html",
-            "location": "Zazdrość",
-            "date": "26 May 2025 o 17:50",
-            "description": "Sprzedam swoje prywatne auto ponieważ przesiadam się na służbowe auto.\n\n\n\nSilnik 2.2 i-cdti to najlepszy diesel jaki istnieje, pancerny, części tanie, ogólnie auto bardzo tanie w serwisie a bardzo komfortowe z gigantycznym bagażnikiem. Rozrzad na łańcuchu, skrzynia manual 6 biegów. \n\n\n\nWyposazenie\n\n4 airbagi plus kurtyny\n\nKierownica multifunkcyjna\n\nRadio z navi oryginalne Hondy\n\nFotele polskora z alcantara\n\nKlima 2 strefowa ( do przejrzenia )\n\nTempomat\n\n4 elektryczne szyby\n\nAutomatycznie otwierany bagaznik z pilota\n\nCentralny zamek\n\nLampy xenon z czujnikiem zmroku\n\nWycieraczki z trybem auto\n\nIsofix\n\n\n\nAuto trzeba dopieścić, nie jest idealna ale cena zawiera mankamenty, miałem kolizję z Leśna zwierzyna rok temu, można lepiej złożyć przod ale nie przekszadza to.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u4imgqlym5mo-PL/image;s=2000x900"
         }
     ]
 }
