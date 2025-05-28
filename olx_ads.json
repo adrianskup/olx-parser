@@ -1,6 +1,138 @@
 {
-    "updated": "2025-05-28 19:33:23.304382",
+    "updated": "2025-05-28 19:46:29.594695",
     "ads": [
+        {
+            "title": "Ford Mondeo Ford Mondeo benzyna + GAZ, klimatyzacja",
+            "price": "8 700 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-mondeo-ford-mondeo-benzyna-gaz-klimatyzacja-ID6HqlsL.html",
+            "location": "Łódź, Bałuty",
+            "date": "28 May 2025 o 19:39",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im41M2tvamIweDg4bzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.KMEzRWPTjMwZmbRyX54uii76rMAwaSPg7hnUj3kXzU4/image"
+        },
+        {
+            "title": "Volkswagen Touran 1.9 TDI 2004 (7 OSOBOWY)",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-touran-1-9-tdi-2004-7-osobowy-CID5-ID161ogr.html",
+            "location": "Krasnosielc",
+            "date": "28 May 2025 o 19:35",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Toyota Corolla Toyota Corolla E11 na czarnych tablicach. Pierwszy właściciel",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-corolla-toyota-corolla-e11-na-czarnych-tablicach-pierwszy-wlasciciel-ID6Hhpnj.html",
+            "location": "Lublin",
+            "date": "28 May 2025 o 19:34",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imc4OGE1eTdoc3h6dS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NYYVd9UXgAzVzel2o7wplVioplmY5339JdPiG8obfJ8/image"
+        },
+        {
+            "title": "Volkswagen Passat Diesel Ładny Sprawny",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-diesel-ladny-sprawny-ID6Hj7n1.html",
+            "location": "Ryki",
+            "date": "28 May 2025 o 19:33",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRqcnM2ZzYzY3llNDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Q0yOqehG4u9BzS1MdX9YLyI41By_zlqTsl3ZkaZ77w0/image"
+        },
+        {
+            "title": "Peugeot 407 SALON POLSKA 1.6d 110 KM Alufelgi 16 JBL Parktroniki 100% Bezwypadkowy",
+            "price": "9 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-407-salon-polska-1-6d-110-km-alufelgi-16-jbl-parktroniki-100-bezwypadkowy-ID6Hnit4.html",
+            "location": "Łódź, Górna",
+            "date": "28 May 2025 o 19:32",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI0NjBsNGw5NjFkeDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.9UiqxhS8JLoOkMytFfflv_uk6XMK9DFdkS6hbRj7J6E/image"
+        },
+        {
+            "title": "VW Golf 4 1.6SR LPG",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/vw-golf-4-1-6sr-lpg-CID5-ID15YkBJ.html",
+            "location": "Zwoleń",
+            "date": "28 May 2025 o 19:31",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Ford Mondeo MK4 2.0 TDCi 140 KM Automat Durashift",
+            "price": "9 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-mondeo-mk4-2-0-tdci-140-km-automat-durashift-CID5-ID15qrwj.html",
+            "location": "Rypin",
+            "date": "28 May 2025 o 19:30",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Opel Astra Benzyna Zarejestrowana Klima",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-astra-benzyna-zarejestrowana-klima-ID6Hj8Cj.html",
+            "location": "Ryki",
+            "date": "28 May 2025 o 19:29",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imp5OXN0YmRyb3g5YjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.5rsOOmEiBxCvsRvczYanKwrMry8-l9L-sX1fnSBgJXk/image"
+        },
+        {
+            "title": "Sprzedam Seat Leon 1.6 16v",
+            "price": "7 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-seat-leon-1-6-16v-CID5-ID161obY.html",
+            "location": "Turza Wielka",
+            "date": "28 May 2025 o 19:29",
+            "description": "Na sprzedaż Seat Leon 1.6 16v,  rok produkcji 2004, benzyna gaz.  Ubezpiecznie do 29.11.2025, badanie techniczne do 25.11.2025. Rozrząd wymieniany około 2000 km temu.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fl3rer7jf7ho-PL/image;s=1500x2000"
+        },
+        {
+            "title": "Volvo v50 2.0D kombi",
+            "price": "2 800 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volvo-v50-2-0d-kombi-CID5-ID161lWY.html",
+            "location": "Trzcianka",
+            "date": "28 May 2025 o 19:29",
+            "description": "Sprzedam volvo v 50 z 2004 roku, samochód uszkodzony - nie odpala. Silnik 2.0D diesel, 136 KM. Naprawy były wykonywane na bieżąco, w zeszłym roku wymienione sprzęgło dwumasowe, opony letnie w bardzo dobrym stanie kupione rok temu. Auto do naprawy lub na części.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yr6xdweuq76u-PL/image;s=1368x1824"
+        },
+        {
+            "title": "Opel Corsa D 1,3 CDTI 75 KM Super Stan Zadbana Idealny do jazdy",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-d-1-3-cdti-75-km-super-stan-zadbana-idealny-do-jazdy-CID5-ID15Vr4w.html",
+            "location": "Dębe Wielkie",
+            "date": "28 May 2025 o 19:27",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
+        {
+            "title": "Sprzedam samochód",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-CID5-ID15wkuX.html",
+            "location": "Wołomin",
+            "date": "28 May 2025 o 19:27",
+            "description": "Ошибка при получении данных",
+            "details": {},
+            "image_url": null
+        },
         {
             "title": "Renault Megane CC Dynamique skóra klimatronik alufelga panorama KABRIO",
             "price": "8 950 zł",
@@ -8404,72 +8536,6 @@
             "description": "Witam sprzedam Volkswagen touran z 2009r. W aucie jest zapchany dpf, nie mam czasu tego naprawiać dlatego taka cena. Poza  tym wszystko Ok. Zawieszenie hamulce i układ jezdny w porządku. Stan jak na zdjęciach. W razie pytań proszę dzwonić.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dqwwt9gmxfgh2-PL/image;s=750x1000"
-        },
-        {
-            "title": "Opel Vetra C 2004r. 2.2 Benzyna 155KM. Stan dobry.",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-vetra-c-2004r-2-2-benzyna-155km-stan-dobry-CID5-ID14048j.html",
-            "location": "Lublin",
-            "date": "27 May 2025 o 19:46",
-            "description": "Oferuję Opla Vectrę C z benzynowym silnikiem o pojemności 2.2 i mocy 155KM z rozrządem na łańcuchu współpracującym z 6-cio stopniową manualną skrzynią biegów.\n\nStan ogólny auta oceniam na dobry.\n\nSilnik odpala bez problemu, przyspiesza płynnie i dynamicznie, nie ma wycieków i nie dymi.\n\nSprzęgło oraz skrzynia biegów działają prawidłowo, biegi wchodzą lekko i płynnie.\n\nW zawieszeniu oraz w układzie kierowniczym nie słychać żadnych niepokojących odgłosów, auto ładnie się prowadzi, nie ściąga podczas jazdy ani przy hamowaniu.\n\nWizualnie Opel prezentuje się jak na zdjęciach.\n\nWnętrze czyste i zadbane.\n\nAuto posiada normalne ślady użytkowania.\n\nPo odpaleniu nie świecą żadne niepokojące kontrolki.\n\nZałożone są nowe całoroczne opony firmy Kleeber.\n\nBadanie techniczne ważne jest do 15.01.2026r.\n\nUbezpieczenie OC ważne jest do 19.08.2025r.\n\nVectra jest dość bogato wyposażona, gdyż posiada:\n\n- Elektrycznie regulowane, podgrzewane i wentylowane fotele \n\n- Tempomat\n\n- Klimatyzację Dwustrefową\n\n- ABS\n\n- Kontrolę trakcji \n\n- Poduszki powietrzne \n\n- Elektrycznie sterowane szyby \n\n- Elektrycznie regulowane i   podgrzewane lusterka \n\n- Radio Android na CD, USB \n\n- Nawigacja \n\n- Centralny zamek na pilota \n\n- Skórzana tapicerka\n\n- Regulacja wysokości świateł \n\n- Regulacja Kierownicy w dwóch płaszczyznach \n\n- Aluminiowe felgi \n\n- Autoalarm \n\n- Immobilizer \n\n- Wspomaganie kierownicy \n\n- 2 Podłokietniki\n\n- Składany hak holowniczy\n\n\n\nSamochód do obejrzenia w Lublinie. Więcej informacji udzielę telefonicznie.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/90ip775t80fk-PL/image;s=2000x900"
-        },
-        {
-            "title": "Audi a4 1.9 b6 2004 TDI combi",
-            "price": "8 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/audi-a4-1-9-b6-2004-tdi-combi-CID5-ID160vid.html",
-            "location": "Lublin",
-            "date": "27 May 2025 o 19:44",
-            "description": "Sprzedam Audi a4 b6 z silnikiem 1.9 TDI. \n\n\n\nRok produkcji 2004\n\n\n\nPrzebieg 40 1067. \n\n\n\nStan techniczny nie uszkodzony. \n\n\n\nW samochodzie zmienione:\n\n\n\nsprzęgło\n\ntarcze \n\nklocki \n\n\n\nSamochód w oryginalnym lakierze. \n\nSzyberdach \n\nPompowane siedzenia \n\nPodgrzewane siedzenia \n\nKlimatyzacja \n\n\n\nWszystko sprawne i bez zarzutów. \n\n\n\nWażny przegląd i OC \n\n\n\nNr VIN: WAUZZZ8E05A083641 \n\n\n\nSamochód można obejrzeć w Lublinie. \n\n\n\nPo więcej informacji zapraszam do kontraktu: 50*******04",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8kldourtyk162-PL/image;s=750x1000"
-        },
-        {
-            "title": "renault scenic 1.6 benz panorama niski przebieg Sprzedam/zamienie",
-            "price": "6 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-scenic-1-6-benz-panorama-niski-przebieg-sprzedam-zamienie-CID5-ID14aDAG.html",
-            "location": "Pabianice",
-            "date": "27 May 2025 o 19:43",
-            "description": "witam Sprzedam lub zamienie scenica w benzynce silnik 1.6 w dobrym stanie zawieszenie po naprawie mam faktury rozrząd wymieniony 20tys temu.Autkiem fajnie się jedzie cichutko i komfortowo z wyposaż klima pelna elektryka panorama radio orginalne wszystko działa nosi normalne ślady użytkowania wiadomo auto nie jest nowe ale żadnej rdzy zadnych dziwnych odglosow delikatnie pęknięty tylny zderzak . Cena do negocjacji na miejscu mogę zamienic na inne auto zapraszam do kontaktu i zakupu",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5rkp1xywi6t1-PL/image;s=765x1020"
-        },
-        {
-            "title": "Daewoo Lacetti 1.6 benzyna",
-            "price": "4 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/daewoo-lacetti-1-6-benzyna-CID5-ID15UwnN.html",
-            "location": "Pułtusk",
-            "date": "27 May 2025 o 19:42",
-            "description": "Sprzedam Daewoo Lacetti 2004 r 1.6 benzyna auto posiadam od 3 lat na tą chwilę raczej bez wkładu finansowego jedynie co jest do poprawienia to klimatyzacja pojazd na wyposażeniu posiada 4 el szyby centralny zamek klimatyzacja wspomaganie radio 2 din opłaty aktualne OC oraz PT do listopada 2025 r więcej informacji udzielę telefonicznie zapraszam",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gndhfaxrl4452-PL/image;s=1040x780"
-        },
-        {
-            "title": "Fiat Panda używany",
-            "price": "5 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/fiat-panda-uzywany-CID5-ID160v23.html",
-            "location": "Piotrków Trybunalski",
-            "date": "27 May 2025 o 19:40",
-            "description": "Sprzedam fiata Panda rocznik 2006; pojemność silnika 1.2; przebieg 193000; benzyna, komplet kół zimowych.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zln4lrh1cyoc3-PL/image;s=2000x924"
-        },
-        {
-            "title": "Ford Focus Ford Focus Kombi 2005 używany",
-            "price": "5 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-ford-focus-kombi-2005-uzywany-ID6Hq5Lj.html",
-            "location": "Warszawa, Praga-Południe",
-            "date": "27 May 2025 o 19:40",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJmMGJ1dDRtODJicC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xEO4Yl0UV8NmiOuSs2RNRbliwswqk_Tv9rtb9ED7m4c/image"
         }
     ]
 }
