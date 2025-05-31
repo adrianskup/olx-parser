@@ -1,6 +1,83 @@
 {
-    "updated": "2025-05-31 17:38:12.419916",
+    "updated": "2025-05-31 17:45:18.313604",
     "ads": [
+        {
+            "title": "Audi A4 Audi A4 B5 1.8t LPG",
+            "price": "9 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b5-1-8t-lpg-ID6HqTEq.html",
+            "location": "Garwolin",
+            "date": "31 May 2025 o 17:38",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imw5dnZsb3VrNDBuNjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.7Vy4rpcLNOiS6o2NDl3JXyQAUZsh7jQWnNYKatp6N1w/image"
+        },
+        {
+            "title": "Renault Laguna 2",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-laguna-2-CID5-ID163CH9.html",
+            "location": "Białobrzegi",
+            "date": "31 May 2025 o 17:37",
+            "description": "Witam Sprzedam Renault Laguna 2 2.0 135km czysta benzyna,samochód moim posiadaniu około 5 lat ostanin czasie robione były hamulce przód tarcze,klocki i olej z filtrami,opłaty i przegląd techniczny ważne do przyszłego roku,po więcej informacji zapraszam pod numer telefonu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/t25aaca9r5l51-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford Fiesta 2008 Benzyna 1,3",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-fiesta-2008-benzyna-1-3-CID5-ID163AA5.html",
+            "location": "Płock",
+            "date": "31 May 2025 o 17:36",
+            "description": "Ford Fiesta 2008 rok, benzyna. Przebieg 278 000. Przegląd i ubezpieczenie do maja 2026 r. Auto nie wymaga nakładów finansowych. Uszkodzone lewe lusterko ( zdjęcie ).Komplet opon zimowych.\n\nW aucie nie palono papierosów. Pomimo dużego przebiegu jest niezawodne. Na karoserii drobne obtarcia wynikające z wieloletniego użytkowania. Sprowadzone z zagranicy w 2017 roku. Pierwszy właściciel w Polsce. Do obejrzenia w Płocku ( tylko w weekend ).",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/f4o8b1wbtirs-PL/image;s=2000x1126"
+        },
+        {
+            "title": "Opel Astra Astra H TwinTop 1,8 Benzyna Skóra Nawigacja Zarejestrowany",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-astra-astra-h-twintop-1-8-benzyna-skora-nawigacja-zarejestrowany-ID6Hpahf.html",
+            "location": "Warszawa, Wawer",
+            "date": "31 May 2025 o 17:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImMzc285bHJiMzY2ci1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DEuHXP-KMhwlUoO9Rq_tMxNZsd5HsuWe41oZp2I7uBs/image"
+        },
+        {
+            "title": "Citroën C5 Citroen C5",
+            "price": "4 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c5-citroen-c5-ID6HeFL9.html",
+            "location": "Wyszków",
+            "date": "31 May 2025 o 17:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh0dXMydjV1YTVxazItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.2R_pj8z18fW5MQCmvnaw87dbBw_QQ39nuU-PPD3f-_w/image"
+        },
+        {
+            "title": "Citroën Berlingo 1.6 HDI multispace sprawny OKAZJA",
+            "price": "8 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-berlingo-1-6-hdi-multispace-sprawny-okazja-ID6Hpaie.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "31 May 2025 o 17:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc5Z2E1N2l2ZDRwYzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.nZUfcf6-DagoSjijVC4Mj0uugbypCiRTHekMQbJl6ho/image"
+        },
+        {
+            "title": "Opel CORSA D  1,4 + LPG GAZ  Klimatyzacja   5 drzwi",
+            "price": "9 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-d-1-4-lpg-gaz-klimatyzacja-5-drzwi-CID5-ID14ERkn.html",
+            "location": "Ruda Wielka",
+            "date": "31 May 2025 o 17:36",
+            "description": "Opel CORSA D z  grudnia 2008 roku\n\n\n\nPojemność 1364cm3 + Gaz z 2020 roku\n\nKlimatyzacja sprawna \n\nWszelkie wymiany robione na bieżąco,  wymieniony rozrząd przy przebiegu 252tyś\n\nAuto w ciągłej eksploatacji użytkowany przez kobietę.\n\n\n\nPrzegląd do 28.10.2025r.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rrjp5gxlnc5p3-PL/image;s=1920x1282"
+        },
         {
             "title": "Opel Astra 1.6 Benzyna | 2005 | Zadbany | Tryb sport | Gotowy do jazdy",
             "price": "9 900 zł",
@@ -11,6 +88,17 @@
             "description": "Opel Astra 1.6 Benzyna | 2005 | Srebrny | Zadbany | Tryb sport | Gotowy do jazdy\n\n\n\nNa sprzedaż Opel Astra z 2005 roku w bardzo dobrym stanie technicznym i wizualnym. Samochód wyposażony w dynamiczny i oszczędny silnik benzynowy 1.6 – świetnie sprawdza się zarówno w mieście, jak i na trasie. Dodatkowo wyposażony w tryb sport, który zapewnia lepszą reakcję na gaz i bardziej dynamiczną jazdę.\n\n\n\nDane techniczne:\n\n\t•\tRok produkcji: 2005\n\n\t•\tSilnik: 1.6 benzyna\n\n\t•\tPrzebieg: 211498\n\n\t•\tSkrzynia biegów: manualna\n\n\t•\tNadwozie: hatchback\n\n\t•\tKolor: srebrny metalik\n\n\n\nWyposażenie:\n\n\t•\tTryb SPORT – większa dynamika jazdy\n\n\t•\tKlimatyzacja (sprawna)\n\n\t•\tElektryczne szyby\n\n\t•\tCentralny zamek\n\n\t•\tWspomaganie kierownicy\n\n\t•\tABS\n\n\t•\tPoduszki powietrzne\n\n\t•\tRadio CD / AUX\n\n\t•\tKomplet opon letnich + zimowych\n\n\n\nStan techniczny:\n\nAuto regularnie serwisowane, zadbane, bez wkładu finansowego. Silnik pracuje równo, zawieszenie bez luzów, skrzynia działa płynnie. Karoseria w dobrym stanie – typowe ślady użytkowania jak na wiek pojazdu.\n\n\n\nDodatkowe informacje:\n\n\t•\tOC i przegląd techniczny ważne do [tu wpisz daty]\n\n\t•\tTani w eksploatacji, prosty i niezawodny model\n\n\t•\tIdealny dla młodego kierowcy lub jako auto na co dzień\n\n\n\nCena:  9 900 zł do negocjacji!\n\n\n\nZainteresowanych zapraszam do kontaktu – możliwa jazda próbna!",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zmgp47fu35k6-PL/image;s=4032x3024"
+        },
+        {
+            "title": "Citroen c3 1.4 benzyna",
+            "price": "2 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c3-1-4-benzyna-CID5-ID163CuL.html",
+            "location": "Łódź, Bałuty",
+            "date": "31 May 2025 o 17:34",
+            "description": "Witam ! \n\nSprzedam citroena c3 1.4 benzyna jestem jego właścicielem od trzech lat \n\nSamochód w stanie dobrym jeździ skręca hamuje \n\nAutko do dopieszczenia wszystko powiem przez telefon \n\nZ wyposażenia \n\nWsp. Kierownicy \n\nElek. Szyby oraz lusterka \n\nKlima sprawna lecz czynnik do dobicia \n\n\n\nPrzegląd do 06.06.2025r\n\nUbezpieczenie do 17.08.2025r",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5hhwz3l9jkdf2-PL/image;s=750x1000"
         },
         {
             "title": "Opel Astra Astra 2",
@@ -9834,83 +9922,6 @@
             "description": "Cena ostateczna 4000 zł \n\n\n\nSprzedam Citroena C4 Grand Picasso z 2007 roku. Silnik 2.0 HDi ze skrzynia półautomatyczna MCP. Silnik i skrzynia pracują bez problemu, założony jest nowy akumulator. Przebieg samochodu to 262360 km.\n\n\n\nStan autami jest bardzo średni. \n\nDo naprawy jest skorodowany próg po lewej stronie (typowe dla tego modelu w tym roczniku) \n\nSamochód jezdzi do tyłu i do przodu ale nie hamuje bo ma zapowietrzony układ hamulcowy. \n\nDodatkowo przdalo by sie wymienić tarcze hamulcowe z tyłu. \n\nW środku odchodzi tapicerka od prawego schowka, trzeba podkleić\n\nW lewym schowka ułamany jest zaczep.\n\nSamochód do zabrania raczej na lawecie ze względu na zapowietrzony układ hamulcowy. \n\n\n\nSamochod do zabrania w Warszawie na Woli. \n\nKontakt przez wiadomość prywatna.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lr24is77q8v52-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Opel Corsa D 1.3cdti 2008r Vat1a Vat-1A ciężarowy Lubelskie klima",
-            "price": "2 990 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-corsa-d-1-3cdti-2008r-vat1a-vat-1a-ciezarowy-lubelskie-klima-CID5-ID162XJI.html",
-            "location": "Łuków",
-            "date": "30 May 2025 o 17:44",
-            "description": "Corsa mechanicznie jak najbardziej do jazdy, motor pracuje cicho i równo nie dymi, łańcuch rozrządu nie hałasuje, silnik zmieniany 2lata temu z niskim przebiegiem oraz kompletne sprzęgło. Skrzynia precyzyjna zawieszenie sztywne. Oblazł lakier wraz z naklejkami na bocznych drzwiach, czoło maski podmalowane lakierem zaprawkowym. Blacharka bez dziur i przegnić. VAT1A W dowodzie, badanie do przyszłego roku.\n\n\n\nW razie zainteresowania proszę dzwonić cena 2990zł\n\n\n\nŁuków łapiguz 89",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zoc9exo4r6if-PL/image;s=2000x1125"
-        },
-        {
-            "title": "ForFour 1.3 Automat # Klimatyzacja # Panorama # Alufelgi # Sprowadzony",
-            "price": "6 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/forfour-1-3-automat-klimatyzacja-panorama-alufelgi-sprowadzony-CID5-ID162XFK.html",
-            "location": "Pukinin",
-            "date": "30 May 2025 o 17:43",
-            "description": "Witam,auto świeżo sprowadzone z Niemiec. Stan smarta widoczny na foto. Technicznie w bardzo dobrym stanie. Wnętrze czyste zadbane. Komplet kluczy I dokumentów. Możliwość pozostawienia auta w rozliczeniu. Polecam!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k42zvv297fr62-PL/image;s=1600x1200"
-        },
-        {
-            "title": "Peugeot 407 SW 2.0 HDi. Stan bardzo dobry 2005r",
-            "price": "4 200 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/peugeot-407-sw-2-0-hdi-stan-bardzo-dobry-2005r-CID5-ID15X3uD.html",
-            "location": "Sochaczew",
-            "date": "30 May 2025 o 17:43",
-            "description": "Witam na sprzedaż posiadam Peugeota 407 SW z niezawodnym silnikiem 2.0 HDI (136 KM), rocznik 2005. Auto jest w dobrym stanie technicznym i wizualnym . Sprzedaję, ponieważ kupiłam drugi samochód a szkoda żeby te auto stało i marnowało swój potencjał. Auto jest dobrze utrzymane, nie sprawia żadnych problemów. Rozrząd niedawno był wymieniany. Zwykłe żarówki wymienione na białe, cofania również. Przegląd ważny do sierpnia. OC ważne do stycznia 2026r. Zainteresowanych zapraszam do kontaktu i oględzin.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e4mfdgvqpv273-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Kia Cerato 2006  1,6 benzyna",
-            "price": "1 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/kia-cerato-2006-1-6-benzyna-CID5-ID162Xwx.html",
-            "location": "Warszawa, Wawer",
-            "date": "30 May 2025 o 17:42",
-            "description": "Sprzedam pilnie \n\nKia Cerato 2006 r\n\nSilnik 1,6\n\nBenzyna \n\nPrzebieg 178 tyś.\n\nRozrząd, klocki, tarcze, sanki wymienione na nowe \n\nDo wymiany alternator, cała reszta sprawna \n\n\n\nWięcej szczegółów telefonicznie \n\n\n\nZapraszam",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ugl4v7fvehwo-PL/image;s=2048x1536"
-        },
-        {
-            "title": "Fiat Panda 1.1 2004r Salon PL",
-            "price": "4 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/fiat-panda-1-1-2004r-salon-pl-CID5-ID162XDz.html",
-            "location": "Siedlce",
-            "date": "30 May 2025 o 17:42",
-            "description": "Na sprzedaż oferuje Fiata Pandę z silnikiem benzynowym o pojemności 1.1. Auto 100 procent sprawne. Silnik suchy, bez wycieków. Świetny kolor rzucajacy się w oczy. Dla konkretnego klienta dorzucę dodatkowy komplet kół z oponami zimowymi. \n\nWyposażenie:\n\n- elektryczne szyby,\n\n- centralny zamek,\n\n- 2x Airbag,\n\n- radio Pioneer z USB.\n\nOC do 28.07.2025\n\nPrzegląd do 02.07.2025. \n\nWięcej informacji pod numerem telefonu.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3mdvjxaf6pwv-PL/image;s=1020x459"
-        },
-        {
-            "title": "Sprzedam Fiat Panda 1.1 rok 2006. 184tyś.km.",
-            "price": "6 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-fiat-panda-1-1-rok-2006-184tys-km-CID5-ID162XkX.html",
-            "location": "Ciechanów",
-            "date": "30 May 2025 o 17:41",
-            "description": "Wiatam wszystkich zainteresowanych. Posiadam do sprzedaży  fiat panda ll 1.1 rocnik 2006r. o przebiiegu 186 tyś.km. Jestem pierwszym właścicielem. Po przebiegu 70 tyś.km. zinstalowana instalacja gazowa. Samochód bezkokolizyjny na bjieżąco serwisowany w pełni sprawny zabezpiczony antykorozyjnie w ciągłej eksploatacji opcjonalnie na życzenie kupującego komplet kół zimowych.\n\nSamochód nie wymaga żadnego wkładu finansowego zakupiony w solonie jako auto demonstracyjne.\n\nPozdrawiam wszystkich zainteresowanych . Na pytania odpowiem tyiko telefonicznie.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/kpcpdwihvkw22-PL/image;s=2448x3264"
-        },
-        {
-            "title": "Seat Cordoba Seat Cordoba 1.6 beznyna",
-            "price": "2 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/seat-cordoba-seat-cordoba-1-6-beznyna-ID6HojtU.html",
-            "location": "Warszawa, Ursynów",
-            "date": "30 May 2025 o 17:39",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZwdXpsYjc3bnNxMjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.6Pn3KAkf2wUV3pfz9BErVGLZ_w3bH78-pafhAI0aaRs/image"
         }
     ]
 }
