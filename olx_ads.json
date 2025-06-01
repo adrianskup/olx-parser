@@ -1,6 +1,61 @@
 {
-    "updated": "2025-06-01 15:33:35.408563",
+    "updated": "2025-06-01 15:44:13.494348",
     "ads": [
+        {
+            "title": "Mercedes-Benz Klasa C Sprzedam samochód marki Mercedes z silnikiem 2,2 diesel.",
+            "price": "8 000 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mercedes-benz-klasa-c-sprzedam-samochod-marki-mercedes-z-silnikiem-2-2-diesel-ID6GReD7.html",
+            "location": "Warszawa, Praga-Południe",
+            "date": "01 June 2025 o 15:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im15ZGJ1NmtyYWtrNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wjclJhgLRtS7L8_UD0gtd5bcvrI7vLxEijJ4dg1pGso/image"
+        },
+        {
+            "title": "Zadbany citroen c5 2.0HDI 109KM",
+            "price": "3 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/zadbany-citroen-c5-2-0hdi-109km-CID5-ID1434zs.html",
+            "location": "Siedlce",
+            "date": "01 June 2025 o 15:35",
+            "description": "Sprzedam auto widoczne na zdjęciach. Samochód jest w dobrym stanie jak naswoje lata.Karoseria jest bez rdzy ładnie utrzymana. Autko garażowane może dlatego.Samochod bardzo pojemny i pakowny. SIlnik chodzi równo, ma swoją moc.Auto w wersji exlusive z tamtych lat min automatyczne swiatla,czujniki cofania tył, grzane fotele, elektryczne fotele,fotochromatyczne lusterka wsteczne,el lusterka.Rozrzad robiony przy przebiegu 230tys.Nowe tarcze I klocki tył. Opłaty do sierpnia 25r.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/iaq18a2tcf461-PL/image;s=1152x864"
+        },
+        {
+            "title": "Ford Focus Ford Focus MK2",
+            "price": "7 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-ford-focus-mk2-ID6HqYAH.html",
+            "location": "Słupno",
+            "date": "01 June 2025 o 15:35",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhzYnlrejgxdnQ0bTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Ho0i5GUUHrfgCzbalnjAfTDyTquvkglhqh0kjN4LzTM/image"
+        },
+        {
+            "title": "Peugeot Expert Peugeot Expert 2009",
+            "price": "8 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-expert-peugeot-expert-2009-ID6HqUaf.html",
+            "location": "Zgierz",
+            "date": "01 June 2025 o 15:32",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ5M2l5Y2Q3aDdlbDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.W1GDCQseudlb8gnFrb2V4DdFmr8ogQc1MGoiKxuh6Zc/image"
+        },
+        {
+            "title": "Mazda Premacy Mazda Premacy 1.8 Benzyna 2004 – Stan idealny!",
+            "price": "5 499 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-premacy-mazda-premacy-1-8-benzyna-2004-stan-idealny-ID6HlJdc.html",
+            "location": "Warszawa, Włochy",
+            "date": "01 June 2025 o 15:30",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBuY2V4YjdlN3Q4bS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.mrX9Sc1g6A87ZyXaKXjMOji6syU1ukwy1Kxq3GxN1ZI/image"
+        },
         {
             "title": "Opel Astra 2007r 1.7 CDTI",
             "price": "6 500 zł",
@@ -8932,61 +8987,6 @@
             "description": "Sprzedam mazde 3 silnik 2.0 150km benzyna + gaz, auto jeździ skręca hamuje, ma ważne opłaty, do poprawek blacharsko lakierniczych, cena nie podlega żadnej negocjacji, proszę tylko zdecydowane osoby",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j3o6c0s4jo921-PL/image;s=1000x750"
-        },
-        {
-            "title": "Volkswagen Passat 1,9 TDI",
-            "price": "7 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/volkswagen-passat-1-9-tdi-CID5-ID15LGRf.html",
-            "location": "Lublin",
-            "date": "31 May 2025 o 15:43",
-            "description": "Na sprzedaż volkswagen passat kombi 1,9 TDI ,pierwsza rejestracja 2021 ,jestem pierwszym wlaścicielem w Polsce , samochód w pełni sprawny na bieżąco serwisowany , samochód służy nam głownie do przewozu dzieci do przedszkola i na małe wakacje ,samochód ma małą wgniotke parkingowa na klapie bagażnika , na dzień dzisiejszy nie wymaga wkładu finansowego \n\nSamochód posiada \n\nKlimatyzacje sprawna w 100 procent , ABS, automatyczne szyby ,tempomat , podgrzewane fotele , ABS, ASR, centralny zamek, autoalarm poduszki powietrzne ,sprzedajemy z powodu powiększenia rodziny ,potrzebujemy coś większego",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zcie29frh4j42-PL/image;s=867x1156"
-        },
-        {
-            "title": "Volkswagen Fox 1.2",
-            "price": "6 200 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/volkswagen-fox-1-2-CID5-ID15hJC2.html",
-            "location": "Kompina",
-            "date": "31 May 2025 o 15:41",
-            "description": "Sprzedam Volkswagena Fox, rok produkcji 2007. 1,2 benzyna. Drugi wlaściciel. Przebieg 211000 km. \n\n- klimatyzacja\n\n- elektryczne szyby \n\n- wspomaganie kierownicy \n\n- ABS \n\n- ASR\n\n\n\n100% bezwypadkowy, wszystkie szyby oryginalne, z tego samego roku. \n\nBT do 21.03.2026, OC do kwietnia 2026. \n\n\n\nAuto zadbane, właściciel niepalący, bez wkładu finansowego. \n\n\n\nPolecam i zapraszam na jazdę próbną. Handlarzom dziękuję!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rsobjqt4og7m2-PL/image;s=563x1000"
-        },
-        {
-            "title": "Toyota Yaris Na raty!",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-na-raty-ID6HnBdx.html",
-            "location": "Warszawa, Włochy",
-            "date": "31 May 2025 o 15:39",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJwcTBoam50dHA4bi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gM2NkGQYsmxLzYQlUMc0HkNajpDn2TpW3l6hrqAVSB8/image"
-        },
-        {
-            "title": "Volvo 940 GL, 2.3  benzyna+gaz",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/volvo-940-gl-2-3-benzyna-gaz-CID5-ID163xxu.html",
-            "location": "Warszawa, Rembertów",
-            "date": "31 May 2025 o 15:39",
-            "description": "Dzień dobry,\n\n\n\nPosiadam na sprzedaż swoje prywatne Volvo 940 z 1991 roku z silnikiem benzynowym 2.3 litra z instalacją gazową i ręczną skrzynią biegów. Przebieg 450 000 km.\n\n Samochód użytkuję od 13 lat,  jest on sprawny, eksploatowany co dzień, nosi więc ślady użytkowania wynikające z jego przebiegu i wieku. Instalacja LPG sprawna, butla ważna do 2027 roku.\n\n Olej z filtrem wymieniany regularnie, założone opony całoroczne marki Fulda z 2019 roku, bieżnik ok. 7 mm, nowy tłumik środkowy, tarcze hamulcowe z klockami na obu osiach wymienione w zeszłym roku, wymieniony rozrząd (maj 2025). Auto 34 - letnie w stanie ogólnym dobrym.\n\nZainteresowane osoby zapraszam do kontaktu telefonicznego i oględzin.\n\n\n\nPozdrawiam.\n\n\n\nUbezpieczenie OC ważne do 22.10.2025 \n\nBadanie techniczne do 28.08.2025.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s9x3hqao8iz21-PL/image;s=4624x2084"
-        },
-        {
-            "title": "Sprzedam BMW 523i",
-            "price": "3 100 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw-523i-CID5-ID163xWF.html",
-            "location": "Legionowo",
-            "date": "31 May 2025 o 15:34",
-            "description": "Samochód użytkowany przez nas 15 lat w Polsce. Bezawaryjne auto rodzinne. Samochód nie jest w idealnym stanie. Ma trochę rdzy. Cena do negocjacji. Proszę pisać smsa bo jestem słabosłyszący.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/paju9ag2rx64-PL/image;s=2600x4624"
         }
     ]
 }
