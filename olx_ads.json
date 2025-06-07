@@ -1,6 +1,61 @@
 {
-    "updated": "2025-06-07 18:42:46.945083",
+    "updated": "2025-06-07 18:53:36.097777",
     "ads": [
+        {
+            "title": "Volkswagen Golf V 100% Sprawny!",
+            "price": "9 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-v-100-sprawny-CID5-ID164bSC.html",
+            "location": "Krzemienica",
+            "date": "07 June 2025 o 18:47",
+            "description": "Witam. Sprzedam Volkswagena Golfa z 2006 roku z silnikiem 1.4 benzyna 80 KM.\n\nAuto sprawne, wszystko działa łącznie z klimatyzacją.\n\nPrzebieg 217 tys.km. \n\nWięcej informacji pod numerem telefonu. 5.0.2.4.1.3.9.8.9",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o5gojfntl9bl3-PL/image;s=1510x1061"
+        },
+        {
+            "title": "Peugot 206, do poprawek",
+            "price": "2 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugot-206-do-poprawek-CID5-ID15zLGP.html",
+            "location": "Celestynów",
+            "date": "07 June 2025 o 18:47",
+            "description": "Sprzedam samochód Peugeot 206, rok produkcji 1999, silnik 1360 cm3 benzyna, przebieg 235 tys. km.\n\n\n\nAuto na bieżąco użytkowane, zadbane, stan wizualny bardzo dobry.\n\nSamochód ma kilka rzeczy do zrobienia (nie przeszedł ostatniego przeglądu technicznego):\n\n- amortyzatory przód, \n\n- sworzeń wahacza prawy przód/wahacz,\n\n- przewody hamulcowe tył.\n\n\n\nUbezpieczenie OC ważne do 15.03.2026.\n\n\n\nIdealne dla kogoś, kto potrafi samodzielnie zająć się naprawami albo szuka auta na części.\n\n\n\nCena: 2,5 tys. z możliwością negocjajcji.\n\n\n\nSamochód do obejrzenia w Celestynowie.\n\nW razie pytań proszę o kontakt telefoniczny.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lezktsdjf1qy1-PL/image;s=1600x900"
+        },
+        {
+            "title": "Peugeot 407 SW 2.0HDI 2007",
+            "price": "5 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/peugeot-407-sw-2-0hdi-2007-CID5-ID15Rbow.html",
+            "location": "Suserz",
+            "date": "07 June 2025 o 18:44",
+            "description": "Peugeot 407 sw 2.0 HDI na nowych oponach zimowych , zawieszenie dobre , stan techniczny dobry, usterki naprawiane na czas.\n\n\n\nPrzegląd 07.10.2025\n\nUbezpieczenie 30.09.2025\n\n\n\nNa wyposażeniu \n\n4 x el szyby\n\nUchylna szyba w tylnej klapie bagaznika\n\nPanoramiczny dach\n\nKlima dwustrefowa sprawna \n\nWspomaganie \n\nCentralny zamek\n\nKolorowy wyświetlacz \n\nABS\n\nKontrola trakcji\n\nTempomat",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hkpyv2hz8upy2-PL/image;s=1020x768"
+        },
+        {
+            "title": "Ford Fiesta 2008 Benzyna 1,3",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/ford-fiesta-2008-benzyna-1-3-CID5-ID163AA5.html",
+            "location": "Płock",
+            "date": "07 June 2025 o 18:39",
+            "description": "Ford Fiesta 2008 rok, benzyna. Przebieg 278 000. Przegląd i ubezpieczenie do maja 2026 r. Auto nie wymaga nakładów finansowych. Uszkodzone lewe lusterko ( zdjęcie ).Komplet opon zimowych.\n\nW aucie nie palono papierosów. Pomimo dużego przebiegu jest niezawodne. Na karoserii drobne obtarcia wynikające z wieloletniego użytkowania. Sprowadzone z zagranicy w 2017 roku. Pierwszy właściciel w Polsce. Do obejrzenia w Płocku ( tylko w weekend ).",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/f4o8b1wbtirs-PL/image;s=2000x1126"
+        },
+        {
+            "title": "Ford Mondeo Ford Mondeo benzyna + GAZ, klimatyzacja",
+            "price": "8 200 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-mondeo-ford-mondeo-benzyna-gaz-klimatyzacja-ID6HqlsL.html",
+            "location": "Łódź, Bałuty",
+            "date": "07 June 2025 o 18:38",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im41M2tvamIweDg4bzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.KMEzRWPTjMwZmbRyX54uii76rMAwaSPg7hnUj3kXzU4/image"
+        },
         {
             "title": "Opel Astra H 1.6 benzyna",
             "price": "5 900 zł",
@@ -11,6 +66,17 @@
             "description": "Mam na sprzedaż auto Opel Astra H. Auto jest świeżo po przeglądzie. OC do sierpnia 2025. Więcej informacji pod numerem telefonu\n\n5*1*2*5*5*1*2*3*2",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9v2roju7t44v2-PL/image;s=2048x1536"
+        },
+        {
+            "title": "Renault Laguna III 2.0 Benzyna + Gaz",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/renault-laguna-iii-2-0-benzyna-gaz-CID5-ID1691nZ.html",
+            "location": "Siedlce",
+            "date": "07 June 2025 o 18:35",
+            "description": "Witam. Sprzedam Renault Laguna 2008r. 2.0 140 koni benzyna plus gaz.\n\nSamochód sprawny do jazdy. Wymieniona pompa paliwa, butla ważna 9 lat, ubezpieczenie do stycznia 2026r. Przeglad wazny do kwietnia 2026r. Samochód fajnie wyposażony w dwustrefową klimatyzację, tempomat z ogranicznikiem prędkości, półskórzane oraz podgrzewane fotele, pełny komputer pokładowy, reflektory skrętne bi xenon, felgi 17 cali, przyciemnione szyby, 4x elektryczne szyby, elektryczne lusterka, fotochromatyczne lusterko wsteczne, światła do jazdy dziennej, automatyczne światła, czujnik deszczu oraz zmierzchu, blokada drzwi, system odprowadzenia światłami do domu. Niska cena uwzględnia ew naprawy blacharsko-lakiernicze. Zapraszam.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nck5paepqlul3-PL/image;s=2000x934"
         },
         {
             "title": "VOLVO V50 D5 salon polska",
@@ -9900,160 +9966,6 @@
             "description": "Ford focus \n\nSilnik:1.6 benzyna \n\nRok produkcji: 2005\n\nPrzebieg:202.398 - UDOKUMENTOWANY - 100% ORYGINALNY !!!\n\nSkrzynia biegów: MANUALNA\n\nAuto pod względem technicznym i blacharskim w stanie bardzo dobrym.\n\nZawieszenie nie wybite bez żadnych luzów\n\nBlacha bez żadnych oznak korozji\n\nLakier ma ładny połysk bez zarysowań\n\nŚrodek czysty i pachnący bez przetarć\n\nSilnik, skrzynia, sprzęgło pracują znakomicie\n\nKUPUJĄCY ZWOLNIONY Z OPŁATY SKARBOWEJ,\n\nMOŻLIWOŚĆ POZOSTAWIENIA STREGO AUTA W ROZLICZENIU\n\nWyposażenie:\n\n- klimatyzacja \n\n- regulacja wysokości przednich foteli\n\n- elektryczne szyby\n\n- elektryczne lusterka\n\n- halogeny\n\n- 6xpoduszki powietrzne\n\n- ABS\n\n- ESP\n\n- radio\n\n- wspomaganie kierownicy\n\n- regulacja kierownicy\n\n- centralny zamek z pilotem\n\n-2xkluczyk \n\nLokalizacja GOSTYNIN 20 km od Płocka\n\nKONTAKT I WIĘCEJ INFORMACJI: 576 - wyświetl numer -",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xb5l65pdt8go-PL/image;s=1000x750"
-        },
-        {
-            "title": "Sprzedam samochód",
-            "price": "3 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-CID5-ID168oYc.html",
-            "location": "Jesionka",
-            "date": "06 June 2025 o 18:53",
-            "description": "Sprzedam Volkswagen Lupo 1,aktualny przegląd techniczny,aktualne opłaty.Stan techniczny dobry.Więcej informacji udzielę przez telefon.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1fjvynsu5nao1-PL/image;s=4624x3468"
-        },
-        {
-            "title": "Mercedes CLK 2.0 benzyna kompresor polift 2000 rok Alufelgi",
-            "price": "3 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mercedes-clk-2-0-benzyna-kompresor-polift-2000-rok-alufelgi-CID5-ID168p7o.html",
-            "location": "Łódź, Górna",
-            "date": "06 June 2025 o 18:52",
-            "description": "Mam na sprzedaż Mercedesa CLK 2.0 benzyna kompresor. \n\nWersja elegant \n\n\n\nW środku skóry \n\nNawigacja \n\nKlimatyzacja \n\nPodgrzewane fotele\n\nSkrzynia manualna 6 biegowa \n\nAlufelgi oryginalne od Mercedesa.\n\nSilnik dobrze pracuje nic nie stuka nie puka\n\nOc do 30 listopada",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vu5pbc5dn6ms1-PL/image;s=1024x768"
-        },
-        {
-            "title": "Opel Astra normalny stan pierwszy właściciel",
-            "price": "8 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/opel-astra-normalny-stan-pierwszy-wlasciciel-ID6Hq5W7.html",
-            "location": "Serokomla",
-            "date": "06 June 2025 o 18:52",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxlaXllY3dnZXMxbTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.V-Mifv2h8IaLzrTNaja743FvIzjd2SrO0ruqYxsYL8Q/image"
-        },
-        {
-            "title": "Hyundai i10 Sprzedam Hyundai I10 1.1 CRDI",
-            "price": "6 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/hyundai-i10-sprzedam-hyundai-i10-1-1-crdi-ID6GWRve.html",
-            "location": "Warszawa, Bemowo",
-            "date": "06 June 2025 o 18:52",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBhdWpubHR1Mjc4cTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.4ihNAJWPwUMwMtvoj8cgws_--RsIpLyoU2iFIdK0hGU/image"
-        },
-        {
-            "title": "Opel Meriva Bardzo zadbana Meriva 1.6 105KM*klima po serwisie*2KPL KÓŁ*z Niemiec",
-            "price": "9 999 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/opel-meriva-bardzo-zadbana-meriva-1-6-105kmklima-po-serwisie2kpl-kolz-niemiec-ID6HoGh8.html",
-            "location": "Piotrków Trybunalski",
-            "date": "06 June 2025 o 18:52",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjYxdHFmb2Zlb2ljMy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HUmb8Ky8k6Bu1Cx3MmgwGhhFj2SZRNnpuTMqWO42LhQ/image"
-        },
-        {
-            "title": "Ford Ka 2008 Rok Okazja! tylko 157 tys Km !Super Stan !",
-            "price": "8 300 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/ford-ka-2008-rok-okazja-tylko-157-tys-km-super-stan-CID5-ID14FC07.html",
-            "location": "Radom",
-            "date": "06 June 2025 o 18:51",
-            "description": "Sprzedam Ślicznego Forda Ka 2008 po lifcie! silnik 1.2 Benzyna Tylko 157 tys ORGINAŁ przebiegu !\n\nAuto 100%  bezwypadkowe !!!\n\n\n\nWyposażenie:\n\n# ABS\n\n# El. Szyby\n\n# El. Lusterka\n\n# Centralny zamek\n\n# Podgrzewana przednia szyba\n\n# Radio CD/USB\n\n# Wspomaganie kierownicy\n\n# 4 x Air Bag\n\n# Halogeny\n\n# Komputer pokładowy\n\n# spalanie około 4/5 litrów !!!\n\n\n\nIdealne Autko dla młodego kierowcy!  świeżo po serwisie ! Wymieniony został olej i filtry rozrząd był wymieniany przy przebiegu 133 tys Km ma piękne 4 Nowe opony  (koszt ok 1200 zł ) OC jest zawarte na rok! przegląd był robiony w styczniu ! W aucie nic nie stuka nie puka nie wymaga wkładu finansowego!. Cena za to autko to 8300 zł do negocjacji tylko i wyłącznie na miejscu!!! zainteresowane osoby proszę o kontakt telefoniczny nie odpowiadam na sms ! Handlarzom dziękuję!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ni7wxpwcgskt-PL/image;s=768x1024"
-        },
-        {
-            "title": "Ford Ka 1.3b 2009 świeże oc i pt klimatyzacja sprawna",
-            "price": "7 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ford-ka-1-3b-2009-swieze-oc-i-pt-klimatyzacja-sprawna-CID5-ID168p0h.html",
-            "location": "Puławy",
-            "date": "06 June 2025 o 18:49",
-            "description": "Sprzedam Forda KA z fajnym dynamicznym silnikiem 1.3b z 2009r w bogatej wersji wyposażenia klimatyzacja sprawna nabita wspomaganie kierownicy centralny zamek elektryczne szyby elektryczne lusterka halogeny opony wielosezonowe tapicerka welurowa poduszki powietrzne radio oryginalne itd..auto ma wymieniony nowy rozrząd udokumentowane przejechane 12tys.km nowa maglownica i sprzęgło wymieniane w tamtym roku w lipcu..auto 100%sprawne do jazdy można sprawdzić na stacji diagnostycznej,blacharka zdrowa nosi ślady użytkowania z racji wieku środek zadbany..oc i przegląd techniczny ważne do kwietnia 2026r cena okazyjna więc zapraszam konkretne osoby którzy szukają taniego pewnego auta na dojazdy do pracy czy gdzieś indziej",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1v0itdo7urd1-PL/image;s=1156x867"
-        },
-        {
-            "title": "Sprzedam toyota yaris 2004",
-            "price": "4 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-toyota-yaris-2004-CID5-ID168oVc.html",
-            "location": "Radom",
-            "date": "06 June 2025 o 18:48",
-            "description": "Witam.\n\nPosiadam do sprzedania auto marki toyota yaris 2004 rok 1.0 benzyna. Auto użytkowane przez kobietę- żona woziła dzieci do szkoly więc w pełni sprawne. Świeżo po przeglądzie przed którym zostały wymienione tarcze oraz klocki, tuleje wachaczy,pasek klinowy oraz olej.oc ważne do sierpnia pt do 8 mają 2026\n\nNa wyposazeniu: \n\nRozrząd na łańcuchu \n\nAlarm \n\nCentralny zamek \n\nAbs\n\nPoduszka kierowcy\n\nKlimatyzacja(do sprawdzenia)\n\nRadio fabryczne.\n\nAuto w dobrym stanie blacharskim i mechaniczny.\n\nAuto nie kopci/dymi nie pobiera oleju.zapraszam do kontaktu oraz na jazdę probna\n\npróbną",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/i93xisc128v02-PL/image;s=2000x900"
-        },
-        {
-            "title": "Renault Scenic 1.6 benzyna",
-            "price": "2 800 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-scenic-1-6-benzyna-CID5-ID168oX1.html",
-            "location": "Otwock",
-            "date": "06 June 2025 o 18:47",
-            "description": "Sprzedam Renault Scenic auto do jazdy . OC 11.09.2025 , pt 07.06.2025 . Więcej informacji udzielę telefonicznie.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2xii7g99b40p2-PL/image;s=3024x4032"
-        },
-        {
-            "title": "Opel Insignia Cosmo/Se/Elite 2.0 CDTI Automat 2010 + komplet felg 18\"",
-            "price": "10 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-insignia-cosmo-se-elite-2-0-cdti-automat-2010-komplet-felg-18-CID5-ID15Znh5.html",
-            "location": "Ostrykół Dworski",
-            "date": "06 June 2025 o 18:46",
-            "description": "Opel Insignia Cosmo/Se/Elite 2.0 CDTI 160KM Automat 2010 – Uszkodzona skrzynia/sterownik\n\nOprócz felg z oponami wielosezonowymi w zestawie felgi 18\" z oponami letnimi.\n\n\n\nNa sprzedaż Opel Insignia z 2010 roku w bogatej wersji wyposażenia Cosmo/Se z silnikiem 2.0 CDTI (1956 cm³, 160 KM) i automatyczną skrzynią biegów. Auto zadbane, wszystkie naprawy wykonywane na bieżąco.\n\nDane techniczne:\n\n• Rok produkcji: 2010\n\n• Silnik: 2.0 CDTI, 1956 cm³, 160 KM (118 kW)\n\n• Skrzynia: Automatyczna\n\n• Napęd: Przedni\n\n• Przebieg: 329 768 km\n\nStan techniczny:\n\n• Silnik w bardzo dobrej kondycji, odpala bez problemu\n\n• Uszkodzona skrzynia biegów lub sterownik – wymaga naprawy, nie przełącza poprawnie biegów\n\n• Auto utrzymane w dobrym stanie – mechanicznie zadbane, serwisowane na bieżąco \n\nWyposażenie (m.in.):\n\n• Lampy bi-xenon skrętne\n\n• Skórzana tapicerka\n\n• Automatyczna klimatyzacja dwustrefowa\n\n• System nawigacji\n\n• Podgrzewane fotele\n\n• Tempomat\n\n• Czujniki parkowania przód i tył\n\n• Elektryczne szyby i lusterka\n\n• Alufelgi\n\n• Komputer pokładowy\n\nI wiele innych\n\nCena: 10 000 zł\n\nAuto idealne dla mechanika lub osoby, która chce przywrócić sprawność i jeździć bardzo dobrze wyposażonym autem klasy średniej. \n\nLokalizacja: Ostrykół Dworski\n\nKontakt: 66*******18",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dikh7dgc9pic-PL/image;s=1020x483"
-        },
-        {
-            "title": "Citroen C4 Picasso 7-osobowy / 2010 rok / 1.6hdi / Salon Polska /",
-            "price": "9 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/citroen-c4-picasso-7-osobowy-2010-rok-1-6hdi-salon-polska-CID5-ID13f0Ox.html",
-            "location": "Piaseczno",
-            "date": "06 June 2025 o 18:45",
-            "description": "Witam,\n\nPosiadam na sprzedaż Citroena C4 Picasso 1.6 HDI 115 KM 229000 km\n\nAuto w bardzo dobrym stanie technicznym jak i wizualnym.\n\nWersja 7-osobowa \n\nBez wkładu finansowego.\n\nKlimatyzacja sprawna.\n\n\n\nAutomat zmienia biegi płynnie bez szarpnięć.\n\n\n\nPT: 20.02.26 \n\n\n\nCitroen gotowy do długiej eksploatacji !!!\n\n\n\nZapraszam do kontaktu telefonicznego !!!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o7fe2c1886up-PL/image;s=1000x750"
-        },
-        {
-            "title": "AUDI A6 C5 1.9TDI kombi",
-            "price": "3 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/audi-a6-c5-1-9tdi-kombi-CID5-ID15C4n3.html",
-            "location": "Zakroczym",
-            "date": "06 June 2025 o 18:45",
-            "description": "Samochód sprawny od strony technicznej,do jazdy. 1.9 tdi 110km na zwykłej pompie rok 1999 .OC i przegląd ważny. Nie ma klimy. O więcej inf.prosze o kontakt  tel.6******75",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zbk2btgpsp761-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Sprzedam passata b5 1.6 1997",
-            "price": "5 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-passata-b5-1-6-1997-CID5-ID162Ury.html",
-            "location": "Grodzisk Mazowiecki",
-            "date": "06 June 2025 o 18:44",
-            "description": "Sprzedam passata b5 1.6 1997\n\n\n\nPosiadam go od roku, sprzedaję, ponieważ jeżdżę innym samochodem\n\n\n\nzrobione, nowy alternator, rozrusznik, świece zapłonowe, tarcze hamulcowe, klocki, pasek rozrządu z rolkami, plus dobre koła zimowe\n\n\n\nTO:do 11.06.25\n\nOC:do 27.01.26\n\n\n\nco jest pożądane do zrobienia\n\nwymiana sprzęgła, 2 głośniki.\n\n\n\nOdpowiem na powiadomienia, połączenia",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/333uapkn0sl63-PL/image;s=3024x4032"
-        },
-        {
-            "title": "Mazda 6 Mazda 6, 2.3 wersja Top, LPG",
-            "price": "7 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-6-mazda-6-2-3-wersja-top-lpg-ID6HpmiA.html",
-            "location": "Warszawa, Śródmieście",
-            "date": "06 June 2025 o 18:43",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im00NzN0cXkxb3p6eDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ewAR3tUcadL-DD7wBxH8yuMl9tKzou4oKLMd94SMI-Y/image"
         }
     ]
 }
