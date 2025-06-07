@@ -1,6 +1,160 @@
 {
-    "updated": "2025-06-07 09:41:53.470959",
+    "updated": "2025-06-07 09:50:31.117180",
     "ads": [
+        {
+            "title": "Sprzedam BMW5 2018r",
+            "price": "300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw5-2018r-CID5-ID15DQVD.html",
+            "location": "Małecz",
+            "date": "07 June 2025 o 09:46",
+            "description": "BMW 2018r 2.0 przebieg 184t stan salonowy najmocniejsza wersja możliwa zamiana z dopłatą w dwie strony",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/yu2cx2t7d8id1-PL/image;s=1262x726"
+        },
+        {
+            "title": "Citroen Xsara Picasso_1.6 HDI_2008_LIFT_Polski Salon_Climatronic",
+            "price": "3 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/citroen-xsara-picasso-1-6-hdi-2008-lift-polski-salon-climatronic-CID5-ID168ENw.html",
+            "location": "Łódź, Górna",
+            "date": "07 June 2025 o 09:44",
+            "description": "Sprzedam Citroen Xsara Picasso z 2008 roku z silnikiem 1.6 HDI (80kw) . Auto pochodzi z Polskiego Salonu . Auto sprawne odpala jeździ bez problemu , nie kopci ma moc . Turbina świeżo po regeneracji . Zawieszenie Okej . Progi podłoga zdrowe bez dziur . Wizualnie\n\nPrezentuje się jak na zdjęciach . Wnętrze auta utrzymane w przyzwoitym stanie jak na swoje lata .\n\nOC 08.2025\n\nPT 12.2025 \n\nWięcej informacji pod numerem telefonu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lziy7qogagzj-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Zafira B 1,7 cdti",
+            "price": "9 700 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-b-1-7-cdti-CID5-ID168EGl.html",
+            "location": "Płońsk",
+            "date": "07 June 2025 o 09:44",
+            "description": "Opel Zafira B 1,7 cdti  rok produkcji 2008 po liftingu, wersja 7 osobowa. Wyposażenie : nawigacja satelitarna, czujniki parkowania przód+ tył,elektryczne szyby, fabrycznie przyciemniane szyby tył. Drugi komplet koł z oponami zimowymi. Stan bdb + po wymianie klocków przód + tył oraz serwisie olejowym.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/90vznb90iwyj3-PL/image;s=1020x765"
+        },
+        {
+            "title": "Mercedes  e klasa kombi 2005r 2.2 disel automat",
+            "price": "6 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-e-klasa-kombi-2005r-2-2-disel-automat-CID5-ID162b9F.html",
+            "location": "Łódź, Bałuty",
+            "date": "07 June 2025 o 09:43",
+            "description": "Witam mam do sprzedania  Mercedesa e klasę z 2005r z silnikiem 2.2 disel automat Auto sprawne jeżdżący silnik ładnie pracuje ma moc skrzynia automat płynnie żeby sobie klimatyzacja sprawna ważne opłaty do listopada 2025 więcej info na telefon",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/npha5on3anpv-PL/image;s=1000x751"
+        },
+        {
+            "title": "Vw golf 2001r 1.6 benzyna GAZ",
+            "price": "1 950 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/vw-golf-2001r-1-6-benzyna-gaz-CID5-ID166gBc.html",
+            "location": "Łódź, Bałuty",
+            "date": "07 June 2025 o 09:42",
+            "description": "Witam mam do sprzedania vw golfa. 2001r z silnikiem 1.6 benzyna z gazem auto jeżdżące silnik pali na dotyk ładnie pracuje na benzynie i gazie blacha jak na foto bez dziur ważne opłaty OC i orzeglad lipiec 2025r gaz 2030 więcej info na tel",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wggjyyob1t5c1-PL/image;s=1000x751"
+        },
+        {
+            "title": "Fiat panda 2006r  1.2 benzyna wspomaganie elektryka",
+            "price": "3 950 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/fiat-panda-2006r-1-2-benzyna-wspomaganie-elektryka-CID5-ID167mk4.html",
+            "location": "Łódź, Bałuty",
+            "date": "07 June 2025 o 09:41",
+            "description": "Witam mam do sprzedania fiata pandę z 2006r z silnikiem 1.2 benzyna auto sprawne jeżdżące silnik pali na dotyk nie kopci ma moc blacha jak na foto bez rdzy ważne wspomaganie kierownicy ważne opłaty OC i przegląd więcej info na tel",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/67tx6017tvvs1-PL/image;s=1000x751"
+        },
+        {
+            "title": "Volvo S60 2.4 D5 Summum",
+            "price": "6 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volvo-s60-2-4-d5-summum-CID5-ID160Ww6.html",
+            "location": "Lublin",
+            "date": "07 June 2025 o 09:40",
+            "description": "Sprzedam Volvo s60 2.4 D5 Summum. Auto jest sprawne i w codziennym urzytku. Wymiany cześci i naprawy na czas. Na wiosnę wymiana płynów i filtrów. Aktualnie opony wielosezon. Ubezpieczenie do października. Przegląda w autoryzowanym serwisie do października. Hak wbity w dowód. Cena do negocjacji. Tel. 5 3 5 5 6 0 0 2 6",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lbgiiaudsftv-PL/image;s=2000x900"
+        },
+        {
+            "title": "Opel Corsa Uwaga Rezerwacja !!!",
+            "price": "9 999 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-corsa-uwaga-rezerwacja-ID6Hfhq8.html",
+            "location": "Parysów",
+            "date": "07 June 2025 o 09:40",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZpYnJvMDlpZmNkeS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.d5RrVdFIu-oFAphC-Y58Si_s-Z7cugIg8uGyVYpfNGM/image"
+        },
+        {
+            "title": "Renault Twingo Renault Twingo",
+            "price": "6 400 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-twingo-renault-twingo-ID6HohsR.html",
+            "location": "Warszawa, Rembertów",
+            "date": "07 June 2025 o 09:40",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ1YnJlY2pxcHV0dDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.E6qHD9FikIBamqO-afERiEeHqodxTI0q9RQWC95OfUM/image"
+        },
+        {
+            "title": "Opel Corsa 1.2 benzyna 2004r 150 tys przebiegu ! Klimatyzacja !",
+            "price": "4 200 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-1-2-benzyna-2004r-150-tys-przebiegu-klimatyzacja-CID5-ID166VRX.html",
+            "location": "Warszawa, Białołęka",
+            "date": "07 June 2025 o 09:39",
+            "description": "Witam, \n\n\n\nNa sprzedaż posiadam Opla Corsę z 2004r z silnikiem 1.2 benzyna - autko z niskim przebiegiem 154 tyś - bardzo dobrze jeżdżąca. \n\n\n\nMechanicznie w bardzo dobrym stanie mechanicznym jak i blacharskim. \n\n\n\nKlimatyzacja oczywiście sprawna \n\n\n\nOpłaty aktualne \n\n\n\nZapraszam",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a5eov401os2r3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel Insignia Uwaga Rezerwacja !!!",
+            "price": "9 999 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-insignia-uwaga-rezerwacja-ID6Hfuhd.html",
+            "location": "Parysów",
+            "date": "07 June 2025 o 09:39",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBiNnlxbjR4dWxrNzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.-BI2PnF1FwCHbM2CFyqyZ7sTnHw34ecfQJ4XLwMmYiQ/image"
+        },
+        {
+            "title": "Renault Grand Espace 4 2.0T C8 Picasso 807 Zafira Sharan Touran Scenic",
+            "price": "9 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-grand-espace-4-2-0t-c8-picasso-807-zafira-sharan-touran-scenic-CID5-ID168Egh.html",
+            "location": "Warszawa, Mokotów",
+            "date": "07 June 2025 o 09:38",
+            "description": "Sprzedam Renault Grand Espace 4 2.0T benzyna jak na zdjęciach. \n\nSprowadzony z Holandii. Jestem pierwszym właścicielem w Polsce od 2019 r. Nosi normalne ślady eksploatacji jak na swój wiek i rodzinno-osobowe przeznaczenie. Przebieg ok. 320000km. Siedem oryginalnych siedzeń. Auto doinwestowane i sprawne m. in. wymiemiony rozrząd, tarcze klocki tył, klocki przód, alternator, świece, cewki, akumulator itp. Dwie karty. Klimatyzacja do nabicia. Opony letnie z 2022 r. \n\nNowy przegląd techniczny na rok i ubezpieczenie. \n\nPolecam i zapraszam. \n\nDo obejrzenia  po wcześniejszym umówieniu w Hipolitowie pod Warszawą. \n\nTel 728x304x520",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/60ulrxvk9dba-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Seat inca combivan",
+            "price": "3 777 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-inca-combivan-CID5-ID168Ewa.html",
+            "location": "Mniszków",
+            "date": "07 June 2025 o 09:38",
+            "description": "Sprzedam bezawaryjne Seata Ince z 1987 r. 1.4 benzyna. Od 2013 w kraju. Zarejestrowany jako osobowy. Zaadoptowany na turystyczne wypady. Usunięte tylne siedzenia. Na całości materac do spania. Świetnie nadaje się na rybki. Badanie techniczne do 20 maja 2026 ubezpieczenie do 30 maja 2026. Przebieg 170500. Auto w pełni sprawne komuś dobrze posłuży",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/q8peybtr6bm31-PL/image;s=1500x2000"
+        },
+        {
+            "title": "Ekonomiczny i Zadbany Citroen C3 (2004)Niski Przebieg, Pełna Dokumenta",
+            "price": "6 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ekonomiczny-i-zadbany-citroen-c3-2004niski-przebieg-pelna-dokumenta-CID5-ID163dhx.html",
+            "location": "Borówek",
+            "date": "07 June 2025 o 09:37",
+            "description": "Mam przyjemność zaoferować na sprzedaż bardzo zadbanego Citroena C3 z 2004 roku. To idealny wybór dla osób ceniących sobie niskie koszty eksploatacji oraz łatwość poruszania się po mieście.\n\nPojazd wyróżnia się wyjątkowo niskim przebiegiem jak na swój rocznik, co gwarantuje długą i bezproblemową eksploatację. Na wyposażeniu znajdziemy komfortowe elektryczne szyby oraz niezastąpione w miejskiej dżungli wspomaganie kierownicy.\n\nSamochód jest w pełni przygotowany do drogi – posiada świeże ubezpieczenie OC, a przegląd techniczny jest ważny aż do października 2025 roku. To oznacza spokój i brak dodatkowych wydatków zaraz po zakupie. Citroen C3 to auto, które z pewnością posłuży nowemu właścicielowi jeszcze przez długi czas.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n8o065h57gze2-PL/image;s=1024x576"
+        },
         {
             "title": "Daewoo Kalos 2003/2004",
             "price": "2 450 zł",
@@ -11,6 +165,17 @@
             "description": "Sprzedam bardzo ładnego Daewoo Kalos rok produkcji 2003/ 2004 z silnikiem 1.4 benzyna- ośmiozaworowy. Samochód jest od pierwszego wlasciciela w kraju, sprowadzony dwa lata temu, blacharka bardzo ładna, technicznie super. Auto nie wymaga napraw. Posiada: wspomaganie kierownicy, centralny zamek, airbag, przebieg 230 tys km   cena 2450\n\nTel 50*****39\n\nOkolice Gostynina",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tj9611c94bzl3-PL/image;s=805x647"
+        },
+        {
+            "title": "Sprzedam audi a6 1.9",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a6-1-9-CID5-ID168Err.html",
+            "location": "Lublin",
+            "date": "07 June 2025 o 09:36",
+            "description": "Witam. Na sprzedaż Audi a6 z 1998r 1.9tdi 110km, trzech właścicieli od około 20 lat. Przebieg na chwilę obecną 385tys auto używane na dojazdy do pracy ( Lublin - Częstochowa ) stało dwa tyg i powrót do Lublina. Do zrobienia są hamulce z przodu. 05.06 skończył się przegląd niestety na chwilę obecną nie mam czasu się tym zająć. Do auta posiadam dwa kpl kół. Zapraszam",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bl340szic29x2-PL/image;s=563x1000"
         },
         {
             "title": "Mitsubishi Colt 1.1 2005",
@@ -2695,6 +2860,17 @@
             "description": "Witam na sprzedaż posiadam fajne cabrio za grosze , samochód w świetnym stanie technicznym oraz wizualnym kompletnie bez wkładu finansowego , rok temu wymieniony kompletny rozrząd. Samochód posiada sztywny dach tak więc można użytkować go również w zimie. Auto posiada klimatyzację , bardzo dobrze jeździ na niewielki oryginalny przebieg. CENA OKAZYJNA",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cym6scxrz2o21-PL/image;s=750x1000"
+        },
+        {
+            "title": "Bardzo Ładna Toyota Yaris 1.3 benzyna  2004r Klima Elektryka OKAZJA",
+            "price": "3 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/bardzo-ladna-toyota-yaris-1-3-benzyna-2004r-klima-elektryka-okazja-CID5-ID167xoZ.html",
+            "location": "Piaseczno",
+            "date": "07 June 2025 o 05:41",
+            "description": "Witam na sprzedaż posiadam Toyotę Yaris 2004r , najlepszy silnik benzynowy 1.3 \n\nSamochód w naprawdę dobrym stanie posiada klimatyzację , elektryczne szyby , wspomaganie kierownicy. Bardzo dobrze jeździ nie potrzebuje żadnego wkładu finansowego. Wizualnie naprawdę dobrze się prezentuje. Badanie techniczne (ważne do 10.06.2025)\n\n\n\nKupujący zwolniony z opłaty skarbowej pcc3 !!!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j60gjfag35v23-PL/image;s=750x1000"
         },
         {
             "title": "Sprzedam Renault Clio 1.6 LPG, 2007r",
@@ -10153,292 +10329,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrbWZyaDF4MWJyMDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.E13tKVHYd-uQ2cTf6pfmlwTau63M9Km__fqUaH9iNg0/image"
-        },
-        {
-            "title": "Na sprzedaż Citroen Berlingo 2.0HDI/zamiana/stan bdb/gwarancja",
-            "price": "1 999 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-citroen-berlingo-2-0hdi-zamiana-stan-bdb-gwarancja-CID5-ID15XFNU.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Citroen Berlingo z najlepszym niezawodnym silnikiem 2.0 Diesel . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jqfqxzf85a1f1-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Chevrolet Lacetti 1.8 LPG/zamiana/oszczędny/długie oc",
-            "price": "3 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-chevrolet-lacetti-1-8-lpg-zamiana-oszczedny-dlugie-oc-CID5-ID15Vbl8.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Chevrolet Lacetti z najlepszym niezawodnym silnikiem 1.8 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b54sdgu9b5ai2-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Opel Zafira 1.8 LPG/zamiana/oszczędny/7os",
-            "price": "3 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-opel-zafira-1-8-lpg-zamiana-oszczedny-7os-CID5-ID15VT5a.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Opel Zafira najlepszym niezawodnym silnikiem 1.8 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/e8kgkptrcx3z2-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Skoda Octavia 1.9 TDI/zamiana/DSG/zero rdzy",
-            "price": "6 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-skoda-octavia-1-9-tdi-zamiana-dsg-zero-rdzy-CID5-ID15XDQg.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Skoda Octavia z najlepszym niezawodnym silnikiem 1.9 TDI z automatyczną skrzynią biegów. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/76rydvgyx5e4-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Fiat Panda 1.1 LPG/zamiana/oszczędny/fajny stan/gwarancja",
-            "price": "2 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-fiat-panda-1-1-lpg-zamiana-oszczedny-fajny-stan-gwarancja-CID5-ID15XFbS.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Fiat Panda z najlepszym niezawodnym silnikiem 1.1 LPG . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ue8qjse9iolc2-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na spradaż Ford Focus 2.0 LPG/automat/ekonomiczny/zadbany/gwarancja",
-            "price": "3 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-spradaz-ford-focus-2-0-lpg-automat-ekonomiczny-zadbany-gwarancja-CID5-ID167jEt.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:50",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Ford Focus z najlepszym niezawodnym silnikiem 2.0 benzyna z gazem . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9twsw6qzqqai-PL/image;s=750x1000"
-        },
-        {
-            "title": "Niski przebieg Opel Astra H GTC Sport 1.6 105KM 2005",
-            "price": "8 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/niski-przebieg-opel-astra-h-gtc-sport-1-6-105km-2005-CID5-ID15gOvu.html",
-            "location": "Łódź, Śródmieście",
-            "date": "06 June 2025 o 09:50",
-            "description": "Opel Astra H GTC 1.6 105 KM | Zadbany | Klimatyzacja | Zimowe koła w zestawie\n\n\n\nNa sprzedaż oferuję dynamiczną i stylową Opla Astrę H GTC z niezawodnym silnikiem benzynowym 1.6 o mocy 105 KM – idealny wybór dla osób szukających solidnego i ekonomicznego auta w atrakcyjnej cenie.\n\n\n\nRok produkcji: 2005\n\nPrzebieg: 167 140 km\n\nJestem właścicielem od 2021 roku.\n\n\n\nAuto posiada bogate wyposażenie:\n\n\t•\tklimatyzacja\n\n\t•\twspomaganie kierownicy\n\n\t•\telektryczne szyby\n\n\t•\tfabryczne radio\n\n\t•\tpoduszki powietrzne\n\n\t•\ttryb sport\n\n\n\nPrzegląd techniczny ważny do 12.2025, ubezpieczenie OC do 01.2026.\n\n\n\nRegularnie serwisowany – wymiany oleju i filtrów robione na bieżąco. Klimatyzacja nabita i sprawna – gotowa na lato.\n\n\n\nW ostatnich latach auto przeszło szereg istotnych wymian, które zwiększają jego niezawodność:\n\n\t•\tnowy akumulator (2025)\n\n\t•\twymieniony sterownik silnika (2025)\n\n\t•\tnowy rozrząd (2021)\n\n\t•\tnowe tarcze i klocki hamulcowe (2023)\n\n\t•\tkońcówki drążka stabilizatora (2023) \n\n\n\nW cenie komplet dwóch zestawów kół zimowych:\n\n\t•\talufelgi 16” z oponami zimowymi\n\n\t•\tfelgi stalowe z oponami zimowymi\n\n\n\nAuto w dobrym stanie technicznym, jeździ pewnie i komfortowo. Wizualnie prezentuje się dobrze. \n\n\n\nZapraszam do kontaktu i na jazdę próbną!\n\n73*****45",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zmpzrxn19lvd-PL/image;s=825x1000"
-        },
-        {
-            "title": "Sprzedam audi a6 4.2",
-            "price": "7 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a6-4-2-CID5-ID167WPY.html",
-            "location": "Mława",
-            "date": "06 June 2025 o 09:49",
-            "description": "Witam, sprzedam uszkodzone audi A6 4.2., benzyna z gazem.  Samochód na chodzie można odpalić. Na samochód będzie wystawiona faktura.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3artlhn77v821-PL/image;s=1600x1200"
-        },
-        {
-            "title": "Na sprzedaż VW Jetta/zamiana/fajny stan/Nowe turbo",
-            "price": "5 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-vw-jetta-zamiana-fajny-stan-nowe-turbo-CID5-ID15Uk8x.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:49",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Volkswagen Jetta z najlepszym niezawodnym silnikiem 1.9 TDI. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/03s936cg88ci2-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Honda Civic 1.4 LPG/zamiana/fajny stan/oszczędny",
-            "price": "3 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-honda-civic-1-4-lpg-zamiana-fajny-stan-oszczedny-CID5-ID15TrLz.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:49",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Honda Civic z najlepszym niezawodnym silnikiem 1.4 LPG . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a2s7qywmy8o12-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Land Rover Freelander 2.0d/zamiana/4x4/bez rdzy/zadbany",
-            "price": "5 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-land-rover-freelander-2-0d-zamiana-4x4-bez-rdzy-zadbany-CID5-ID15SqaP.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:49",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Land Rover Freelander z najlepszym niezawodnym silnikiem 2.0 Diesel . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3853nvmv9jbr2-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzdaz Toyata Avensis 2.0D/klimatyzacja/gwarancja/zamiana",
-            "price": "5 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzdaz-toyata-avensis-2-0d-klimatyzacja-gwarancja-zamiana-CID5-ID167js7.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:49",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Toyota Avensis  z najlepszym niezawodnym silnikiem 2.0 Diesel . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zbsxj70s9n8z2-PL/image;s=750x1000"
-        },
-        {
-            "title": "Na sprzedaż Toyota Corolla 1.4 LPG/zamiana/oszczędny/bez rdzy",
-            "price": "3 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-toyota-corolla-1-4-lpg-zamiana-oszczedny-bez-rdzy-CID5-ID15SpQ1.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:48",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Toyota Corolla z najlepszym niezawodnym silnikiem 1.4 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/07t1dq8wjni92-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Toyota Yaris 1.0 LPG/zamiana/bez rdzy/oszczędny",
-            "price": "2 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-toyota-yaris-1-0-lpg-zamiana-bez-rdzy-oszczedny-CID5-ID15QSn9.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:48",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny samochód Toyota Yaris z najlepszym niezawodnym silnikiem 1.0 LPG . Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2u9kgsuauyx91-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Mazda Premacy 1.8 LPG/zamiana/oszczędny/fajny stan",
-            "price": "2 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-mazda-premacy-1-8-lpg-zamiana-oszczedny-fajny-stan-CID5-ID15R7i6.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:48",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Mazda Premacy z najlepszym niezawodnym silnikiem 1.8 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/oca4z93dhg0k1-PL/image;s=960x1280"
-        },
-        {
-            "title": "Na sprzedaż Toyota Yaris 1.0 LPG/zamiana/oszczędny/fajny stan",
-            "price": "2 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-toyota-yaris-1-0-lpg-zamiana-oszczedny-fajny-stan-CID5-ID15QS8X.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:48",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny samochód Toyota Yaris z najlepszym niezawodnym silnikiem 1.0 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hojxsbhg3ily-PL/image;s=960x1280"
-        },
-        {
-            "title": "Nissan note 1.6 110KM benzyna bezwypadkowy salon PL",
-            "price": "8 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/nissan-note-1-6-110km-benzyna-bezwypadkowy-salon-pl-CID5-ID167WLw.html",
-            "location": "Piaseczno",
-            "date": "06 June 2025 o 09:48",
-            "description": "SPRZEDAŻ KUPNO ZAMIANA \n\nPIASECZNO SŁONECZNA 2 \n\nPN-PT 11.00-18.00\n\nSB-ND 10.00-15.00\n\n\n\nNissan Note 2007r 1.6 110KM 223 tys km przebiegu. Salon PL.\n\nSamochód w bardzo dobrym stanie technicznym. \n\nDokumentacja serwisowa i przebiegu.\n\nSilnik 1.6 suchy, bardzo żwawy i ceniony za niezawodność i tania eksploatację. Rozrząd na łańcuchu bardzo trwały.\n\nKaroseria w oryginale bez napraw i powtórnego lakierowania z drobnymi rysami.\n\nWnętrze zachowane w ładnym stanie. Plastiki bez uszkodzeń a tapicerka czysta.\n\nWyposażenie;\n\n- klimatyzacja sprawna \n\n- centralny zamek 2 klucze \n\n- elektryczne szyby X4\n\n- czujniki parkowania tył \n\n- multi funkcyjna kierownica \n\nOC polisa komisowa roczna\n\nPT 08.2025\n\n\n\nPosiadam inne zadbane auta w podobnym budżecie.\n\nWystawiam faktury VAT marża.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pmzl5cd6a70a-PL/image;s=1020x572"
-        },
-        {
-            "title": "Na sprzedaż VW New Beetle 2.0 LPG/zamiana/gwarancja/oszczędny",
-            "price": "2 490 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-vw-new-beetle-2-0-lpg-zamiana-gwarancja-oszczedny-CID5-ID15OyEE.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:47",
-            "description": "Samochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nWitam, posiadamy na sprzedaż piękny i niezawodny Volkswagen New Beetle z najlepszym niezawodnym silnikiem 2.0 LPG. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 250 03-152\n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jestescie Panstwo zwolnieni z oplaty skarbowej 2% :) !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/smbiqom1vrr73-PL/image;s=960x1280"
-        },
-        {
-            "title": "VW Touran 05r 1.9 diesel hak klima zamiana",
-            "price": "1 234 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/vw-touran-05r-1-9-diesel-hak-klima-zamiana-CID5-ID167Wr1.html",
-            "location": "Łączany",
-            "date": "06 June 2025 o 09:46",
-            "description": "Auto w ciągłym użytkowaniu ważne opłaty niskie spalanie skrzynia biegów manualna 6 biegów możliwa zamiana cena 9900",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/1572sx5ktjbk1-PL/image;s=780x1040"
-        },
-        {
-            "title": "Mazda 6 Mazda 6",
-            "price": "7 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/mazda-6-mazda-6-ID6Hj4h7.html",
-            "location": "Łódź, Bałuty",
-            "date": "06 June 2025 o 09:46",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjB5dmxzc3Uzc2wycTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.gJlgZnL2X6TK3-dPv4g-2ow_Jk_3oKftC3xm9XNXdVA/image"
-        },
-        {
-            "title": "Toyota Yaris Polecam stan jak na foto klimatyzacja",
-            "price": "2 600 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-polecam-stan-jak-na-foto-klimatyzacja-ID6Hq1dd.html",
-            "location": "Łódź, Widzew",
-            "date": "06 June 2025 o 09:44",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjIxamhrdm5nM2M4OTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.kKxfLI13kYheFwc2pfTY8cNfnVfMmU53H5vrJcF0CvU/image"
-        },
-        {
-            "title": "Fiat grande punto 1.2lpg 212 tys przebiegu 2007r",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-1-2lpg-212-tys-przebiegu-2007r-CID5-ID167QWa.html",
-            "location": "Siedlce",
-            "date": "06 June 2025 o 09:43",
-            "description": "Witam \n\nSprzedam zadbanego fiata grandę Punto z 2007 roku z niezawodnym i ekonomicznym silnikiem 1.2 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 19.05.2026\n\nPt ważny rok \n\nButla 2028\n\n\n\nWiecej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/epl5wjz82upl-PL/image;s=1000x750"
-        },
-        {
-            "title": "Chrysler grand voyager 3.3lpg zadbany",
-            "price": "5 750 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/chrysler-grand-voyager-3-3lpg-zadbany-CID5-ID167QMI.html",
-            "location": "Siedlce",
-            "date": "06 June 2025 o 09:43",
-            "description": "Witam \n\nSprzedam zadbanego grand voyagera z 2001 roku z niezawodnym i bardzo ekonomicznym silnikiem 3.3 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nAutomat ładnie zmienia biegi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne rok \n\nPt ważny rok \n\nButla 2025\n\n\n\nWiecej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3uxe1ol9u4on-PL/image;s=1000x750"
-        },
-        {
-            "title": "Opel corsa 1.2lpg ful opcia piekny stan 2009r",
-            "price": "7 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-corsa-1-2lpg-ful-opcia-piekny-stan-2009r-CID5-ID167R3z.html",
-            "location": "Siedlce",
-            "date": "06 June 2025 o 09:43",
-            "description": "Witam \n\nSprzedam zadbaną corsę z 2009 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.2 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nCorsa jest bardzo bogato wyposażona \n\nKlimatyzacja sprawna \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 28.05.2026\n\nPt ważny do 10.01.2026\n\nButla 2032\n\n\n\nWiecej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0vsd2pxt99e5-PL/image;s=1000x750"
-        },
-        {
-            "title": "Samochód Toyota Avensis",
-            "price": "9 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/samochod-toyota-avensis-CID5-ID15hOw0.html",
-            "location": "Sokołów Podlaski",
-            "date": "06 June 2025 o 09:43",
-            "description": "Sprzedam samochód Toyota Avensis rok 2003 \n\nKlimatyzacja automatyczne \n\nSkładane lusterka \n\nElektryczne szyby \n\nHak, alufelgi ,przegląd do maj 2026\n\nW moich rękach od 7 lat. \n\n6 0 2 4 7 3 3 8 3",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/rb6f9x4q5vlf-PL/image;s=750x1000"
-        },
-        {
-            "title": "Nissan Micra 1.5d/zamiana/zadbany/miejskie",
-            "price": "3 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/nissan-micra-1-5d-zamiana-zadbany-miejskie-CID5-ID15UjKt.html",
-            "location": "Warszawa, Białołęka",
-            "date": "06 June 2025 o 09:42",
-            "description": "Witam, posiadamy na sprzedaż piękny i niezawodny samochód Nissan Micra z najlepszym niezawodnym silnikiem 1.5d. Stan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- klimatyzacja\n\n- centralny zamek z pilota\n\n- radio\n\n\n\nBlacharsko jak widać na zdjęciach w dobrym stanie.\n\n\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy!\n\n\n\nSamochód zarejestrowany w kraju\n\n\n\nMożliwy Dowóz do klienta na terenie całej Polski!!\n\n\n\nZapraszamy na : Warszawa Białołęka , Modlińska 325A 03-151\n\n\n\nPrzed przyjazdem zadzwoń, zapytaj o dostępność wybranego auta !\n\n\n\nPrzyjmiemy Twoje auto w rozliczeniu!\n\n\n\nWystawiamy Fakture VAT MARZA - Jesteście Państwo zwolnieni z opłaty skarbowej 2% !\n\n\n\nKomis otwarty 7 dni w tygodniu od 10:00 do 20:00",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/96q4zqm98itx-PL/image;s=964x1280"
         }
     ]
 }
