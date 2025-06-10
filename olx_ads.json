@@ -1,6 +1,17 @@
 {
-    "updated": "2025-06-10 07:49:25.860106",
+    "updated": "2025-06-10 07:56:31.217845",
     "ads": [
+        {
+            "title": "Jaguar X-Type 4x4 3.0 LPG Manual",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/jaguar-x-type-4x4-3-0-lpg-manual-CID5-ID16aUFN.html",
+            "location": "Łódź, Górna",
+            "date": "10 June 2025 o 07:51",
+            "description": "Witam , sprzedam jaguara x type 3.0 benzyna plus instalacja gazowa ważna do 2029 roku . Samochód w pełni sprawny, zadbany , nie wymaga wkładu . Ważne OC oraz przegląd na rok . Więcej informacji telefonicznie pozdrawiam",
+            "details": {},
+            "image_url": null
+        },
         {
             "title": "Mazda 5 1.8 benzynowy 7-osobowy",
             "price": "5 400 zł",
@@ -9922,28 +9933,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJqd2UwYXRhaHV6OTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.KfTHzZtwbzZZVujvVg3iFDhzUIDWObjrxtybBpN4Ykk/image"
-        },
-        {
-            "title": "Lexus is 250 anglik",
-            "price": "4 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/lexus-is-250-anglik-CID5-ID16a2mQ.html",
-            "location": "Radzyń Podlaski",
-            "date": "09 June 2025 o 07:56",
-            "description": "Witam auto wizualnie jak na zdjęciach \n\nTechnicznie wszystko sprawne \n\nKompletny z katalizatorem \n\nPrzebieg podany w milach \n\nPosiada dowód v5c \n\nZapraszam",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/scgyptaxegae3-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Opel astra h,2010,benzyna",
-            "price": "10 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-astra-h-2010-benzyna-CID5-ID15EQij.html",
-            "location": "Łódź, Polesie",
-            "date": "09 June 2025 o 07:50",
-            "description": "Dzień dobry, na sprzedaż Opel Astra z 2010 roku w  benzynie z silnikiem 1,6. Auto użytkowane przez 3 i pół roku w tym czasie zrobione 21 tysięcy km., auto głównie wykorzystywane do dojazdów do pracy ,dobrze spisuje się w mieście. Auto serwisowane na bieżąco, OC ważne do 18.08.2025,a przegląd do 28.11.2025r.\n\nAuto do obejrzenia na Retkinii.\n\nSamochód jeszcze na zimowych oponach,ale w cenie auto dodaje komplet letnich również.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ncxsv4wfjxba2-PL/image;s=1500x2000"
         }
     ]
 }
