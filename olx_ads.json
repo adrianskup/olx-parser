@@ -1,6 +1,83 @@
 {
-    "updated": "2025-06-18 07:30:55.732655",
+    "updated": "2025-06-18 07:44:13.883194",
     "ads": [
+        {
+            "title": "Ford Mondeo Bez korozji.",
+            "price": "3 600 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-mondeo-bez-korozji-ID6Htm8v.html",
+            "location": "Skierniewice",
+            "date": "18 June 2025 o 07:40",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNmeGpramNteng5ay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.XKWR8DqPd8l1OMH6N4UWz6_0VyMR0w8uzCJHkV6nwX4/image"
+        },
+        {
+            "title": "Mercedes-Benz CLK CLK 2.0i Świeżo Sprowadzony Zarejestrowany po kolizji",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/mercedes-benz-clk-clk-2-0i-swiezo-sprowadzony-zarejestrowany-po-kolizji-ID6Hrcym.html",
+            "location": "Łódź, Bałuty",
+            "date": "18 June 2025 o 07:33",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNicTdoNXk3YzBoZS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lNVIDgja6o2jduTsZvGLyjSzWuo_jiUv9gHZ_KCfzFs/image"
+        },
+        {
+            "title": "Vectra c 1,9 diesel kombi",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/vectra-c-1-9-diesel-kombi-CID5-ID15Ohqu.html",
+            "location": "Sobienie Biskupie",
+            "date": "18 June 2025 o 07:32",
+            "description": "Witam,\n\nDo sprzedania Vectra C 1,9 diesel 120 KM\n\nStan auta oceniam na dobry. Wymienione w ostatnim czasie sprzęgło, skrzynia, rozrząd, pompa wody olej i filtry.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ohd7gpf7xggo1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Sprzedam Chrysler 300M 3.5",
+            "price": "6 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-chrysler-300m-3-5-CID5-ID15nw9Y.html",
+            "location": "Garwolin",
+            "date": "18 June 2025 o 07:32",
+            "description": "Sprzedam Chryslera 300M 3,5l 254KM. \n\nSalon PL,Rocznik 99', 3,5l ,308 tys przebiegu. Jestem drugim właścicielem od nowości.\n\nVIN 1C3HEB6G6XH712212\n\n19.04.1999 pierwsza rej.\n\nFajne zadbane auto. Silnik pracuje cicho nic nie puka,stuka itp,olej co 8tys,rozrząd kompletny wymieniony dwa lata temu.\n\nDrugi komplet felg z zimówkami(opony raczej do wymiany)\n\nJest parę rzeczy do zrobienia. Ja już nie mam na to czasu i szukania fachowca ,żeby zrobić to porządnie.\n\nWszystkie info pod nr 88*****38. Nie odpisuję z braku czasu.\n\nAuto można obejrzeć na YT\n\n\n\nhttps://youtu.be/8AcRynaq-WU?si=oyeoxF3hSeDcsyBm",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hbn8jvu36kq61-PL/image;s=736x1632"
+        },
+        {
+            "title": "Alfa gt 1,9 jtd 2007",
+            "price": "7 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/alfa-gt-1-9-jtd-2007-CID5-ID15HTrb.html",
+            "location": "Leszno",
+            "date": "18 June 2025 o 07:30",
+            "description": "Alfa gt 1,9 jtd 150 KM (110 kW) z 2007 roku. Do zrobienia próg. \n\nPrzegląd i OC ważne",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3072icyjnz0i-PL/image;s=1204x1599"
+        },
+        {
+            "title": "SKODA OCTAVIA_1.9 TDI_Salon PL_2 wł_Sprawna Klima",
+            "price": "3 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-octavia-1-9-tdi-salon-pl-2-wl-sprawna-klima-CID5-ID16hv9J.html",
+            "location": "Sarnów",
+            "date": "18 June 2025 o 07:28",
+            "description": "Dzień dobry.\n\nSprzedam SKODE OCTAVIE z silnikiem diesla 1.9 tdi o mocy 105 KM.\n\nAuto kupione w Polskim salonie w 2005r. Drugi właściciel od 16 lat.\n\nMechanicznie sprawna, aczkolwiek robi się ciśnienie w układzie chłodniczym i będzie do zrobienia uszczelka pod głowicą.. Blacharsko jak widać na zdjęciach...tylny prawy i przedni lewy błotnik wgniecenia, jakaś korozja tez się znajdzie.\n\nDodatkowe informacje pod numerem telefonu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cydb6ueysps6-PL/image;s=4000x3000"
+        },
+        {
+            "title": "Ford Mondeo 2009 rok 1,8 D",
+            "price": "8 990 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-mondeo-2009-rok-1-8-d-CID5-IDX5djP.html",
+            "location": "Siedlce",
+            "date": "18 June 2025 o 07:28",
+            "description": "Mam w BDB stanie tech,jak i wizualnym Mondeo do sprzedania.Silnik pracuje wzorowo żadnych przedmuchów ani zapoceń,wszystkie naprawy robione na bierząco.1-wszy właściciel w Polsce.Karoseria bezkorozyjna ,w oryginale.Zapraszam po zakup do Siedlec.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ej4o9f3mgpoa1-PL/image;s=3060x4080"
+        },
         {
             "title": "Ford Mondeo 1.8 benzyna 2004 rok ! Ważne Oplaty !",
             "price": "4 400 zł",
@@ -8712,105 +8789,6 @@
             "description": "Witam \n\nDo sprzedaży oferuje Honda Jazz\n\n*rok 2006\n\n*silnik 1.2 benzyna \n\nPrzebieg 235tys km\n\nKlimatyzacja \n\nAuto zarejestrowane na polskich tablicach \n\nWażne opłaty \n\nOC do września\n\nPT do sierpnia \n\n-Wizualnie bez oznak korozji \n\n-silnik suchy nie myty pracuje bez zastrzeżeń\n\n-Tapicerka czysta zadbana \n\n-Zawieszenie wsiadać jechać \n\nMożliwość przyjęcia auta w rozliczeniu \n\nKupujący zwolniony z opłaty skarbowej \n\nCena 5999zł do uzgodnienia \n\nTel 50*******04 \n\nLokalizacja okolice Białobrzegi radomskie \n\nWiecej informacji telefonicznie",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uz77t0r1rkal-PL/image;s=2000x934"
-        },
-        {
-            "title": "Opel Combo C z klimatyzacja",
-            "price": "8 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-combo-c-z-klimatyzacja-CID5-ID163d7z.html",
-            "location": "Lublin",
-            "date": "17 June 2025 o 07:42",
-            "description": "Rozstania nadszedł czas. Z żalem ale jednak muszę pożegnać Opelka Combo 1.7 ( niezawodny silnik Isuzu). Samochodzik ma najechane 212 tys. Nie woził ciężarów. Zawsze oleje na czas co 10 tyś, dobrej firmy z dodatkiem dwusiarczku molibdenu. Wszystko wymieniane na czas ostatnio chłodnicę klimy, alternator, przednią szybę bo kamyczek rozbił. Opelek pachnący, wyprany, lakier zadbany i lśniący. W komplecie super oponki zimowy, firmy Dębice po dwuch sezonach. Wystawiam fakturę VAT. Zainteresowany jestem kwotą w okolicy 11 tyś brutto za ten niezmęczony egzemplarz. ZMIANA CENY ! Zadowolę się kwota 9500",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ofp7e13abq222-PL/image;s=1000x738"
-        },
-        {
-            "title": "Skoda Fabia Sprzedam Skodę Fabię – sprawna, mocny i niezawodny silnik",
-            "price": "3 000 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-sprzedam-skode-fabie-sprawna-mocny-i-niezawodny-silnik-ID6Hq9ps.html",
-            "location": "Ząbki",
-            "date": "17 June 2025 o 07:42",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQzNnhnMzZpbnVudTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ljvQ1LtmzEL1wL6bc5DHEKVAdOLusKwfmbA3Wd2WO14/image"
-        },
-        {
-            "title": "* Hyundai Santa Fe * 2.4 LPG manual 2005r *",
-            "price": "6 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/hyundai-santa-fe-2-4-lpg-manual-2005r-CID5-ID16gwmu.html",
-            "location": "Radom",
-            "date": "17 June 2025 o 07:42",
-            "description": "Sprzedam Hyundai Santa Fe 2.4 LPG . Autko w pełni sprawne do jazdy . Benzyna gaz działa bez zarzutu . Rama jak i na zewnątrz wygląda bardzo dobrze . Opony ładne z dużym bieżnikiem . Posiada \n\n4 el szyby \n\nCentralny zamek \n\nHak \n\nPodgrzewane fotele \n\nSkórzana tapicerka \n\nKlimatronic [sprawny mrozi]\n\nEl lusterka \n\n8 air bag \n\nISOFIX \n\nPrzegląd świeży na cały rok 2026r \n\nOC do lipca 2025r \n\nLegalizacja butli do 2033r",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8mwgusip5wwp2-PL/image;s=1020x765"
-        },
-        {
-            "title": "Skoda Octavia Skoda Octavia 2 1.6 FSI 2004 stan bardzo do ry",
-            "price": "7 500 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-octavia-skoda-octavia-2-1-6-fsi-2004-stan-bardzo-do-ry-ID6HoGdN.html",
-            "location": "Nowy Kłopoczyn",
-            "date": "17 June 2025 o 07:38",
-            "description": "Ошибка при получении данных",
-            "details": {},
-            "image_url": null
-        },
-        {
-            "title": "Sprzedam Mazda 6 1.8",
-            "price": "3 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-mazda-6-1-8-CID5-ID16guUm.html",
-            "location": "Lublin",
-            "date": "17 June 2025 o 07:37",
-            "description": "Sprzedam MAZDA 6 2004 1.8 benzyna\n\n\n\nCENA 3800\n\n\n\nPrzegląd do grudnia\n\nUbezpieczenie do stycznia \n\nWymienione sprzęgło \n\nPodłoga zdrowa impregnowana, progi wymienione.\n\nNowy akumulator \n\n\n\nAuto w ciągłym użytkowaniu \n\n\n\nWięcej informacji pod nr 79*******30",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/toz9v66de5gx1-PL/image;s=3060x4080"
-        },
-        {
-            "title": "Ford Fusion Ford Fusion Super Stan, bez wkładu, opłaty na rok.",
-            "price": "9 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/ford-fusion-ford-fusion-super-stan-bez-wkladu-oplaty-na-rok-ID6HteXA.html",
-            "location": "Warszawa, Białołęka",
-            "date": "17 June 2025 o 07:36",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjA3bWFmNzY3aGdubS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TkIA1_DcfMK_7d1oFJUrJ4x2_TPwHryoF2W7qAPDH2s/image"
-        },
-        {
-            "title": "Opel Insignia 1.8 2011",
-            "price": "7 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-insignia-1-8-2011-CID5-ID16bMLN.html",
-            "location": "Serock",
-            "date": "17 June 2025 o 07:34",
-            "description": "Sprzedam opel Insignia Anglik \n\nPrzebieg 221 tys \n\n2011 rok \n\n1.8 benzyna 103kw\n\nAuto w pełni sprawne \n\nKlima działa \n\nPosiada hak \n\nCała elektryka sprawna \n\nSilnik ładnie pracuje \n\nSuchy\n\nZawieszenie sztywne \n\nZapraszam",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hyp71oaavpe63-PL/image;s=1040x780"
-        },
-        {
-            "title": "Xsara 1.6 z LPG hak",
-            "price": "3 600 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/xsara-1-6-z-lpg-hak-CID5-ID16guVz.html",
-            "location": "Mniszew",
-            "date": "17 June 2025 o 07:34",
-            "description": "Witam sprzedam fajnego citroena wszystkie naprawy były wykonywane na bieżąco \n\nGaz założony w 2022roku ważny do 2032\n\nOryginalny nieduży przebieg 211000 u mnie auto jeździ około pół roku zostało zakupione na czas naprawy naszego rodzinnego auta sprawdził się wyśmienicie ale teraz szkoda żeby stał 2 kierowców 3 autami jeździć nie będzie:) na wyposażeniu \n\nWspomaganie kierownicy \n\nC.zamek z kluczyka \n\nEl szyby i lusterka \n\nFabryczne radio \n\nHak \n\nGaz\n\nŚmiało jeszcze posłuży \n\nOc do stycznia \n\nPrzegląd do 09.2025",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/78eiyvr6svg53-PL/image;s=1600x1200"
-        },
-        {
-            "title": "Ładny Leon 2002r 1.6benz zarejestrowany*bez korozji*ważne opłaty",
-            "price": "6 999 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/ladny-leon-2002r-1-6benz-zarejestrowanybez-korozjiwazne-oplaty-CID5-ID15Ddo3.html",
-            "location": "Stromiec",
-            "date": "17 June 2025 o 07:33",
-            "description": "Witam\n\nDo sprzedaży oferuje Seata Leon z 2002 roku z silnikiem 1.6 benzyna \n\nAuto zarejestrowane na polskich tablicach Ważne opłaty OC I PT \n\nWizualnie auto bez oznak korozji \n\nKlimatyzacja sprawna \n\nSilnik suchy nie myty ,bez wycieków pracuje prawidłowo \n\nKupujący zwolniony z opłaty skarbowej \n\nMożliwość przyjęcia auta w rozliczeniu \n\nWiecej informacji telefonicznie",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/89b27pu5oaj12-PL/image;s=2000x934"
         }
     ]
 }
