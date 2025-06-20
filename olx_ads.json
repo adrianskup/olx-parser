@@ -1,6 +1,83 @@
 {
-    "updated": "2025-06-20 07:48:53.801715",
+    "updated": "2025-06-20 07:56:10.068564",
     "ads": [
+        {
+            "title": "Seat Tarraco PL Salon*Odstąpie LEASING !!! MAX OPCJA !! Właściciel",
+            "price": "10 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/seat-tarraco-pl-salonodstapie-leasing-max-opcja-wlasciciel-ID6HtuW6.html",
+            "location": "Wyszków",
+            "date": "20 June 2025 o 07:49",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjE2YjN6OHZxeWt1bTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.MeNlzkwsw071ExyzCrcjVbAIJpfLrgCFhwOh3aygAFg/image"
+        },
+        {
+            "title": "Toyota Yaris Sprzedam Yaris I stan dobry cena do negocjacji",
+            "price": "4 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-sprzedam-yaris-i-stan-dobry-cena-do-negocjacji-ID6Hrh7j.html",
+            "location": "Strzałki",
+            "date": "20 June 2025 o 07:48",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNidnBkdWpzZmFpcS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bHaMaTSKtHfzRu25MiOGKnn9c4ow6cUh0bssKj4ysNM/image"
+        },
+        {
+            "title": "Audi A6 Audi A6 C5",
+            "price": "8 400 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a6-audi-a6-c5-ID6Htz1d.html",
+            "location": "Sanniki",
+            "date": "20 June 2025 o 07:48",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFuZGxzamI2Y3g3eTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.sSs6FGzvkUsvqSHY__m8AYp9oQ5GbDVJwQIV3YqfWAA/image"
+        },
+        {
+            "title": "Opel Zafira 1,9tdi",
+            "price": "6 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-9tdi-CID5-ID167Kzr.html",
+            "location": "Warszawa, Ochota",
+            "date": "20 June 2025 o 07:47",
+            "description": "II właściciel , sprawny, Warszawa Ochota,",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qbo9h5s3elnt-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Jaguar X-Type Jaguar X-Type 3.0",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/jaguar-x-type-jaguar-x-type-3-0-ID6HrzKd.html",
+            "location": "Warszawa, Ursynów",
+            "date": "20 June 2025 o 07:46",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk3ZXY3ZWpweGR2ai1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lexAnzES1h-GJuwoObCYekb1Iod1dMx1hZ79sm1PXw8/image"
+        },
+        {
+            "title": "Sprzedam Audi A4 B5 kombi",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-audi-a4-b5-kombi-CID5-ID16fhp5.html",
+            "location": "Kłoczew",
+            "date": "20 June 2025 o 07:45",
+            "description": "Sprzedam Audi A4 B5 kombi automat stan dobry  w ciągłej eksploatacji przez 8 lat użytkowany przez kobietę ubezpieczenie i przegląd do marca 2026 rok produkcji 1999 przebieg 360000 cena 4000 Kłoczew tel 69*****24",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/02rcga70ks153-PL/image;s=768x1024"
+        },
+        {
+            "title": "Hyundai ix35 Ori lakier perfekcyjny stan bezwypadkowy panorama Polecam",
+            "price": "346 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/hyundai-ix35-ori-lakier-perfekcyjny-stan-bezwypadkowy-panorama-polecam-CID5-ID15erEY.html",
+            "location": "Gielniów",
+            "date": "20 June 2025 o 07:45",
+            "description": "Witam,\n\nDo sprzedania Hyundai ix35 w bogatej wersji wyposażenia. Auto całe w oryginalnym lakierze wraz ze wszystkimi szybami lampami bezwypadkowe.\n\nHyundai w perfekcyjnym stanie zewnętrznym jak i wewnętrznym, wnętrze auta wygląda jak nowe.\n\nPełne wyposażenie wraz z klimatyzacją sprawne. \n\nAuto serwisowane na bieżąco na chwilę obecną nie wymaga żadnego nakładu finansowego. \n\nHyundai na żywo prezentuje się znacznie lepiej niż na dodanych zdjęciach.\n\nCena 34600 do negocjacji.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qbmnt54plpzj3-PL/image;s=1020x765"
+        },
         {
             "title": "Seat Cordoba 1.4 LPG Gaz Sekwencja Do Jazdy!",
             "price": "4 999 zł",
@@ -9592,105 +9669,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRpZ2Vkb2o1aTZzNi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yzhu45n2P09Dwa4a7qPL3YvrkkT99orlQhNRuo4CgKM/image"
-        },
-        {
-            "title": "Matiz 900 benzyna",
-            "price": "2 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/matiz-900-benzyna-CID5-ID16ionO.html",
-            "location": "Siedlce",
-            "date": "19 June 2025 o 07:56",
-            "description": "Witam sprzedam matiza 900. Do zrobienia zbieżność i 1 opona jest już słaba tak po za tym jeździ skręca hamuje. Cena do negocjacji. Przegląd do końca listopada a ubezpieczenie do końca czerwca.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/a5sdqsufgumd3-PL/image;s=1500x2000"
-        },
-        {
-            "title": "Sprzedam Skoda Octavia",
-            "price": "4 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-skoda-octavia-CID5-ID15mWEG.html",
-            "location": "Mińsk Mazowiecki",
-            "date": "19 June 2025 o 07:55",
-            "description": "Skoda Octavia 1 1.6 MPI  benzyna+gaz\n\nrok prod.2005 \n\nprzebieg 288.000\n\ndrugi właściciel \n\ngarażowany\n\ntel.6********83",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8q053cglefc31-PL/image;s=798x445"
-        },
-        {
-            "title": "Opel Corsa Opel Corsa 2003r st.dobry benzyna wazne opaty",
-            "price": "2 200 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/opel-corsa-opel-corsa-2003r-st-dobry-benzyna-wazne-opaty-ID6HrmkI.html",
-            "location": "Warszawa, Mokotów",
-            "date": "19 June 2025 o 07:55",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFnanhqa2NibzI5eDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.bjy2QA2nsIKhcp1o3ThoD_SHwfUI1-JRTqVJH1NUlOg/image"
-        },
-        {
-            "title": "RENAULT LAGUNA II 2002 super stan długie opłaty",
-            "price": "4 799 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-laguna-ii-2002-super-stan-dlugie-oplaty-CID5-ID118Rbq.html",
-            "location": "Łódź, Polesie",
-            "date": "19 June 2025 o 07:53",
-            "description": "Opis\n\nWitam do sprzedania posiadam prezentowany samochód RENAULT LAGUNA LIFTBACK z niezawodnym i ekonomicznym silnikiem 1.8 benzyna . Wyposażony w manualną skrzynie biegów. Auto dzięki swoim gabarytom jest dynamiczne oraz jest bardzo funkcjonalne. Bardzo ładnie się prezentuje, jazda nim to czysta przyjemność. Oryginalny, potwierdzony przebieg 240 tys kilometrów Pochodzi z polskiego salonu i posiada bogate wyposażenie:\n\n\n\n- zadbana  tapicerka\n\n\n\n-wspomaganie kierownicy i hamulców\n\n\n\n- centralny zamek z pilota\n\n\n\n- elektryczne szyby x 4\n\n\n\n- elektryczne lusterka\n\n\n\n- czujnik zmierzchu\n\n\n\n- czujnik deszczu\n\n\n\n- skórzana kierownica\n\n\n\n- zadbane wnętrze skóra w stanie bardzo dobrym\n\n\n\n- sterowanie radia z kierownicy\n\n\n\n- klimatyzacja (CLIMATRONIC)\n\n\n\n- markowe nagłośnienie\n\n\n\n- rolety w tylnych drzwiach oraz na tylnej szybie\n\n\n\n- orginalne alufelgi 16'\"\n\n\n\n- kompletne wyposażenie tj. koło zapasowe, lewarek, klucz, trójkąt, gaśnica i apteczka\n\n\n\nAuto jest na bieżąco serwisowane i nie wymaga żadnego wkładu finansowego. Po wymianie elementów zawieszenia, tarcz, klocków i oleju. Dwa lata temu wymieniono rozrząd. Jeździ na syntetycznym oleju! Przegląd techniczny ważny do 07.2025 i OC aktualne do 07.2025 Zapraszam do obejrzenia i na jazdę próbną. NIE ODPOWIADAM NA ŻADNE WIADOMOŚCI I SMS- PROSZĘ O KONTAKT TELEFONICZNY",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/5yiiw5dfgdb9-PL/image;s=1008x756"
-        },
-        {
-            "title": "Citroën C4 Grand Picasso Citroen C4 Grand Picasso - Jeździ, Pali!",
-            "price": "4 999 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c4-grand-picasso-citroen-c4-grand-picasso-jezdzi-pali-ID6HtwY0.html",
-            "location": "Łódź, Polesie",
-            "date": "19 June 2025 o 07:53",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo4MW1ib3ZrMnBkMDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.SJ3jhiOEPr9nlTg7OPa9OfwNQmWmgFXVbhkKMW2_CJA/image"
-        },
-        {
-            "title": "Suzuki Vitara 2.0V6",
-            "price": "8 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/suzuki-vitara-2-0v6-CID5-ID16inZ9.html",
-            "location": "Pokrzywnica",
-            "date": "19 June 2025 o 07:51",
-            "description": "Sprzedam suzuki Vitara 2.0v6 z instalacją gazową. Przegląd do 11.01.2026r , ubezpieczenie aktualne. \n\nRama samochodu bardzo zdrowa, technicznie sprawny, odpala bez problemu, jezdzi na obu paliwach. Napędy sprawne, suche, działają  bez najmniejszego problemu. Silnik suchy, bez wycieków.\n\nDo auta dorzucam 4 opony terenowe widoczne na zdjeciach.\n\nZapraszam do kontaktu, cena do negocjacji.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fbknycozhy3f2-PL/image;s=424x563"
-        },
-        {
-            "title": "Renault Laguna 3-2.0 Benz.Rok 2010/11-Bez wkładu finansowego.",
-            "price": "8 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-laguna-3-2-0-benz-rok-2010-11-bez-wkladu-finansowego-CID5-ID16ceO1.html",
-            "location": "Płońsk",
-            "date": "19 June 2025 o 07:51",
-            "description": "Do sprzedania dobrze utrzymana Laguna z trwałym silnikiem benzynowym o pojemności 2.0 ,regenerującym 140 km na łańcuszku rozrządu, który pracuje bardzo ładnie, nie dymi i ma moc.\n\nZawieszenie sztywne, prowadzi się jak po sznurku.\n\nKorozji nie widać,progi ładne.\n\nŚrodek należycie utrzymany.\n\nNa desce rozdzielczej nie palą się żadne niepokojące kontrolki.\n\nKlimatyzacja sprawna.\n\nNawigacja w języku polskim.\n\nBogate wyposażenie.\n\nSkrzynia biegów manualna 6-cio biegowa \n\nOpony wielosezonowe z bieżnikiem ok 5 mam.\n\nPo wymianie oleju 5/30 ( 3 tyś.km.)\n\nW tamtym roku wymienione tarcze i klocki, wszystko robione na bieżąco.\n\nZapraszam bo warto, cena okazyjna\n\n(Praktycznie sztywna)\n\n\n\nOC - 12.07.2025\n\nPrzegląd - 22.08.2025\n\n\n\nKontakt wyłącznie telefoniczny.\n\nKupujący zwolniony z opłaty skarbowej.\n\nNie zamieniam.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l05ek1mhohdy-PL/image;s=1632x736"
-        },
-        {
-            "title": "Peugeot 407 2.0 DIESEL 136KM XENON Panorama HAK Półskóry 100% Oryginalny Lakier",
-            "price": "5 999 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/peugeot-407-2-0-diesel-136km-xenon-panorama-hak-polskory-100-oryginalny-lakier-ID6HtwYq.html",
-            "location": "Łódź, Górna",
-            "date": "19 June 2025 o 07:50",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imp3eGdnc3Ewd2QwajEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.jSCyD6EQobMG1LApLz2Ma2xC6hn-aHaWQ5llU1JFQYs/image"
-        },
-        {
-            "title": "Sprzedam Toyota Yaris",
-            "price": "1 700 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-toyota-yaris-CID5-ID15QbLp.html",
-            "location": "Otwock",
-            "date": "19 June 2025 o 07:49",
-            "description": "Na sprzedaż Toyota Yaris wersja 3 drzwi 1.0 benzyna ważne ubezpieczenie i przegląd. Jezdzi na co dzień",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/6delkk6w7viv1-PL/image;s=1125x1500"
         }
     ]
 }
