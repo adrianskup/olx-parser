@@ -1,6 +1,61 @@
 {
-    "updated": "2025-06-20 11:11:01.739194",
+    "updated": "2025-06-20 11:13:14.359652",
     "ads": [
+        {
+            "title": "Mazda 6 2005 LPG",
+            "price": "7 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mazda-6-2005-lpg-CID5-ID16jgNy.html",
+            "location": "Łódź, Polesie",
+            "date": "20 June 2025 o 11:07",
+            "description": "Madzia 6 1,8 benzyna plus LPG 120KM. Niski przebieg bo tylko 153 tys. Przeglad ważny do 15.11.2025. Butla ważna do 2032 roku . Instalacja gazowa BRC. Auto bardzo zadbane. Środek samochodu bez uszkodzeń. Wygląda jak nowy. Dobre nagłośnienie.Opony w super stanie.Zawieszenie bez żadnych stuków. Prowadzi się bardzo płynnie. Biegi wchodzą tak jak powinny. Ostatnio zrobione: wymieniony na nowy akumulator, wymienione z przodu tarcze i klocki, nowy olej i filtr, wymieniony czujnik położenia wałka rozrządu. Klimatyzacja sprawna (nabita i odgrzybiona).Z małych wad to jedynie małe ognisko korozji pokazane na zdjęciu. Auto ma czarne alufelgi co dodaje uroku. Mazda naprawdę godna uwagi. Zapraszam do oględzin, jazdę próbną i zakupu",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l1otel2raj921-PL/image;s=1600x900"
+        },
+        {
+            "title": "We bora 1.8 benzyna",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/we-bora-1-8-benzyna-CID5-ID16hDLP.html",
+            "location": "Wojciechów",
+            "date": "20 June 2025 o 11:07",
+            "description": "Ww bora 1.8 benzyna \n\nJazdzi skręca hamuje \n\nDwa komplety kół",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bz6u33rvr64n2-PL/image;s=1156x516"
+        },
+        {
+            "title": "Mercedes W204 1.8",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mercedes-w204-1-8-CID5-ID16jgKb.html",
+            "location": "Pionki",
+            "date": "20 June 2025 o 11:05",
+            "description": "Mercedes W204 1.8. Po wymianie rozrządu. Przebieg podany w milach.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cbyzuo7lcig01-PL/image;s=1000x750"
+        },
+        {
+            "title": "Audi A4 B5 sedan",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/audi-a4-b5-sedan-CID5-ID16jgUC.html",
+            "location": "Gąbin",
+            "date": "20 June 2025 o 11:04",
+            "description": "samochód jest sprawny widoczna rdza na na drzwiach, błotniku i klapie bagażnika",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pkpdg825rgui-PL/image;s=1536x2048"
+        },
+        {
+            "title": "Sprzedam Kia Ceed",
+            "price": "6 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-kia-ceed-CID5-ID10ALH4.html",
+            "location": "Piotrków Trybunalski",
+            "date": "20 June 2025 o 11:04",
+            "description": "Sprzedam Kia Ceed z 2007 roku, 1.6 Crdi. Zawieszenie w bardzo dobrym stanie, jedynie do wymiany już klocki. W ostatnim czasie wymiana oleju, płynów, opon. Z minusów wgniotka na progu widoczna na zdjeciu i mały parch na tylnej klapie.Posiada bogate wyposażenie, między innymi klimatyzacja działająca, siedzenia półskóra, elektryczne szyby. Jestem właścicielem od 9 lat. Zapraszam do kontaktu.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s5ro754l5a41-PL/image;s=756x1008"
+        },
         {
             "title": "Volvo 850 2.5 R5 10v 144km. DOHC",
             "price": "5 800 zł",
@@ -11,6 +66,17 @@
             "description": "Szwedzki czołg. Sprzeda Volvo 850 z 1995r. Silnik czysta benzyna 2.5 r5 10v 144km. Przebieg zaledwie 267.000. Sprowadzone ze Szwecji w 2004r. I od tamtej pory jedna właścicielka. Silnik pracuje pięknie, środek zadbany, z zewnątrz bez rdzy, dach do poprawki, stara przygoda z gałęzią na dachu, po latach zszedł lakier. Zapraszam wszystkich miłośników starej porządnej motoryzacji.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/p5vdgtzv2n1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Renault Laguna Fajne auto rodzinne.",
+            "price": "7 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-laguna-fajne-auto-rodzinne-ID6HqPYh.html",
+            "location": "Radom",
+            "date": "20 June 2025 o 11:02",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNvdWlwYjF2cnF4dDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.OF8ucmiFQF8TVIriWfN_1rsi1LxZBH5H6oCxEWWY-8Q/image"
         },
         {
             "title": "Volvo V50 1.8 125KM 2004",
@@ -33,6 +99,17 @@
             "description": "Szkolna 120, 05-110 Jabłonna.\n\nCodziennie od 10 do 20\n\n\n\nTel: 794\"\"\"349\"\"\"389\n\n\n\nSamochód zarejestrowany w kraju.\n\n\n\nDzień dobry wystawiamy dzisiaj bardzo fajną Mazdę 5 z silnikiem diesel o pojemności 2.0L z manualną skrzynią biegów \n\n\n\nSilnik odpala na dotyk, pracuje równo i prawidłowo, nie dymi. Zawieszenie w dobrym stanie nie wybite, nic nie stuka.\n\n\n\nUbezpieczenie OC oraz przegląd techniczny ważne!!!\n\n\n\nMożliwość pozostawienia swojego starego auta w rozliczeniu!\n\n\n\nWystawiamy fakturę VAT MARŻĘ jesteście Państwo zwolnieni z opłaty skarbowej 2%.\n\n\n\nRezerwacja możliwa tylko po wpłacie zadatku!\n\n\n\nPrzed przyjazdem zadzwoń i zapytaj o dostępność danego pojazdu!",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7s0sclie5ijd1-PL/image;s=750x1000"
+        },
+        {
+            "title": "Nissan micra K11",
+            "price": "3 600 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/nissan-micra-k11-CID5-ID16jgmu.html",
+            "location": "Warszawa, Wilanów",
+            "date": "20 June 2025 o 10:56",
+            "description": "Nissan micra K11 1998 1.0 LPG\n\nPT do 20.05.2026\n\nUbezpieczenie do 24.06.2025\n\n\n\nSamochód nie ma żadnych problemów. Jest bardzo miękki i wygodny. Jest ekonomiczny. Spala 27 zł gazu na 100 km.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/auhls98t0i6k3-PL/image;s=1000x793"
         },
         {
             "title": "Ford Mondeo mk3 2.5v6",
@@ -9911,28 +9988,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg4NmowcnBpNmF4dzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.-EIgk0gxDFsMBYpMcsQKaK7e5MU0Z-L9iNz0Em5lnZU/image"
-        },
-        {
-            "title": "Audi A3 8L 2001 - Sprawne, gotowe do jazdy!",
-            "price": "2 799 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/audi-a3-8l-2001-sprawne-gotowe-do-jazdy-CID5-ID156pos.html",
-            "location": "Łaskarzew",
-            "date": "19 June 2025 o 11:13",
-            "description": "Audi A3 8L 2001 – Na sprzedaż\n\n\n\nSprzedam Audi A3 8L z 2001 roku. Auto w dobrym stanie technicznym, i oszczędne w eksploatacji.\n\n\n\n Silnik i mechanika:\n\n• Silnik pracuje równo, pali bez problemów\n\n• Niskie spalanie\n\n• Filtry i oleje wymienione w listopadzie 2024\n\n• Nowe klocki i tarcze hamulcowe (listopad 2024)\n\n• Wymienione szczotki alternatora (grudzień 2024)\n\n• Świeży akumulator\n\n\n\n Komfort i wyposażenie:\n\n• Sprawna klimatyzacja\n\n• Dobre nagłośnienie\n\n• Nowe opony zimowe, letnie w przyzwoitym stanie\n\n• Radio samochodowe Sony DSX-A410BT\n\n• Dywaniki welurowe (trochę zużyte)\n\n\n\n Formalności:\n\n• Przegląd ważny do 16.11.2025\n\n• OC opłacone do stycznia 2026\n\n\n\n Wady:\n\n• Do wymiany czujnik ciśnienia oleju\n\n• Uszkodzony przedni zderzak, brak prawego nadkola, przytarcie na tylnym zderzaku\n\n• Normalne ślady użytkowania i rysy jak na 24-letnie auto\n\n• Prawdopodobnie czujnik temperatury do wymiany\n\n• Święcący się check-engine\n\n\n\nNigdy większych problemów nie miałem.\n\n\n\nSamochód na chodzie, gotowy do jazdy. Cena do negocjacji.\n\nZapraszam do kontaktu!",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wnqqypw0ckg71-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Autokomis TopCar! Toyota Avensis 2.0 Diesel/Bogato wyposadzona/Polecam",
-            "price": "4 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/autokomis-topcar-toyota-avensis-2-0-diesel-bogato-wyposadzona-polecam-CID5-ID166aoI.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "19 June 2025 o 11:12",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękna i niezawodna Toyota Avensis wyprodukowana w 2006 Roku z najlepszym niezawodnym silnikiem 2.0 Diesel, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne 4 szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n-Tempomat\n\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n\n- Mozliwosc ustawienia max predkosci w komputerze, ktorej samochod nie pozwoli nam przekroczyc\n\n- podgrzewane lusterka\n\n- sterowanie radiem z kierownicy\n\n- elektrycznie sterowane szyby (przod+tyl)\n\n- dwustrefowy klimatronik\n\n\n\nI wiele innego !\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pk48orsk897a1-PL/image;s=750x1000"
         }
     ]
 }
