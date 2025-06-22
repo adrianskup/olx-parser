@@ -1,6 +1,61 @@
 {
-    "updated": "2025-06-22 09:12:21.284970",
+    "updated": "2025-06-22 09:15:21.854207",
     "ads": [
+        {
+            "title": "sprzedam Honda City",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-honda-city-CID5-ID14NPzb.html",
+            "location": "Brwinów",
+            "date": "22 June 2025 o 09:12",
+            "description": "Sprzedam ładną Hondę City z 2008 roku. Auto jest w bardzo dobrym stanie technicznym, blacha bez dziur i korozji. Zawieszenie sztywne, bez żadnych niepojących odgłosów; sprzęgło, biegi działają jak należy. Wyposażona w klimatyzację, szyby i lusterka w prądzie. Przegląd aktualny do 20.02.26. OC do 08.10.25. Auto godne polecenia, do jazdy bez wkładu finansowego. Więcej pod nr. : tel: 51*******15",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sjpwpj93a36n2-PL/image;s=4080x3060"
+        },
+        {
+            "title": "Citroën C4 Citroen C4 1.4 2007",
+            "price": "3 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c4-citroen-c4-1-4-2007-ID6HtFeL.html",
+            "location": "Łódź, Górna",
+            "date": "22 June 2025 o 09:11",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNjNDNoZWQycGt2MzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.IehqIoTs9hk-sBsWaaemR8oeGg_H_NdxGy3lNaXi4B8/image"
+        },
+        {
+            "title": "Skoda Fabia !!!Targówek!!! 1.4 Benzyna + LPG, 2002 rok produkcji! KOMIS TYSIAK",
+            "price": "3 700 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-targowek-1-4-benzyna-lpg-2002-rok-produkcji-komis-tysiak-ID6HrXPj.html",
+            "location": "Warszawa, Targówek",
+            "date": "22 June 2025 o 09:09",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFtazE1ejE2M3hhZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.eyZ4I7g1WTSr-aVPpc4QdKtci2bcgzJ8vqDvwRAykVQ/image"
+        },
+        {
+            "title": "Skoda Octavia Skoda Octavia I Combi, 1.8 T. 2000 rok, benzyna/gaz. Webasto Klima",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-octavia-skoda-octavia-i-combi-1-8-t-2000-rok-benzyna-gaz-webasto-klima-ID6HmtAW.html",
+            "location": "Radom",
+            "date": "22 June 2025 o 09:09",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp5ZGxsMTJtdWxpZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.b1WEcwSwOOH55pZf46Bv9nNzOF-89BcoV1mzr_7amaw/image"
+        },
+        {
+            "title": "Nissan X-Trail 2.2",
+            "price": "9 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/nissan-x-trail-2-2-CID5-ID16kmoY.html",
+            "location": "Sokołów Podlaski",
+            "date": "22 June 2025 o 09:08",
+            "description": "Nissan X-Trail 2.2 dCi 136 km 4x4 z 2006 roku wersja Columbia o przebiegu 193400 km.Auto użytkowane przeze mnie od 13 lat , naprawy mechaniczne wykonywane na bieżąco ( ostatnio tarcze i klocki tył).Przegląd ważny do 06.2026 , Oc do 09. 2025. Auto nie \"picowane\" do poprawek blacharskich.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/obzwjhioerfl3-PL/image;s=1512x1269"
+        },
         {
             "title": "Volvo C30 R, 09 rok, 1.8, 125KM, alu 18, skóra",
             "price": "1 490 zł",
@@ -8525,39 +8580,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM5NGo1dmczdms1eDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.WUWg4MN9cSXqtEaaebctmpLeLA-KUutm5-wC7B3H4C8/image"
-        },
-        {
-            "title": "Renault Laguna III 2.0 dCi po kolizji",
-            "price": "5 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-laguna-iii-2-0-dci-po-kolizji-CID5-ID16jPbI.html",
-            "location": "Michów",
-            "date": "21 June 2025 o 09:15",
-            "description": "Sprzedam Renault Laguna III 2.0 dCi 130 KM Bose.\n\nSilnik odpala pięknie pracuje.\n\nW aucie w listopadzie wymienione sprzęgło kpl oraz kompletny rozrząd.\n\nW lutym 2023 regenerowane wtryskiwacze oraz pompa wtryskowa.\n\nAuto stoi na 16 calowych kołach.Brak haka holowniczego.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lmrg2tnvpv513-PL/image;s=1500x2000"
-        },
-        {
-            "title": "Audi a4 b5 1.8 LPG 125km sedan zadbany",
-            "price": "5 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/audi-a4-b5-1-8-lpg-125km-sedan-zadbany-CID5-ID16jP6G.html",
-            "location": "Warszawa, Włochy",
-            "date": "21 June 2025 o 09:13",
-            "description": "Witam, audi a4 B5 lift z 1999 roku z silnikiem 1.8 125km z gazem. Auto posiadam 5 lat i nigdy mnie nie zawiodło. Bez rdzy, ladny blacharsko. Stan techniczny oceniam na bardzo dobry. Silnik ładnie odpala, ma swoją moc. Autko naprawiane na bieżąco. Środek zadbany. Przegląd do lutego 2026 , oc do marca 2026 .",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/izc268jvnjn93-PL/image;s=1020x765"
-        },
-        {
-            "title": "Ford Focus MK 1999- Benzyna- Sprawny",
-            "price": "2 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/ford-focus-mk-1999-benzyna-sprawny-CID5-ID16jOZ6.html",
-            "location": "Niedźwiada",
-            "date": "21 June 2025 o 09:13",
-            "description": "Witam, \n\nNa sprzedaż samochód Ford Focus z 1999 roku. \n\nSamochód sprawny. Niewiele eksploatowany. \n\nPrzebieg 205 411 km. Auto posiada adekwatne do wieku ślady użytkowania. \n\nOstatnio wymieniany alternator. Auto całkowicie na chodzie. \n\nStan techniczny dobry- gotowy do jazdy. \n\nWażny przegląd techniczny i ubezpieczenie. \n\nIdealny jako pierwszy samochód do nauki jazdy! \n\nCena do rozsądnej negocjacji.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vowe8i1akrji-PL/image;s=4032x3024"
         }
     ]
 }
