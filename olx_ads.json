@@ -1,6 +1,28 @@
 {
-    "updated": "2025-06-24 07:44:38.709897",
+    "updated": "2025-06-24 07:52:05.209889",
     "ads": [
+        {
+            "title": "Sprzedam Chrysler PT Cruiser 2001 2.0 141KM 1 właściciel  full opcja",
+            "price": "5 600 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-chrysler-pt-cruiser-2001-2-0-141km-1-wlasciciel-full-opcja-CID5-ID16lZkI.html",
+            "location": "Radom",
+            "date": "24 June 2025 o 07:47",
+            "description": "Sprzedam Chrysler PT Cruiser 2001 2.0 B+G 141KM full opcja sprowadzony z Niemiec 1 właściciel w Polsce nowa sekwencyjna instalacja gazowa STAG ważna do 2032r auto w bardzo dobrym stanie technicznym nowe opony wielosezonowe cena do negocjacji",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o847t3bqdond-PL/image;s=924x2000"
+        },
+        {
+            "title": "Mazda CX9 2.5 SkyActiv-G Turbo z przeznaczeniem na  czesci",
+            "price": "1 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mazda-cx9-2-5-skyactiv-g-turbo-z-przeznaczeniem-na-czesci-CID5-ID13rsp2.html",
+            "location": "Wyszków",
+            "date": "24 June 2025 o 07:44",
+            "description": "Witam. Mazda CX9 z przeznaczeniem na czesci. Sprzedaz w calosci. Silnik 2,5 skyactiv ktory ma przejechane 4 000 km. Skrzynia automatyczna. Wiecej informacji pod numerem telefonu.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/2h65bv8oxfrl-PL/image;s=1156x867"
+        },
         {
             "title": "Nissan Micra k11 1.0 benzyna, klimatyzacja",
             "price": "4 500 zł",
@@ -9086,39 +9108,6 @@
             "description": "Sprzedam, autko w stanie dobrym wsiadać i jechać, wszystko sprawne, opłacone, z ważnym przeglądem. Auto jestz 2005 roku",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/slwli8ye6f933-PL/image;s=900x1600"
-        },
-        {
-            "title": "Sprzedam samochód",
-            "price": "3 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-samochod-CID5-ID16kYLG.html",
-            "location": "Ryki",
-            "date": "23 June 2025 o 07:47",
-            "description": "Sprzedam samochód osobowy marki Peugeot 308 Zainteresowane osoby proszę o kontakt.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9z8e018liljc3-PL/image;s=540x1170"
-        },
-        {
-            "title": "Renault Clio Renault Clio, 1.2 benzyna, salon Polska, klimatyzacja",
-            "price": "7 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/renault-clio-renault-clio-1-2-benzyna-salon-polska-klimatyzacja-ID6HsJlq.html",
-            "location": "Zawady",
-            "date": "23 June 2025 o 07:47",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imdmb2s0MTVuaHQxNDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.l5JnXcBZq6WhO8u2z2hb1ORSr9oVKVWob28XxTjkueA/image"
-        },
-        {
-            "title": "Audi A4 Audi A4 B6 1.6",
-            "price": "6 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a4-audi-a4-b6-1-6-ID6HoD0P.html",
-            "location": "Stefanów",
-            "date": "23 June 2025 o 07:45",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlkdWZ0bXhvbmRqaDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Gjl0ezKgmV9FzdGPp1RegWCoHq1ROiTlCvJDoKgLwl4/image"
         }
     ]
 }
