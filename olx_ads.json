@@ -1,6 +1,17 @@
 {
-    "updated": "2025-06-26 14:21:31.090280",
+    "updated": "2025-06-26 14:24:36.056282",
     "ads": [
+        {
+            "title": "Audi A4",
+            "price": "500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/audi-a4-ID6HuqS7.html",
+            "location": "Lublin",
+            "date": "26 June 2025 o 14:18",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": null
+        },
         {
             "title": "Mazda Premacy 1.8L, 1999r, klimatyzacja, elektryka, zadbana, tanio",
             "price": "2 900 zł",
@@ -33,6 +44,28 @@
             "description": "Witam, sprzedam Land Rovera 2.5 V6 z gazem, automat. Auto odpala, jeździ, chodzi na gazie i na benzynie. Proszę o kontakt tel.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/fbtepyhpmvh62-PL/image;s=2048x1542"
+        },
+        {
+            "title": "Mercedes Benz CLK200",
+            "price": "3 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mercedes-benz-clk200-CID5-ID16eVxe.html",
+            "location": "Warszawa, Wola",
+            "date": "26 June 2025 o 14:12",
+            "description": "Sprzedaję Mercedesa   Samochód odpala i jeździ, jest mały problem z elektroniką, prawdopodobnie instalacja gazowa, gdyż silnik był sprawdzany pod kątem ciśnienia w każdym cylindrze, 11-12 barów, czasami potraja. ma zainstalowaną instalację gazową. Butla ważna do 32 roku życia. Ubezpieczenie i przegląd techniczny ważne 9 miesięcy.Jeśli masz jakieś pytania, zadzwoń.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7qedgu6djh052-PL/image;s=1008x756"
+        },
+        {
+            "title": "Citroën Berlingo Citroen Berlingo 2.0 HDI 2005 r. - Na części",
+            "price": "1 845 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-berlingo-citroen-berlingo-2-0-hdi-2005-r-na-czesci-ID6H71Ex.html",
+            "location": "Pruszków",
+            "date": "26 June 2025 o 14:10",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlrenFkMWF3NG5yMTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.t3FkaQZIqDfzdFBpxetJ8nxqxMFKl5bWsIC7z1vs-YA/image"
         },
         {
             "title": "Audi A4, 2005 rok automat 2.0D– Otokomis! Gwarancji!",
@@ -8932,17 +8965,6 @@
             "description": "Sprzedam Golfa 4 z silnikiem 1.4 benzyna z instalacją LPG. Auto wyprodukowane w drugiej połowie 2003 w limitowanej wersji Special.\n\nOryginalny przebieg 236 tys \n\nPosiada bogate wyposażenie: \n\nClimatronic\n\nFabryczne czujniki cofania z tyłu\n\n4 elektryczne szyby\n\nPodgrzewane elektryczne lusterka\n\nAluminiowe felgi 15\"\n\nDołożone radio kenwood z systemem głośnomówiącym bluetooth\n\n\n\nGolfik serwisiwany na bieżąco. \n\nWymienine tarcze i klocki, sprężyny, tuleje, przeguby przód \n\nTłumik środkowy i końcowy\n\nAlternator\n\n\n\nWiecej informacji udzielę telefonicznie",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/odznxvpj5qlx-PL/image;s=4000x2250"
-        },
-        {
-            "title": "Nissan Micra k12 1.4",
-            "price": "1 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/nissan-micra-k12-1-4-CID5-ID16nlXO.html",
-            "location": "Nowy Kębłów",
-            "date": "25 June 2025 o 14:23",
-            "description": "Nissan Micra k12 1.4 benzyna + gaz\n\nSamochód jeździ,\n\nUsterka która występuje to brak kompresji na jednym z cylindrów i nadmierne zużycie oleju \n\nOc do 4.07.2025\n\nBadanie techniczne 24.07.2025\n\nWięcej informacji podaje w wiadomości prywatnej",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nvjjtxgby0dv-PL/image;s=768x1024"
         }
     ]
 }
