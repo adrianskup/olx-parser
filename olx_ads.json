@@ -1,6 +1,72 @@
 {
-    "updated": "2025-06-27 07:31:09.306837",
+    "updated": "2025-06-27 07:42:38.583639",
     "ads": [
+        {
+            "title": "Volkswagen Polo 1.2",
+            "price": "4 300 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-polo-1-2-CID5-ID16aYMb.html",
+            "location": "Zalesice",
+            "date": "27 June 2025 o 07:37",
+            "description": "Samochód w dobrym stanie, posiada małe mankamenty lakiernicze. Przegląd ważny do stycznia 2026, ubezpieczenie ważne do 21.01.26. Pierwsza rejestracja w kraju 01.02.24. Auto posiada dwa komplety kół.Po więcej zdjęć i informacji zapraszam do kontaktu .",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xi6msgeq8tds3-PL/image;s=750x1000"
+        },
+        {
+            "title": "Subaru Outback USZKODZONY 3.0 245KM 4X4 skóry nawi panorama OPŁACONY",
+            "price": "8 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/subaru-outback-uszkodzony-3-0-245km-4x4-skory-nawi-panorama-oplacony-ID6HsAyg.html",
+            "location": "Płock",
+            "date": "27 June 2025 o 07:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBodjMxNzRwMWZhNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TDrxzkScVeFVkAXpfOcvsa18XWsmNESVkVb7RlBjC-U/image"
+        },
+        {
+            "title": "Śliczny Scenic/Lift 2008/Wersja Conquest/ 1,9 DCI 130KM/Bogate Wyposaż",
+            "price": "7 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sliczny-scenic-lift-2008-wersja-conquest-1-9-dci-130km-bogate-wyposaz-CID5-ID162YW9.html",
+            "location": "Gostynin",
+            "date": "27 June 2025 o 07:35",
+            "description": "Witam do sprzedania mam ładnego nie tuzinkowego Scenica w rzadkiej wersji Conquest z 2008roku z super silnikiem 1,9DcI o mocy 130km. Auto wizualnie jak na swój wiek jest w super kondycji, lakier lśniący nie wypłowiały i co naj ważniejsze     wolny od korozji. Mechanicznie w super stanie silnik zdrowiutki zapala na strzał bez kopcenia i mocy mu nie brakuje, zawieszenie bez luzów, prowadzi się pewnie skrzynia 6biegowa, na aucie dwuletnie opony. Środek nie zniszczony tapicerka cała nie wycierana czysta, plastiki na swoim miejscu, posiada dość bogate wyposażenie jak m.in.. system bez kluczykowy , climatronic, tempomat, 4 el szyby lusterka, alufelgi ,itd. Opłaty do końca roku Polecam",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bs9qjjx8rl9r-PL/image;s=1024x768"
+        },
+        {
+            "title": "Volkswagen Passat 1,8 Turbo + LPG, Dodatkowy komplet Opon + Felgy",
+            "price": "4 400 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-passat-1-8-turbo-lpg-dodatkowy-komplet-opon-felgy-CID5-ID15L4nt.html",
+            "location": "Łódź, Górna",
+            "date": "27 June 2025 o 07:35",
+            "description": "Samochód w pełni sprawny mechanicznie. Silnik pracuje bardzo dobrze. Ekonomiczny – benzyna + gaz. Posiada drobne mankamenty wizualne, które nie wpływają na jazdę.\n\nZrobione nagłośnienie – zamontowany wzmacniacz.\n\nKlimatyzacja nie działa – nie dmucha zimnym powietrzem. \n\nNa desce rozdzielczej pojawiają się błędy, których faktycznie nie ma – do usunięcia.\n\nW komplecie: wideorejestrator, kamera cofania, apteczka, koło zapasowe, gaśnica. \n\nZałożone zimowe opony 16”. Dodatkowo komplet letnich opon na alufelgach tytanowych ,15”.\n\nPrzegląd techniczny ważny do 16.08.2025, ubezpieczenie OC do 07.07.2025.\n\nSprzedaję, ponieważ samochód od dłuższego czasu stoi nieużywany – mam firmowy pojazd.\n\nAkumulator w pełni naładowany, auto odpala bez problemu.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mdyc2mqzacg6-PL/image;s=960x1280"
+        },
+        {
+            "title": "Toyota Corolla 2.0D4D/DobryStan",
+            "price": "3 200 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-corolla-2-0d4d-dobrystan-ID6HtCEW.html",
+            "location": "Góra Kalwaria",
+            "date": "27 June 2025 o 07:34",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InFpbHRld3QyN29rNDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.W6zRmkQu_IoeDSiF1KV65P9tTeBuDqD0LCdco68UjxI/image"
+        },
+        {
+            "title": "Likwidacja komisu- Vw Fox 1.2 benzynka/ klima/ GWARANCJA",
+            "price": "6 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/likwidacja-komisu-vw-fox-1-2-benzynka-klima-gwarancja-CID5-ID160f0g.html",
+            "location": "Lublin",
+            "date": "27 June 2025 o 07:31",
+            "description": "Auto świeżo sprowadzone,  do opłat,  za dopłatą 620zl mogę przygotować do rejestracji. Stan techniczny bardzo dobry \n\n\n\nSilnik po kapitalnym remoncie, z nowym rozrządem,  nowym olejem",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qai93y3nmmma1-PL/image;s=2000x1500"
+        },
         {
             "title": "volkswagen golf II Gaz automat",
             "price": "4 500 zł",
@@ -231,6 +297,17 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndiOGd5cnNqdWlqeS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7o86rv-WD5m1KBa6EPT1p_UkYLcg4QtMQxK--6OhwTw/image"
+        },
+        {
+            "title": "Fiat Bravo 1.4 LPG oszczędny/bardzo ładny stan/nowy rozrząd i sprzęgło",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/fiat-bravo-1-4-lpg-oszczedny-bardzo-ladny-stan-nowy-rozrzad-i-sprzeglo-CID5-ID16lhgA.html",
+            "location": "Warszawa, Białołęka",
+            "date": "27 June 2025 o 06:31",
+            "description": "Dzień dobry, \n\n\n\nPotrzebujesz świetnego, oszczędnego i pakownego autka miejskiego, które także bez problemu przewiezie Cię w trasie? To właśnie ten Fiacik! \n\n\n\nRok produkcji 2010 \n\nSilnik 1.4 benzyna 90KM plus LPG sprawne i ważne do 2030 roku \n\n308000 km przebiegu \n\nSkrzynia manualna 6 biegów \n\nAuto od 2019 roku w kraju i od tego czasu w jednych rękach. \n\n\n\nSamochód w idealnym stanie technicznym, każdy jego podzespół działa bez najmniejszego zarzutu. \n\nSilnik świeżo po wymianie rozrządu i oleju \n\nNowe sprzęgło! - obie te czynności udokumentowane\n\nSilnik suchy, bez wycieków, odpala bez najmniejszego problemu i pracuje po prostu tak jak pracować powinien.\n\nZawieszenie bez zastrzeżeń, Fiat prowadzi się tak jak potrzeba.\n\nHamulce bez zastrzeżeń \n\n\n\nBlacharsko auto nie posiada korozji, która często jest problemem tego modelu. Progi, nadkola, podłoga i inne newralgiczne elementy - BEZ RUDEJ!\n\nLakierniczo - jak widać - prezentuje się swietnie, posiada normalne ślady używania bez większych rys, wgnieceń itp. Widoczny na zdjęciu przedni zderzak w nieco innym odcieniu - tak, był lakierowany z uwagi na rysy i odpryski a nie wypadek, zaś na żywo całkowicie tego nie widać.\n\n\n\nWnętrze w super stanie, wyposażenie w całości sprawne. Brak kontrolek o awariach, niedomagających żarówek itp. Bardzo fajne nagłośnienie!\n\nKlimatyzacja mrozi, nie chłodzi. \n\n\n\nOC ważne do lutego \n\nPrzegląd ważny do grudnia \n\n\n\nZapraszam konkretnych Klientów \n\nBez zamian \n\n\n\nCena podana w ogłoszeniu jest DO ZAPLACENIA. Patrząc na stan auta, wersję, LPG, długość opłat uważam, że podana kwota jest bardzo uczciwa.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/x5uunhvalqbw1-PL/image;s=768x1024"
         },
         {
             "title": "Opel Astra 1.4 Benzyna 2005 Kombi Nie Odpala",
@@ -8976,83 +9053,6 @@
             "description": "Silnik w idealnym stanie nie ma wycieków nie dymi nie pobiera oleju \n\nZawieszenie bez luzów \n\nBlacharsko nie ma korozji \n\nSprzęgło działa prawidłowo \n\nKlocki hamulcowe wymienione \n\nOpony w super stanie \n\nTempomat \n\nElektryczne szyby \n\nElektryczne lusterka\n\nCzujniki parkowania tył\n\nNie świecą się żadne błędy na desce \n\nBardzo oszczędny",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/z59fvamy6nmv2-PL/image;s=1152x864"
-        },
-        {
-            "title": "Sprzedam opel zafira diesel",
-            "price": "1 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-zafira-diesel-CID5-ID15CYfr.html",
-            "location": "Garwolin",
-            "date": "26 June 2025 o 07:40",
-            "description": "Sprzedam samochód Opel zafira w całości lub na czesci",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xfdhn589rion3-PL/image;s=1008x756"
-        },
-        {
-            "title": "Opel super stan techniczny ## zamiana ##",
-            "price": "5 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/opel-super-stan-techniczny-zamiana-CID5-ID165LBU.html",
-            "location": "Lublin",
-            "date": "26 June 2025 o 07:39",
-            "description": "Silnik Isuzu bardzo dobry \n\nBlacharsko bez korozji \n\nBez DPF\n\nZawieszenie bez luzów \n\nRegeneracja rozrusznika \n\n2 tys km wymieniony olej+filtr+ płyn chłodzący \n\n20 tys km wymieniony rozrząd \n\nKlimatyzacja sprawna odgrzybiona \n\nNowe klocki hamulcowe \n\nPrzeszedł bardzo duży serwis i nie wymaga żadnych nakładów finansowych",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u6l1497i49ca3-PL/image;s=1152x864"
-        },
-        {
-            "title": "Volkswagen Passat Volkswagen Passat b6 2.0 TDI High Line, BEZ KOROZJI, OKAZJA !!!",
-            "price": "9 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-passat-volkswagen-passat-b6-2-0-tdi-high-line-bez-korozji-okazja-ID6Hrm8U.html",
-            "location": "Bedlno",
-            "date": "26 June 2025 o 07:39",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjMwOXFzdmZxcGxncy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pCqlcTQchaMba8kKDc0eFe4nIrnkFRcwcr16EFbTE8w/image"
-        },
-        {
-            "title": "Ford Fiesta 1.4 Trend 10 lat w jednych rękach Szwajcaria",
-            "price": "3 400 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ford-fiesta-1-4-trend-10-lat-w-jednych-rekach-szwajcaria-CID5-ID15ZS2O.html",
-            "location": "Lublin",
-            "date": "26 June 2025 o 07:37",
-            "description": "Sprzedaję Fiestę sprowadzoną osobiście ze Szwajcarii w 2015roku. Od tamtej pory jedna zmiana właściciela (w rodzinie). Samochód bezwypadkowy, ale miał kilka obcierek parkingowy (co widać na zdjęciach). Korozja gdzieniegdzie ale nie ma tragedii - można jeździć, obecnie bez wkładu - zadbany mechanicznie. Klimatyzacja 100% sprawna. OC do czerwca. Przegląd do czerwca.\n\nZ ostatnio robionych rzeczy:\n\n- prawie nowe markowe opony wielosezonowe Hankook 2023\n\n- alternator 2025, na gwarancji\n\n- kompletny rozrząd (2024), jest paragon\n\n- poduszka silnika\n\n- sworzeń wahacza przód\n\n- pasek osprzętu\n\n- płyn chłodniczy",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/7f03oq014o91-PL/image;s=750x1000"
-        },
-        {
-            "title": "Renault Modus Renault Modus 1.5 Disel",
-            "price": "4 800 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/renault-modus-renault-modus-1-5-disel-ID6Huofi.html",
-            "location": "Mława",
-            "date": "26 June 2025 o 07:37",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZkZmFweDdieWdlNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.6xxIiQElWlsU09YGlOgXbs11uARjujDGnKaXU60LVko/image"
-        },
-        {
-            "title": "Renault scenic do jazdy*** zamiana***",
-            "price": "3 900 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/renault-scenic-do-jazdy-zamiana-CID5-ID165M3O.html",
-            "location": "Lublin",
-            "date": "26 June 2025 o 07:37",
-            "description": "Silnik pracuje super \n\nZawieszenie bez luzów \n\nBlacharsko bez korozji \n\nTapicerka nie poprzecierana \n\n6 - biegów \n\nTempomat \n\nHak",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/belmm2c1nubk-PL/image;s=1152x864"
-        },
-        {
-            "title": "Kia Cerato /1.6 benzyna +GAZ/ klimatyzacja -sprawna /stan bardzo dobry",
-            "price": "6 300 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/kia-cerato-1-6-benzyna-gaz-klimatyzacja-sprawna-stan-bardzo-dobry-CID5-ID16kssa.html",
-            "location": "Ostrołęka",
-            "date": "26 June 2025 o 07:35",
-            "description": "Sprzedam w bardzo dobrym stanie Kia Cerato z 2006 roku z silnikiem benzynowym 1.6 + GAZ i niskim przebiegiem 180tys km .\n\nSamochód jak na te lata w bardzo dobrym stanie technicznym i wizualnym .\n\n\n\nWyposażenie :\n\n* Nowe opony\n\n* Klimatyzacja sprawna\n\n* Centralny zamek\n\n* El. Szyby\n\n* Radio\n\n\n\nZapraszam na oględziny i jazdę próbną\n\nMożliwość sprawdzenia auta na dowolnej stacji diagnostycznej .\n\nCena 6300 zł do negocjacji\n\n\n\nKontakt 6. 6. 2.    1. 5. 9.    3. 6. 2",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/u60dkdly4flz1-PL/image;s=2048x1536"
         }
     ]
 }
