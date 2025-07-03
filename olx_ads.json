@@ -1,6 +1,61 @@
 {
-    "updated": "2025-07-03 07:42:56.599896",
+    "updated": "2025-07-03 07:50:56.453412",
     "ads": [
+        {
+            "title": "Sprzedam Opel Vectra 1,8",
+            "price": "4 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-opel-vectra-1-8-CID5-ID16sTaR.html",
+            "location": "Warszawa, Wola",
+            "date": "03 July 2025 o 07:43",
+            "description": "Sprzedam auto - Opel Vectra 1,8 benzyna. \n\nSprawny, wymienione klocki, tarcze, rozrząd.\n\nAktualny przegląd techniczny i ubezpieczenie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ebxgthuv8oe61-PL/image;s=4032x3024"
+        },
+        {
+            "title": "Hyundai Santa Fe 2.2d 2007r",
+            "price": "7 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/hyundai-santa-fe-2-2d-2007r-CID5-ID16kV4c.html",
+            "location": "Cudnów",
+            "date": "03 July 2025 o 07:42",
+            "description": "Witam sprzedam Hyunaia Santa Fe niestety uszkodzony ( zerwany pasek rozrządu) stan blacharski oraz zawieszenie bardzo dobry. Na wszystkie pytania odpowiem telefonicznie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/slunz10ytnw71-PL/image;s=765x1020"
+        },
+        {
+            "title": "Seat Leon SEAT LEON mk1 1.9 tdi 110km",
+            "price": "5 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/seat-leon-seat-leon-mk1-1-9-tdi-110km-ID6HtLKo.html",
+            "location": "Warszawa, Wawer",
+            "date": "03 July 2025 o 07:40",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imc0Zjl3bzRkazdnMTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.aipiibLqLBFJkF2fpB7dGHuTui1ryifsDiRkahNOcu0/image"
+        },
+        {
+            "title": "vectra c 1.9 120km",
+            "price": "6 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/vectra-c-1-9-120km-CID5-ID16syNH.html",
+            "location": "Gniewoszów",
+            "date": "03 July 2025 o 07:38",
+            "description": "1.9 120km 6 biegów. klimatyzacja odgrzybiona i nabita, tempomat sprawny, auto od 7lat w jednych rękach w ostatnim czasie mocno doinwestowane. wymieniona maglownica, sprzegło dwumasowe wraz z uszczelniaczem i wysprzeglikiem, turbo po regeneracji, silnik po remoncie około 100tys temu pracuje bardzo dobrze bez podejrzanych odgłosów, suchy ma moc. nowe sprężyny i hamulce wraz z zaciskami na tyle. pomimo dużego przebiegu nie trzeba przy nim nic robić. Wizualnie jak na zdjęciach schodzi lakier z góry klapy bagażnika i podsufitka opada. Opony w dobrym stanie dodatkowo stalowe z oryginalnymi połpakami i zimówki. Sprzedaje bo potrzebuje czegoś mniejszego. 51*******89",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wjaiw3i4x9hb-PL/image;s=1152x864"
+        },
+        {
+            "title": "Toyota Yaris",
+            "price": "6 300 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-ID6GEKRE.html",
+            "location": "Piaseczno",
+            "date": "03 July 2025 o 07:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5eXJ5bW84YWR6Ny1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jfSvA6e1f6J9Q5m7FeQF2iMbNo4BWGYg2H7ENsz7nfs/image"
+        },
         {
             "title": "Opel Astra G 1999r",
             "price": "4 500 zł",
@@ -9097,39 +9152,6 @@
             "description": "Sprzedam auto stan idealny jak na ten rocznik, zero rdzy, podłoga zdrowa silnik z małym przebiegiem. Napęd na cztery koła sprawny, wał zakładałem bo nie było, poduchy na dyferencjał, pokrowce. Auto nie katowane służył tylko na wyjazdy na ryby kilka razy w roku. W tym momencie brak kolektora ssącego i kilka elementów osprzętu silnika z plastiku ponieważ, zapalił się przewód paliwowy. Szybko ugaszony więc dużych strat nie ma. OC i PT opłacony, z braku czasu nie naprawiam jak się nie sprzeda w wolnym czasie naprawię. Samochód jest  dobrze utrzymany więc cena jest adekwatna.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/93ftmjrk6wn63-PL/image;s=2000x1500"
-        },
-        {
-            "title": "Sprzedam autko clio 2",
-            "price": "2 900 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-autko-clio-2-CID5-ID16s4bG.html",
-            "location": "Tomaszów Mazowiecki",
-            "date": "02 July 2025 o 07:47",
-            "description": "Sprzedam renault clio 2 z silnikiem 1.2 benzyna z roku 2002. Posiada centralny zamek oraz szyby elektryczne.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n83gkabamkfa3-PL/image;s=1884x4080"
-        },
-        {
-            "title": "Toyota Auris 1.4 diesel D-4D/ zadbane/ekonomiczne/10rok",
-            "price": "5 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/toyota-auris-1-4-diesel-d-4d-zadbane-ekonomiczne-10rok-CID5-ID16s4f1.html",
-            "location": "Marki",
-            "date": "02 July 2025 o 07:47",
-            "description": "Sprszedam Toyota Auris 2010 roku z silnikiem 1.4 diesel D-4D,  manualną 6-biegowa skrzynią. SALON POLSKI \n\nSilnik odpalą pracuję idealnie nie dymi,  skrzynią pracuję prawidłowo razem z spzenglom,  zawieszenia sztywne nic nie stuka wszystko trzyma się kupy \n\nWnętrze nie porwane wszystko na swoim miejscu \n\nWyposażenie: wspomaganie kierownicy,  elektryczne lusterka,  elektryczne szyby,  podgrzewane lusterka ta tylna szyba,  klimatyzacja (działa chłodzi), centralny zamek, auto światła,  czujnik deszczu...\n\nSamochód nigdy nie byl w taxi czy dostawie , kupione od właściciela który miał jego 12 lat . \n\nOpłaty ważne do końca roku OC i PT\n\nZapraszam na probne jazde ta zakupu",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uqubm8fm8nhl-PL/image;s=3060x4080"
-        },
-        {
-            "title": "Sprzedam bmw e 60 520d",
-            "price": "7 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/sprzedam-bmw-e-60-520d-CID5-ID16s46G.html",
-            "location": "Sewerynów",
-            "date": "02 July 2025 o 07:45",
-            "description": "Witam sprzedam bmw e 60 520d z 2007r samochód po kolizji. Udeżenie było za podłużnicą przed kolizją jedził do końca. Samochód dbany i regularnie serwisowany.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/m3e0o3mc8cvr1-PL/image;s=2000x1500"
         }
     ]
 }
