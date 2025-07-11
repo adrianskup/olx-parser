@@ -1,6 +1,347 @@
 {
-    "updated": "2025-07-11 07:33:43.662189",
+    "updated": "2025-07-11 07:46:36.787525",
     "ads": [
+        {
+            "title": "Citroën C5 2.0HDI/Hak",
+            "price": "3 900 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c5-2-0hdi-hak-ID6HtfjJ.html",
+            "location": "Góra Kalwaria",
+            "date": "11 July 2025 o 07:40",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InIwb21ndmlmOWI2cDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.GQvkVYZr1rMWpIVkuR1EC8CpW8LiKgY93SabfGAiKm0/image"
+        },
+        {
+            "title": "Volkswagen Golf Volkswagen Golf",
+            "price": "9 800 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-golf-volkswagen-golf-ID6HrWYR.html",
+            "location": "Radzymin",
+            "date": "11 July 2025 o 07:39",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5ZHBjenFwYmo5dDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.CNtpIG8iGYMp4E_0E7M4T6VIlcODcugY5Txg8U49NXs/image"
+        },
+        {
+            "title": "** HONDA CRV 2.0 LPG GAZ 4x4 napędy off road za grosze **",
+            "price": "2 350 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-crv-2-0-lpg-gaz-4x4-napedy-off-road-za-grosze-CID5-ID16z6O1.html",
+            "location": "Pułtusk",
+            "date": "11 July 2025 o 07:38",
+            "description": "tania honda crv z gazem\n\n\n\npali jezdzi\n\n\n\nwał na miejscu , napędy 4x4 sprawny\n\n\n\nsprzegło sie slizga !\n\n\n\nopłaty na rok",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/uir9sv8sc04o3-PL/image;s=3648x2736"
+        },
+        {
+            "title": "Продам Opel Astra",
+            "price": "3 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-CID5-ID16z6Gc.html",
+            "location": "Piotrków Trybunalski",
+            "date": "11 July 2025 o 07:37",
+            "description": "Sprzedam samochód Opel 1.7 cdti z przebiegiem ponad 240 tys. Samochód jedzie wesoło bez zarzutu silnika i innych elementów sterujących, wszystkie przyciski wnętrza są w dobrym stanie. Obecne są również czujniki parkowania. Z załącznika wymagana jest wymiana oleju w czasie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l30qdii6p6hw2-PL/image;s=1280x960"
+        },
+        {
+            "title": "Toyota Yaris",
+            "price": "6 300 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-yaris-ID6GEKRE.html",
+            "location": "Piaseczno",
+            "date": "11 July 2025 o 07:36",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjR5eXJ5bW84YWR6Ny1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.jfSvA6e1f6J9Q5m7FeQF2iMbNo4BWGYg2H7ENsz7nfs/image"
+        },
+        {
+            "title": "Mitsubishi Colt 1.3cm3 z 2008r.  LPG   klimatyzacja  tel.784#543#673",
+            "price": "6 950 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/mitsubishi-colt-1-3cm3-z-2008r-lpg-klimatyzacja-tel-784-543-673-CID5-ID16jpe4.html",
+            "location": "Łochów",
+            "date": "11 July 2025 o 07:32",
+            "description": "Witam,\n\n\n\nSprzedam Mitsubishi Colt 1.3cm3 z 2008r.   Auto zarejestrowane w Polsce.\n\nLokalizacja  Sadowne - Mazowieckie.\n\nAuto w bardzo dobrym stanie technicznym i wizualnym jak na swój rocznik. \n\nSilnik odpala na dotyk,  ładnie i równo pracuje, nie kopci, płynnie przyspiesza.\n\nRozrzad  na  lancuszku.\n\nZawieszenie ciche, nie wybite. Hamulce w porządku. Ręczny sprawny. Skrzynia biegów wraz \n\nze sprzęgłem bez zastrzeżeń.\n\n\n\nAutko dobrze się prowadzi, nie ściąga.\n\n\n\nWnętrze czyste i zadbane.\n\n\n\nWyposażenie:\n\n- klimatyzacja. ladnie  chlodzi.\n\n- wspomaganie kierownicy\n\n- centralny zamek\n\n- elektryczne szyby\n\n- elektryczne lusterka\n\n- AIRBAG\n\n- ABS\n\n- komputer pokładowy\n\n- radio \n\n- składana tylna kanapa\n\n- światła przeciwmgielne\n\n- itp.\n\n\n\nGORĄCO POLECAM\n\nLokalizacja Sadowne - Mazowieckie 60. km od  Warszawy. \n\nZapraszam na oględziny i jazdę próbną!\n\n\n\nPrzegląd techniczny ważny do 11.06.2026r.\n\nOC aktualne \n\nLPG do 01.08.2030r.\n\n\n\nCENA DO MAŁEJ NEGOCJACJI NA MIEJSCU\n\n\n\nNie odpowiadam na sms-y i wiadomości olx.\n\n\n\nTelefon do kontaktu: 784#543#673",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/h7bj810o6ape2-PL/image;s=1024x768"
+        },
+        {
+            "title": "Opel Corsa 1.2 12v Stan bdb Wspomaganie",
+            "price": "1 999 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/opel-corsa-1-2-12v-stan-bdb-wspomaganie-CID5-ID16yVW5.html",
+            "location": "Sochaczew",
+            "date": "11 July 2025 o 07:32",
+            "description": "Witam \n\nSprzedam Opel Corsa  z silnikiem 1.0 12v na łańcuchu rozrządu z 1998r\n\nAuto w pełni sprawne jeżdżące \n\nSilnik suchy bez wycieków \n\nZawieszenie sztywne \n\nStan Blacharski tak jak na zdjęciach \n\n\n\nWyposażenie \n\n-Wyposażenie kierownicy \n\n-elektryczne szyby \n\n-airbag \n\n-elektryczne lusterka \n\n-podgrzewane fotele \n\n-ubezpieczenie ważne 22-11-2025\n\n-Przegląd ważny 23-05-2026\n\n\n\nWięcej informacji udzielę telefonicznie \n\nNie odpowiadam na wiadomości",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xploahvl1s7s2-PL/image;s=1024x576"
+        },
+        {
+            "title": "Samochód opel astra II",
+            "price": "2 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/samochod-opel-astra-ii-CID5-ID13BgZ7.html",
+            "location": "Wrzeczko",
+            "date": "11 July 2025 o 07:32",
+            "description": "Witam, mam do sprzedania opla astrę II rocznik 1999. Stan dobry, widoczny na zdjęciach. Przebieg ok. 318tys. W 2023 wymieniony rozrząd. Przegląd i ubezpieczenie ważne do grudnia 2025r.  Dodatkowo zestaw kół z oponami zimowymi. Zapraszam do obejrzenia",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vrndtpbajpos2-PL/image;s=424x563"
+        },
+        {
+            "title": "Fiat grande punto 1.2lpg 212 tys przebiegu 2007r",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/fiat-grande-punto-1-2lpg-212-tys-przebiegu-2007r-CID5-ID167QWa.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam zadbanego fiata grandę Punto z 2007 roku z niezawodnym i ekonomicznym silnikiem 1.2 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 19.05.2026\n\nPt ważny rok \n\nButla 2028\n\n\n\nWiecej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/epl5wjz82upl-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford c-max 1.6hdi 2005r bogate wyposażenie",
+            "price": "4 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-c-max-1-6hdi-2005r-bogate-wyposazenie-CID5-ID16um9H.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam posiadam fajne wyposażonego Forda c-max bardo faje auto do jazdy wyżej się wsiada \n\nAuto silnikowo jest bez zastrzeżeń zawieszenie sztywne \n\nHamulce z przodu są nowe tarcze oraz klocki wnętrze auta jest czyste i zadbane \n\nBlacharka jak na swoje lata jest w dobrym stanie \n\nOC 17.06.2026\n\nPt rok",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9xofyo6wswqj1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Renault clio 1.2lpg 2011r zadbana",
+            "price": "8 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-clio-1-2lpg-2011r-zadbana-CID5-ID15i094.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam zadbane clio z 2011 roku z ekonomicznym i niezawodnym silnikiem 1.2 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\nBlacharsko wygląda jak nowy \n\n\n\nOC ważne do 05.04.2026\n\nPt ważny do 19.10.2025\n\nButla 2028\n\n\n\nWięcej informacji udzielę telefonicznie przyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/xhqqqm5lpn7o-PL/image;s=1000x750"
+        },
+        {
+            "title": "Ford fusion 1.4tdci 2009r",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/ford-fusion-1-4tdci-2009r-CID5-ID15af9h.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam zadbanego Forda fusiona z 2009 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.4d\n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOc ważne do 23.03.2026\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l2grkyvl0aze3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Sprzedam Astra H",
+            "price": "6 900 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-astra-h-CID5-ID16z6tL.html",
+            "location": "Staroźreby",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam, na sprzedaż oferuję Opla astre H. Rok 2005. Samochód ma przejechane 380tys km. Auto nigdy mnie nie zawiodło, jest w doskonałym stanie technicznym. Niedawno wymienione zostały wszystkie oleje oraz filtry tarcze z przodu oraz klocki turbo po regeneracji. Wszystko chodzi jak należy. Pojazd nie wymaga żadnych dodatkowych nakładów finansowych . Karoseria auta posiada normalne ślady użytkowania auto już ma 20 lat więc zawsze się znajdzie jakaś mała ryska \n\nOpel wyposażony jest w silnik 1,7cdti który jest dynamiczny oraz ekonomiczny spala 6 litrów ropy  Wszystkie systemy działają poprawnie, a samochód jest gotowy do jazdy.\n\nZainteresowanych zapraszam do kontaktu i obejrzenia auta",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n8jyny2phye72-PL/image;s=1536x2048"
+        },
+        {
+            "title": "Citeroen c4 2005r 1.4B",
+            "price": "2 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citeroen-c4-2005r-1-4b-CID5-ID16um0D.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam posiadam citroena c4 1.4B auto jest sprawne idealne na dojazdy do pracy blacharsko bez jakieś większej korozi lecz niesty widać na nim ślady użytkowania \n\nWnętrze auta jest w dobrym stanie \n\nOC 02.07.2026\n\nPt 07.01.2026",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/j349z4ay1te7-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel astra 1.7 dti 2003r",
+            "price": "1 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-astra-1-7-dti-2003r-CID5-ID163aQg.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam Opla astrę z 2003 roku z niezawodnym i ekonomicznym silnikiem 1.7\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi wnętrze czyste i zadbane \n\n\n\nOC ważne do 29.06.2025\n\nPt ważny do 15.05.2026\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/83iqsx1w7y422-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel meriva 1.7d",
+            "price": "2 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-meriva-1-7d-CID5-ID163aO8.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam zadbaną merive z 2004 roku z niezawodnym i ekonomicznym silnikiem 1.7\n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 28.05.2026\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b0d5opriee4r-PL/image;s=1000x750"
+        },
+        {
+            "title": "Suzuki maruti 0.8 1993r klasyk",
+            "price": "3 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/suzuki-maruti-0-8-1993r-klasyk-CID5-ID14ejpI.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam bardzo zadbane Suzuki maruti z 1993 roku z niezawodnym silnikiem 800b\n\nAuto ma moc nie dymi \n\nBlacharsko w bardzo dobrym stanie bardzo ładnie się prezentuje jak na swoje lata \n\nWnętrze czyste i zadbane\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nuhzyh9p8uqs-PL/image;s=1000x750"
+        },
+        {
+            "title": "Skoda fabia 1.4lpg 2001r",
+            "price": "3 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/skoda-fabia-1-4lpg-2001r-CID5-ID14ksj5.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam skodę fabię z 2001 roku z bardzo ekonomicznym silnikiem i niezawodnym 1.4 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 02.02.2026\n\nPt ważne do rok\n\nLPG 28\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vrueyvr4ztug-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel zafira 1.9D 2007r 7osób",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-zafira-1-9d-2007r-7osob-CID5-ID16pGka.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam posiadam opla zafirę z bardzo dobrym silnikiem 1.9cdti o mocy 120 KM auto jest sprawne wizualnie jak widać na dzieciach prezentuje się całkiem nieźle \n\nWnętrze czyste i zadbane \n\nOC 27.06.2026\n\nPt13.12.2025",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/crq95orbd9ko-PL/image;s=1000x750"
+        },
+        {
+            "title": "Bmw w46 1.9lpg okazia",
+            "price": "2 300 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/bmw-w46-1-9lpg-okazia-CID5-ID15zjL1.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam BMW e46 z 1999 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.9 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nNiestety do naprawy ponieważ auto się gotuje \n\n\n\nOC ważne do 29.03.2026\n\nPt ważny do 24.08.2025\n\nButla 2028\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gub9zsgsqpr81-PL/image;s=1000x750"
+        },
+        {
+            "title": "Mistsubishi pajero pinin 1.8lpg",
+            "price": "2 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/mistsubishi-pajero-pinin-1-8lpg-CID5-ID15JRsw.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:31",
+            "description": "Witam \n\nSprzedam Mitsubishi pajero pini z niezawodnym i bardzo ekonomicznym silnikiem 1.8 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nChodzi na benzynie i gazie \n\nNapędy sprawne \n\nNiestety rama jest do wyspawania stąd taka niska cena \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 15.10.2025\n\nPt \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l9z2heebb2iy1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Citroen c4 grand picasso 1.6hdi Zadbany",
+            "price": "6 499 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c4-grand-picasso-1-6hdi-zadbany-CID5-ID16jLC3.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbanego citroena c4 grand Picasso z 2008 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.6 hdi \n\nAuto ma moc nie dymi\n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne rok \n\nPt ważny do 22.02.2026\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/we82eilpq7ke3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Toyota yaris 1.0b klima",
+            "price": "3 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/toyota-yaris-1-0b-klima-CID5-ID15o6Vr.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbaną toyote yaris z 2007 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.0 \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne rok \n\nPt ważny do 14.05.2026\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbą",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/n0uhsbho2pit3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Renault megane 3 1.9dci  piekny stan",
+            "price": "7 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/renault-megane-3-1-9dci-piekny-stan-CID5-ID16jLcc.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbaną meganke z 2011 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.9 \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 13.06.2026\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lo3o28nzp31k-PL/image;s=1000x750"
+        },
+        {
+            "title": "Citroen c5 2.0 hdi Okazja",
+            "price": "6 850 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-c5-2-0-hdi-okazja-CID5-ID16jL5a.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam citroena c5 z 2008 roku z niezawodnym i bardzo ekonomicznym silnikiem 2.0hdi\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nKlimatyzacja sprawna \n\nAutko bardzo bogato wyposażone \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 10.06.2026\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/o20nj09nvbmh1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 407sw 1.6hdi nieki przebieg",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/peugeot-407sw-1-6hdi-nieki-przebieg-CID5-ID16eqyL.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbanego peugeota 407 z 2004 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.6hdi\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 10.06.2026\n\nPt ważny do  rok\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/l4rkvqrsb8xc3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 206 CC Piękny stan",
+            "price": "5 499 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/peugeot-206-cc-piekny-stan-CID5-ID16z620.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbanego peugeota 206 CC z 2003 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.6b\n\nAuto 3 lata temu zostało sprowadzone z Szwajcarii \n\nMechaniczne bardzo ładnie jeździ silnik ma moc nie dymi \n\nBlacharsko bardzo ładnie się prezentuje jak na swoje lata \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nDach się otwiera bez żadnych problemów \n\nWnętrze czyste i zadbane\n\nBardzo niski przebieg \n\n\n\nOC ważne do 07.07.2026\n\nPt ważny do 20.07.2025\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/s3zmrg3rj5mr-PL/image;s=1000x750"
+        },
+        {
+            "title": "Chevrolet spark 1.0 Lpg klima wspomaganie",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/chevrolet-spark-1-0-lpg-klima-wspomaganie-CID5-ID16z5Vy.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbanego Chevroleta sparka z 2010 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.0 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 10.07.2026\n\nPt ważny rok \n\nButla 2031\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/nijy64gq5puf2-PL/image;s=1000x750"
+        },
+        {
+            "title": "Opel frontera 2.0lpg 4x4",
+            "price": "4 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/opel-frontera-2-0lpg-4x4-CID5-ID15JNCN.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam frontere z 1996 roku z niezawodnym i bardzo ekonomicznym silnikiem 2.0 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nNapędy sprawne \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 02.05.2025\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/zu2hrhrv3klb1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Bmw e46 1.8 lpg Zadbany",
+            "price": "5 499 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/bmw-e46-1-8-lpg-zadbany-CID5-ID16z66Y.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam \n\nSprzedam zadbane BMW e46 z 2002 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.8 z sekwencyjną instalacją LPG \n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nKlimatyzacja sprawna \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 07.07.2026\n\nPt ważny do 23.12.2025\n\nButla 2027\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/btzrz33a9ktd1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Peugeot 207 1.4hdi Piękny stan",
+            "price": "5 999 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/peugeot-207-1-4hdi-piekny-stan-CID5-ID16ehU3.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:30",
+            "description": "Witam\n\nSprzedam zadbanego Peugeota 207 z 2008 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.4hdi\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 10.06.2026\n\nPt ważny do 08.05.2026\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/jdu7sf7m6rfc3-PL/image;s=1000x750"
+        },
         {
             "title": "Vw passat b5 lift 1.9tdi",
             "price": "3 200 zł",
@@ -11,6 +352,17 @@
             "description": "Witam \n\nSprzedam Passata b5 po\n\nLifcie z 2003 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.9tdi\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne przyjemnie się prowadzi \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 06.11.2025\n\nPt ważny do 31.10.2025\n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/b97o8ymrt6qd3-PL/image;s=1000x750"
+        },
+        {
+            "title": "Citroen berlingo 1.9d klima sprawna",
+            "price": "4 750 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/citroen-berlingo-1-9d-klima-sprawna-CID5-ID16z6ef.html",
+            "location": "Siedlce",
+            "date": "11 July 2025 o 07:26",
+            "description": "Witam \n\nSprzedam citroena berlingo z 2004 roku z niezawodnym i bardzo ekonomicznym silnikiem 1.9d\n\nAuto ma moc nie dymi \n\nZawieszenie sztywne nie wybite przyjemnie się prowadzi \n\nKlimatyzacja sprawna \n\nWnętrze czyste i zadbane \n\n\n\nOC ważne do 10.06.2026\n\nPt ważny rok \n\n\n\nWięcej informacji udzielę telefonicznie \n\nPrzyjmę również inne auto w rozliczeniu \n\nZapraszam na jazdę próbną",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/bwbvw2sr5yb63-PL/image;s=1000x750"
         },
         {
             "title": "Seat Cordoba III 2004r 1.4 benzyna",
@@ -10054,83 +10406,6 @@
             "description": "Sprzedam komplet. (Progi przód tył zderzak) CLA 250 2016 kod lakieru 191. \n\n\n\nZderzak przód (z grilem) bez górnego wzmocnienia i logo Mercedesa. \n\n\n\nZderzak przód 1200\n\nZderzak tył 550 \n\nProgi 150 \n\nKolor do założenia",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/k4apvczzvwdn-PL/image;s=1000x750"
-        },
-        {
-            "title": "Octavia/2.0/TDI/Salon-Polska/Automat/DSG/Ładna/Zarejestr/",
-            "price": "5 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/octavia-2-0-tdi-salon-polska-automat-dsg-ladna-zarejestr-CID5-ID16oTkY.html",
-            "location": "Gostynin",
-            "date": "10 July 2025 o 07:46",
-            "description": "Witam. Auto Salon-Polska. Samochód technicznie w super stanie. Silnik pracuje BDB. Ładnie zapala, dobrze się zbiera nie kopci. Skrzynia [DSG] zmienia biegi bez szarpań, zgrzytów także ok. Zawieszenie i cała reszta także w porządku. Wizualnie małe oznaki korozji w standardowych miejscach dla tego modelu. Skoda w dość wysokiej opcji wyposażenia. Oczywiście wszystko sprawne. Generalnie auto dobrze wygląda, śmiga jak złoto na dzień dzisiejszy bez nakładów. Cena do małej negocjacji przy aucie. Ważne Oc i Bt. F-ra Vat-Marża. Info na tel. Polecam. 5 0 2 0 2 1 9 4 9",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/p0k2k9m5gc6n3-PL/image;s=2000x1506"
-        },
-        {
-            "title": "Citroën C3 Citroen C3",
-            "price": "3 690 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c3-citroen-c3-ID6HdNVC.html",
-            "location": "Warszawa, Bemowo",
-            "date": "10 July 2025 o 07:46",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImU1anNmMWV6aG04My1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8P90U06rQYQy0JuZEykVHwI6KXjzUV2c2ZQRnn2aNiY/image"
-        },
-        {
-            "title": "Ładna/Panda/1.1/B/Salon-Polska/II-Właściciel/Stan BDB/",
-            "price": "4 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ladna-panda-1-1-b-salon-polska-ii-wlasciciel-stan-bdb-CID5-ID16ucJD.html",
-            "location": "Gostynin",
-            "date": "10 July 2025 o 07:45",
-            "description": "Witam. Auto Salon -Polska II-Właściciel. Samochód  ładnie utrzymany wizualnie, lakier ok, żadnej korozji. Silnik z stosunkowo niskim przebiegiem pracuje BDB. Zapala od 1-Wszego chodzi  równo, cicho nie pobiera oleju nie kopci. Zawieszenie, sprzęgło, skrzynia wszystko jak należy. Panda posiada Wspomaganie-Kierownicy/El-Szyby/Centralny -Zamek/ABS/ 2 x PP/Radio. Ważne Oc i Bt. Fiat sprawny gotowy do jazdy bez nakładów. F-ra Vat-Marża. Info na tel. Polecam. 5 0 2 0 2 1 9 4 9",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/scxjqhphidk73-PL/image;s=2048x1542"
-        },
-        {
-            "title": "Mercedes-benz ML 3,2 GAZ 99r automat do jazdy",
-            "price": "5 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/mercedes-benz-ml-3-2-gaz-99r-automat-do-jazdy-CID5-ID16qwiS.html",
-            "location": "Warszawa, Targówek",
-            "date": "10 July 2025 o 07:45",
-            "description": "Mercedes-benz ML 3,2 GAZ 99r, samochód jest w pełni sprawny jeżdżący, silnik pracuje wzorowo, cicho równo, ładnie przyspiesza, nie dymi, skrzynia pracuje prawidłowo, płynnie zmienia biegi, wizualnie auto wygląda jak na zdjęciach, brakuje boczka, do wymiany szyba przednia, zawieszenie w stanie dobrym, sztywne nie wybite, bez stuków luzów, dobrze wybiera nierówności, pewnie się prowadzi \n\n\n\nWyposażenie \n\nSkóra \n\nKlima SPRAWNA \n\nEl szyby \n\nEl lusterka \n\nRadio\n\n\n\nBadanie techniczne kwiecień 2026r\n\n\n\nWażne oc \n\n\n\nMożliwa zamiana 509(595(3I6(\n\n\n\nSPRAWDŹ NASZE POZOSTAŁE OGŁOSZENIA, POSIADAMY WIELE AUT W ATRAKCYJNYCH CENACH, Z WAŻNYMI OPŁATAMI \n\n\n\nBIERZEMY AUTA W ROZLICZENIU \n\n\n\nCHCESZ SPRZEDAĆ BĄDŹ ZAMIENIĆ SWOJE AUTO ZADZWOŃ 5O7O16O32 \n\n\n\nZAPRASZAMY 7-DNI W TYGODNIU \n\n\n\nZAWSZE DUŻY WYBÓR/DOBRE CENY",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dk7oaie997ug-PL/image;s=1020x768"
-        },
-        {
-            "title": "Volkswagen Eos",
-            "price": "10 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-eos-ID6Hscd6.html",
-            "location": "Piastów",
-            "date": "10 July 2025 o 07:40",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IngzbDBnM3NudjltaTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.Wp3K0OywoCRUKaV7fNArT1FlE9p22VNbjJSJBVf9wx0/image"
-        },
-        {
-            "title": "Ford Focus Sprzedam Ford Focus z 2007 roku",
-            "price": "5 500 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-sprzedam-ford-focus-z-2007-roku-ID6HtFiY.html",
-            "location": "Białaczów",
-            "date": "10 July 2025 o 07:37",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlpZnJvYW40Nnk0bDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.X916V-2omvhbic5Wtf_p2Zu1fmhgcRsnommUhQi6zso/image"
-        },
-        {
-            "title": "Peugeot stan normalny",
-            "price": "4 000 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/peugeot-stan-normalny-CID5-ID16vr1k.html",
-            "location": "Nowe Grocholice",
-            "date": "10 July 2025 o 07:36",
-            "description": "Zwykły samochód służący do dojazdów do pracy, odpala, jeździ i hamuje.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0yrhrx207b35-PL/image;s=1600x720"
         }
     ]
 }
