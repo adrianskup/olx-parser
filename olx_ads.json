@@ -1,6 +1,61 @@
 {
-    "updated": "2025-07-15 07:48:22.444017",
+    "updated": "2025-07-15 07:55:36.968503",
     "ads": [
+        {
+            "title": "Hyundai Santa fe",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/hyundai-santa-fe-CID5-ID16oc64.html",
+            "location": "Pustelnik",
+            "date": "15 July 2025 o 07:52",
+            "description": "Hyundai Santa fe 2.4 16v LPG samochód posiadam od półtora roku, zakupiony przy ok 250 tyskm, w tym czasie zostało zrobione, \n\nZawieszenie przód i tył oraz ustawiona zbieżność, wymieniona butla oraz mapa LPG w 2024, wymieniony rozrządu z napinaczem i pompą wody, kompletne hamulce, kompletny układ zapłonowy, wymiana dwóch chłodnic, regeneracja alternatora, wymiana czujnika wału oraz wałka.  samochód posiada ABS, elektryczne lusterka oraz wszystkie szyby, klimatyzację świeżo nabitą lecz niestety zaczyna być słychać kompresor, grzane fotele oraz tylnią szybę z lusterkami, w samochodzie niestety naruszone tylne nadkola lewe dosyć mocno po za tym wszytko inne okey. Do auta dorzucam opony zimowe z 24r, aktualne lato z 18r.Po szczegóły zapraszam na priv, cenna do negocjacji.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/evh8bezj61903-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Dewoo kalos 2005",
+            "price": "4 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/dewoo-kalos-2005-CID5-ID16r82E.html",
+            "location": "Tomaszów Mazowiecki",
+            "date": "15 July 2025 o 07:49",
+            "description": "Stan bardzo ładny. Kupiony od pierwszego właściciela. Prowadzony z Niemiec. Pierwsza rejestracja w kraju 07.09.2018.\n\nBadania techniczne 24.08.2025\n\nUbezpieczenie 27.09.2025",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ufun84bmk4381-PL/image;s=1125x2000"
+        },
+        {
+            "title": "Kia Picanto Toyota 1.2 w GAZie OSZCZĘDNA",
+            "price": "9 999 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/kia-picanto-toyota-1-2-w-gazie-oszczedna-ID6HuIw6.html",
+            "location": "Sochaczew",
+            "date": "15 July 2025 o 07:48",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imx0Zzd5cGI4ejd4Yy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.olZl8kPqIistQSzMahiONnAmzXWUKbldw0TXbQnyKas/image"
+        },
+        {
+            "title": "Honda Civic 2002rok",
+            "price": "2 100 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/honda-civic-2002rok-CID5-ID16CFtd.html",
+            "location": "Lublin",
+            "date": "15 July 2025 o 07:44",
+            "description": "Na sprzedaż Honda Civic 2002 rok.W 2022 roku regeneracja alternatora i turbiny, 2023 rok nowy akumulator , zestaw rozrządu , 2024 rok wahacz dolny 2x, sprzęgło kompresora klimatyzacji, tarcze klocki przód, kwiecień 2025 klocki tył.Stan jak na zdjęciach. Dwa komplety kół. Przegląd ważny do czerwca 2026, OC koniec lipca 2025.Cena do negocjacji",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/lgdqfm39um1b3-PL/image;s=1231x1079"
+        },
+        {
+            "title": "Volkswagen Polo Volkswagen Polo 1.2 2008",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-polo-volkswagen-polo-1-2-2008-ID6Humsf.html",
+            "location": "Brzeziny",
+            "date": "15 July 2025 o 07:44",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjA4a3N0NzdjbzdvZDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.u7onPjTTbkXaU8dh6yMApyaoQNW83JLeVum7XTEbRdo/image"
+        },
         {
             "title": "Honda Jazz, klimatyzacja, po serwisach, faktura VAT",
             "price": "7 900 zł",
@@ -10208,39 +10263,6 @@
             "description": "Описание не указано",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImthbWQydjVoaGQzZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.UeavygITTKscZLM4Q-NDOmy0mUly4RJ_8A9xi6nyNtY/image"
-        },
-        {
-            "title": "Skoda Roomster Pojazd w ciągłym użytkowaniu, pojazd sprzedaje FIRMA",
-            "price": "7 000 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-roomster-pojazd-w-ciaglym-uzytkowaniu-pojazd-sprzedaje-firma-ID6HvloM.html",
-            "location": "Łódź, Polesie",
-            "date": "14 July 2025 o 07:54",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp3Y2pnbm9mYjFnNTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.FwwXxkzRksmzzUx2nqoQe0RFR2BlOKPnhBZmKu7GMQw/image"
-        },
-        {
-            "title": "Ford FOCUS II Furgon/kombi 1.6 TDCi (HHDA) 1560ccm 90KM/66kW",
-            "price": "5 999 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/ford-focus-ii-furgon-kombi-1-6-tdci-hhda-1560ccm-90km-66kw-CID5-ID166U0z.html",
-            "location": "Warszawa, Śródmieście",
-            "date": "14 July 2025 o 07:52",
-            "description": "OPIS\n\nAuto z Polskiego salonu. Przebieg auta 293 tys.km.\n\nSilnik 1,6 TDCI - 90 KM- fabrycznie bez filtra DPF.\n\nFocus w ładnym stanie.\n\nBadanie techniczne -11/2025 ,\n\nOC 05/2026r (z wpisem TAXI, cena 2400zł)\n\n\n\nCena do negocjacji.\n\n\n\nWyposażenie dodatkowe\n\nSkórzana tapicerka od Mondeo titanium, klimatyzacja, centralny zamek, elektryczne szyby przód, wspomaganie kierownicy, ABS, poduszka powietrzna, elektryczne lusterka.\n\n\n\nHistoria pojazdu \n\n\n\nOC ważne do\n\n05.2026\n\nOkresowe badanie techniczne ważne do\n\n11.2025\n\nPrzebieg\n\n283 305\n\nOkresowe badanie techniczne (ważne do 14.11.2025)\n\nWynik badania: Pozytywny\n\nNumer SKP: WPI/006/P\n\nOdczytany stan drogomierza: 283305 km\n\n14.11.2024\n\nDodatkowe badanie techniczne\n\nWynik badania: Pozytywny\n\nRodzaj badania: DICT124_3.1.\n\nNumer SKP: WPI/006/P\n\nOdczytany stan drogomierza: 283305 km\n\n14.11.2024\n\nDodatkowe badanie techniczne\n\nWynik badania: Pozytywny\n\nRodzaj badania: DICT124_3.1.\n\nNumer SKP: WPI/001\n\nOdczytany stan drogomierza: 266202 km\n\n10.05.2024\n\nZmiana właściciela\n\nWłaściciel: Osoba fizyczna\n\nWojewództwo: Mazowieckie\n\n16.04.2024\n\nZbycie pojazdu\n\n16.04.2024\n\nZbycie pojazdu\n\n15.03.2024\n\nOkresowe badanie techniczne (ważne do 17.11.2024)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 262748 km\n\n17.11.2023\n\nOkresowe badanie techniczne (ważne do 18.11.2023)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 251698 km\n\n18.11.2022\n\nOkresowe badanie techniczne (ważne do 18.11.2022)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 245350 km\n\n18.11.2021\n\nOkresowe badanie techniczne (ważne do 18.11.2021)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 238634 km\n\n18.11.2020\n\nOkresowe badanie techniczne (ważne do 18.11.2020)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/001/P\n\nOdczytany stan drogomierza: 231698 km\n\n18.11.2019\n\nOkresowe badanie techniczne (ważne do 16.11.2019)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 222440 km\n\n16.11.2018\n\nOkresowe badanie techniczne (ważne do 15.11.2018)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/013\n\nOdczytany stan drogomierza: 213280 km\n\n15.11.2017\n\nOkresowe badanie techniczne (ważne do 15.11.2017)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/015\n\nOdczytany stan drogomierza: 204001 km\n\n15.11.2016\n\nZmiana właściciela (pozostał właścicielem do 16.04.2024)\n\nWłaściciel: Osoba fizyczna\n\nWojewództwo: Mazowieckie\n\n15.11.2016\n\nOkresowe badanie techniczne (ważne do 30.06.2017)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/015\n\nOdczytany stan drogomierza: 190764 km\n\n30.06.2016\n\nOkresowe badanie techniczne (ważne do 01.07.2016)\n\nWynik badania: Pozytywny\n\nNumer SKP: WS/015\n\nOdczytany stan drogomierza: 146377 km\n\n01.07.2015\n\nOkresowe badanie techniczne (ważne do 03.07.2015)\n\nWynik badania: Pozytywny\n\nNumer SKP: WSK/011\n\nOdczytany stan drogomierza: 106800 km\n\n03.07.2014\n\nZmiana właściciela (pozostał właścicielem do 15.11.2016)\n\nWłaściciel: Osoba fizyczna\n\nWojewództwo: Mazowieckie\n\n31.07.2013\n\nZmiana właściciela (pozostał właścicielem do 31.07.2013)\n\nWłaściciel: Osoba fizyczna\n\nWojewództwo: Podlaskie\n\n19.11.2012\n\nOkresowe badanie techniczne (ważne do 09.07.2014)\n\nWynik badania: Pozytywny\n\nNumer SKP: BIA/014\n\n24.08.2012\n\nPierwsza rejestracja w Polsce\n\n09.07.2009\n\nPierwszy właściciel w Polsce\n\nWłaściciel: Firma lub organizacja\n\nWojewództwo: Mazowieckie\n\n02.07.2009\n\nRok produkcji\n\n01.01.2009",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/8iarsziimgg01-PL/image;s=1090x698"
-        },
-        {
-            "title": "Opel Corsa",
-            "price": "2 900 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/opel-corsa-ID6Hvl6C.html",
-            "location": "Radom",
-            "date": "14 July 2025 o 07:51",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inphc2MyZDhoMWQ3ZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.-vo2fMQBYTAeCiFI8zmHlm2hipCiBch9rh0dHF4hK1c/image"
         }
     ]
 }
