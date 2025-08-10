@@ -1,6 +1,61 @@
 {
-    "updated": "2025-08-10 11:07:13.002972",
+    "updated": "2025-08-10 11:12:49.186198",
     "ads": [
+        {
+            "title": "Lincoln Town Car 2003 Lincoln town car limuzyna",
+            "price": "1 234 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/lincoln-town-car-2003-lincoln-town-car-limuzyna-ID6HzK0o.html",
+            "location": "Puławy",
+            "date": "10 August 2025 o 11:05",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImFhMHhzZnhvNXBubDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.5CiEHZZrW3zvtZ10awAvx_9yQhfPUTiU831ydYQgvME/image"
+        },
+        {
+            "title": "Honda Accord, 2000 rok 1.8 LPG- Otokomis! Gwarancji!",
+            "price": "3 990 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/honda-accord-2000-rok-1-8-lpg-otokomis-gwarancji-CID5-ID16VjhH.html",
+            "location": "Warszawa, Włochy",
+            "date": "10 August 2025 o 11:04",
+            "description": "Zapraszamy do OTOKOMIS-Oferujemy szeroki wybór starannie wyselekcjonowanych samochodów.\n\n\n\nSpecyfikacja pojazdu:\n\nMarka: Honda\n\nModel: Accord\n\nRok produkcji: 2000\n\nSilnik: 1.8 benzyna z gazem\n\nMoc: 130\n\nUbezpieczenie OC: jest ważne \n\nPrzegląd techniczny: jest ważne \n\n\n\nDlaczego warto wybrać ten samochód?\n\n\n\nSuper samochód do miasta w bardzo dobrym stanie technicznym i wizualnym. Dzięki instalacji gazowej jest mega ekonomiczny.\n\nSilnik ładnie pali nie dymi, na gazie nie szarpie. Zawieszenie nie wybite nie słychać niepokojących dźwięków. \n\nBlacharka zdrowa nie zgnita. Czysty i zadbany środek.\n\n\n\nWyposażenie: alufelgi, podłokietnik, klimatyzacja, wspomaganie kierownicy, Radio CD, centralny zamek, ABS, radio CD, elektryczne szyby i lusterka \n\n\n\nGodziny otwarcia:\n\nPoniedziałek – Sobota: 10:00 – 20:00\n\nNiedziela: 11:00 – 16:00\n\nLokalizacja: Nasz plac znajduje się na parkingu centrum handlowego Lopuszańska 22.\n\n\n\nKontakt: Zadzwoń pod numer 518xx168xx153 i umów się na jazdę próbną!\n\n\n\nZapraszamy!",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/3c9bmqa2tn7j3-PL/image;s=883x1000"
+        },
+        {
+            "title": "Ford Focus Ford Focus 1.6 TDCi Silver",
+            "price": "9 900 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-ford-focus-1-6-tdci-silver-ID6HySut.html",
+            "location": "Stryków",
+            "date": "10 August 2025 o 11:04",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpwcGdzazI5cjFkczEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.pJYE1XxUgKExu6YD0Zho-XwgB1mlR0VUZGCbpFE4AsE/image"
+        },
+        {
+            "title": "Totota Corolla Verso",
+            "price": "7 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/totota-corolla-verso-CID5-ID15Y1ce.html",
+            "location": "Małoszyce",
+            "date": "10 August 2025 o 11:03",
+            "description": "Na sprzedaż sprawna Toyota Corolla Verso z 2005r. Benzyna + gaz (podbite do października 2025r]. Przebieg 370tys km, kolor srebrny mat. Stan techniczny bez zastrzeżeń. Auto na felgach aluminiowych z oponami letnimi. W komplecie dorzucę zimowe opony na felgach stalowych.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9kgr4i0kpnd31-PL/image;s=1024x768"
+        },
+        {
+            "title": "Grande Punto 1.3 Multijet 90km",
+            "price": "2 000 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/grande-punto-1-3-multijet-90km-CID5-ID10LD48.html",
+            "location": "Magnuszew",
+            "date": "10 August 2025 o 11:02",
+            "description": "Auto uszkodzone, nie odpala. Więcej informacji pod numerem telefonu.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/d54luvgx8o0e1-PL/image;s=2000x1500"
+        },
         {
             "title": "Toyota Yaris 2004 1.0",
             "price": "4 444 zł",
@@ -55,6 +110,17 @@
             "description": "Witam, mam do sprzedania Hyundaia i10 z 2009r. \n\nSilnik 1.1 benzyna 67km \n\nPrzebieg 182 300km \n\nAuto w moim posiadaniu od 2019r \n\nSerwisowane na bieżąco \n\nNiedawno wymieniony akumulator na nowy \n\nZałożona są bardzo ładne opony wielosezonowe Good Year \n\nSamochód posiada sprawną klimatyzację \n\nAuto jest zadbane, nie posiada korozji \n\nWięcej informacji pod numerem tel: 66*******16 \n\nCena 9900zł do negocjacji",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/mdgtnra6n37e1-PL/image;s=1000x750"
+        },
+        {
+            "title": "Seat Leon 2.0 uszkodzony",
+            "price": "1 111 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-leon-2-0-uszkodzony-CID5-ID16Yxuz.html",
+            "location": "Lubochnia",
+            "date": "10 August 2025 o 10:59",
+            "description": "Seacik leonik 2 .tdi 2.0 . mapa 170 KM.  16 v.  przebieg ok 270 km. Przed lift.. ( Małe uderzenie w barierke po lewej stronie więc można wymienić przod lub na części. W środku Wszystko działa bez zarzutów .silnik itd..utrzymany i na bieżąco dbany. (Szary metalik). Zderzak  Więcej info tylko tel. 50*******11. Cena 5500 . Tylko zdecydowane osoby. Lampy bixenony. Sprawne jezdzi. Łódzkie.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/t7nvoom6lwz11-PL/image;s=695x1508"
         },
         {
             "title": "Ford Fiesta 1.4 TDCI",
@@ -9460,61 +9526,6 @@
             "description": "Rok produkcji 2000 po lifcie. \n\nUszkodzony silnik. Kod silnika ajm. Prawdopodobnie zerwał się łańcuszek pompy oleju. \n\nPęknięta miska olejowa. Na zdjęciu widać. \n\nJeździł do awaria bez problemu. \n\nUbezpieczony. Przegląd się zaraz skończy. \n\nKlimatronik sprawny. W zeszłym roku nowa sprężarka.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y5qderhqefuv1-PL/image;s=1488x1984"
-        },
-        {
-            "title": "Ford S-MAX 2013 – spalony przód / uszkodzony",
-            "price": "4 000 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/ford-s-max-2013-spalony-przod-uszkodzony-CID5-ID16K9yY.html",
-            "location": "Warszawa, Włochy",
-            "date": "09 August 2025 o 11:12",
-            "description": "Sprzedam Forda S-MAX z 2013 roku – samochód po pożarze komory silnika.\n\nPrzód auta spalony – uszkodzony silnik, instalacja elektryczna, maska, szyba czołowa, reflektory i elementy blacharskie.\n\nWnętrze częściowo nadtopione przy szybie, ale tył pojazdu, zawieszenie, fotele tylnie , klapa, szyby boczne – w dobrym stanie.\n\n\n\nAuto idealne na części lub dla kogoś, kto potrzebuje konkretnych elementów blacharskich, wnętrza czy zawieszenia.\n\n\n\nZ Uwagi na Liczne Zainteresowanie autem na jego dotychczasowe Przeznaczenie Instalacja Błyskowa nie jest dołączona z samochodem ze względu utylizacji sygnalizacji błyskowej która mogłaby być wykorzystana dalej stwierdzono liczne uszkodzenia instalacji błyskowej. \n\n\n\nWięcej zdjęć prześlę na E-mail WhatsApp MMS , w razie pytań proszę o kontakt telefoniczny 88*******77. Samochód do Obejrzenia Warszawa Włochy. samochód do sprzedaży w całości od osoby prywatnej",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/eztoyai2g9hd1-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Nissan Almera Tino 1,8 benzyna 2005r",
-            "price": "5 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/nissan-almera-tino-1-8-benzyna-2005r-CID5-IDVfPhi.html",
-            "location": "Tomaszów Mazowiecki",
-            "date": "09 August 2025 o 11:12",
-            "description": "Sprzedam Nissana Almerę Tino 1.8 benzyna 2005r  , opony wielosezonowe , klima sprawna po serwisie wymiana chłodnicy , kamera cofania ,bezwypadkowe ,wymieniony rozrzad.Auto w pełni sprawne , gotowe do jazdy. Nie ma śladów korozji,klimatronic .Nie bierze oleju.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/46oa0jqug92p-PL/image;s=750x1000"
-        },
-        {
-            "title": "Opel Signum COSMO 1.9 CDTI 150 KM",
-            "price": "8 600 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/opel-signum-cosmo-1-9-cdti-150-km-CID5-ID16UdJb.html",
-            "location": "Garbów I",
-            "date": "09 August 2025 o 11:10",
-            "description": "Opel Signum COSMO 1.9 CDTI 110 kW (150 KM)\n\n\n\nKluczowe informacje\n\nRok produkcji: 2005\n\n\n\nPrzebieg: 312 000 km\n\n\n\nImport: zakupiony z Niemiec w 2019 r.\n\n\n\nPrzegląd techniczny: ważny do 28.07.2026\n\n\n\nPolisa OC: ważna do 29.07.2026\n\n\n\nWyposażenie i bezpieczeństwo\n\nPoduszki powietrzne: 6 szt. (przednie, boczne, kurtyny)\n\n\n\nSystemy bezpieczeństwa: ABS, ESP, ASR, alarm\n\n\n\nReflektory ksenonowe, doświetlanie zakrętów, halogeny przednie\n\n\n\nParktronik przód i tył\n\n\n\nCentralny zamek na pilota\n\n\n\nKomfort i funkcjonalność\n\nKlimatyzacja automatyczna\n\n\n\nElektrycznie sterowane szyby i lusterka\n\n\n\nTempomat\n\n\n\nKomputer pokładowy\n\n\n\nRadio z CD \n\nSystem nawigacji CD70 NAVI\n\n\n\nWelurowa tapicerka\n\n\n\nRozbudowany tylny podłokietnik z rozkładanymi stolikami i dodatkowymi schowkami\n\n\n\nAuto w dobrym stanie technicznym i wizualnym, regularnie serwisowane, gotowe do bezproblemowego użytkowania. Idealne na dłuższe trasy – przestronne i komfortowe wnętrze, bogate wyposażenie.\n\n\n\nWiecej informacji udzielę telefonicznie. Cena do negocjacji",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/z8e91k446lai-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Renault Megane Super Stan techniczny i blacharski ll wł Polski Salon KLIMATYZACJA SPR",
-            "price": "3 980 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/renault-megane-super-stan-techniczny-i-blacharski-ll-wl-polski-salon-klimatyzacja-spr-ID6HxfMv.html",
-            "location": "Sochaczew",
-            "date": "09 August 2025 o 11:08",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img0aTk2ZzZicXZpYjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.EGyFN7Fzr47wun5M2lFiOz3VojVJyDkzyVbS2b3gFe4/image"
-        },
-        {
-            "title": "Toyota Aygo Sprzedam Toyotę Aygo, 2007 r. tel.607 096 746",
-            "price": "8 000 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/toyota-aygo-sprzedam-toyote-aygo-2007-r-tel-607-096-746-ID6Hy9fD.html",
-            "location": "Skierniewice",
-            "date": "09 August 2025 o 11:08",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind1c2lxMXp4c2hxYjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.05g0TbKtEwDAROQDuShGzsI3sBg1QQFgVqbsMepFEgA/image"
         }
     ]
 }
