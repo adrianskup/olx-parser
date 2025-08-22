@@ -1,6 +1,105 @@
 {
-    "updated": "2025-08-22 09:45:47.038498",
+    "updated": "2025-08-22 09:54:19.491200",
     "ads": [
+        {
+            "title": "Sprzedam Skoda Octavia I",
+            "price": "7 500 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/sprzedam-skoda-octavia-i-CID5-ID16ITuY.html",
+            "location": "Marki",
+            "date": "22 August 2025 o 09:51",
+            "description": "Sprzedam samochód marki Skoda Octavia I, rok 2007, pojemność 1.9 Tdi  wyposażony w elektryczne szyby przód, el. ustawiane i podgrzewane lusterka, centralny zamek, ABS,kontrola trakcji , wspomaganie kierownicy,poduszki powietrzne , automatyczna klimatyzacja, czujniki parkowania, hak, ostatnio wymieniony olej w silniku + filtry, wymienione hamulce tył.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/0ixjbul8qguc2-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Volkswagen Golf 4, 1.4, 2000r + LPG",
+            "price": "3 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/volkswagen-golf-4-1-4-2000r-lpg-CID5-ID178f2h.html",
+            "location": "Mińsk Mazowiecki",
+            "date": "22 August 2025 o 09:46",
+            "description": "Na sprzedaż Golf IV – legenda w swojej klasie!\n\n\n\n2000 rok, 1.4 l benzyna z gazem (LPG Lovato) – butla ważna do 05.2026. Jak to mówią, spala tyle co nic, a jeździ, jakby miał w nosie ceny paliwa.\n\n\n\nPrzebieg 206 000 km – udokumentowany. Jeździł głównie do pracy i na zakupy, ale w wolnych chwilach odwiedzał też dalszą rodzinę. Bez obaw, nie jest zmęczony, po prostu dojrzały!\n\n\n\nSrebrny metalik, 3-drzwiowy – czyli elegancki i sportowy, niczym James Bond w dresie.\n\n\n\nStan techniczny: silnik i zawieszenie w dobrym stanie. Ostatnio dostał nowy komplet tarcz i klocków hamulcowych (przód/tył) oraz zacisk hamulca z tyłu (koszt 1600 zł) – jest gotowy do zatrzymania się, a nie do wyścigów!\n\n\n\nDo poprawek blacharsko-lakierniczych. Nie będę ukrywał, ma kilka pamiątek z parkingowych \"stłuczek\" i \"przytulanek\" z innymi autami. Każda rysa to opowieść, a jeśli masz czas, chętnie opowiem o nich przy kawie.\n\n\n\nIdealny na dojazdy do pracy – nie straszny mu żaden korek ani złośliwi kierowcy. Nie musisz się martwić, że ktoś go porysuje, bo on już ma swoją historię! Idealny na pierwszy samochód, do nauki jazdy, albo po prostu do jazdy, gdzie nikt nie będzie się czuł urażony jego stanem wizualnym!\n\n\n\nZapraszam do kontaktu tylko poważnie zainteresowanych, którzy szukają taniego i niezawodnego transportu, a nie auta na wystawy.\n\n\n\nCena do negocjacji – na miejscu, przy samochodzie, gdzie można się go dotknąć i polubić.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/tmayszjciufx1-PL/image;s=1024x768"
+        },
+        {
+            "title": "Skoda Fabia",
+            "price": "5 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-fabia-ID6HBk9U.html",
+            "location": "Dobczyn",
+            "date": "22 August 2025 o 09:46",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJhejhtbTZqbWg5aDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.egmS3HPXwaTnDQ83i4Yc4TRve5RBV5kNfQjO-1zkQV8/image"
+        },
+        {
+            "title": "Citroën C4 Citroen C4 rok 2007",
+            "price": "4 500 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/citroen-c4-citroen-c4-rok-2007-ID6HzVPr.html",
+            "location": "Łódź, Bałuty",
+            "date": "22 August 2025 o 09:46",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdhY24zcjRkM3VpcDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.UzKROGrHJRJgETRCRcTk-yObPtzgBSBuvP7ieR0T2fc/image"
+        },
+        {
+            "title": "Opel Meriva Opel Meriva 1,6 benz 2008",
+            "price": "8 100 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/opel-meriva-opel-meriva-1-6-benz-2008-ID6HAq5z.html",
+            "location": "Łomża",
+            "date": "22 August 2025 o 09:46",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InVjdDNkYWtia2VlNTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.B9SIDraGG3PiCD8xWdD1GoRFrkv29J-AM9M5WHotueo/image"
+        },
+        {
+            "title": "Seat Toledo 1.8 benzyna",
+            "price": "2 500 zł",
+            "negotiable": false,
+            "link": "https://www.olx.pl/d/oferta/seat-toledo-1-8-benzyna-CID5-ID178eT5.html",
+            "location": "Wyszków",
+            "date": "22 August 2025 o 09:44",
+            "description": "KONTAKT TYLKO TELEFONICZNY \n\nWitam sprzedam Seata Toledo 2 z silnikiem 1.8 benzyna o mocy 125 koni mechanicznych. Przegląd do końca miesiąca. OC do połowy grudnia 2025. Stan jak na zdjęciach. Cena 2500 zł do negocjacji. Lokalizacja 07-200 Wyszków",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/q3zx5yn7pf8y-PL/image;s=1024x771"
+        },
+        {
+            "title": "Renault Grand Scenic Renault Grand Scenic III 1,4 TCe",
+            "price": "9 500 zł",
+            "negotiable": true,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-grand-scenic-renault-grand-scenic-iii-1-4-tce-ID6HkXnH.html",
+            "location": "Celestynów",
+            "date": "22 August 2025 o 09:44",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1ydDVvZHIzbGdwcjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.ZtrcUaczBThYl9CEfV-VTk7aK7g3YPgYlDEpzj2bV38/image"
+        },
+        {
+            "title": "Hyundai i30 1,6 crdi",
+            "price": "8 000 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/hyundai-i30-1-6-crdi-CID5-ID16Y7tT.html",
+            "location": "Gliniak",
+            "date": "22 August 2025 o 09:43",
+            "description": "Witam sprzedam Hyundai i30 1,6crdi ,90KM ,przebieg 278800 silnik ładnie odpala równo pracuje skrzynia manualna 6 biegowa, niedawno był wymieniony olej w silniku, czujniki cofania ,dwa kluczyki,bez dpf karoseria do poprawek lakierniczych ,nie działa klimatyzacja i radio.pozdr.i zapraszam.",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/pzw26eabspdg1-PL/image;s=2000x1500"
+        },
+        {
+            "title": "Citroen C2 VTR 2004 rok 1.1 benzyna klima",
+            "price": "4 900 zł",
+            "negotiable": true,
+            "link": "https://www.olx.pl/d/oferta/citroen-c2-vtr-2004-rok-1-1-benzyna-klima-CID5-ID178eDj.html",
+            "location": "Otwock",
+            "date": "22 August 2025 o 09:42",
+            "description": "Witam sprzedam Citroena C2 z 2004 roku użytkuje  auto od dwóch lat był to mój pierwszy samochód,  \n\nCitroen na obecną chwilę nie wymaga żadnych nakładów finansowych, w tym roku robiłem pełny serwis klimatyzacji włącznie z wymiana chlodnicy klimy oraz wentylatorów. W zeszłym roku wymieniony rozrząd oraz sprzęgło.  Powodem sprzedaży jest zmiana auta. \n\n\n\nC2 posiada ważne opłaty:\n\nBadanie techniczne do 08.06.2026\n\nOc 19.05.2026\n\n\n\nWięcej informacji udzielę telefonicznie.  Pozdrawiam",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/y5wo84f44efy1-PL/image;s=1024x768"
+        },
         {
             "title": "Seat Toledo 1.6 LPG klima maly przebieg zadbana",
             "price": "6 900 zł",
@@ -10142,160 +10241,6 @@
             "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękny i niezawodny Ford Focus wyprodukowany w 2009 Roku z najlepszym niezawodnym silnikiem 1.6 Benzyna+Lpg sekwencja, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nZ wyposażenia to:\n\n\n\n- Elektryczne szyby \n\n- centralny zamek\n\n- podgrzewana tylna szyba\n\n- System ABS + EBD + EBA\n\n- wspomaganie kierownicy\n\n- Elektroniczny zegar\n\n- Elektroniczny termometr temp zewnetrznej\n\n- Kierownica regulowana w dwoch plazczyznach\n\n- Reczna regulacja wysokosci reflektorow\n\n- Komputer pokladowy obliczajacy srednie/chwilowe spalanie, zasieg auta itd\n\n- podgrzewane lusterka\n\n- sterowanie radiem z kierownicy\n\n- elektrycznie sterowane szyby\n\n- dwustrefowy klimatronik\n\n\n\nI wiele innego !\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/dsv61yd77zva2-PL/image;s=750x1000"
-        },
-        {
-            "title": "Nissan X-Trail",
-            "price": "7 700 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/nissan-x-trail-ID6HB5rA.html",
-            "location": "Płock",
-            "date": "21 August 2025 o 09:54",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9lbW1mcDRubzgyYzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.7bWY-5_suU4--SyKYhizPuLjAOegxxtRQTFPh35FQEI/image"
-        },
-        {
-            "title": "BMW 730D E65 2004 r",
-            "price": "7 200 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/bmw-730d-e65-2004-r-CID5-ID175hY6.html",
-            "location": "Halinów",
-            "date": "21 August 2025 o 09:54",
-            "description": "Witam.\n\nSprzedam BMW e65 z silnikiem m57 3.0. \n\nOdpala i jeździ ale prawdopodobnie do wymiany/ regeneracji  są wtryskiwacze bo je słychać \n\nPosiada uczkodzenia lakieru widoczne na zdjęciach \n\nŚwieci się błąd od poduszki i Dynamic drive. Samochód stał dłuższy czas i na zegarach zluszczyl się ekran\n\nWięcej informacji pod numerem telefonu \n\nCena do negocjacji",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/w83wg8ptx2xy1-PL/image;s=1020x572"
-        },
-        {
-            "title": "Volkswagen Polo 1.4MPI+GAZ 75KM Klima*Zadbany*Zarejestrowany*Polecam !!!",
-            "price": "5 300 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/volkswagen-polo-1-4mpi-gaz-75km-klimazadbanyzarejestrowanypolecam-ID6HB6ih.html",
-            "location": "Siedlce",
-            "date": "21 August 2025 o 09:54",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFvMHVoZzQ2Yjh3YzMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.soo83yf4wwKeYNHpHdYsedBZJkHdPdwF3PaqKelk_Qw/image"
-        },
-        {
-            "title": "Zadbany Seat Toledo II 1.6B+LPG",
-            "price": "3 750 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/zadbany-seat-toledo-ii-1-6b-lpg-CID5-ID16PUV9.html",
-            "location": "Szydłowiec",
-            "date": "21 August 2025 o 09:53",
-            "description": "Witam mam do sprzedania fajne auto jakim jest Seat Toledo II z ekonomicznym i bezawaryjnym silnikiem 1.6 benzyna o mocy 101koni z sekwencyjną instalacją gazową. Auto jak na swoje lata jest Dobrze utrzymane pod względem technicznym jak i wizualnym wszystkie wymiany były robione na bieżąco z wyposażenia posiada :\n\n\n\nWspomaganie kierownicy\n\nCentralny zamek z pilota\n\nPoduszki powietrzne\n\nABS\n\nKontrola trakcji \n\nWelurowa tapicerka \n\nKlimatyzacja \n\n4x El szyby\n\nEl lusterka podgrzewane\n\nCzujniki cofania\n\nRadio z USB\n\nHak \n\nItp\n\n\n\nAuto do jazdy bez wkładu finansowego środek czysty i pachnący opłaty ważne dokumenty na gaz również \n\nWięcej informacji udzielę telefonicznie",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/hd00rmy0uxpv3-PL/image;s=1190x823"
-        },
-        {
-            "title": "Citroen Xsara Picasso Gaz sekwencja 2005",
-            "price": "2 990 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/citroen-xsara-picasso-gaz-sekwencja-2005-CID5-ID16je9T.html",
-            "location": "Łódź, Bałuty",
-            "date": "21 August 2025 o 09:53",
-            "description": "Witam. Mam do zaoferowania CItroena Xsare Picasso z 2005 roku z sekwencyjną instalacją gazową . Samochód sprawny technicznie. Wizualnie jak na załączonych zdjęciach.\n\nUbezpieczenie do 07.2025 Przegląd techniczny ważny do 09.2025.\n\nWięcej informacji pod numerem tel 66*******04",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ccbb4lf6gpnn2-PL/image;s=4000x3000"
-        },
-        {
-            "title": "Toyota Aygo tanio Łódź",
-            "price": "2 899 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/toyota-aygo-tanio-lodz-CID5-ID173mqh.html",
-            "location": "Łódź, Bałuty",
-            "date": "21 August 2025 o 09:53",
-            "description": "Witam. Mam do zaoferowania Toyote Aygo z 2006 z silnikiem 1.0 benzyna z małym przebiegiem 163tyś\n\n Samochód sprawny technicznie.\n\nWizualnie jak na zdjęciach. szału nie ma ale cena sporo rekompensuje.\n\nŚrodek cały, nieponiszczony, \n\nIdealny na dostawy lub jako pierwszy samochód\n\nBARDZO EKONOMICZNY, spalanie niecałe 6l po mieście\n\nWięcej info pod numerem 66*******04",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/ysow0v9vc9g92-PL/image;s=4000x3000"
-        },
-        {
-            "title": "Citroen c4 1.6 2008 rok",
-            "price": "3 500 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/citroen-c4-1-6-2008-rok-CID5-ID16Y8oC.html",
-            "location": "Łódź, Bałuty",
-            "date": "21 August 2025 o 09:53",
-            "description": "Sprzedam citroena C41.6 2008 rok benzyna auto z oryginalnym przebiegiem 160 tys dłuższy czas użytkowane przez jednego właściciela silnik po serwisie olejowym wymianie świec i uszczelki pokrywy sprawny z ważnymi opłatami lakierniczo do korekty maska i nad szybie schodzący klar generalnie w dwóch miejscach widocznych na zdjęciu zapraszam do kontaktu",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/sbycivc6b6ub1-PL/image;s=1000x750"
-        },
-        {
-            "title": "Ford Focus MK2 Kombi 1.6 TDCi | 2009 | Jeżdżący | Do poprawek",
-            "price": "3 500 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/ford-focus-mk2-kombi-1-6-tdci-2009-jezdzacy-do-poprawek-CID5-ID16IbnP.html",
-            "location": "Legionowo",
-            "date": "21 August 2025 o 09:53",
-            "description": "Ford Focus MK2 Kombi 1.6 TDCi | 2009 | Jeżdżący | Do poprawek blacharskich | Nowy rozrząd\n\n\n\nSprzedam Forda Focusa MK2 kombi z 2009 roku z silnikiem 1.6 TDCi (diesel).\n\nAuto sprawne, jeżdżące, idealne dla mechanika, na dojazdy lub jako baza do dalszej naprawy.\n\n\n\nPrzebieg: 288 467 km\n\nSkrzynia: manualna\n\nPaliwo: diesel\n\nKolor: srebrny\n\nNadwozie: kombi\n\n\n\n> W ostatnim czasie wymieniono:\n\n\t•\tNowy rozrząd – październik 2024\n\n\t•\tNowy alternator – styczeń 2025\n\n\t•\tRegularne przeglądy – ostatni w kwietniu 2024\n\n\n\n> Stan techniczny:\n\n\t•\tAuto jeździ bez problemu\n\n\t•\tWnętrze do czyszczenia, fotele w dobrym stanie)\n\n\t•\tKlimatyzacja, radio, ABS, poduszki\n\n\t•\tOC ważne do 19.11.2025\n\n\t•\tKomplet dokumentów\n\n\t•\tOpony zimowe w stanie dobrym, brak letnich. \n\n   •   Na tylnich siedzeniach zamontowany system isofix na 2 foteliki. \n\n\n\n> Usterki i stan wizualny:\n\n\t•\tAuto po kolizji – uszkodzony przód, brakuje części karoserii, maska się nie otwiera\n\n\t•\tKaroseria wymaga poprawek: rysy, rdza, otarcia\n\n\t•\tLewy reflektor i zderzak prowizorycznie zabezpieczony taśmą (widoczne na zdjęciach)\n\n   •     Od strony kierowcy urwał się plastik ochronny dźwigni podnoszenia fotela. Sama dźwignia działa. \n\n\n\nAuto w jednej rodzinie od nowości (brat, mama, ja) – pełna historia.\n\nSprzedaję z pełną świadomością stanu – bez ukrywania usterek.\n\n\n\n> Lokalizacja: Koło Legionowa \n\n> Cena: 3 500 zł do negocjacji\n\n> Kontakt: wiadomość przez OLX\n\n> Dodatkowe zdjęcia mogę wysłać na życzenie. W razie pytań również proszę pisać.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/9r4go4n050833-PL/image;s=751x1000"
-        },
-        {
-            "title": "Ford Focus bogato wyposażony!",
-            "price": "6 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/ford-focus-bogato-wyposazony-ID6HB5ou.html",
-            "location": "Ożarów Mazowiecki",
-            "date": "21 August 2025 o 09:52",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im8xYmk0dXEzYTdxbjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.lSfZ1kZtVFza-sOK1Xyb0bc7AQcSGrYJqKM_iw7erF0/image"
-        },
-        {
-            "title": "Autokomis TopCar! Peugeot 607 lift 2.7 Hdi/Automat/Limuzyna/Ful Option",
-            "price": "4 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/autokomis-topcar-peugeot-607-lift-2-7-hdi-automat-limuzyna-ful-option-CID5-ID16L0t5.html",
-            "location": "Warszawa, Włochy",
-            "date": "21 August 2025 o 09:51",
-            "description": "Autokomis TopCar Ul. Poznańska 308 Ożarów Mazowiecki \n\n\n\nMOŻLIWOŚĆ ZOSTAWIENIA \n\nAUTA W ROZLICZENIU !\n\n\n\nTAK ŻE OFERUJEMY USŁUGĘ DOSTARCZENIA AUTA POD DOM \n\n\n\nWitam wszystkich, na sprzedaż leci piękny i niezawodny Peugeot 607 Full option\n\nwyprodukowany w 2007 Roku z najlepszym niezawodnym silnikiem 2.7 Diesel, autko jest zadbane i serwisowane zawsze na czas w tej chwili jest w 100% sprawne i nie potrzebuje wkładu finansowego, OC i PT jest aktualne tak że śmiało można wracać na kołach \n\n\n\nSzczegółowe wyposażenie wersji \"full option\" Peugeota 607:\n\n\n\nBezpieczeństwo:\n\n\n\n- Poduszki powietrzne dla kierowcy i pasażera. \n\n- Boczne poduszki powietrzne. \n\n- Kurtyny powietrzne. \n\n- System ABS. \n\n- System ESP (stabilizacja toru jazdy). \n\n- Czujniki parkowania. \n\n\n\nKomfort:\n\n\n\n- Fotele przednie regulowane elektrycznie i podgrzewane. \n\n- Klimatyzacja automatyczna dwustrefowa. \n\n- Tempomat z ogranicznikiem prędkości. \n\n- Elektrycznie sterowane szyby z przodu i z tyłu. \n\n- Elektrycznie sterowane i podgrzewane lusterka zewnętrzne. \n\n- Centralny zamek sterowany pilotem. \n\n- Skórzana tapicerka. \n\n- Podgrzewana przednia szyba. \n\n- Multimedia:\n\n- Nawigacja GPS. \n\n- System audio z odtwarzaczem CD. \n\n- Zmieniarka CD. \n\n\n\nInne:\n\n\n\n- Reflektory ksenonowe. \n\n- Spryskiwacze reflektorów. \n\n- Alufelgi\n\n- Czujnik deszczu. \n\n- Czujnik zmierzchu. \n\n\n\nI wiele innego !\n\n\n\nAutko jest w dobrym stanie zadbane i bardzo przyjemne w użytkowaniu \n\n\n\nCHĘTNIE ZAMIENIMY! \n\n\n\nRÓWNIEŻ SKUPUJEMY AUTA ZA GOTÓWKĘ ! \n\n\n\nZapraszamy na oglądanie i jazdę próbną \n\n\n\nAdres ul. Poznańska 308, Ożarów Mazowiecki \n\n\n\nOtwarte jest 7 Dni w tygodni\n\n\n\nW dni świąteczne również pracujemy \n\n\n\nOd 10:00 do 20:00\n\n\n\nWystawiam fakturę VAT-MARŻA, kupujący jest zwolniony z opłaty skarbowej!\n\n\n\nNiniejsze ogłoszenie jest wyłącznie informacją handlową i nie stanowi oferty w myśl art. 66, §1.Kodeksu Cywilnego. Sprzedający nie odpowiada za ewentualne błędy lub nieaktualność ogłoszenia.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/wsf4gr7goq9l2-PL/image;s=750x1000"
-        },
-        {
-            "title": "Renault megane 1.5 dci",
-            "price": "3 700 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/renault-megane-1-5-dci-CID5-ID177gl7.html",
-            "location": "Piotrków Trybunalski",
-            "date": "21 August 2025 o 09:50",
-            "description": "Witam sprzedam renault megane 1.5 dci samochód w bardzo dobrym stanie samochód posiada ubezpieczenie ważne i przegląd\n\nWyposażenie \n\nSystem KeyLess Go Odpalanie gaszenie bez użycia karty\n\nKlimatronik sprawny \n\nElektryczne szyby przód i tył \n\nElektryczne lusterka\n\nCentralny zamek z pilota \n\n2 oryginalne karty\n\nRegulowana kierownica \n\nElektryczne wspomaganie kierownicy \n\nRolety tylne i boczne\n\nSamochód bardzo oszczędny więcej  informacj zapraszam do kontaktu",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/gto42e1vzjcm2-PL/image;s=768x1024"
-        },
-        {
-            "title": "Na Sprzedaż Mercedes E klasa 2.2D/alu/klima/zadbany/bez rdzy/zamiana",
-            "price": "8 990 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-mercedes-e-klasa-2-2d-alu-klima-zadbany-bez-rdzy-zamiana-CID5-ID177fSU.html",
-            "location": "Warszawa, Białołęka",
-            "date": "21 August 2025 o 09:47",
-            "description": "Adres :  \n\nPłochocinska 89 G ,\n\n03-044 Warszawa\n\n\n\nPracujemy codziennie bez wolnego\n\n\n\nGodziny otwarcia.\n\nOd  9:00  do 21:00 \n\n\n\nJak ogłoszenie jest aktualne to znaczy AUTO  jest dostępny!!!\n\n\n\nWitam, posiadam na sprzedaż Mercedesa E klasa 2005 Rok z najlepszym silnikiem 2.2 diesel… \n\n\n\nStan auta oceniam na bardzo dobry, silnik w bardzo dobrym stanie, ostatnio wymienione oleje oraz filtry, klocki. silnik ma moc jest dość ekonomiczny a wraz z tym daje dużo frajdy z jazdy. zawieszenie w bardzo dobrym stanie. Ogólnie wsiadać i jeździć, nie wymaga wkładu finansowego.\n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- Elektryczne szyby\n\n- Klimatyzacja\n\n- Centralny zamek z pilota\n\n- Radio\n\n-Tempomat\n\n-Czujnik deszczu\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\n\n\nOC ważne \n\nPT ważne \n\nWszystkie autka posiadają ważne opłaty. \n\n\n\nOferujemy dostawę pod dom 3 zl  1 km \n\n\n\nDla zakupu samochodu potrzebujemy tylko \n\n(PASPORT ) albo (Dowód osobisty)\n\n\n\nTel  +/4/8/7/3/3/5/5/5/4/0/2/\n\nViber ////Telegram ////WhatsApp///",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/qz3tej7k78vr3-PL/image;s=750x1000"
-        },
-        {
-            "title": "Garbus dla kobiety i nie tylko",
-            "price": "3 600 zł",
-            "negotiable": false,
-            "link": "https://www.olx.pl/d/oferta/garbus-dla-kobiety-i-nie-tylko-CID5-ID173Blr.html",
-            "location": "Lublin",
-            "date": "21 August 2025 o 09:47",
-            "description": "Witam mam do zaoferowania fajnego Garbusa ,ja nim się już nacieszyła oddam go w kobiece ręce",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/117a05vn55lq1-PL/image;s=2000x2667"
-        },
-        {
-            "title": "Na Sprzedaż Citroen c5 2.0HDI/rodzinny/zamiana/klima/alu/gwarancja",
-            "price": "3 490 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/na-sprzedaz-citroen-c5-2-0hdi-rodzinny-zamiana-klima-alu-gwarancja-CID5-ID16j9Z7.html",
-            "location": "Warszawa, Białołęka",
-            "date": "21 August 2025 o 09:47",
-            "description": "Auto komis Boss ul. Płochocińska 89G Warszawa \n\n\n\nSamochód zarejestrowany w \n\nkraju\n\n\n\nMamy około 100 samochód na placu. \n\n\n\nGodzinny otwarcia \n\nPoniedziałek - Niedziela 10.00 do 20:00 \n\nRównież przyjmujemy twoje Auto w rozliczeniu !!! \n\n\n\nWitam, Posiadamy dziś na sprzedaż Citroen c5 z najlepszym niezawodnym silnikiem 2.0 HDI Stan autka oceniam na dobry, Silnik Odpala i pracuje prawidłowo, Zawieszenie samochodu bardzo dobrze Wybiera nierówności na drodze, Autku posiada kilka nowych części : tarcze,klocki oraz W samochodzie został przeprowadzony Serwis olejowy filtrowy, co oznacza że autko nie wymaga wkładu finansowego na już. Zapraszamy \n\n\n\nNa wyposażeniu auta:\n\n- wspomaganie kierownicy\n\n- elektryczne szyby\n\n- podgrzewana Tylna Szyba\n\n- klimatyzacja\n\n- uchwyt na napoje\n\n- Elektryczne lusterka\n\n- centralny zamek z pilota\n\n- radio Bluetooth \n\n- i wiele innych\n\n\n\nBlacharsko jak widać na zdjęciach w dość dobrym stanie.\n\nOpłaty ważne\n\nOC Ważne \n\nPT Ważne \n\n\n\nZapraszamy do oględzin oraz jazdę próbną.\n\n\n\nChętnie zamienimy twój stary samochód na nowy, \n\n\n\nPrzed przyjazdem zadzwon, zapytaj o dostepnosc wybranego auta !\n\n\n\nTel.7********02 zadzwoń !\n\n\n\nNiniejsze ogłoszenie nie stanowi oferty ani zapewnienia, w szczególności rozumieniu art. 66 § 1 i art. 556 indeks 1 Kodeksu cywilnego. Zastrzegamy sobie prawo do doprecyzowania oraz korekt",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/68itscyhzwo01-PL/image;s=750x1000"
         }
     ]
 }
