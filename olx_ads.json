@@ -1,6 +1,17 @@
 {
-    "updated": "2025-08-30 16:09:38.683601",
+    "updated": "2025-08-30 16:10:56.856309",
     "ads": [
+        {
+            "title": "Renault Clio Renault clio IV VAN 2-osobowy",
+            "price": "9 990 zł",
+            "negotiable": false,
+            "link": "https://www.otomoto.pl/osobowe/oferta/renault-clio-renault-clio-iv-van-2-osobowy-ID6Hv87B.html",
+            "location": "Rawa Mazowiecka",
+            "date": "30 August 2025 o 16:06",
+            "description": "Описание не указано",
+            "details": {},
+            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InkyMnR0aWZqejdjcS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Oa1wPH7RJ0MjWw38t768EPduUQ_yRT6MpDlalw8WDwA/image"
+        },
         {
             "title": "Volkswagen Polo Volkswagen Polo 1.2 12V 2003r 64KM - stan dobry, nieuszkodzony",
             "price": "2 700 zł",
@@ -11792,39 +11803,6 @@
             "description": "Stan taki jak na zdjęciach , do poprawek blacharsko-lakierniczych. \n\n\n\nElektryczne szyby przód \n\nKlimatyzacja\n\nCzujniki parkowania tył\n\n\n\nNie szykowany pod sprzedaż, auto w ciągłej eksploatacji. \n\n\n\nRadio nie działa - wyjęty bezpiecznik.\n\n\n\nWszystkie opłaty aktualne przegląd 06.2026 oc 04.2026",
             "details": {},
             "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/cb6mpvqbiypo1-PL/image;s=768x1024"
-        },
-        {
-            "title": "Lupo 1,0 2000r z Niemiec",
-            "price": "3 800 zł",
-            "negotiable": true,
-            "link": "https://www.olx.pl/d/oferta/lupo-1-0-2000r-z-niemiec-CID5-ID17eP0L.html",
-            "location": "Brudaki",
-            "date": "29 August 2025 o 16:10",
-            "description": "Auto sprowadzone z Niemiec. Technicznie i wizualnie ok. Przygotowane do rejestracji. Posiadam inne auta. Nie odpowiadam na smsy i e-maile. Kontakt tylko telefoniczny.",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com:443/v1/files/vdasu2gq8i4m-PL/image;s=1600x1200"
-        },
-        {
-            "title": "Skoda Superb 2009r 2.0 tdi uszkodzony silnik",
-            "price": "5 900 zł",
-            "negotiable": false,
-            "link": "https://www.otomoto.pl/osobowe/oferta/skoda-superb-2009r-2-0-tdi-uszkodzony-silnik-ID6HClsv.html",
-            "location": "Wołomin",
-            "date": "29 August 2025 o 16:10",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM2bGpycDJoNmZveC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lx6UWgV5dE_w7ybGIn_sXnk5VCEeK28-EArRA_QV3Hk/image"
-        },
-        {
-            "title": "Nissan Almera Polski Salon, IV Właściciel, Ważny Przegląd/OC, 2 komplety kół",
-            "price": "5 480 zł",
-            "negotiable": true,
-            "link": "https://www.otomoto.pl/osobowe/oferta/nissan-almera-polski-salon-iv-wlasciciel-wazny-przeglad-oc-2-komplety-kol-ID6HClrp.html",
-            "location": "Rawa Mazowiecka",
-            "date": "29 August 2025 o 16:10",
-            "description": "Описание не указано",
-            "details": {},
-            "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InI1bDFsb3lieDIxMjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.qk7qDbwcSZreY7_8GFCAI2ASsatPOLXwJEFFH3A11bg/image"
         }
     ]
 }
